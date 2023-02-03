@@ -4,11 +4,8 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+    branches: [main]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,14 +19,18 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-        - uses: actions/checkout@v2
-        - name: Logseq Publish 🚩
-          uses: pengx17/logseq-publish@v0.1
-        - name: add a nojekyll file # to make sure asset paths are correctly identified
-          run: touch $GITHUB_WORKSPACE/www/.nojekyll
-        - name: Deploy 🚀
-          uses: JamesIves/github-pages-deploy-action@4.1.9
-          with:
-            branch: gh-pages # The branch the action should deploy to.
-            folder: www # The folder the action should deploy.
-            clean: true
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Logseq Publish 🚩
+        uses: pengx17/logseq-publish@main
+        with:
+          version: "master"
+      - name: add a nojekyll file
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: www # The folder the action should deploy.
+          clean: true
+          single-commit: true
