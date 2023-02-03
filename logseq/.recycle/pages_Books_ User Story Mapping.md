@@ -1,0 +1,135 @@
+---
+title: Books: User Story Mapping
+---
+
+- **tags:**
+- **author:** [[Jeff Patton]]
+- **status:** #[[📥inbox]]
+- **link:** [User Story Mapping: Discover the Whole Story, Build the Right Product 1, Patton, Jeff, Economy, Peter, Economy, Peter, eBook - Amazon.com](https://www.amazon.com/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS/ref=sr_1_1?crid=33IMFE007DJD5&dchild=1&keywords=user+story+mapping&qid=1632446148&sprefix=user+stor%2Caps%2C162&sr=8-1)
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Intro
+	  collapsed:: true
+		- Stories aren't requirements; they're discussions about solving problems for our organization, our customers, and our users that lead to agreements on what to build.
+		- > Shared documents aren't shared understanding.
+			- Build Shared Understanding
+				- Get together, talk, and ask each other questions. Give each other time to explain our thoughts with words and pictures, we build shared understanding.
+			- > The real goal of using stories is shared understanding.
+				- Employing user stories in lieu of documenting is ineffective. It takes talking, sketching, writing, and working with sticky notes or index cards to get the full picture.
+			- > To help remember, photograph and shoot short videos of the results of your conversations.
+		- Software isn't the point
+			- We care too much about the output because it is measurable. While output is necessary to track for keeping in schedule, we also need to pay attention to our outcomes. Outcome is what happens when things come out, and it is difficult to measure and quantify. Our goal isn't just to produce a new product, but to improve someone's life. That positive change and impact is an outcome measurement.
+		- Build Less
+			- > There's always more to build than we have time or resources to build—always.
+			- > Minimize output, and maximize outcome and impact.
+			- We are often tempted to go faster and increase output because we have so many user stories to develop, but it may be a better idea to build less and instead increase our impact.
+				- Pay attention to the needs of the users and what functionality is the most impactful (best outcome)
+	- Chapter 1 - The Big Picture
+		- #Takeaways
+			- User story mapping helps everyone participating understand the big picture.
+				- End users get to know the end to end process and what role they play in the larger context of their workflow in a visual manner
+					- (How can we replicate this in a virtual environment that's easy for users to understand)
+				- End users and stakeholders need to understand the interdependencies of their workflow.
+			- First think in the big picture and make sure you understand the breadth of the problems space—like must haves, end users, and stakeholders.
+		- _In 2001 I left the team I was on and started doing things differently (in the past each story was atomic and sprint specific that lost its context from the big picture). I and my team, tried an approach to writing stories on the big picture. We worked to understand the product we were building and to make tradeoffs together. We used that bunch of index cards with story titles to organize our thoughts and break down that big picture into the small parts we could build next._
+			- Story mapping is a pattern that helps people think of the product or function as a whole and understand the context.
+		- Think. Write. Explain. Place
+			- **When working with a team to build a story map or having a discussions about anything, create a simple visualization to support your discussion.**
+			- Get in the habit of writing down a little about your idea before explaining it so it doesn't vaporize after the meeting or discussion.
+				- Write down a few words about your idea immediately after thinking it.
+				- Explain your idea to others. Use big gestures. Use more pictures. Tell stories.
+				- Place your idea into a shared workspace where everyone can comment and see.
+		- > Story maps are for breaking down big stories as you tell them.
+		- > Mapping your story helps you find holes in your thinking.
+		- > Focus on the breadth of the story before diving into the depth.
+			- ![image.png](../assets/image_1650831515908_0.png)
+			- ![image.png](../assets/image_1650831550059_0.png)
+			- **The vision is always bigger than all the resources we have in place. So our aim shouldn't be to build it all but to minimize the amount we build.**
+				- To do this pick a user that would benefit everyon5e the most or a functionality that will create the most value.
+		- Frame your idea
+			- Ask questions like (to find the outcomes)
+				- Why are you building his?
+				- What are the benefits for you and for the people who will use this?
+				- What problems does it solve for the users?
+		- Describe Your Customers and Users
+			- List the possible different types of users who will use your software
+			- What are the benefits for each user and why they would use it the product and what we think they'd do with it.
+		- Explore Details and Options
+			- After we’ve got the breadth of the story map in place, it starts thickening up. The cards we put at the top of each of the columns in the map become big things, and then the details break down below them. We stop at each step in the user’s story and ask:
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Fs4UiDQN1gW.png?alt=media&token=7d871155-1a76-41b0-9372-d833234461e0)
+				- What are the specific things they’d do here?
+				- What are alternative things they could do?
+				- What would make it really cool?
+				- What about when things go wrong?
+	- Chapter 2 - Plan to Build Less
+		- Map for a product release across multiple teams to visualize dependencies.
+		- Anatomy of a Big map
+		  collapsed:: true
+			- ![image.png](../assets/image_1650832719871_0.png)
+			- ![image.png](../assets/image_1650832739766_0.png)
+			- ![image.png](../assets/image_1650832755656_0.png)
+			- The backbone sits at the top of the map, which can contain several levels.
+				- The level may start with the basic flow of the story, but you can go up a level to summarize things further.
+				- When you read the backbone from left to right, it should tell a story about all the people who are part of the workflow and what they do
+					- Systems are also treated as users of the system (It's OK to anthropomorphize your system)
+		- Mapping helps you spot holes in your story
+			- After building out the map of your solution. The group should start to ask "What if" and "What about" questions.
+			- Scope doesn't creep, but our understanding of the workflow and requirements of the systems grows.
+		- **Focus on what you hope will happen outside the system to make decision what's in the system.**
+			- What are the big mission drivers that drives the need for the system?
+		- Slice out a minimum viable product release
+			- ![image.png](../assets/image_1650834285288_0.png)
+			- **Focus on the outcomes—what users need to do and see when the system comes out—and slide out releases that will get you those outcomes.**
+				- ![image.png](../assets/image_1650834677862_0.png)
+				- Create a release roadmap that has specific targeted outcomes for each release cycle.
+		- Don't prioritize features—prioritize outcomes
+			- Break down big outcomes into smaller, specific, and focused outcomes
+		- Defining the word MVP
+			- Bad definition: Minimum viable product is not the crappiest product you could possibly release
+				- Only usable if the users had a high threshold for pain.
+			- Good definition: _The minimum viable product is the smallest product release that successfully achieves its desired outcomes._
+				- Minimum is subjective, so be specific about who your customers and users are, and what they need to accomplish.  What's minimum to them? It's not about you.
+				- **Revised definition: _The minimum viable solution is the smallest solution release that successfully achieves its desired outcomes._**
+					- However, we are just guessing what that solution is. The problem with outcomes is that we can't observe them until the solution comes out. We're only guessing what that outcome will look like before hand.
+			- **Good definition 2: _A minimal viable product is also the smallest thing you could create or do to prove or disprove an assumption._**
+				- The smaller our assumptions we can test, the less impact we'll have to incur because the failure is small.
+	- Chapter 3 - Plan to Learn Faster
+	  collapsed:: true
+		- Product owners not only come up with ideas to improve the solution, they also will champion and execute other people's ideas to create more value and success. 
+		  collapsed:: true
+			- **The best product owners help the entire team take ownership of the product.**
+		- Start by Discussing the opportunity
+		  collapsed:: true
+			- Build a shared understanding with others in the organization before taking ownership of the opportunity. The opportunity could be the initial product or an additional functionality planned for later release.
+			- Your first story discussion is for framing the opportunity
+		- Validate the problem
+		  collapsed:: true
+			- Spend time talking to your customers and get to know them so you can find out if the problem really is a problem and if they will consider using the solution proposed. **Validate if the problem you're solving really exist and is creating value.**
+			- Examine if there are other problems that needs to be solve first.
+		- Prototype to learn
+		  collapsed:: true
+			- Use wireframe and higher fidelity models to ensure your solution is valuable and usable.
+			- Watch out for what people say they want
+				- Learn to test what your end users say they want as those wants can change quickly and they're guessing too. Users might ask for something that they end up not wanting and in fact need something they haven't asked for.
+		- Build to learn
+			- Build something less than minimal—just enough that potential users could do something useful with it.
+			- Be careful of polite users that say they like the product but don't actually use it or the opposite spectrum where they give you so many bugs and complaints but use it anyway.
+				- Use metrics to measure the value of your solution.
+			- Iterate until Viable
+			  collapsed:: true
+				- Because you've built something less than minimal at this stage ensure that you are iterating until it reaches usability and creates value
+				- ![image.png](../assets/image_1650849460830_0.png)
+					- This is a simple visualization made by my friend Henrik Kniberg. It beautifully illustrates a broken release strategy where at every release I get something I can’t use, until the last release when I get something I can.
+				- ![image.png](../assets/image_1650849492984_0.png)
+					- If I plan my releases this way, in each release I deliver something people can actually use. Now, in this silly transportation example, if my goal is to travel a long distance and carry some stuff with me, and you gave me a skateboard, I might feel a bit frustrated. I’d let you know how difficult it was to travel long distances with that thing—although it was fun to goof around with it in the driveway. If your goal was to leave me delighted, you might feel bad about that. But your real goal was to learn, which you did. So that’s good. You learned I wanted to travel farther, and if you picked up on it, you also learned I valued having fun.
+				- Treat every release as an experiment and be mindful of what you want to learn. For every release know what questions and assumptions you have validated and answered.
+				-
+				-
+		- Validated Learning Loop
+			- ![image.png](../assets/image_1650850942869_0.png)
+			- Each release we should intentionally learn something from our sprint experiment that brings us closer to the minimum viable product. Our goal isn't to get something built, but to find out if we're building the right thing.
+		- Minimize your Experiments
+			- Minimize what we build so we can focus on what we need to learn. This means we maybe building things not production ready. If it is production ready, then we've done too much.
+			-
+	- Chapter 4 - Plan to Finish on Time
+		-

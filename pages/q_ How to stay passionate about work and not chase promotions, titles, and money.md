@@ -1,0 +1,25 @@
+---
+title: q: How to stay passionate about work and not chase promotions, titles, and money
+---
+
+- #goals [[Professional Development]]
+- Related Links: [[OBI Goals]]
+- 2021 Goals
+	- Write better:
+		- What topics should I write about?
+		- Plan: Write a piece once a week?
+	- [[OBI Goals]]
+- Plan out your goals for the upcoming year and focus on them. These goals should be something that you enjoy doing and don't consider work.
+	- If you can, try to align these goals to create new value and get you away from competing with your own colleagues. Be a monopoly of you, someone, or something that can't be replicated.
+		- These goals should put you in visibility to create leverage for a raise or promotion (though it is not your main goal)
+	- Break down these goals to smaller pieces so they can be planned out and become less overwhelming.
+- What is both valuable to me and to the organization.
+	- Continuing education on decision making, process improvements and behaviors.
+		- What I learn can be leveraged and placed into the Onboarding site and knowledge sharing group.
+	- Building community and a future together. Be in it for the long haul.
+	- **What hard problems can I solve for the organization that will be fun?**
+		- Identify problems to solve
+- Process Improvements and creating solutions
+	- We can look for processes that could be improved. ((52974e57-ebb9-4ea9-bb58-d3eec05e873f))
+- ((39df1555-c352-4a20-a201-a60f66013582))
+-

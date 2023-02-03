@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "20e5875c6a282d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "0184c893b42695ab",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/🏠Home.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb58cfd057058100",
+    "type": "split",
+    "children": [
+      {
+        "id": "09a83f69cccb3812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec9f1c906d1e1e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20f234373a734a33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "home",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428
+  },
+  "right": {
+    "id": "e2f88b59eb94c8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f38d22dab866cf27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61f11722e08a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/🏠Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0184c893b42695ab",
+  "lastOpenFiles": [
+    "pages/Books - Accelerated Expertise.md",
+    "pages/🏠Home.md",
+    "pages/Reference Notes.md",
+    "pages/Books - Good with Words - Writing and Editing.md",
+    "pages/Patrick Barry.md",
+    "pages/Books - Good with Words.md",
+    "pages/Framing.md",
+    "pages/Books_ Complete Systems Analysis.md",
+    "pages/Books_ Creating Great Choices.md",
+    "pages/Books_ Risk Savvy.md"
+  ]
+}

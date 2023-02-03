@@ -1,0 +1,55 @@
+- Tips
+	- **Do not ramble.** Answers should be short and concise, unless asked to “tell a story” about your career or background. To a manager or executive, ramblers come across as unfocused, dancing around a question, and lacking an ability to focus on the key facts. Even if telling a story [my favorite is “tell me about your career”], keep it logical, at the right level, and wrap it up within 3-5 minutes at most. Hit the key points only.
+	- Research my company and our products. If you don't demonstrate some initiative ahead of coming in, why would I ever think you'd have any if you were hired? Learn enough to ask intelligent questions during the interview. More examples are provided later to stimulate your thinking.
+	- **This is about what you can do for my team and my company.** Don't focus on why the benefits are good for you, the location is close to your home, or you've heard it is a fun environment. Demonstrate why you want this position, and how your experience and education can deliver what we need done.
+	- **When providing examples, emphasize teamwork.** The role of individual contributor sitting in a cube all day is all but gone. Companies need people who work well with others and help the entire team win.
+	- Don't volunteer personal information
+	- Be confident but not arrogant.
+	- Always ask about next steps
+	- **You want the job for the challenges and ability to make contributions based on your skills and experience. Never come across as just wanting any job, or needing benefits, or stability, etc. I want people who want the role in my group for the right reasons.**
+- Responding to Questions
+	- How you respond
+	  collapsed:: true
+		- Always pause after a question and look thoughtful [2-4 seconds is good, depending on the complexity of the question]. Candidates who respond too quickly come off as not thinking thoroughly about the question or not taking it seriously.
+		- Your tone of voice should reflect the material you are responding to. Avoid sounding monotone. You should show excitement, be contrite when appropriate and be seirous or light hearted, depending on the subject. Be human.
+	- What you respond with
+	  collapsed:: true
+		- Your interviewers are trying to understand you better as a person as well as whether you are qualified and can be successful in the role.
+			- Do you have the education/training that is relevant to what this role requires? If not, can you demonstrate you can learn quickly and be effective? (What examples are provided to illustrate this?)
+			- Are you a team player or more interested in personal credit and recognition? Do you work well with others? Do you help others even though it's not part of your job description.
+			- Are you mature? Do you get emotional or have unprofessional reactions to tough situations?
+			- Do you learn from past mistakes? Be able to highlight a past mistake and recount what you learned from it.
+			- Do you have critical thinking skills? Can you recognize what is important and not important in a given situation and not get bogged down in details?Do
+			- Do you communicate well both verbally and non-verbally? Are you concise, respectful, and able to provide relevant information in any given situation?
+			- Can you manage conflict?
+			- Do you put interest of the company first?
+			- Are you a go getter, or will you be a wall flower? I seldom am interested in hiring wallflowers.
+			- Never bad mouth your previous boss, company, or co-workers.
+			- **If you are asked the same question twice, but rephrased differently then this is a sign you aren't providing the information needed from the question asked.** It means you need to stop and think a little more about the question and consider why the question is being asked relative to the categories above, and then tailor your response to this.
+			- Remember—concise, relevant answers that don't have any personal, judgmental, or negative connotations in them.
+	- Mimic the body language of your interviewer.
+- Aligning your experience with the position
+  collapsed:: true
+	- Team Lead or Management Position Example
+		- **For this position interviewers may look for the ability to take senior management objectives and translate them into tasks and actionable initiatives for a team to accomplish.**
+			- This includes inspiring a team to perform their best, setting up mechanisms to assign, train, monitor and complete work, and manage and coach the people reporting to you.
+		- Examples of what to bring up during your interview:
+			- Examples of how people looked up to you or naturally came to you for guidance or advice.
+			- How you handle conflict among teams constructively.
+			- How you've held people accountable for getting something done.
+			- Examples of tough conversations about performance, attitude, etc. - even with peers.
+			- Evidence that you can take somewhat complicated tasks and break them down into activities a team needs to execute on.
+			- Examples that show you can be firm, yet approachable and "human"
+			- One key and very difficult task of a people manager is holding people accountable for the work they need to perform - coaching under-performers, spreading skills from your top performer to spread to others, and, when needed, being able to let people go, whether due to performance issues or layoffs. Showing confidence and willpower speaks to your ability to do this even without past experience.
+	- Senior management position
+		- Ability to think strategically and to align company objectives with the work your team needs to perform.
+		- Ability to drive change.
+			- Highlight changes you have driven into your teams in the past - whether they cover people's skills, processes or culture. Be sure and speak to the business outcome of these changes.
+		- Ability to digest company and team strategy and direction and question it where appropriate, and to drive others to think outside the box.
+			- Most hiring managers are not just looking for "yes" people. They want leaders who bring their intellect and experiences to the table to make the company better.
+		- Ability to form and nurture relationships.
+		- Ability to learn from your mistakes both from yourself and with your peers and superiors.
+		- Ability to recognize good and bad cultures and know how to influence and slowly change the culture of a team.
+			- Throwing a bunch of bright people together doesn't mean they will accomplish great things.
+		- Ability to take responsibility. Hold yourself accountable for your team's performance.
+		- Ability to describe your leadership style. The stock answer is not micro managing your team, enabling your team with the skills and resources they need and creating a team-oriented culture where rewards and recognition focus on the accomplishments of the team over the individual.

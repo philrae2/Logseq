@@ -1,0 +1,23 @@
+---
+title: q: How to be a leader without authority
+---
+
+- related questions: [[q: How do we build success?]]
+- helpful links: [[Books - How to Lead When You're Not In Charge]]
+- tags: #seedling
+- TODO  Read more source material
+- Why would our readers want to read about this question?
+	- Help reframe how they view their work and relationship with their supervisors
+- Outline
+	- Why take on a leadership role? (3 main supporting ideas, with 3 other supporting sentences)
+		- Helps us control and build our future through defining our identity
+			- Allows us to explore the boundaries of how we see ourselves and define how we want to mold our identity for the future
+			- Builds experience and confidence based on the characteristics of identity that we want
+			- Define our purpose
+		- Ownership of our own intelligence
+			- Get away from deferment to authority
+			- Build critical thinking skills
+		- Creates influence useful to leverage the future (optional)
+- Draft
+	- Leadership isn't a choice when you want to control and build your future for success. If we don't already view ourselves as a leader in the job and responsibilities we have—we're harming our future selves. Leadership is often tied to authority and a high ranking job title, and if people don't have either of those, we use it as an excuse not to lead. Instead, we wait for others to lead, or deflect responsibility of ownership. But when we choose not to lead or take responsibility for the situation, we are giving control of our future success to other people. Someone will not give us the formal title or the authority to lead unless we're already acting as leaders, so don't waste time. Start now.
+	- One of the core characteristics of a great leader is their identity. When we take on the leadership role and decide to create excellence in the space and responsibility we're given, we are building our identity publicly. Shaping and defining our identity is important because it directs us in every situation. It determines our level of confidence, establishes our sense of security when we face doubts, and provides us the foundation to process our emotions healthily in difficult conversations. When we start to act as leaders, even without formal authority or a leadership title, we are forced to confront the questions that are already being asked of what type of person you want to be seen us. People already formed opinions about us, but when we act as leaders, we take ownership of the story we want others to believe about us, about who we are as a person.

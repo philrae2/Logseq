@@ -1,0 +1,58 @@
+---
+title: Books - Tribes
+---
+
+- Author:: Seth Godin
+- Tags::  #leadership
+- Status:: #read
+  Questions:: #[[q: How to be a leader without authority]]
+- Related Notes::
+- Notes:
+	- A [[tribe]] is a group of people connected to one another, [[ connected]] to a [[leader]], and connected to an [[idea]]
+		- A group needs only two things to be a tribe: a [[shared [[interest]]]] and a way to [[communicate]].
+		- People want [[connection]] and [[growth]] and something [[new]]. They want [[change]] (?)
+			- Is [[change]] only wanted if the environment benefits from change.
+			- A [[leader]] provides [[change]].
+		- **One of the most powerful [[survival]] mechanisms and [[behavior]] is our need to [[belong]], to [[contribute]] and benefit from a group of [[like-minded ]] people.**
+		- **We are driven to want to belong to not only one tribe but many.**
+		- **Many tribes are lacking [[Leadership]] and looking for [[leaders]] and [[connection]].**
+			- Everyone is not just a [[marketer]]--everyone now is a [[leader]].
+				- [[Marketing]] can be about [[engaging]] with the tribe and delivering products and services with stories that [[spread]] and [[influences]].
+	- [[Consumers]] are now preferring to [[spend [[time]]]] and money on fashion, on stories, on [[things that matter]] and on things they [[believe]] in rather than factory produced [[commodities]].
+	- We are in an environment where we have the leverage to make things happen, the desire to do work we [[believe]] in, [[challenge]] the [[status quo]] and a marketplace that is begging us to be [[remarkable]].
+		- But we are [[fearful]] of stepping out to be [[judged]] and [[criticized]] so we follow [[archaic [[rules]]]], defer to leadership and [[authority]], we are afraid to [[question]] our boss and [[afraid]] to get in trouble.
+		  id:: af0e94b4-f02d-429b-aa5e-066e4727e725
+		- The people who like their jobs the most are the ones who are doing the best work, making the greatest impact and changing the most.
+		- Make the [[rules]] not [[follow]] the old and archaic rules
+		- [[Leadership]] is not [[management]]
+			- [[management]] is manipulating [[resources]] to get a known job done.
+			- [[leadership]] is about creating [[change]] that you [[believe]] in
+			- [[Leaders]] don't care much for organizational [[structure]] or the official blessing of their bosses they work for.
+			- [[Leaders]] use [[passion]] and [[ideas]] to lead people, as opposed to threats and bureaucracy.
+			- Leaders must be [[aware]] of how the organization works, because this awareness allows them to change it.
+			- Leadership doesn't always start at the top but it always manage to affect the people at the top.
+			- Great leaders create [[movement]]s by [[empowering]] the tribe to [[communicate]] and establish foundations that allow individuals to connect instead of [[commanding]].
+		- Be [[partisan]]
+			- Partisans want to make a [[difference]], [[leaders]] lead when they take a [[positions]], when they connect tribes, and help the tribe connect to itself.
+	- A leader can [[improve]] the tribe and [[community]] through:
+		- Transforming shared [[interest]] into a [[passionate]] [[goal]] and desire for change
+		- **Providing tools to allow members to tighten their [[communications]]**
+	- If you want to [[grow]], find people who are willing to join your or [[believe]] in your or [[donate]] to you or [[support]] you
+		- [[Advertise]] and publicize your work as something that is [[new]], [[exciting]], and importantly it [[matters]]
+		- Strive to be [[great]] and more than [[average]] or the [[status quo]]
+		- Make your organization great by breaking that mold and changing the status quo
+			- Individuals who push their organizations, who [[inspire]] others to [[change]] the [[rules]], [[thrive]].
+	- [[Factories]] are places where the boss tells you what to do and how to do it.
+		- Work environments that are [[prescriptive]] allows us the feeling of [[stability]] and the absence of [[responsibility]] while not having to [[think]] too hard
+		- **People may have great [[ideas]] but lack the [[initiative]] to carry them out**
+			- Don't let [[fear]] rule your life and stop you from [[creating]] great things
+			- We aren't [[afraid]] of [[failure]] we're afraid of [[blame]] and [[criticism]]
+				- **We choose not to be [[remarkable]] because we're worried of criticism**
+					- **When you face [[criticism]] ask the following question:**
+						- 1. "If I get [[criticized]] for this ([[failure]]), will I suffer any measurable [[impact]]? Will I lose my job, get hit upside the head with a bat, or lose important friendships?"
+							- If the only side effect of the [[criticism]] is that you will feel bad about the criticism, then you have to compare that bad feeling with the [[benefits]] you'll get from actually doing something worth doing.
+								- Being [[remarkable]] is [[exciting]], [[fun]], profitable, and great for your [[career]].
+								- Feeling bad wears off.
+						- 2. [[How can I [[create]] something that critics will criticize?]]
+	- Great leaders only focus on the tribe and only the tribe, they are not swayed by the status, fame, or money
+		- they get out in front and make their point and unafraid to [[speak]] up to [[challenge]] convention. They are [[brave]] for the tribe.

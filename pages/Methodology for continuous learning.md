@@ -1,0 +1,6 @@
+- Justification
+	- ((62660388-5141-4545-8819-661f93f51723))
+- Actions
+	- ((62660388-d412-4987-ae4c-8c27185ef64f))
+	- Review and critique your decision after you make them
+		- ((62660388-2ea0-48bc-99de-bd7bb7cc7fe0))

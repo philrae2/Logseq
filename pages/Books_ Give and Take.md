@@ -1,0 +1,124 @@
+tags:: #[[📥inbox]] #success #[[q: How to balance contentment with productivity/success]]
+author:: [[Adam Grant]]
+
+- Questions:
+	- Are the examples given in the book survival bias? Adam Grant suggests that givers are both in the bottom and top of the success spectrum.
+- Chapter 1
+	- [[success]] depends heavily on how we approach our interactions with other people.
+	- **There are three styles of reciprocity** in the professional world: __givers, takers and matchers__.
+		- Strangely enough, the givers are both at the ends of success, they are at the bottom and at the top of the business ladder.
+	- Lincoln, a giver, helped others to win a Senate at his own expense, losing twice, before he won a Senate seat of his own. When he won his presidency he nominated his rivals for the Republican nominee to be part of his cabinet.
+	- In purely zero-sum situations and win-lose interactions, giving rarely pays off, but most of life isn't zero-sum, and on balance, people who choose to give as their primary reciprocity style end up reaping rewards.
+		- It takes time for givers to build goodwill and trust, but eventually, they establish reputations and relationships that enhance their success.
+		- We can leverage the internet and interconnected communications to shorten the timeline for the giver style relationships to gain success.
+	- ^^We should treat our clients and the people with support as the highest priority—above our own interests and even our own companies.^^
+	- We can be givers and minimize the cost of our giving.
+	- People fear that we'll be exploited if we operate as givers, so we switch our personalities as takers and take part in the competition as the rational and appropriate way of acting professionally.
+		- The fear of exploitation encourages us to expect the worst in others that it brings out the worst in us.
+		- ^^Success doesn't have to come at someone else's expense. ^^ #success
+- Chapter 2 - How givers, takers, and matchers build [[network]]s
+	- Developing a strong allows people to gain invaluable access to knowledge, expertise, and influence. People with rich networks get promoted faster, and earn more money.
+	- **Signs of Takers**
+		- They tend to use self-absorbed language like using first-person singular pronouns like I, me, mine, and myself
+		- They earn more in compensation compared to others in similar roles. They see themselves as superior and feel entitled to take substantial pay discrepancies in their favor.
+		- Takers also tend to dominate their environment, even in marketing where their photos are larger than everyone else. They tend to be self-absorbed
+		- Matchers have a smaller network due to the quid pro quo approach of networking. If we only give to people who we think can benefit us, it naturally limits the reach and impact of our relationships.
+		- Though we tend to concentrate on our strong bonds with people for benefits and help, we can more often use our weak ties, our casual relationships with others, to provide us help and connections.
+		- Givers get better values with dormant relationships because those relationships are based on giving and those dormant relationships are more likely to reactivate easier for giving type personalities
+			- We should see networks as a vehicle for creating value for everyone, not just claiming it for ourselves.
+- Chapter 3 - The Ripple Effect — Collaboration and the Dynamics of Giving and Taking Credit
+	- > Geniuses and genius makers. [[Genius]]es tend to be takers: to promote their own interests, they "drain intelligence, energy, and capability from others." Genius makers tend to be givers: they use their "intelligence to amplify the smarts and capabilities" of other people.
+	- Even in seemingly independent jobs that rely on raw brainpower, our success depends more on others than we realize.
+		- ^^We perform better as we strengthen the relationships we have with our coworkers, especially if they are also high performers.^^
+			- Surgeons showed improvements in the mortality of their surgeries when they increased their time spent with their teams. But this improvement disappeared when they moved to a new hospital and worked with another surgical team.
+			- Superstar workers are harmful when hired individually, but beneficial when hired with their team.
+			- ^^Collaboration makes us smarter.^^
+		- __How can we harness the powers of collaboration without really collaborating?__ Is there a way to hack or fake collaboration and reap its benefit?
+		- The defining character of how givers collaborate is taking on the tasks that are in the group's benefit, not necessarily their own interests. This makes the group better off.
+			- Research shows that people who give their time and knowledge regularly to help their colleagues end up earning more raises and promotions in a wide range of settings.
+			- [[expedition behavior]] involves putting the group's goals and mission first, and showing the same amount of concern for others as you do for yourself.
+			- __Share credit with our coworkers.__ We can balance our contribution bias by focusing our attention on what others have contributed.
+			- ^^When we see other people as obstacles to our success, our world becomes filled with obstacles.^^
+		- [[Psychological Safety]] is defined as the belief that you can take a risk without being penalized or punished. When collaborating with others, create a sense of safety by being seeing the situation from their perspective.
+- Chapter 4 - Finding the Diamond in the Rough - The fact and fiction of recognizing potential
+	- If we think highly of our colleagues, they will perform better and meet our expectations. (Teachers who believed the best and thought positively of their students, helped their students become successful. The students weren't any smarter or more intelligent, it was because their teachers believed in them.)
+	- The driving force behind talent is interest and motivation.
+	- Our ability to persevere, work hard, dedicate ourselves and invest in the hard work and time in our pursuits, makes us perform above and beyond compared to others.
+	- Sunken costs behaviors are motivated by three factors:
+		- 1. Regret. Will I be sorry if I don't give this another chance?
+		- 2. Project completion: If I keep investing, I can finish this project
+		- 3. ego threat: If I don't keep investing, I'll look and feel like a fool.
+		- Takers are more likely to fall into the sunken cost trap, and givers will admit their mistakes earlier to protect others and the organization.
+- Chapter 5 - The Power of Powerless Communication - How to be Modest and [[influence]] People
+	- Our [[success]] depends heavily on influence skills
+	- Research suggests that influence is controlled through two paths of dominance and prestige
+		- [[Dominance]] gives us influence through communicating we are powerful, strong, and authoritative
+			- Takers gravitate through dominance by adopting powerful communication styles by speaking forcefully, raise their voices to assert authority, express certainty to project confidence, promote their accomplishments, and sell with conviction and pride.
+			- Takers also take a dominant stance on body language through taking up more space
+			- ^^When our audiences are skeptical, the more we try to dominate them, the more they resist^^
+			- Dominance is a zero-sum environment, when we have more dominance, the less others have. When takers are fighting more dominance, there can only be one winner, the others losers and this environment is not conductive to a synergistic group approach
+		- Prestige gives us influence through respect and admiration
+			- Prestige unlike dominance, is not a zero-sum situation, many in a group can command influence through their own prestige. Many can be prestigious at the same time.
+			- Givers can use [[powerless communication]] - tend to speak less assertively, expressing plenty of doubt and relying heavily on advice from others. This communication style signals vulnerability, revealing vulnerability, weakness and making use of disclaimers, hedges, and hesitations.
+				- Givers value perspective and interests of others, givers are more inclined toward asking questions than offering answers, talking tentatively than boldly, admitting their weaknesses than displaying their strength, and seeking advice than imposing their views on others.
+				- Givers are comfortable expressing vulnerability, they're interested in helping others, not gaining power over them, so they're not afraid of exposing chinks in their armor.
+			- __Expressing vulnerability only works if the audience receives other signals establish the speaker's competence__
+				- pratfall effect - if you are showing both signs of vulnerability and competence you are more likeable, than if only instances of vulnerability. If you are only vulnerable, you are not likeable
+					- Are examples of this effect survival bias?
+			- Ask a lot of questions to build prestige, don't talk  as much in conversations when you want to get to know people
+				- The more we talk, the more we think we know about the group
+				- Asking is a form of [[powerless communication]]. Questions is effective when people are already skeptical of your influence, especially when you lack credibility or status or when you're in a highly competitive situation
+				- effective [[negotiator]]s spend more time asking questions than talking in order to understand the perspective of the other side
+			- Group members perceive dominant speakers as powerful leaders but this type of communication stifles information sharing and therefore prevents the communication of good ideas and innovation.
+				- Powerful speaking is useful for when employees are dutiful followers, however when employees are proactive a more collaborative manager is more effective. Dominant speaking can dissuade proactive team members from contributing.
+			-
+		- Questions can be used as effective tools for persuasion. Assertiveness can incite defensiveness in others.
+			- > Direct persuasion creates awareness for other people that they are being persuaded by others, while self-persuasion is convinced that the motivation for change came from within
+				- When we ask questions about people's plans and and intentions, we increase the likelihood that they actually act on these plans and intentions
+		- **Advice seeking can be an effective tool when we lack authority.**
+			- When we ask for advice, we're posing a question that conveys uncertainty and makes us vulnerable.
+			- Research shows that people who regularly seek advice and help from knowledgeable colleagues are rated more favorably by supervisors than those who never seek advice and help.
+			- Seeking advice has four benefits of:
+				- __learning__ - when we ask for advice we learn new information that may not be visible if we are assertive and demanding of our goals
+				- __perspective taking__ - ^^advice seeking helps others approach the conversation to our perspective away from theirs. To give us advice or recommendation, advisers have to look at the problem from our point of view^^
+				- __commitment__ - When others and we give our time, energy, knowledge, or resources to help others, we strive to maintain a belief that they're worthy and deserving of our help. Seeking advice is a subtle way to invite someone to make a commitment to us.
+					- When people help us, we can give them thanks and acknowledge it as advice, recommendation to subconsciously plant their commitment for our [[success]] #[[q: How to influence others]]
+					  id:: dcb9e90a-8bd5-47ee-b5e4-bd713bbd472e
+				- __flattery__ Asking for advice grants others prestige, admiration, and respect for their insights and expertise. Since people are matchers, they tend to respond favorably and feel motivated to support us in return.
+					- > Benjamin Franklin had a fundamental rule for winning friends: appeal to their pride and vanity by constantly seeking their opinion and advice, and they will admire you for your judgment and wisdom
+			- ^^When asking for help position the request as seeking advice, recommendation, expertise, etc. Don't command or make them feel like helping you is work.^^
+				- Regardless of their reciprocity styles, people love to be asked for advice. Giving advice makes takers feel important and it makes givers feel helpful.
+				- **Advice seeking only works if its genuine and done spontaneously**
+- 6. The Art of Motivation Maintenance: Why some givers burn out but others are on fire
+	- > [[success]] involves more than just capitalizing on the strength of giving; it also requires avoiding the pitfalls
+	- __Self-less givers__ are people with high other-interest and low self-interest. They give their time and energy without regard for their own needs, and they pay a price for it.
+	- For a healthy balance of giving, we need to integrate being other-centered while also tending to our own needs and interests.
+	- To prevent burn out, we need to strong foundational motivators for giving and reminders of them. Givers need the proper amount of feedback of giving for motivation.
+		- Teachers are vulnerable to burnout because the impact of their giving is time dependent. With no clear affirmation of the benefits of their giving, the effort becomes more exhausting and harder to sustain. Teachers don't have the frequent and timely feedback on the work they do to the students they teach.
+		- > The perception of lasting impact serves as a buffer against stress, enabling employees to avoid burnout and maintain their motivation and performance
+		- **When we work at giving it is best to do so that gives us the fastest and biggest feedback rather than drawing out the time and diluting feedback.** It is better to chunk the work than sprinkle a little throughout the week
+			- Sprinkling our giving work is also distracting if we help people whenever they needed it.
+	- **Another method to prevent burnout, is to switch context of the work your doing.**
+		- When we volunteer two hours a week or 100 hours per year we can make a meaningful difference without being overwhelmed or sacrificing hour priorities
+			- Can we give volunteer hours as self-development to help us work, communicate, and produce better? Are the outcomes of self-development the same as volunteering if we can get the same feeling of feedback and impact?
+			- Giving has an energizing effect only if it's an enjoyable, meaningful choice rather than undertaken out of duty and obligation. Giving also becomes sustainable.
+- 7. Chump Change: Overcoming the Doormat Effect
+	- Giving and taking are based on our motives and values—they're choices that we make regardless of our personalities as disagreeable or agreeable.
+	- To help motivate ourselves to assertiveness when asking for promotions and raises, we can see ourselves as agents for others. While we may be too shy to advocate for ourselves, we can be more motivated to negotiate for others who benefit for our success.
+		- When we negotiate for others, through our success, we aren't seen as takers for our own self-interests, rather as givers and supporters for our families or partner.
+	- To be an effective negotiator and giver, create value by by having concern not only for others but for your own self-interest. We can look for opportunities for ourselves that benefits others and vice versa. Instead of selflessly giving away our share of the pie, expand the pie so we can freely give without harming ourselves.
+- 8. The Scrooge Shift - Why a Soccer Team, A fingerprint, and a name can tilt us in the other direction
+	- Common ground is a major influence on giving behaviors.
+		- When people share an identity with another person, they are more likely to be helped. Giving to others of the same identity, is like we are helping ourselves. #[[q: How to influence others]]
+			- We can influence others through accepting their gifts and giving them thanks.
+				- ((dcb9e90a-8bd5-47ee-b5e4-bd713bbd472e))
+			- We can also give to others without expecting anything in return to plant seeds of [[loyalty]] #[[q: How to inspire loyalty]]
+			- The rarity of the shared commonality also dictates the rate of helpfulness. The rarer shared commonality the more likely we are to help each other.
+				- People identify more strongly with individuals and groups that share unique similarities. the more rare a group, value, interest, skill, or experience is, the more likely it is to facilitate a bond.
+	- ^^Question our beliefs on other people's capacity to give. Ideas can have profound effects even when they are false—when they are nothing more than ideology. These effects come about because our belief in an ideology can arrange the conditions that bring them into reality. ^^
+	- The majority of giving occurs between people is  in response to direct requests for help. __So ask for help.__
+	- When we try to influence people, we think to start first by changing their attitudes. We hope that their behaviors are likely to follow the same direction; however, this reasoning is backward. Influence is far more in the reverse direction: change people's behavior first, and their attitudes follow. #[[q: How to influence others]]
+		- However, the behavior has to be internally chosen and motivated and not tied to a temporal and external goal, such as a promotion. An internal and personal choice to change behavior allows the behavior to be seen as part of their identity.
+- 9. Out of the Shadows
+	- Givers define success as individual achievements that have a positive impact on others.
+	- Successful givers get tot he top without cutting others down, finding ways of expanding the pie that benefit themselves and the people around them.

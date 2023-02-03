@@ -1,0 +1,12 @@
+- An intermediate packet are the intermediate steps taken to create the final deliverable
+	- Examples are:
+		- Distilled notes:
+			- Books or articles you've read and distilled so it's easy to get the gist of what they contain
+		- Outtakes:
+			- The material or ideas that didn't make it into a past project but could be used in future ones
+		- Work-in-progress
+			- The documents, graphics, agendas, or plans you produced during past projects
+		- Final deliverables
+			- Concrete pieces of work delivered as part of past projects, which could become components of something new
+		- Documents created by others
+			- Knowledge assets created by people on your team, contractors or consultants, or even clients or customers, that you can reference and incorporate into your work

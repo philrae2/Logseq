@@ -1,0 +1,163 @@
+---
+title: Books: Successful Onboarding
+---
+
+- Author:: [[Mark Stein]] [[Lilith Christiansen]]
+- Tags:: #onboarding #[[📥inbox]]
+- Status:: rea
+- Related Notes::
+- Literature Notes:
+	- Problems with formal onboarding is that there is little follow with the new hire after the brief formal onboarding process during the first year
+	- Onboarding material is general and not specific to the hire's experience, role, and skills
+	- No accountability on the success or utility of onboarding programs
+	- Understand the hire's goals, needs and aspirations
+		- New hires are concerned with their needs and its associations with their ability to deliver against the organization's aspirations
+		- How does OBI fit into their aspirations and how can we support them?
+		- New hires want to be excited and enabled.
+	- Shift the Onboarding process to the hire's perspective and not the Organization (assuming they are worth the investment)
+	- Opportunities Afforded by Creating an excellent Onboarding Program
+		- Knowledge transfer
+		- Improve engagement levels to retain high performers
+			- Bored workers who are not engaged are likely to leave for positions that appreciates and values their skills and talents
+			- Underperformers are usually the ones that stay in jobs
+		- Set up roles and accountability of the process
+		- Organizational transformation (business and/or cultural)
+			- Tasks new hires to transform the organization and culture for the better
+			- Enable new hires that they have the ability to impact the organization
+			- When people understand the organization's mission they are more invested in the quality of their work rather than doing the minimum expected quality
+		- Domains of a new hire
+			- Context
+				- The understanding of the organization's missions, goals, strategy, customers and their needs, resources availability, culture, way of doing things and driving change.
+			- [[Connectedness]]
+				- The personal and professional relationships we have to provide us leverage under circumstances to complete work with ease.
+			- [[Capability]]
+				- Capacity to develop skill and know how
+				- Existing intelligence and skills
+			- [[Drive]]
+				- The combination of ambition, entrepreneurialism nd attachment to the enterprise
+					- [[Ambition]] provides the energy to pursue excellence in everything they do
+					- [[Entrepreneurialism]] provides the toughness, willing sacrifice, drive, and creativity to create efficient and effective answers.
+		- Create a mission and vision that employees can connect and associate with
+			- Transform the role to more than a functional description and create a sense of mission for the new hire.
+				- "I am excited to be part of this."
+			- Most hires want to work for more than a paycheck and want to feel like their work has impact
+			- Provide a mission, values, and goals that engaging and allows employees to hang their aspirations on
+			- Create attachment
+				- Attachment represents the degree an individual cares and is motivated for the benefit of the organization
+		- [[Hierarchal needs]] (The needs of a New Hire) [[Maslow's hierarchy of needs]]
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FoHoyk7Ltbc.png?alt=media&token=5db81bd8-7b2b-4e10-af11-c0db23d832a8)
+			- People are only concerned on their current needs and the level above
+			- Employees are concerned with keep their jobs
+				- Provide training that allows new hires to feel safe that they are trained well to prevent making mistakes
+			- Allow continual onboarding process to move employees higher and higher to self-actualization
+				- As new hires feel more connected to organization's broader missions and goals, they develop a sense of purpose and direction
+				- They equate their personal success with that to the organization
+		- Most companies have short onboarding programs that don't last for more than two weeks
+		- Provide skills and knowledge to help workers excel at their jobs
+		- Excite workers so they feel motivated to address their challenges enthusiastically
+		- Four Pillars of Onboarding Margin (Concept of this book is trying to sell, trademark)
+			- Cultural Mastery
+				- Educate new hires on your performance values
+					- The habits of thoughts and behavior built into the organization's definition of successful performance
+			- Interpersonal network development
+				- Enable new employees to create relationships that productive (increase the concept of [[Connectedness]])
+			- Invest in early career support
+				- Appeal to the interest of the new hire
+					- New hires seek to build steady and advancing careers
+			- Strategy immersion and direction
+				- Enable new employees that their thinking is taken seriously and giving them a sense of [[purpose]]
+				- Drives worker effectiveness through appreciation of employee skills and talents
+				- Connect the work of the new employee and appreciate their impact on the organizations missions and goals
+				- Enable high performers to feel their work and ideas has impact and is heard on the organization
+		- How do we measure effectiveness of our onboarding program?
+			- How do we track progress and accountability of participants?
+				- Clearly assign roles and responsibilities
+				- Provide clear directions on expectations, measures of success
+			- Managers should be held responsible for ensuring that our hiring investments are successful
+			- Have diverse participants
+			- Brand the onboarding program
+			- Leadership needs to communicate the importance of the onboarding process
+		- Activity Matrix for Onboarding program
+			- The program is year long
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F2op6633BlV.png?alt=media&token=e5f64e67-d787-45e5-8b26-22a9d8fe59f9)
+		- Tailor and customize portions of the onboarding program to target different hires
+			- New grads vs mid level management vs executives
+		- How to provide [[continual [[value]] delivery]]
+	- Teaching [Culture]([[culture]])
+		- Culture is defined as a set of assumptions that a group learned as it solved its problems of external adaptation and internal integration, that has worked well enough to be considered valid and useful to teach to new members as the correct way to think, perceive and feel in relation to those problems.
+		- The language, style, symbols and behaviors that shape the workplace experience.
+		- Teach Performance Values (page 92)
+		- Teach the language (acronyms, org-chart, systems and tools)
+		- New Hires are facing the following issues:
+			- Informal ways colleagues makes decisions
+			- Communication styles
+			- Idea advocacy
+			- Who's who
+			- Dispute moderation
+			- Managing up
+			- Appropriate conduct
+		- Conduct cultural audits
+		- Prioritize which cultural norms should be taught across the year-long program and which should be be learned by the employee on their own
+		- Best principles for onboarding
+			- Use simple language new hires can understand
+			- Go beyond lofty rhetoric to provide specific examples of how the performance values might play out in everyday life
+			- Make some effort to explain the business rationale behind values
+			- Express the culture in passionate terms while also invoking the authority of company leadership
+			- Build and prioritize interactivity in the onboarding process
+			- Brand your program
+			- Get everyone involved
+	- Build Connections
+		- New hires are looking for satisfying and meaningful work
+			- They want to create strong relationships with their coworkers
+			- Work relationships fulfills the sense and need for belonging
+		- Recognize the benefits of nurturing strong social relationships at work
+			- Workers are more engaged if they have best friends at work
+		- Types of Connections
+			- Internal Professional Networks
+				- Relationships within the organization that is directly related to your job function
+				- peers, subordinates, and bosses
+			- Internal personal networks
+				- Friendly internal relationships with other employees in the organization not directly related to your job function
+			- External personal networks
+				- An individual's' broader network of relationships, including friends and family
+			- External professional networks
+				- Relationships with peers outside the company who help you get work done such as members of the same industry, competitors, or customers
+		- Best principles for fostering relationships
+			- Encourage participation of affinity groups
+				- Affinity groups can be running clubs, social action or charitable groups, outings clubs, that bring people together from within the and outside the firm
+			- Leverage resources from the larger community
+				- Highlight the activities and events in DC
+			- Build stakeholder maps
+				- Create an organizational chart
+			- Make it interactive
+			- Start early but don't end there
+			- Think small
+				- Create small groups of cohorts
+			- Involve Technology
+			- Involve Senior Leadership
+	- Career Support
+		- Invest early in career support to distinguish employees and increase their chances thea tthey will want to stay with the company
+			- Early support also yields employee who reach full productivity faster
+			- Early career support energizes employees and gain long-term loyalty and enthusiasm.
+		- Career supports and fulfills the employees' need for progress and esteem needs under [[Maslow's hierarchy of needs]]
+		- Structural Requirements to Stimulate Progress and Achieve One's Prospect
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F3p5m7PGx6u.png?alt=media&token=a556d5f4-a020-455e-a7d9-625c975d7b29)
+			- Assignments
+				- Relate to the character, order, and pace by which tasks are taken on by the employee
+			- Guidance
+			- Insulation
+				- A layer of organizational protection to prevent the new hire from getting into to much trouble
+			- Remediation
+		- Best Practice for effective delivery of early career support
+			- Take steps towards centralizing and centralizing official conversations regard career conversations
+			- Systems shouldn't overshadow authencity
+				- Mentors should be engaged
+			- Increase the performance review process during the first year
+			- Encourage new hires to take ultimate responsibility for their own careers
+			- Encourage new hires to create career development plans
+			- Make early career support collaborative between new hires, their managers, and mentors
+			- Offer a flexible system with multiple safe guards
+				- Offer different options to gain career support in case mentors or supervisors are unengaged
+	- Communicating Strategy
+		- Strategy is the direction and scope of an organization over the long term, which achieves advantage in a changing environment through its configuration of resources and competencies with the aim of fulfilling stakeholder exepectations. [[Richard Whittington]] [[Exploring Corporate Strategy]]
+		-

@@ -1,0 +1,10 @@
+- tags: #[[Literature Notes]] #[[Deliberate Practice]]
+- **Source:** [[Books: So Good They Can't Fire You]]
+	- **Quote(s):**
+		- ((837b77f9-eee3-4090-ad81-142ed5b9db60))
+		- ((adc9cc39-dae8-4231-9629-2127e0fe6422))
+		- ((f90e2fc3-2b88-4dc9-82b9-558b7b34f71a))
+- **Note:**
+	- Learning and gaining career capital significantly slows down once you reach a comfortable state. You may be still working and challenged, but it's mostly through administration muck rather than being thoughtfully challenged by the problem
+- **Related Notes:**
+- **Projects:**

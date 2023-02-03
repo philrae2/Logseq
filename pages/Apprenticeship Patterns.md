@@ -1,0 +1,28 @@
+---
+title: Apprenticeship Patterns
+---
+
+- **tags:** #[[Computer Programming]]
+- **author:** Dave Hoover
+- **status:**
+- **link:**
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Introduction - Chapter 1
+		- Software craftsmanship is a community practice united and defined by overlapping values of
+			- [[Growth Mindset]]
+				- Effort is what makes you smart or talented, and failure is merely an incentive to try a different approach next time
+				- It is the opposite of the belief that we're born with a given amount of talent, and that failure is an indication that you don't have enough of it
+			- A need to always be adapting and changing based on the feedback you get from the world around you
+			- Pragmatic over dogmatic. Willingness to trade off theoretical purity or future perfection in favor of getting things done today.
+			- A belief that it is better to share what we know than to create scarcity by hoarding.
+			- A willingness to experiment and proven to be wrong. To use failure as lessons learned to improve
+			- Taking accountability and responsibility for our destinies
+			- Skilled-centric rather than using the "right" processes. No process or tool is going to make everyone equally successful
+			- The best way to learn is in the same room with people who are trying to achieve some goal using the skills you wish to learn
+		- Apprenticeship is the process of evolving and looking for better ways and finding people, companies, and situations that force you to learn those better/smarter/faster ways.
+			- You must learn to grow yourself and learn how to learn.
+		- We then grow into journeymen moving from master to master, increasing our portfolio of applications
+		- Mastery involves taking the skills you have to amplify and enhance the skills of others by orders of magnitude.
+	- Chapter 2
+		- To learn and improve, you have to have humility and humbleness to fill your cup from the fountain of knowledge. If your vessel is already full, how can you fill your cup?

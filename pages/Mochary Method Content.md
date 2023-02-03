@@ -1,0 +1,6 @@
+- Essential Reading
+	- [[On Time Article]]
+	- [[Top Goal]]
+	- [[Fear and Anger Gives Bad Advice]]
+	- [[Fear and Anger - How to shift out of it]]
+	- [[Heard - How to make people feel it]]

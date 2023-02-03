@@ -1,0 +1,275 @@
+tags:: book, #📥inbox, strategy, product management
+
+- #Takeaways
+	- We can't blindly copy frameworks from other companies and organizations unless we understand the full context. We also need to be able to fully articulate our organization's environment in contrast.
+	- Frameworks and models taken from successful companies may have excellent staff to support those the implementation of those frameworks.
+- #[[How can I apply this for]]
+	- project management
+	- communication
+	- knowledge management
+	- value creation
+		- for supervisors
+		- for senior leadership
+		- for colleagues
+	- Other
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+  id:: 630adabf-a387-4dda-9f20-157978cb74f1
+	- Introductions Lessons Learned From the Front Row
+		- Google's business plans did not have detailed roadmaps detailing what we would build and when. There was no budget and financial projections. There was no market research on what users or partners wanted or how they fit into nicely defined market segments. There was no targets or milestones that the board and company leaders could use to monitor our progress.
+			- (Then what did Google have in place if these details were not fully formed? In other books at minimum a solid and verified product vision should be in place. A strong foundation is needed to stand a project up.)
+			- (This type of development approach relies on talented, brilliant and hard-working developers and team members.)
+			- Gate-based development is useful for when development mistakes are costly.
+		- Product quality is paramount to business success. Low quality products will fail.
+		  id:: 630adabf-da5e-409f-b6bd-5b4ab0ef158e
+			- (Because we have extensive face time with our clients customer service, communication and interaction is our product. We need to pay attention to how communicate, solve problems, and build relationships. Customer relations and communications should be one of the lenses that colors how we strategize. Is this a true statement?).
+				- (This should result in customer service improvements and training, monitoring and process improvements. But at what cost and budget).
+				- (How does our customer relations affect our ability to product quality products and how our customer perceives the value we create).
+				- (How does OBI communicate and what are the intended outcomes we are trying to achieve with our communication style? I propose it it to )
+			- **Improve quality through experimentation and learning from past iterations.**
+			- **The primary objective of any business today is to increase the speed of the product development process and the quality of its output.**
+		- Traditional employees vs Google employees
+			- Most knowledge workers in traditional environments develop deep technical expertise but little breadth, or broad management expertise but no technical depth.
+			- **Google workers on the other hand are not confined to specific task or hemmed in by role definitions or organizational structures. They don't keep quite when they disagree with something. They get bored easily and shift jobs a lot. They are multidimensional, usually combining technical depth with business savvy and creative flair.**
+			- **Smart creatives have a common characteristic of working hard and willingness to question the status quo and attack things differently.**
+	- Culture - Believe your own slogans
+		- **Make problems public so you can have greater viewership and possible solutions to it come from diverse employees and not only from the ones you think can solve it.** #[[Problem Solving]]
+		- *When starting a new company or initiative, culture is the most important thing to consider because smart creatives place culture at the top of the list. To be effective, they need to care about the place they work*.
+		- Instead of letting culture happen in an initiative, we can actively create an excellent work culture that attracts smart and creative workers.
+		- Offices should be designed to maximize energy and interactions, not for isolation and status. **Smart creatives thrive on interacting with each other.**
+		- Working from home prevent serendipitous knowledge from forming and possible projects that could have arisen from those chance meetings.
+		- **Create a culture where tenure, authority, and position does not give credibility to decision making, rather decisions are based on data. Create an environment where the quality of the idea is valued over the person who suggest it.** #[[Leadership]]
+			- For a meritocracy to work we need to build an obligation to dissent. If someone thinks there is something wrong with an idea, they must raise that concern or risk a subpar idea winning.
+		- **Reorganization of the business is not going to magically solve your problems. Remove preconceive notions how an organization should be organized.**
+			- Keep the organization flat because they want to be closer to the top more and because they want to get things done.
+			- **Organize around functions because organizing around business divisions or product lines can lead to the formation of silos, which usually stifle the free flow of information and people.**
+			- When reorgs makes sense beware the tendencies of different groups: engineers add complexity, marketing adds management layers, and sales adds assistants.
+		- The Bezos two-pizza rule
+			- the building block of organizations should be small teams. Smaller teams get things done quicker because they spend less time politicking and worrying about who gets credit.
+		- Determine which people are having the biggest impact and organize around them.
+			- Decide who runs the company based on performance and passion not function or experience.
+			- You want to invest in people who are going to do the what they think is right, whether or not you give them permission.
+			- This doesn't mean you should create a star system but around an ensemble to create long-term consistency, with a deep bench of high-performance talent ready to lead when the opportunity appears.
+			- At the most senior level, the people with the greatest impact—the ones who are running the company—should be product people.
+			- Select leaders that don't place their own interests above the company's.
+			- To find the smart people in an organization fine one of them and then ask them to list off the smart people they know
+		- Customer Service
+			- The product when reversed engineer should plainly communicate that the customer was at the forefront of its design and architecture.
+	- Strategy - Your plan is wrong
+		- MBA-style business plans, no matter how well conceived and thought, are always flawed in some important way.
+		  id:: 630adabf-839f-4f15-99d8-551efabae123
+			- **Faithfully following a flawed plans means achieving failure.** So invest in a talented team, not that plan. Since the plan will have mistakes, a successful team must spot the flaws in their plan and adjust.
+			  id:: 630adabf-dc77-4bfb-9a97-8edd35a49c58
+				- When implementing frameworks and models, find the assumptions and flaws.
+			- It's fine to have a plan but you must have processes in place that acknowledges the plan maybe wrong and able to pivot. #[[product development]]
+				- Your processes should constantly keep assessing the relevance of the plan often and early to allow for course-adjustments. Don't assume the problem space is constant through out the execution phase. ^^The rapid iteration is critical to success, but equally important is the foundation upon which the plan is built.^^
+				  id:: 630adabf-9cbf-4d52-850d-d31f2c01e635
+				- Ensure that there are processes in place to assess the health of the foundational decisions which your plan is built on. Your foundational decision making and initiatives must be stable.
+				- As long as your plan is built on a solid foundation, your plan doesn't need to be perfect. In fact, don't trust a plan that is presented as "perfect."
+				  id:: 630adabf-b757-4bbd-a7a3-33a65f29adbb
+				- Give your employees foundational elements, overly prescribed plans and documentation. This approach assumes that your employees are all smart and talented.
+		- Bet on technical insights that help solve a big problem in a novel way, optimize for scale, not for revenue, and let great products grow the market for everyone. #[[strategy]]
+		  id:: 630adabf-e744-47ef-80b9-a92ef457015f
+			- Most of Google's successful products have been based on strong technical insights. Google search ranking is based on trusting a site that has more links to it, if it is an academic website, etc.
+			- A technical insight is a new way of applying technology or design that either drives down the cost or increase the functions and usability of the product by a significant factor. The result is something that is better than the competition in a fundamental way. The improvement should often be obvious; it shouldn't take marketing for customers to figure out that this product is different from everything else.
+			  id:: 630adabf-69ff-4e11-96d4-aa165a078efa
+			- Market research can't tell you about solving problems that customers can't conceive are solvable.  Giving the customer what they want is less important than giving them what they don't know yet they want.
+			  id:: 630adabf-f289-4422-874a-dcef629bb441
+			- For Google they noticed successful products were those based on technical factors rather than business ones. The less stellar products lacked technical distinction.
+			- Find strategy through finding where the people who are working on new and interesting things. #[[Books: Where Good Ideas Come From]]
+			  id:: 630adabf-cd28-45ea-961e-4ae26fe7a87a
+				- Another place to find strategy is to look at the a solution to a narrow problem and look for ways to broaden its scope.
+				  id:: 630adabf-f3fd-4eed-87e1-cefc0b103124
+			- When you base your product strategy on technical insights you avoid me-too products that simply deliver what customers are asking for.
+		- The most successful leaders in the Internet Century are those that understand how to create and quickly grow platforms.
+			- Google preferred growing their user base over increasing revenues and profits.
+			- A platform is a set of products and services that bring together groups of user and providers to form multisided markets. The strength of a platform is its interconnectivity. The more users, the more data, and the more use cases a platform has the more valuable it is.
+			- Consider specializing at something that you're good at. Google initially specialized in search and concentrating on speed, accuracy, ease of use, comprehensiveness, and freshness of results.
+			- Default to an open platform to promote growth and innovation.
+				- Open platforms like the IBM PC and Android, promotes faster adoption and greater innovation. When ATT's landlines were made open dial-up modems, faxes, and other technologies were developed to take advantage of the greater users that could be reached because of the phones lines were opened.
+				- However, if openness decreases quality and hurts customers, then it is better to approach with a closed platform.
+		- Don't follow competition
+			- If you focus on your competitions, you will never deliver anything truly innovative. It leads to a cycle of mediocrity.
+		- Eric Schmidt's Notes for Strategy Meeting
+		  id:: 630ae7da-5d97-420b-82f2-1e547bfa43e5
+			- Work five years out and work backward. What do you think the landscape will be five years out?
+			  id:: 630aea48-9947-4080-8ce9-edd5b68d9c25
+			- Spend the majority of your time thinking about the product and platform.
+			- Iteration is the most important part of strategy. It needs to be very, very fast and always based on learning.
+	- Decisions - The True Meaning of Consensus #[[Decision Making]]
+	  collapsed:: true
+		- The process by which we make decision can't only focus on arriving at the correct solution, instead the decision making process needs to balance between the process itself, the timing of when we reach a conclusion and the way it is implemented.
+			- ^^We also have to consider the consequences on the future decisions to be made.^^
+		- Decide with data
+			- > A problem well put [organized], is half solved. - John Dewey
+			- #[[q: how to present]] A bias toward data is a great way to avoid death by PowerPoint syndrome. **If we presented more data to support our point of view we can minimize wordy slides.**
+				- Slides should not be used to run a meeting or argue a point. They should just contain the data, so that everyone has the same facts.
+				- Visual reasoning usually works more effectively when relevant information is shown side by side. Often the more intense the detail, the greater clarity and understanding.
+		- Beware the bobblehead yes
+			- Getting everyone to say yes in a meeting doesn't mean you have agreement, it means you have a bunch of bobbleheads. [[Books: Start with No]]
+			- Reaching the best idea requires conflict. If everyone is thinking a like, then somebody isn't thinking. Seeking everyone to agree and silencing questions is a sign of dysfunction.
+			- A proper consensus-driven process has elements of inclusion (involving all stakeholders in a participatory manner); cooperation (aiming for the best decision for the group, sometimes at the expense of a minority or individual); in blocking behavior). Above it all is solution-oriented: The right decision is the best decision, not the lowest common denominator decision upon which everyone agrees.
+		- Know when to take action
+			- There's a point in decision-making that anymore data or analysis won't lead to a better decision. It's important to set a deadline, run the process and enforce the timeline.
+		- Make  few decisions
+			- Don't make decisions in outside your area of expertise. Find an expert and experienced person instead to own the decision-making process and outcome.
+		- Meet everyday to help push a difficult conversation for an informed decision
+		- "You're both right"
+			- We think that if we have made a clever and thoughtful argument, based on data and smart analysis, then people will change their minds. This isn't true. ((2fe42a5c-1b5a-4691-8eac-de55229ef13a))
+			- If you want to change people's behavior, you also need to appeal to them emotionally, not just win the argument. Use "you're both right" to emotionally commit to decision because it lets people know they are heard, valued, and understood.
+			- After the decision is made we need the participants to either disagree but commit to the decision or escalate publicly.
+		- Everything meeting needs an owner #[[Q - How to run a meeting]]
+			- A well-run meeting is a great thing, it's the most efficient way to present data and opinions, to debate issues, and make actual decisions.
+			- Meetings should have a single decision-maker/owner. There must be a clear decision-maker at every point in the process, someone who will be held accountable.
+				- A meeting between two groups of equals often doesn't result in a good outcome, because you end up compromising rather than making the best tough decisions. Include someone more senior as the decision-maker.
+				- The decision-maker should be hands on. He or she should call the meeting, ensure the content is good, set the objectives, determine the participants, and share the agenda (if possible) at least twenty-four hours in advance. After the meeting, the decision-maker (an no one else) should summarize decisions taken and action items by email to at least every participant—as well as any others who need to know—within forty-eight hours.
+			- Even if a meeting is not a decision-making meeting—for example it’s designed to share information or brainstorm solutions—it should have a clear owner.
+				- The owner should ensure that the right people are invited to the meeting, that there’s a clear agenda, that the necessary prep work has been done in advance, and that action items are circulated promptly.
+			- Meetings are not like government agencies—they should be easy to kill.
+				- Any meeting should have a purpose, and if that purpose isn’t well defined or if the meeting fails to achieve that purpose, maybe the meeting should go away. The decision-maker needs to ask the hard questions: Is the meeting still useful? Is it too frequent / not frequent enough? Do people get the information they need?
+			- Meetings should be manageable in size.
+				- No more then eight people, ten at a stretch (but we would seriously discourage this). Everyone in the room should be able to give their input. If more people need to know the result of the meeting, make sure you have a process for communicating it rather than bringing them in as observers, which lowers the quality of the meeting and people’s ability to talk openly.
+			- Attendance at meetings is not a badge of importance.
+				- If you aren’t needed, leave, or better yet, excuse yourself ahead of time. This is especially true of meetings with customers or partners. Many times we have walked into an “intimate” meeting with a senior executive from one of our customers or partners, only to find the room full of people. We can’t help it if customers feel the need to bring their entire org chart to the meeting, but we try to control our side. Fewer people is almost always better.
+			- Timekeeping matters.
+				- Begin meetings on time. End them on time. Leave enough time at the end to summarize findings and action items. If the meeting has accomplished its goal before its allotted time runs out, then end it early. Remember, we are human: Schedule time for lunch and bio breaks, and be respectful of employees working in different time zones. They like to spend time with their families too. These common courtesies get forgotten too often. Paying attention to them will earn the respect of employees and colleagues.
+			- If you attend a meeting, attend the meeting. Multitasking doesn’t work.
+				- If you are in a meeting and using your laptop or phone for something not related to the meeting, it’s obvious your time is better spent elsewhere. Everyone attending a meeting should focus on the meeting, not other work. And if people have so many meetings that they can’t get work done, then there is a simple solution: Prioritize and go to fewer meetings.
+			- Among all of these rules, this last one has been the most challenging for us to implement.
+				- In our own team meetings, people so often ignored our edicts to close their laptops that we had to give up. But it’s still a good rule!
+		- Spend 80 percent of your time on 80 percent of your revenue.
+	- Communications - Be a Damn Good Router
+	  collapsed:: true
+		- The most effective leaders today don't hoard information they share it. Power comes not from knowledge kept but from knowledge shared. A company's values and reward system should reflect that idea.
+		- Your default mode should be to share everything.
+		- Know the details
+			- "The essence of being human involves asking questions, not answering them."
+			- It must be safe to tell the truth. Create an environment where people are okay to hear bad news, critical questions or bring up difficult questions.
+				- Never skip the opportunity to promote open, transparent, honest communications.
+		- Repeat key messages
+			- Repeating core messages in different variations will help make it stick for your listeners.
+			- Make sure the communication is effective.
+			- Is the communication interesting, fun, or inspirational?
+				- Most management teams are not curious—they are focused on doing the job at hand and tend to keep their communications equally businesslike. Smart creatives, though, have a wide array of interests. So if you come across an article that is insightful or interesting, and somehow relates to a core theme you have been communicating, go ahead and share it. Make it relevant to the team by picking a highlight or arguing a point. People will like it when you take off the blinders and talk about a wider variety of things. They want to be curious
+			- Is the communication authentic.
+				- If it has your name on it it should have your thoughts. The more authentic the better.
+			- Is the communication going to the right people?
+				- A good communicator will only send out messaging to the people who will find it useful. Those people are more likely to read it.
+		- Review yourself
+			- At least once a year write down and review yourself and how you perform. Read it to yourself and ask if you would like to work with with yourself? Then ask others to review you.
+		- Email wisdom
+			- Response promptly
+			- When writing an email every word matters and useless prose doesn't. Be crisp in your delivery.
+			- Clean out your inbox constantly
+				- Either read it and act on it, read it and act later, or read it later (if it's too long but not urgent)
+				- Handle email in LIFO order (last in first out)
+				- Make it searchable by forwarding the e-mail to yourself using keywords you think you will use in the future
+		- Have a playbook (templates on how to effective communicate in different scenarios)
+			- 1-1 (one on ones)
+			  collapsed:: true
+				- The mutual objective of the 1-1 is to solve problems.
+				- collapsed:: true
+				  1. Performance on job requirements
+					- a. Could be sales figures
+					- b. Could be product delivery or product milestones
+					- c. Could be customer feedback or product quality
+					- d. Could be budget numbers
+				- 2. Relationship with peer groups (critical for company integration and cohesiveness)
+					- a. Product and Engineering
+					- b. Marketing and Product
+					- c. Sales and Engineering
+				- 3. Management/Leadership
+					- a. Are you guiding/coaching your people?
+					- b. Are you weeding out the bad ones?
+					- c. Are you working hard at hiring?
+					- d. Are you able to get your people to do heroic things?
+				- 4. Innovation (Best Practices)
+					- a. Are you constantly moving ahead… thinking about how to continually get better?
+					- b. Are you constantly evaluating new technologies, new products, new practices?
+					- c. Do you measure yourself vs. the best in the industry/world?
+			- Board meetings
+				- The goals of a board meeting is are harmony, transparency, and advice. You want to exit the meeting with the board's support of your strategy and tactics.
+				- The contents of the meetings were highlights, lowlights and a detailed review of each of the company's products and functional areas, with emphasis on succinct, data-driven discussions.
+				- The board should be of strategic value, but yo won't get these interesting conversations and valuable insights if you are constantly distracted by governance issues.
+			- Partners act like diplomats
+				- To build partnerships and successful product ecosystems, companies must work with partners. To find success in these situations you must employ diplomacy.
+			- Relationships, not hierarchy
+				- One advantage of hierarchical, process-laden organizations is that it's easy to figure out with whom you need to talk to. However, this hierarchy can become problematic when the business is trying to innovate and work at fast speeds.
+					- If everything seems under control, you're not just going fast enough. The business should always be outrunning the processes, so chaos is right where you want to be. And in a chaotic environment the only way to get things done is through relationships, not hierarchy.
+						- Take time to know and care about people. Note the little things-partner's and kids' names, important family issues.
+						- Make people smile. Praise is underused and underappreciated as a management tool.
+	- Innovation
+		- Google and Apple both tend to eschew traditional market research and rely on their ability to figure out what consumers will want. However, beyond this similarity their approach to innovations are dissimilar.
+			- Google tends to embrace openness to gain a large market while Apple favors closed products. Steve believed that the best experience for consumers comes from maintaining complete control.
+		- Innovation entails both the production and implementation of novel and useful ideas. Novel doesn't only mean offering something new, it should also be surprising and radically useful.
+		- Understand your context
+		  id:: 630d7d6e-dd0c-44aa-ac44-f378bdae6ab0
+		  collapsed:: true
+			- Google employs a simple Venn diagram to determine if it will pursue an idea.
+				- First the idea has to be something that address a big challenge or something that affects hundreds of millions or billions of people.
+				- Second, they have to have an idea for a solution that is radically different from anything currently in the market.
+				- Third, the breakthrough technologies that could bring that radical solution to life have to be least feasible, and achievable in the not too distant future.
+			- But before there can be innovation, there needs to be proper context for innovation. This is usually found in markets that are growing quickly and full of competition. Don't look for empty space and then be lonely.
+				- For example, Google search and e-mail was late to the party, not early.
+			- You also have to think how the technology will evolve. What is different now and what further change you expect? Do you have the latent to create sustainable differentiation within that evolving world?
+		- Innovation can't be owned and managed by one person
+			- Unlike other problems that need ownership and accountability to be solved. Innovation resists traditional, MBA-style management tactics. Unlike other things in business, it cannot be owned, mandated or schedule. "Innovative people do not need to be told to do it, they need to be allowed to do it." Innovation has to evolve organically.
+			- Not everyone is innovative as they can be more risk averse. This doesn't mean they aren't smart or creative, they're just not going to be the first person to act.
+				- So if a business wants to foster an innovative environment, not only are innovators allowed to innovate, everyone else should feel free to participate and thrive.
+					- It is important to weave innovation into the fabric throughout the company as you need the first follower to join. If we silo innovation into a department, you have attract some innovators but you won't have enough first followers.
+					- Robert Noyce, cofounder of Fairchild Semiconductor and Intel, said, “Optimism is an essential ingredient for innovation. How else can the individual welcome change over security, adventure over staying in a safe place?” Hire people who are smart enough to come up with new ideas and crazy enough to think they just might work. You need to find and attract those optimistic people, then give them the place to create change and adventure
+		- Focus on the user even if it degrades your profits in the short-term
+			- Product excellence is the only way for a company to be consistently successful.
+			- Always do what's right for the user, and your smart creatives will figure out how to make money from that perspective.
+			- Make sure you're talking to your customers as the end users and not your customers like users supervisors or bosses who don't actually use the product you're working on.
+		- Think big
+			- Most people don't think big, but incrementally.
+			- The benefits of thinking big is that it allows smart creatives much more freedom. It removes constraints and spurs creativity.
+			- Big bets also has a greater chance for success by virtue of their size: The company can't afford to fail.
+			- On the other hand, smaller bets that are non-threatening can end up in mediocrity.
+		- Set almost unattainable goals
+			- Set goals that look difficult but are actually easily doable to balance (failure from lofty goals and looking good from achieving too easy of goals)
+			- A good OKR marries the big-picture objective with a highly measurable key result. It's easy to set some amorphous strategic goal (make usability better...improve morale...get in better shape) as an objective. But a strategic goal is measured against a concrete goal, one with numbers such as increase usage of features by x percent then the OKR is useful.
+				- There is no ambiguity with good OKRs. It should be very easy to measure whether or not it is accomplished.
+			- A good OKR should be a stretch to achieve, and hitting 100 percent on all OKRs should be practically unattainable.
+				- If all your OKRs are green then you aren't setting them high enough.
+				- The best OKRs are aggressive but realistic.
+			- OKRs are not comprehensive, they are reserved for areas that need special focus and objectives that won't be reached without some extra oomph.
+		- 70-20-10 Resource Allocation
+		  collapsed:: true
+			- 70 percent of resources dedicated to the core business, 20 percent on emerging, and 10 percent on new.
+			- Example for Google: About 70 percent of the projects were related to the core businesses of search and search advertising, about 20 percent were related to emerging products that had achieved some early success, and about 10 percent involved completely new things that had a high risk of failure but a big payoff if successful
+			- A lack of resources forces ingenuity.
+		- 20 Percent Time (work outside your main projects for Google)
+		  collapsed:: true
+			- This process is actually more like 120%, since the time invested in projects outside your core work was spent during nights and weekends.
+			- This freedom to work on outside projects gave trust and freedom to people to experiment with cool ideas. It support Steve Jobs maxim that "you have to be run by ideas, not hierarchy"
+		- Good ideas come anywhere
+		  collapsed:: true
+			- Don't limit your company's idea generation to managers or even employees, you can get great ideas from your users or even outside your company
+		- Ship and iterate
+		  collapsed:: true
+			- The perfect is the enemy of good and real artists ship. New ideas are never perfect out of the gate and you don't have time to wait until they get there.
+			- Create a product, ship it, see how it does, design and implement improvements, and push it back out. Ship and iterate. The companies who are the fastest at this process will win.
+			- Not all products will get better even through a ship and iterate process. In a iterate and ship model, leadership's job must be to feed the winners and starve the losers, regardless of prior investment. Products that get better and gather momentum should be rewarded with more resources; products that stagnate should not.
+			- Launch products with a soft launch and its success should depend on its quality not artificial injection advertising and PR.
+		- Fail well
+			- To innovate you learn to fail well. Learn from your mistakes: Any failed project should yield valuable technical, user, and market insights that can help inform the next effort.
+			- Morph ideas, don't kill them: Most of the world's great innovations started out with entirely different applications, so when you end a project, look carefully at its components to see how they might be reapplied elsewhere.
+				- If you are thinking big enough there is something usually valuable left over.
+			- Management's job is not to mitigate risks or prevent failures, but to create an environment resilient enough to take on those risks and tolerate the inevitable missteps.
+			- If you are measuring the health of your innovation environment, you need to count the failures as well as the successes, to become more "antifragile"
+			- Good judgment comes from experience; experience comes from bad judgement.
+			- A good failure is a fast one. Once you see a project is not going to succeed, you want to pull the plug and as quickly as possible.
+			- Jeff Bezos points out "Just by lengthening the time horizon, you can engage in endeavors that you could never otherwise pursue. At Amazon we like things to work in five to seven years. We're willing to plant seeds, let them grow—and we're very stubborn. We say we're stubborn on vision and flexible on details."
+				- The key to failing quickly with a long horizon is to fail fast with established metrics that help you judge if, with each iteration you are getting closer to success. Small failures should be expected and allowed, since they often can shed light on the right way to proceed.
+	- Imagine the Unimaginable
+	  collapsed:: true
+		- A platform has a back-and-forth relationship with consumers and suppliers. There's a lot of give-and-take.
+		- Ask the hardest questions
+			- Sometimes the most effective way to help change and innovation outrun the antibodies of corporate entropy is to ask the hardest question. Understanding what you do about the future, what do you see for the business that others may not, or may see but choose to ignore?
+			- Pay attention to the questions you need to ask in order to catch the issues of the future.
+			- Start by asking what could be true in five years. Larry Page often says that the job of a CEO is not only to think about the core business, but also the future; most companies will fail because they get too comfortable doing what they have always done, making only incremental changes.
+			- Asking what could be true entails imagination: What thing that is unimaginable when abiding by conventional wisdom is in fact imaginable?
+	- Ask the hardest questions
+	-

@@ -1,0 +1,5 @@
+- **Definition**
+	- **Financial** - Top-down analysis is about seeing the big picture concerning the sectors or industries where investors want to make investments. After the identification of stocks and sectors, the next step involves observing the in-depth information as well as financial statements in order to make the final call for investment.
+	- **Management and Decision Making** - The top-down approach to management is when company-wide decisions are made solely by leadership at the top, while the bottom-up approach gives all teams a voice in these types of decisions. Below, we cover the details, pros, and cons of top-down vs. bottom-up management.
+- Resource
+	- https://www.instapaper.com/read/1525895884

@@ -1,0 +1,40 @@
+- ---
+  title: Books: Smarter Leaders Smarter Teams
+- tags:: #[[relationship building]]
+- ---
+- reference notes:
+	- Chapter 1 - How well does your team really work?
+		- How effective is the team you lead at reaching its most important objectives?
+		- How agile is your team at recognizing major challenges and deciding what to do about them?
+		- How accountable do other members of the ream really feel to each other for what the team must accomplish?
+			- What are the motivations for accountability? What type of motivators are better than others? #comment
+		- Team members were reluctant to hold their peers accountable, partly because they were concerned about putting others on the spot and, in turn, being challenged by others?
+		- People tend to be unaware when they're using unilateral control mindset. They use it automatically without thinking about it.
+		- People weren't saying in the team what they were really thinking.
+			- When people are asking questions of each other, of the few instances, it was mostly to make a point, rather than understand another member's view.
+		- Leadership with unilateral control mindset can led them to see it as solely their job to hold individual team members accountable, rather than placing a burden on them to hold each other accountable.
+		- Why Leaders Stay Stuck
+			- People tend to be unaware of using a unilateral control mindset. They use it automatically, without thinking about it.
+			- When people are consciously aware of using a unilateral control mindset, they believe that they're doing makes sense and that the behavior is for the good of the team and organization.
+			- A second reason leaders stay stuck in a unilateral control, one-leader-in-the-room approach, is the difficulty of imagining a workable alternative.
+			- Team members don't want conflict either, so they help leaders stay stuck. They depend on the formal leader's use of control, reinforcing it even as they complain about it.
+			- Leaders and members all think, "That's the formal leader's job. That is what leaders get paid for." Members expect the boss to make things happen without realizing that they themselves have a lock on the information on which action could be taken and need to be accountable for sharing that information, speaking up, and expressing their needs. As a result, all participants continue to act in ways that reinforce the roles and results they're dissatisfied with.
+		- Chang an unproductive mindset
+			- The reason leaders balk at the idea of shared leadership is that they are desperately clinging to control. But an effective approach for leading teams requires letting go of the mindset of control that results in one leader as the all-powerful, all-responsible sole decision maker for the group.
+			- The recommendation is for leaders to spread control around the team and redefine team leadership as the ability to share responsibility for the team's functioning.
+			- Team member also need to change
+				- They need to see that leadership issues are not solely only he concern of the team's formal leader, and that team leadership can come from everyone on the team.
+				- All team members need to see that at any time they can voice an observation that the team is making some perilous untested assumption. Any team member can and should help the team identify key interests that are in conflict as the team tries to solve a problem.
+		- Team  Members Share Accountability Among Themselves
+			- Team issues that team members would normally not address at all or talk about only to the leader become issues for them to address with the team. This includes their concerns about the team not meeting deadlines and about how work quality differences among team members may be creating a negative impact on them and other team members. This type of approach requires letting all team members identify, what their strengths are and what areas they are trying to develop, so that they can give each other feedback and support.
+			- With shared accountability for team leadership, the team also needs to share a clearly defined common purpose and set of values.
+			- When the entire team has a shared understanding of and commitment to a common purpose and values, then the purpose and values themselves become guides by which team members can each assess their own performances.
+			- If your organization has been led using a unilateral control approach, it's a good bet your team structure will also reflect and reinforce that pattern in ways that undermine attempts to do such things as spread accountability.
+			- On feedback
+				- Anonymity prevents you from learning who gave you the various rating and what led them to do so.
+				- Without specific examples, you can't learn exactly what people mean why they rate you with "2" on "provides clear direction" or on "responds to my concerns."
+				- You can't easily get help improving your behavior from the people who made the comments.
+			- Using the same core values and assumptions means you are acting consistently and —if you choose good values and assumptions—developing integrity. People come to know you as the same person, regardless of the situation you're in.
+		- Mindset is key to changing how you lead
+			- If you want to change results, you need to change the mindset that causes you to behave the way you do.
+			- Simply learning new techniques or changing behavior without changing your mindset is likely to lead to more of the same problems you're encountering now.

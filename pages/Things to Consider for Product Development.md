@@ -1,0 +1,29 @@
+- #Ideation
+	- ((630adabf-cd28-45ea-961e-4ae26fe7a87a))
+		- ((630adabf-f3fd-4eed-87e1-cefc0b103124))
+	- Innovation
+		- {{embed ((630d7d6e-dd0c-44aa-ac44-f378bdae6ab0))}}
+- Planning Phase
+	- Methodology, Planning and Frameworks
+	  collapsed:: true
+		- ((630adabf-839f-4f15-99d8-551efabae123))
+			- ((630adabf-dc77-4bfb-9a97-8edd35a49c58))
+		- ((630adabf-b757-4bbd-a7a3-33a65f29adbb))
+	- Defining the Problem
+	- Defining the Product
+	  collapsed:: true
+		- ((630adabf-f289-4422-874a-dcef629bb441))
+	- Strategy
+		- [[Template for Product Planning]]
+		- ((630ae7da-5d97-420b-82f2-1e547bfa43e5))
+		- Consider the frames to view your solution. A solution may work under one lens but may be considered a failure when viewed under a different perspective.
+			- Scalability, sustainability, reusability, and maintainability, enterprise vision
+		- Consider how your solutions will work in the future
+- Execution
+	- Functionality
+		- {{embed ((630adabf-e744-47ef-80b9-a92ef457015f))}}
+	- Create an alarm system to signal when you maybe wrong and need to pivot
+		- ((630adabf-9cbf-4d52-850d-d31f2c01e635))
+	-
+-
+-

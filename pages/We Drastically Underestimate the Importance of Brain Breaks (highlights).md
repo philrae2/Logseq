@@ -1,0 +1,14 @@
+title:: We Drastically Underestimate the Importance of Brain Breaks (highlights)
+author:: [[Youki Terada]]
+full-title:: "We Drastically Underestimate the Importance of Brain Breaks"
+media:: #articles
+url:: https://www.edutopia.org/article/we-drastically-underestimate-importance-brain-breaks
+
+- Highlights first synced by [[Readwise]] [[2022-12-20]]
+	- An Inside Look
+	  
+	  When we learn a new skill, we need to connect it to previous memories, explains Cohen, a process called “binding.” For example, when learning how to play piano, our brains need to link a simple action—pressing a piano key—with a larger, more complex skill, such as playing a song. Until now, scientists have been unable to decipher how the brain connects these two discrete actions into a consolidated skill.
+	  
+	  Cohen’s team discovered that after learning new information, our brains continue to whir, using cognitive downtime as a virtual staging ground to process, organize, and integrate learned information. The key, they believe, lies in *neural replay*, the “temporally compressed reactivation of neural activity patterns representing behavioral sequences during rest.” In other words, after practicing a skill, our brains rapidly cycle through the experience, compressing and imprinting the material to optimize storage and recall. ([View Highlight](https://read.readwise.io/read/01gmpp6vasvkfddg4xmgabed37))
+	- We greatly underestimate the value of breaks when learning, Cohen and his colleagues assert, commonly opting for an approach that views active practice as the only way to advance. But that’s a mistake, because incorporating breaks into learning “plays just as important a role as practice in learning a new skill. It appears to be the period when our brains compress and consolidate memories of what we just practiced.” ([View Highlight](https://read.readwise.io/read/01gmpp78fynkmcpvq13qgzt3zj))
+	- As the school day progresses, there’s evidence that brain breaks become increasingly important. A [2016 study](https://doi.org/10.1073/pnas.1516947113) found that “cognitive fatigue” sets in toward the end of the day, leading to a notable drop in test performance: For every hour later in the day, test performance decreased by 0.9 percent of a standard deviation, the researchers found—roughly the equivalent of losing 10 school days’ worth of learning. Incorporating breaks, however, not only eliminated the decrease but actually increased performance. “Importantly, a break causes an improvement in test scores that is larger than the hourly deterioration,” the researchers discovered. “Breaks, it appears, recharge students’ cognitive energy, thus leading to better test scores.” ([View Highlight](https://read.readwise.io/read/01gmppwb3dm9f9tte3n1ge29mv))

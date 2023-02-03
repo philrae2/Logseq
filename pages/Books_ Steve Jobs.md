@@ -1,0 +1,133 @@
+tags:: Steve Jobs, [[SecondReview]], quality work, work ethic, product development, career development
+napkin.one:: todo
+
+- Takeaways
+	- [[Strive for perfection by caring about the crafting process that drives the quality of your work]]
+	- [[As much as possible validate second hand information or information that is important to be true]]
+	- [[Carefully design your solutions and balance customer service with appropriate design strategy]]
+	- [[To create quality learn to focus on a few things instead of spreading yourself too thin on too many projects]]
+	- [[A greater level of integration among collaborators increases quality]]
+	- [[Tim Cook's leadership principles under Apple]]
+	- [[Strive to create or find the most simple and elegant solution]]
+	- [[Find and work with great thinkers]]
+- Chapter 1
+	- It was important, his father said, to craft the backs of cabinets and fences properly, even though they were hidden. "He loved doing things right. He even cared about the look of the parts you couldn't see."
+	  id:: 62dc5ca2-12f6-4a46-987a-d3fafd193cdf
+		- The drive for perfection meant caring for the craftsmanship that remained
+			- In his work at NeXT, Steve Jobs took perfection to the extreme designing a perfectly cube computer. The design and manufacturing process skyrocketed to complete due to his stringent perfectionism.
+			- Don't be afraid to fix the tiny little details until it is perfect.
+			- Be aware of balancing perfection and shipping
+				- Steve Jobs projects were over budget and late, but they would ship something uncompromised
+				- Even though the Macintosh was designed well, after months of functioning it started to fail because it was underpowered and lack a fan and no hard drive.
+		- **Steve Jobs saw himself and his team as artists and their products as their art**. They would sign their first Macintosh computer when it was released. (We should also see that our output as an extension of ourselves and not be willing to put out crap)
+			- Steve cared about the details
+	- Steve refused to accept automatically received truths, and he wanted to examine everything for himself.
+	  id:: 81ee116b-aaee-494e-8b93-baa46bcbf20a
+	- ^^Learn to push for greatness and excellence. Don't take "no" for an answer. Don't settle for low [[quality]]^^
+	  id:: 9d8c604e-0051-4c55-a622-7908af6eb451
+	- **Be humble but know how to assess your own worth and other's people as well. Work with people who are smarter than you. **
+		- Steve Jobs lacked, almost willfully tact. He did not hesitate saying things were dumb and put people down to show that he was smarter.
+	- The Apple Marketing Philosophy
+	  id:: 62dc5ca2-a104-459c-9f10-6f7e0105d9f6
+		- ^^1. [[Empathy]] - an intimate connection  with the feelings of the customer: "We will truly understand their needs better than any other company."^^
+		- ^^2. [[Focus]]- "In order to do a good job of those things that we decide to do, we must eliminate all of the unimportant opportunities^^
+		  id:: a4b10fba-3f47-4249-8f01-8f51d35b8a40
+		- 3. Impute - people form an opinion about a company or product based on the signals that it conveys. "People do judge a book by its cover. We may have the best product, the highest quality, the most useful software etc.; if we present them in a creative, professional manner, we will impute the desired qualities."
+- ^^Be [[passionate]] about your work to care deeply about the final product and outcome^^
+  id:: 9b33c613-fccf-4d9a-b21d-4ae5b72e72db
+	- ^^Always look for improvements, look at the bigger picture^^
+	- The goal is never to beat the competition, or to make a lot of money. It was to do the great thing possible or even a little better.
+	- [[P: As a knowledge worker we should craft our decision making, information and our information output with care, design and passion for details similar to what craftsman, artists, and product designers do for their art]]
+	  id:: 62dc5ca2-73fa-44f6-b8ba-4168a588f68d
+- #[[product development]] ^^Make your designs simple. "God is in the [[details]]"^^
+  id:: 50dcc188-415e-4ca6-abf9-8f3a04d126fe
+	- The modernist International Style championed by the [[Bahaus]] taught that design should be simple, yet have an expressive spirit. It emphasized rationality and functionality by employing clean lines and forms. 
+	  id:: b6c5b1e4-3d8e-48cc-b3e1-47240539d69e
+	- Jobs felt that design simplicity be linked to making products easy to use. Those goals do not always go together. Sometimes a design can be so sleek and simple that a user finds it intimidating or unfriendly to navigate. "The main thing in our design is that we have to make things intuitively obvious," Jobs told the crowd design mavens. 
+	  id:: f3e0c648-7d70-4581-8cad-fe8e2c5bae39
+- #talent Steve Jobs was good at finding talented people and making things with them.
+  id:: 8c68b8dd-92b7-4fb8-95d7-8c4171f46b18
+- Steve Jobs was unabashedly self-centered. Where his confidence created brilliant products but also expensive failures. But Steve Jobs had a lot of ideas where some succeeded brilliantly while other endeavors failed.
+	- He saw the greatness of what Pixar could become in Lucas Arts and invested heavily in them. While Pixar started out as a graphics software company, Steve Jobs commissioned short files under Pixar which eventually pivoted it to be a movie studio.
+- Steve Jobs had incredibly high standards. When he didn't like the calligraphy artist for his wedding, he told his fiancée to get rid of her because he thought her work was shit.
+	- For Toy Story, Larry Ellison watched so many versions of Toy Story he says "Steve Jobs is so obsessed with getting it right—both the story and the technology—and isn't satisfied with anything less than perfection.
+- Steve was also thoughtful and mindful of his choices. For example, buying furniture and appliances was a philosophical discussion. For example, American washers and dryers compared to European washers and dryers. Americans take more soap and water while taking a shorter time to finish the job compared to European washers that take less water and soap but take longer to run.
+- Material possessions often clutters life rather than enrich it.
+- The Second Coming
+	- NeXT was a failure. Steve had to license the OS to other computers, stopped making the hardware, sell off the factory, and had to layoff half the workforce.
+	- Steve Jobs cared deeply for his projects. He wasn't out there trying to profit, he wanted to create great products.
+		- Regarding Apple under Sculley in the 90s. Steve said __"Sculley destroyed Apple by bringing in corrupt people and corrupt values...They cared about making money—for themselves mainly, and also for Apple—rather than making great products."__
+	- Steve Jobs could be charming to people he deeply hated as well as awful to those he liked.
+	- Steve Jobs craved perfection and he was indecisive and reticent when he felt unsure about something.
+	- A long-lasting company is one that knows how to reinvent itself.
+	- Steve Jobs was very passionate and emotional about he products that Apple was making.
+- #challenges #obstacles #motivation #[[Problem Solving]] A problem you are facing now can be the motivator for a solution that can ensure your future [[success]]. So solve those problems now, don't run away from them.
+- #collaboration #[[Project Management]] Apple was able to design elegant solutions because every team was working closely on the project
+	- In order to institutionalize the management philosophy at Apple, Steve hired [[Joel Podolny]] who was the dean of of Yale Business Management, to compile a list of case studies analyzing important decisions the company had made, including the switch to Intel processors and the opening of the Apple stores.
+- #Control #leadership
+	- Steve Jobs loved tight control of Apple's products, so he resisted the call to license the mac operating system.
+	- He excelled as a leader through pushing innovation through by both understanding the big picture and attention to the details
+- #creativity
+	- Creativity comes from spontaneous meetings, from random conversation. 
+	  id:: 06adfefa-acc5-4829-8404-c9a12745767d
+		- Jobs designed the new Pixar building to promote spontaneous discussion and unplanned collaboration.
+- #curiosity
+	- Curiosity is very important.
+- #[[customer service]]
+	- Some people say "give the customers what they want. But our job is to figure out what they're going to want before they do."
+	  id:: 62dc5ca2-79b3-4974-81bb-62428e83ba60
+		- ^^People don't know what they want until you show it to them. Our task is to read things that are not yet on the page.^^
+- #[[detail oriented]] Johnny Ive was a son of a silversmith, a craftsman, and from his father, like Jobs, was detailed oriented. He deemed it important to put care in your work. He despised carelessness especially when solutions and products showed it.
+  id:: 62dc5ca2-982d-4af9-9f39-3ba7f52674f7
+	- Ive enjoyed analyzing the philosophy and the step-by-step thinking that went into a particular design.
+- #expectations #[[high standards]] #performance Under Steve there was zero tolerance of underperformance.
+- #focus Job's greatest strength was [focusing]([[focus]]). Deciding what not do is as important as what to do.
+  id:: 62dc5ca2-66bf-48b4-8863-2d472a66530a
+	- Steve's management mantra was focus. He eliminated excess product lines and cut extraneous features in the new operating system software.
+	  id:: 630adab2-c792-42b3-bc22-5eae7efb0a38
+	- If we are smart we shouldn't waste our time on spending resources on crappy products. The ability, to focus saved Apple when Steve came back as CEO.
+	- Steve Jobs eliminated and pruned unnecessary projects and instead focused on one to three things a a time. He focused on his goals.
+	- Steve Jobs attributed his ability to focus on his zen training. It allowed him to hone in his appreciation for intuition to filter out anything distracting or unnecessary, and nurtured a minimalist aesthetic.
+- #improvement
+	- Steve Jobs like other tech CEOs, like Jeff Bezos never got comfortable with their current products,
+- #[[integrated design]] Steve believed that Apple's greatest strength and advantage was its integration of the whole widget—from design to hardware to software to content—he wanted all the departments at the company to work together in parallel.
+  id:: 62dc5ca2-8634-4a57-8b65-046b25211318
+	- The work done was collaborative and integrated.
+	- Apple was able to outmaneuver Sony in product development because the key departments and divisions of Sony were too busy protecting their own interests. They weren't able to collaborate and integrate.
+	- > We do these things not because we are control freaks. We do them because we want to make great products, because we care about the user, and because we like to take responsibility for the entire experience rather than turn out the crap that other people make.
+- #innovation #desire
+	- Steve Jobs was quick to snuff out ideas so Ives wouldn't show in process work too early to Steve for fear that it might get killed. Ideas are tender early in the process.
+	- Sometimes easy solutions can constrain leaps and bounds of innovation. Steve vetoed putting a physical keyboard to the original iPhone design.
+	- Steve understood desire. Are our solutions and products desireable?
+- #leadership
+	- [[Tim Cook]] on Apple's motivation as a company on a conference call
+	  id:: 62dc5ca2-353d-44fd-ba2a-51213959834c
+		- Belief in making great products
+		- Belief in the simple, not the complex
+		- Saying no to thousand of projects to focus on the few that's meaningful and important
+		- Belief in deep collaboration and cross pollination of our groups that allows Apple to innovate in ways others cannot.
+		- We don't settle for anything less than excellence in every group in the company
+		- Self-honesty to admit when we're wrong and the courage to change
+		- #excellence
+			- I figured out that it was always my job to make sure that the team was excellent and if I didn't do it, nobody was going to do it.
+- #Negotiation #compromise
+	- [[Bob Iger]] unlike Jobs or Eisner was a good negotiator that didn't make enemies. He had a disciplined calm. "Every negotiation needs to be resolved with compromise. Neither one of them (Eisner or Jobs) is a mater of  compromise."
+- #perfection
+	- Steve was deeply passionate about technology and the products Apple was creating. Nothing less than perfect satisfied him.
+	- ^^**Steve tried to ensure that he was hiring only A-players. He said that A-players liked to work with other A-players, they don't like to work with other C-players.**^^
+	  id:: 62dc5ca2-df71-4ae4-ae1e-b3da8683c9b1
+- #presentating Jobs hated people using PowerPoint, people tend to rely on presentation software instead of thinking deeply about a topic and creating true dialogue. He banned the use of PowerPoint at Apple.
+	- #storytelling No one is eager to be lectured, but everybody love a story. The best way you can begin a speech is "Let me tell you a story"
+- #relationships
+	- Jobs fostered relationships with people he admired (U2, Bob Dylan) but was unafraid to voice his opinions and not let his own goals be trampled on.
+- #simplicity
+	- At every step of making the iPad, Steve pushed for the purest form of simplicity. This required determining the core essence of the device (the display screen). He pushed to remove and simplify features.
+	  id:: 62dc5ca2-caf3-4566-85ce-0ca712d14279
+	- Simplicity is the ultimate sophistication Jobs said. He aimed for simplicity that comes from conquering complexities, not ignoring them. It takes a lot of hard work to make something simple, to truly understand the underlying challenges and come up with elegant solutions.
+	  id:: 62dc5ca2-6aff-4657-990b-40ad89f1a1ef
+	- Steve's job approach to everything including the iPod was to simplify.
+	  id:: 62dc5ca2-945d-4281-897a-916f3ec09e36
+- #technology #creativity Steve Jobs on technology and creativity. Tech companies don't understand creativity. They don't understand intuitive thinking.
+	- [[When creating something motivations matter]]
+		- The Zune was bad because the people who made it didn't really love music and art the way Apple did. They made the iPod for themselves and when you're doing something for yourself or your best friend or family, you're going to do your absolute best, you're going to go to the extra mile, the extra weekend.
+		  id:: 62dc5ca2-b073-4d04-9311-c40b13a171d0

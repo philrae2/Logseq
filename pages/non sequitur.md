@@ -1,0 +1,2 @@
+- literal meaning: "it does not follow"
+- It describes a reply that has no relevance to what preceded it, a conclusion that does not follow from any earlier statements or evidence.

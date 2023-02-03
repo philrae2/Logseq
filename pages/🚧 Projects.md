@@ -1,0 +1,102 @@
+---
+title: 🚧 Projects
+---
+
+- Roadmap
+	- Options (1 - 3) Months - Not committed
+		- ((62dbf0c3-0f50-4bad-9ba9-490003a31681))
+		- ((62dc5c9d-ebf8-4654-92cc-c973b0b2a082))
+	- 4 Bets to consider (1 - 3) Months - More detailed
+	- On Deck - if necessary break down to simpler related stories - Bet refinement
+		- Review [[The surprising science of meetings]]
+			- Create a template after review
+	- In Progress
+		- [[Create a resource page for filtering information from consumed media]]
+		- Make actionable templates from productivity books
+		  id:: 62dc5cc7-5924-465e-a1a9-cc8fb2d37718
+			- [[Problem Solving Algorithm]]
+		- Finish reading [[Books - Grand Strategy]]
+		- Create [[Taxonomy - Development]]
+		- Reading [[Influence is your Superpower]]
+		- Create meeting writeup template for work
+			- ((2a9dde20-68bc-45dc-a136-6176b910a7fa))
+	- Release - Monitor
+- [[Mission]]
+- [[📥inbox]]
+  collapsed:: true
+	- To take/Read
+		- [Learner Reviews & Feedback for On Strategy : What Managers Can Learn from Philosophy - PART 1 Course | Coursera](https://www.coursera.org/learn/management-philosophy/reviews)
+- [[Lessons Learned]]
+- [[Things to communicate]]
+- #[[Professional Development]]
+	- [[Work Ideas]]
+	- [[Work Projects]]
+		- [[Create thinking tools]]
+	- [[Professional application]]
+		- [[q: How do we transform our insights into actions?]]
+	- [[P: My Professional Accomplishments]]
+	- [[Personal Goals]]
+		- [[Learn Programming]]
+			- Learn Python
+	- [[OBI Goals]]
+	- [[OBI]]
+		- [[OBI Risk Register]]
+		- [[Q: What are the biggest problems OBI should be solving]]
+		- [[OBI SharePoint Project]]
+		- [[Orange Book Project]]
+			- [[Orange Book Requests]]
+			  id:: f7538201-9ee8-4edd-9d20-7a73f5890b6d
+		- [[Onboarding Project]]
+		- [[PM Guide]]
+		- [[OBI: Customer Engagement]]
+			- ((9a3134f9-be9d-486f-8392-39b7e5e4ad0b))
+	- [[Templates]]
+		- [[Business Analysis]]
+			- [[Requirements Gathering]]
+	- [[Tools for Business]]
+		- [[backcasting]]
+		- [[premortem]]
+		- [[postmortem]]
+- Personal Development
+	- [[TAPs]]
+	- [[Courses]]
+		- [[Effective Thinking Through Mathematics]]
+		- [[Learn to Program]]
+		  id:: ce345c1b-07a2-4118-a2d9-2fbdb718b63e
+		- [[python]]
+			- [[Python for Everybody]] + [[Coursera]]
+				- Chapter 3 - [[March 19th, 2021]]
+			- [[The Complete Python Course]]
+				- Folder 3
+			- [[Python Basics + [[EDX]]]]
+		- [[Project Management]]
+			- [[Google Project Management Certificate]]
+				- Foundations of Project Management
+					- week 3
+					- week 4 - [[March 22nd, 2021]] - complete
+				- Project Initiation: Starting A Successful Project
+		- [[Data Science]]
+			- [[Google Data Analytics Certificate]]
+				- week 1 - skip
+				- week 2
+				- week 3  - done
+	- Learning
+		- [[Feynman Technique]]
+- [[seedling]]
+- [[OBI]]
+	- OGD
+		- [[Suitability Petitions]]
+		- [[OM WER]]
+	- [[OBI Projects]]
+		- [[OBI SharePoint Project]]
+		- [[PM Guide]]
+		- [[Orange Book Project]]
+			- [[OB Phase 2]]
+- ((ee15e7cc-27aa-46b3-a10f-62ad3d4acdaf))
+	- Work Supervisors
+		- [[PM Guide]]
+		- [[Onboarding Project]]
+	- Clients
+		- [[Orange Book Project]]
+	- Colleagues
+		- [[Onboarding Project]]

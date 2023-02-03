@@ -1,0 +1,101 @@
+---
+title: Requirements Gathering
+---
+
+- Customer Engagement
+	- Resources
+		- [[Books - Succeeding as a Management Consultant: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al.]]
+		- [[Books: MITRE System Engineering Guide]]
+	- ((a28385b1-95df-4867-9075-a08e3e978d88))
+	- Preparing for the engagement
+		- Prepare before meeting with the clients
+			- Fully understand as much about the client and the problem
+			- Develop possible options and use the engagement to test the options
+			- Reading and Planning
+				- ((3f0843d0-bcd0-41e3-b7f6-428b80ee295e))
+			- Issues
+				- ((3c4b6428-c14d-4ab3-bf0b-04ff0ad99ff3))
+				- Themes
+					- Once the issues list is compiled, categorize them into themes to uncover patterns, sets of items, and developing themes.
+						- Limit the themes to eight for a client or problem to solve
+				- Key Questions
+					- The themes can help provide discussion on the key questions to spur debate for better understanding of the engagement.
+					- ((3119aa64-a325-4723-98e5-1a73e5de18be))
+						- Sometimes clients raise the wrong question, which the client thinks must be answered.
+						- Many consultants get too focused on answering the question posed by the client, but perfectly answering the wrong question will not help the client. Therefore the team ensures they are asking the correct question in the egagement.
+						- They ask themselves, "If we solved this question posed by the client, would the problems at the client be resolved."
+					- Once the key questions are identified. Further break down the questions into manageable and easier questions to answer.
+						- ((f85fdbea-1644-4240-994f-907a2e02f9d6))
+						- ((ebc854e8-9024-4d8b-95ae-fc19ff44d05c))
+					- ((f13c6cd1-047e-4d3f-b52c-71217d2859b8))
+						- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F0H1d-41FkB.png?alt=media&token=a10a1fff-0e69-4c9c-9caa-433a6f85c01b)
+						- The team will then refine the decision tree analysis to look for gaps through testing. If they can't test or group into themes, are they missing some questions? Are the questions relevant? Must the questions change?
+							- The issues are then mapped to the decision tree using post-it notes to see visually where the issues lie. Is the analysis skewed to one or two parts of the question? Have they been unable to find issues in certain areas (lack of post-its). This will inform the team why part of the tree was ignored.
+							- In the decision tree with the most issues, the team can assume that this is a priority area for the client.
+							- For the top three or five branches, hypotheses can be developed explaining why the problem is occurring or what can be done to fix the problem.
+						- Engagement is not a static process and new information will be discovered to influence changes in priorities and cause the decision tree to change.
+						- Using the decision tree the team can also develop the likely answers to the questions and this helps develop the storyboard. The story board is the messaged communicated to the client based on the expected results.
+						- The engagement allows us to prove or disprove the hypotheses formed from the decision trees.
+						- This process is iterative and may require the team to go back and create new analyses and repeat the process.
+				- Prioritize the key questions and Issues / Benefits
+					- Are the opportunities mutually exclusive or are we double counting benefits
+					- Does this opportunity makes sense? Will it actually work as described?
+					- What is the impact of doing this?
+					- Is this opportunity worth pursuing? What are the returns and cash flow patterns?
+	- Meetings
+- ((894e7956-23c9-4170-9560-2a41227f0397))
+- [[Project Charter]]
+	- ((104ac307-f3af-4dc4-8ce0-dae904ee9abf))
+		- It helps to set expectations from both sides. The engagement manager uses the charter to understand the work the team will do, and the team can tell the manager what they intend to do. The charter ensures that no one can claim ignorance about the way forward. Both sides can proceed, having a good idea of what to expect.
+		- The manager uses the chart to manage client expectations and the rest of the engagement team.
+		- The charter becomes an important tool to manage the performance and performance review of consultants both during and after the engagement. If expectations are written down, it is much easier to measure performance.
+		- From a legal perspective, if the client agrees to the charter, it is much more difficult to claim the work was not done, or they misunderstood what they would receive.
+	- ((8a4d16c6-d7ee-4bb9-b789-01d2c84ecba5))
+	- ((e40ac83d-2fd9-4c0b-9be2-cb93290356cd))
+	- ((348b8cc4-77ba-49a0-9beb-f995b8bce271))
+		- Objectives
+			- The objectives are the reasons why the business case team exists in the engagement.
+		- Scope
+			- Determining the scope is important. It creates the boundaries for the business case team. Many engagements become difficult to manage because the scope is not clear. If it isn’t, the engagement continues to increase in size since the client can request more work to be done or the consultant may keep adding superfluous analyses. Unclear boundaries can make it difficult when a request for work falls outside the agree-upon boundaries. The scope could be described along such dimensions as geography, level of detail, value chain, or parts of the company analysed.
+		- Key Activities
+			- This section lists the main clusters of activities that are critical to reaching the objectives above. This is the critical path for this team. These are the activities that must be done to generate the deliverables. No matter what happens, the team must complete these activities.
+		- Deliverables
+			- If the objectives of a work stream are defined as what the team wants to accomplish at the end of the engagement, the deliverables are the work and insights to be provided to the client at the end of the eight-week engagement.
+			- Consulting firms never present solutions/answers. They always present the implications of various options, and it is up to the board to decide the way forward. A consulting firm cannot and should not try to make a decision for the board of directors. This is a critical and subtle choice of language.
+		- Critical Success Factors
+			- Most consultants forget to write down what they need to make this engagement successful. If we do not explicitly state our requirements, we may not get them. Should this happen, it is difficult to blame anyone since they did not know the business case team’s requirements. Therefore, CSFs are the business case team’s requirements from the client and the broader team to ensure they can meet their expectations.
+				- Client commitment
+				- Timely access to key personnel within Goldy and access to the CFO
+				- Timely access to key external stakeholders
+				- Timely access to information
+				- Accurate data Clear, open, and honest communication between the engagement manager, consultants, and client
+			- We know that not everything we need to be successful will come our way. By carefully listing our requirements, however, the engagement manager, client, and our team can regularly check to ensure they are on track and receiving the support they need. Should the direction of the engagement change or scope increase, we can always revert to the charter and understand how the changes will affect their ability to deliver. If the proposed changes distract the team from their objectives, they can use the charter to reject such changes.
+- ((6eeb788f-bc93-438b-b60c-0e2eb7961458))
+	- The goal of the top-down analysis is to find areas where a problem could exist, determine the likely benefit of fixing the problem, and a very rough validation with employees.
+	- Avoid overanalyzation of the wrong hypothesis. Make sure the hypothesis proposed is the correct one to test and analyze.
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FPopcNa3JcJ.png?alt=media&token=9f6c513f-4013-40ce-b032-68cfd068230e)
+	- Even if we conduct the analysis correctly, make sure the interpretation is correct.
+	- Early hypothesis must be paired with early validation of your thinking. If the focus of the hypothesis were on the wrong issues, course correction will be difficult and costly to achieve at a later date.
+	- ((afe48e06-06b8-422e-b73e-08881534281a))
+		- A key tool that should be deployed on every engagement. The process of developing the interview questions forces the teams to think about whether they have the correct hypotheses, and how they could collect the data to test them. Some hypotheses can be rudimentarily tested with the focus interview feedback. The design of the questions also explicitly forces the team to go broader than their hypotheses to determine if other issues exist, and we don't overlook issues.
+		- We need not be distracted with perfecting solutions or refining our hypotheses without first making sure we have the correct hypotheses in place.
+		- Without a focus interview, many consultants have a tendency to recommend best practices, gleaned from desktop analyses, without thinking through the impact.
+		- Focus interviews rarely identify the wrong themes to be analyzed. After conducting multiple interviews, clear themes will cluster and the themes at heart is fairly accurate, even if employees may not be able to articulate clearly the implications of the problem.
+			- Employees are at the frontline, and the frontline is rarely blindsided
+- ((4f6c02f5-7a40-4573-a7c8-4ee682ab5d54))
+- ((16b4833a-e141-4a44-b4ce-7911cd49ad45)) -if needed?
+	- ((fe0d3a94-1f87-4ed0-8df6-12820bd05bf7))
+- ((71cf3f94-f13b-44b2-948d-4172cda9cb08))
+- ((43fecc5a-3c4f-4e2a-a493-26e2525eae9c))
+- ((bea08337-ea70-4514-a849-c0f19e7fc355))
+	- ((d818767a-d0e8-4a92-9f80-8c400f634ceb))
+		- ((18a741ad-8cb0-4e5b-bd8b-3f09de198f5f))
+		- ((db32dbbf-b6cb-4206-8bf0-ad847ed0afcc))
+	- Conduct prototyping and experiments to support early and continuous discovery activities
+		- Mimic the real world as possible during preProd
+		- Use modeling and simulation to explore interactions
+	- Development a measurement capability to track your progress, ensure quality of outcomes, and hold accountability
+		- Are you creating value regarding your role as a PM and directly related PM processes (not necessarily the output/outcomes yet)
+		- ((e810c3aa-194c-45ce-a148-d894059b5272))
+		- ((2fba7c51-4a84-4c26-9f9f-a4454688028e))
+- ((dc576b39-ac3e-4aca-9f0b-7603841e40c1)) - If needed?

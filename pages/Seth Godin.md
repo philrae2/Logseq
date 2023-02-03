@@ -1,0 +1,5 @@
+---
+title: Seth Godin
+---
+
+- #Tribes

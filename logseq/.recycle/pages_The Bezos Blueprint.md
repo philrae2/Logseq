@@ -1,0 +1,732 @@
+author:: Carmine Galio
+media:: book
+
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Reading Notes | <<The Bezos Blueprint - Carmine Gallo>>2022-12-14 10:27  |  Page No.: 13
+	  According to Ann Hiatt, who worked three feet from Jeff Bezos for several years, “The greatest gift in my life has been sitting next to the smartest CEOs in the world and learning step-by-step how they think, act, motivate, and make decisions.”4 Hiatt says the most important habit she learned from her former boss is to prioritize learning. She says Bezos walked into the office each morning with three newspapers tucked under his arm. Once he was finished reading them, he moved on to articles and briefing documents
+	  -------------------
+	  2022-12-14 10:30  |  Page No.: 15
+	  “Smart people are a dime a dozen and often don’t amount to much. What counts is being creative and imaginative. That’s what makes someone a true innovator.
+	  -------------------
+	  2022-12-14 10:31  |  Page No.: 15
+	  Bezos shares traits with Isaacson’s other subjects: a passionate curiosity, a fervent imagination, and a childlike sense of wonder. According to Isaacson, Bezos also has a “personal passion” for writing, narrative, and storytelling. Bezos connects a deep interest in communication and a love of the humanities to his enthusiasm for technology and instinct for business. “That trifecta—humanities, technology, business—is what has made him one of our era’s most successful and influential innovators.”
+	  -------------------
+	  2022-12-14 10:32  |  Page No.: 16
+	  Jeff Bezos isn’t Ernest Hemingway, but his mission is not to write the next great American novel. Both writers, however, share something in common: Although their topics are complex, their writing is simple and accessible to most readers. Simplicity matters. According to a study in the Harvard Business Review, “Simplicity increases what scientists call the brain’s processing fluency. Short sentences, familiar words, and clean syntax ensure that the reader doesn’t have to exert too much brainpower to understand your meaning
+	  -------------------
+	  2022-12-14 10:44  |  Page No.: 28
+	  If you want to be successful in business (in life, actually), you have to create more than you consume. Your goal should be to create value for everyone you interact with. Any business that doesn’t create value for those it touches, even if it appears successful on the surface, isn’t long for this world. It’s on the way out
+	  -------------------
+	  2022-12-14 11:06  |  Page No.: 28
+	  Trimming the length of sentences and replacing long words with short ones reduces the amount of mental energy required to absorb your idea. Why does that matter? Because our brains are not made to think. Our brains are made to conserve energy
+	  -------------------
+	  2022-12-14 11:07  |  Page No.: 29
+	  If you care about being thought credible and intelligent, do not use complex language where simpler language will do,” writes Kahneman in his groundbreaking book Thinking, Fast and Slow. Persuasive speakers, says Kahneman, do everything they can to reduce “cognitive strain.” Anything that requires mental effort adds to the load that people carry in their heads while reading or listening. Every unfamiliar word, every unknown acronym, every convoluted sentence, every new idea—all add to the load. If you keep adding weights to the load, your reader or listener will drop everything and give up. Kahneman says that “cognitive ease” offers a more pleasing experience, and when people are pleased, they’re more likely to support your idea
+	  -------------------
+	  2022-12-14 11:10  |  Page No.: 30
+	  Jobs wanted to build a personal computer that was so easy to use out of the box it could ship with no instructional manual. “That was the number one goal,” Elliot recalls. But the mouse—a device to control the computer—was so foreign to people, the Mac team realized that an instruction manual had to accompany the product
+	  -------------------
+	  2022-12-14 11:12  |  Page No.: 30
+	  During a meeting with Elliot, Jobs, and some marketing folks, someone in the room suggested that the manual should be simple enough for a twelfth grader to read it, understand it, and learn to work the computer from the text alone.“Fine,” Jobs said grudgingly. “Jay, go to a high school and find a twelfth grader to write the manual.”Jobs wasn’t joking. Elliot visited high schools in nearby Cupertino and held contests to find a good writer. They found a student writer and brought him to a secret facility where the twelfth grader could sit with the Macintosh, play with it, and figure it out. The Macintosh was the first personal computer simple enough for the average person to use, accompanied by a thin manual written for anyone with a high-school-level education. It contained simple sentences, such as:“You’re about to learn a new way to use a computer.”“This chapter teaches you what you need to know to use your Macintosh—how to create documents (the name for anything you create on Macintosh), make changes to them, and put them away.”“The finder is like a central hallway in the Macintosh house.”“Part of Steve’s genius was that he looked for the right people to help keep everything simple—from design to content,” says Elliot.Great communicators don’t start with what they know; they start with what the audience knows
+	  -------------------
+	  2022-12-14 11:15  |  Page No.: 32
+	  Investors needed to know—in simple language—what problem the product solves, why it matters that the company is “cloud-native,” and what makes the company different from the scores of security platforms in the cloud universe.The company had a good story. We just had to cut the fat and get to the meat before cognitive overload set in. Since the company had a simple-to-use cloud application (simple for experts), we focused on the fact that IT professionals in large organizations used the platform to troubleshoot problems in less than fifteen minutes
+	  【Note】regrading a cloud company 
+	  -------------------
+	  2022-12-14 11:17  |  Page No.: 32
+	  Buffett is still writing letters at the age of ninety. His experience gives him a perspective few people have. According to Buffett, the secret to clear and simple writing is to picture your audience. “I’ve always had the image that I’m talking to my sisters, Doris and Bertie,”9 Buffett says. “Berkshire is pretty much their whole investment. They’re smart, but they’re not active in the business, so they’re not reading about it every day. I pretend they’ve been away for a year and I’m reporting to them on their investment.”Buffett begins drafting his letters with the salutation “Dear Doris and Bertie.” Just before he’s ready to publish, he replaces their names with a formal greeting: “To the shareholders of Berkshire Hathaway.”Buffett’s letters are accessible, readable, and entertaining. By picturing his audience, Buffett puts himself in their shoes, speaking to them in language they’ll easily comprehend. As Buffett sat down to draft his 2018 letter, he imagined that his sisters were thinking about selling their shares. His job was to convince them to hold on.Read Buffett’s 2018 letter and you’ll see how he made complex financial information accessible to Doris and Bertie. The letter made headlines for its now-famous “focus on the forest” metaphor.
+	  -------------------
+	  2022-12-14 11:19  |  Page No.: 33
+	  If you’re working on a complex topic, take a page from Warren Buffett’s approach to writing his famous financial letters. Get to know your audience before you write by asking yourself three questions.Who is your target audience? Buffett thinks about writing for his sisters, Doris and Bertie.What do they need to know? Avoid telling them everything you know. What do they need to know that they don’t know already?Why should they care? Nobody cares about your ideas. They care about how your idea will help them lead a better life.Who are your Doris and Bertie? Once you really know your audience—who they are, what they need to know, and why they should care—you’re ready to take the next step toward simplifying your message. If step one was knowing your audience, step two is selecting the right messages for them
+	  -------------------
+	  2022-12-14 11:19  |  Page No.: 34
+	  Simplicity is an act of selection, not compression. You’ve heard of speakers who are “in the weeds,” meaning they’re getting far too granular and detailed. As a speaker, you can avoid falling into the weeds if you’ve done the hard work of removing the weeds ahead of your presentation.
+	  -------------------
+	  2022-12-14 11:20  |  Page No.: 35
+	  “If there’s one reason we have done better than our peers in the internet space, it is because we have focused like a laser on customer experience,”12 Bezos once said. From Day One, Bezos understood a fundamental rule of human behavior—people will align around shared goals, visions, and priorities when they are expressed simply, concisely, and consistently
+	  -------------------
+	  2022-12-14 11:24  |  Page No.: 36
+	  Smart leaders keep things simple because simple things lead to smart decisions.“If you have a competence nobody else has, a hip-pocket skill, you become more valuable,” says Indra Nooyi, the former CEO of PepsiCo who currently sits on Amazon’s board of directors.14 Nooyi also identifies her “hip-pocket skill” as the ability to make the complex simple
+	  -------------------
+	  2022-12-14 11:40  |  Page No.: 36
+	  According to Nooyi, “If you want to be a leader and you cannot communicate effectively, forget it. In the digital world, people think texting and tweeting is communicating. It’s not. You’ve got to be able to stand in front of employees and get them to go places they never thought they could get to. You need to have enormous communication capabilities. You cannot over-invest in communication skills.”
+	  -------------------
+	  2022-12-14 11:41  |  Page No.: 37
+	  . The billionaire founder of a private investment firm once told me the biggest weakness he sees among business graduates applying at his firm is a failure to translate their work and ideas into plain English. “Their presentations are comprehensive and highly technical, and utterly incomprehensible and entirely unmemorable
+	  -------------------
+	  2022-12-14 11:43  |  Page No.: 39
+	  Great speakers use short words to explain new ideas.Short, simple words trace their origin to an event that looms large in the minds of the English people.
+	  -------------------
+	  2022-12-14 11:45  |  Page No.: 40
+	  How do you decide when to pick a short word instead of a long one? The answer is simple. Use short words to talk about hard things: a crisis, a complex idea, or a big idea that you want listeners to remember
+	  -------------------
+	  2022-12-14 11:47  |  Page No.: 42
+	  Global health experts are trained in crisis communication. The first rule they learn is to make the message clear and concise. Much of the research in the field of crisis communication is based on “mental noise theory.” It means that in times of crisis, stress is high and emotions are charged. In these situations, people are less likely to hear information accurately, understand it, and remember it
+	  -------------------
+	  2022-12-14 12:07  |  Page No.: 44
+	  The key to Lincoln’s success was his uncanny ability to break down the most complex case or issue into its simplest elements,”7 writes historian Doris Kearns Goodwin. Although Lincoln’s arguments were logical and profound, they were easy to follow. How? “He aimed for intimate conversations with jurors, as if conversing with friends.” Goodwin quotes one of Lincoln’s peers, Henry Clay Whitney, who observed that “Lincoln’s language was composed of plain Anglo-Saxon words
+	  -------------------
+	  2022-12-15 09:23  |  Page No.: 53
+	  Writing is a skill, which means you can improve with regular practice. Seinfeld has created systems to help him write, techniques that business professionals can also use to elevate their writing skills. First, Seinfeld approaches the craft like an athlete trains for a sport. He puts in the reps and writes every day, even if the ideas don’t turn into comedy gold. “No one starts out great,”2 he says. “The ones who are great put a tremendous number of hours into it. It’s a game of tonnage
+	  【Note】Figure out how you can incorporate writing into your workflow
+	  -------------------
+	  2022-12-15 09:31  |  Page No.: 56
+	  1. BEGIN SENTENCES WITH SUBJECTS AND VERBSThe subject of a sentence is the person or thing that performs the action (verb). Think of subjects and verbs as the locomotive of a train, pulling along the rest of the railcars. A good writer starts with the strongest element of the sentence and lets everything else branch to the right
+	  -------------------
+	  2022-12-15 09:32  |  Page No.: 56
+	  Roy Peter Clark offers the following example: “A writer composes a sentence with subject and verb at the beginning, followed by other subordinate elements, creating what scholars call a right-branching sentence.”3 In the preceding sentence, Clark starts with the subject and the verb closely connected: writer composes. Try to avoid a long separation between the subject and verb. Here’s a weak version of Clark’s sentence: A writer who wants to be really good at the craft should compose a sentence with a subject and verb at the beginning.
+	  -------------------
+	  2022-12-15 09:33  |  Page No.: 56
+	  Let’s see how Bezos starts sentences with subjects and verbs that pull the rest of the sentence. The subjects and verbs are in bold.“Amazon’s vision is to build Earth’s most customer-centric company, a place where customers can come to find and discover anything and everything they might want to buy online.”4“We live in an era of extraordinary increases in available bandwidth, disk space, and processing power, all of which continue to get cheap fast.”5“Our energy at Amazon comes from the desire to impress customers rather than the zeal to best customers.”6“We designed Amazon Prime as an all-you-can-eat free program.”
+	  -------------------
+	  2022-12-15 09:33  |  Page No.: 56
+	  2. ORDER WORDS FOR EMPHASISThe British call a period a full stop. It’s a perfect image for the period’s role in punctuation. The period acts as a stop sign, drawing a reader’s eye to the words that come next.Many writing instructors suggest putting your strongest stuff at the beginning (the locomotive) and save an interesting word for the end (the caboose). Hide the weaker material in the middle.Consider this famous line from Shakespeare’s Macbeth: “The Queen, my lord, is dead.” Shakespeare could have kept the subject and verb together by writing, “The Queen is dead, my lord.” Instead, he starts with the subject and leaves the shocker for the end, just before the full stop. In Clark’s words: “Shakespeare stuck the landing
+	  -------------------
+	  2022-12-15 09:35  |  Page No.: 57
+	  Bezos structures many of his sentences with a strong locomotive pulling the weaker words in the middle before sticking the landing. Look at the following two sentences from his 1998 letter:“We love to be pioneers, it’s in the DNA of the company, and it’s a good thing, too, because we’ll need that pioneering spirit to succeed.”8 It’s a good thing, too, makes the sentence conversational and advances his point, but it’s stronger to end with spirit to succeed.“Setting the bar high in our approach to hiring has been, and will continue to be, the single most important element of Amazon’s success.” Once again, Bezos puts the weaker phrase will continue to be in the middle. Setting the bar high and Amazon’s success are the two most important concepts, which come after and before full stops.
+	  -------------------
+	  2022-12-16 05:59  |  Page No.: 58
+	  The active sentence is clearer and uses fewer words to say the same thing. In addition to being wordier, passive sentences muddle the message and confuse the reader as the message grows in complexity. The passive voice also sows distrust. Leaders often hide behind passive sentences to avoid taking responsibility. The joke among journalists is that a leader who wants to avoid blame says, “Mistakes were committed by some staffers.” People hunger for leaders who take responsibility, and those who do use active sentences: “I made mistakes. The buck stops with me. Blame me
+	  -------------------
+	  2022-12-16 06:00  |  Page No.: 58
+	  , “Use active verbs unless there is not a comfortable way to get around using a passive verb. The difference between an active-verb style and a passive-verb style—in clarity and vigor—is the difference between life and death as a writer.”10 And in the classic The Elements of Style, William Strunk writes, “The active voice is usually more direct and vigorous than the passive. For example, ‘I shall always remember my first visit to Boston’ is better than, ‘My first visit to Boston will always be remembered by me.’ The latter sentence is less direct, less bold, and less concise
+	  -------------------
+	  2022-12-16 06:02  |  Page No.: 60
+	  4. UNLEASH STRONG VERBS
+	  -------------------
+	  2022-12-16 06:02  |  Page No.: 60
+	  Strong verbs pack a punch. According to Clark, “Strong verbs create action, save words, and reveal the players.”13 Strong, meaningful, illustrative verbs demonstrate confidence and certainty. “Verbs, words of action, are the primary source of energy in your sentences,”14 writes Gary Provost in 100 Ways to Improve Your Writing. “They are the executives; they should be in charge.” Provost says “weak” verbs are the opposite of strong ones: weak verbs are not specific, are not active, and are unnecessarily dependent on adverbs for their meaning. For example, in the sentence “The fox walked rapidly through the woods,” walked is a verb that depends on an adverb rapidly for its meaning. A stronger sentence is, “The fox dashed through the woods
+	  -------------------
+	  2022-12-16 06:13  |  Page No.: 61
+	  5. AVOID VERB QUALIFIERS AND “WEASEL WORDS
+	  -------------------
+	  2022-12-16 06:13  |  Page No.: 61
+	  Persuasive leaders sound assertive when they use the active voice and prefer action verbs. They avoid muddling the message with “verb qualifiers” that are weak and wishy-washy (Amazonians call them “weasel words”). Here are some examples of verb qualifiers:Sort ofTend toKind ofSeemed toCould have
+	  -------------------
+	  2022-12-16 06:17  |  Page No.: 62
+	  Assertive writers and speakers pay attention to words that are easy to remove. Common adverbs are a good place to start. Adverbs modify words—many of them end in ly and are easy to remove without degrading the sentence. You don’t really need them. I mean, you don’t need them. Are you extremely shocked or just shocked? Did the blast totally destroy the building, or did it destroy the building?
+	  -------------------
+	  2022-12-16 06:21  |  Page No.: 63
+	  6. VARY SENTENCE LENGTH
+	  -------------------
+	  2022-12-16 06:21  |  Page No.: 63
+	  Long sentences work best to list items or describe scenes. The key is to mix it up
+	  -------------------
+	  2022-12-16 06:22  |  Page No.: 63
+	  Here are two more examples of Bezos using a variety of short and long sentences in his shareholder letters.• 1998: The last 3½ years have been exciting. (8 words) We’ve served a cumulative 6.2 million customers, exited 1998 with a $1 billion revenue run rate, launched music, video, and gift stores in the U.S., opened shop in the U.K. and Germany, and, just recently, launched Amazon.com Auctions. (38 words) We predict the next 3½ years will be even more exciting.24 (12 words)• 2014: A dreamy business offering has at least four characteristics: (9 words) Customers love it, it can grow to very large size, it has strong returns on capital, and it’s durable in time—with the potential to endure for decades. (28 words) When you find one of these, don’t just swipe right, get married.25 (12 words
+	  -------------------
+	  2022-12-16 06:23  |  Page No.: 64
+	  7. CONSTRUCT PARALLEL STRUCTURES
+	  -------------------
+	  2022-12-16 06:24  |  Page No.: 64
+	  In the last example, Bezos relied on a grammatical device called parallel construction: using the same pattern to express two or more ideas, which gives the ideas the same level of importance.For example, Bezos wrote that improvements are “increasing,” “speeding,” and “reducing.” In the next sentence, Bezos wrote, “We are proud of our low prices, our reliable delivery, and our in-stock position on even obscure and hard-to-find items.” The nonparallel form of the sentence would read: “We are proud of Amazon’s lowest prices, the fact that customers get their products delivered reliably, and find most of their items to be in stock when they want them.” Parallel construction adds power and cuts words
+	  -------------------
+	  2022-12-16 06:24  |  Page No.: 65
+	  Parallel construction makes a sentence smoother. For instance, I like running, golfing, and reading. I can also say that I like to run, to golf, and to read. It’s not parallel to say that I like running, to play golf, and buying books to read.A parallel message is satisfying to read and pleasing to hear. In many cases, the same text can be read or spoken with equal effect.
+	  -------------------
+	  2022-12-16 06:27  |  Page No.: 66
+	  Keep in mind that when it comes to building your writing, speaking, and presenting skills, you’re never done learning. Microsoft CEO Satya Nadella says you’ll meet two types of people in the business world: know-it-alls and learn-it-alls. The know-it-alls don’t last very long in the digital economy, where the pace of change is unlike anything we’ve seen in human history. In this environment, the learn-it-alls are the ones who shine. They adapt, grow, and thrive no matter what changes come their way. The great thing about writing is—while there’s a lot to learn—there are a lot of teachers eager to guide us.
+	  -------------------
+	  2022-12-16 10:43  |  Page No.: 70
+	  The fact is that CEOs, bosses, managers, clients, investors, and stakeholders are usually impatient. They may not cut you off after ten minutes, but rest assured they’re giving you no more than ten minutes of their full attention. They’re asking themselves a version of the same question Grove pointedly asked Christensen: What does it mean to me?
+	  -------------------
+	  2022-12-16 10:46  |  Page No.: 71
+	  It turns out that the secret to catching a person’s attention is not to cut through the noise but to boost the signal.In the last thirty years, cognitive psychologists have reached fascinating conclusions about how people learn new concepts. For example, studies of effective teachers find that the best instructors organize information around big ideas. If you think about creating content in a hierarchical structure, the big idea opens your memo or presentation while details support your big idea
+	  -------------------
+	  2022-12-16 10:47  |  Page No.: 71
+	  Great TED speakers select one big idea they can express in bite-size messages. Brevity doesn’t come from compressing a mountain of information into a short amount of time. Instead, brevity happens when you start with one big idea and carefully select the stories, examples, and data that support your big idea
+	  -------------------
+	  2022-12-16 10:49  |  Page No.: 71
+	  THE LOGLINEI adapted the logline concept from Hollywood screenwriters. When writers pitch screenplays to studios, they enter the meetings armed with a logline, a concise and compelling sentence that answers the question: What is my story about? A successful logline is twenty-five to thirty words that can be delivered in fifteen seconds or less.
+	  -------------------
+	  2022-12-16 10:50  |  Page No.: 72
+	  The key to creating a winning logline is to take a page from Jeff Bezos—be customer-obsessed. For a screenplay writer, the customer (the audience) is a producer, director, or studio executive. While those audiences listen to a pitch, they’re also thinking, How can I market it?
+	  -------------------
+	  2022-12-16 10:53  |  Page No.: 74
+	  Don’t make the mistake of pitching an idea or giving a presentation without a logline. One investor on the Forbes list of the world’s billionaires once gave me this message to share with my readers: “If an entrepreneur cannot express their idea in one sentence, I’m not interested—period
+	  -------------------
+	  2022-12-16 10:55  |  Page No.: 75
+	  Commander’s Intent is a statement that defines the mission commander’s vision of a successful outcome: It must be clear, concise, and easily understood. It’s the mission’s big picture, the logline
+	  -------------------
+	  2022-12-16 10:55  |  Page No.: 75
+	  Commander’s Intent is not a list of bullet points; it’s a written and verbal narrative with sentences that contain nouns and verbs. For example, “Our mission is to destroy the enemy’s radar equipment at Objective Bravo to prevent the early detection of subsequent coalition air attacks
+	  -------------------
+	  2022-12-16 10:58  |  Page No.: 76
+	  The bottom line up front (or on top) means what it says: it’s the most crucial information your listener or reader needs to know
+	  -------------------
+	  2022-12-16 11:00  |  Page No.: 77
+	  Amazonians write the bottom line in bold at the top of their emails. In one or two sentences, it tells the reader why they’re on the email and why they should care about the rest of it. For example, in his first major policy announcement after becoming just the second CEO in Amazon’s history, Andy Jassy sent a memo to Amazon’s employees in late 2021 explaining the company’s current thinking on back-to-work rules as the COVID pandemic began to subside.The email’s subject line read: “Updated guidance on where we work.”“Dear Amazonians,” it began. “I want to update you on how we’re continuing to evolve our thinking on where we work.” In one sentence, along with the subject line, the topic of the email is clear.Jassy then explains that the leadership team held several meetings to discuss the challenges and uncertainties of returning to the office. They agreed on “three things,” he wrote:First, none of us know the definitive answers to these questions, especially long term. Second, at a company of our size, there is no one-size-fits-all approach for how every team works best. And third, we’re going to be in a stage of experimenting, learning, and adjusting for a while as we emerge from this pandemic
+	  -------------------
+	  2022-12-16 11:04  |  Page No.: 77
+	  Here’s an unspoken rule that you will not learn in business school: You’re more likely to win over your boss or teammates with communication that saves time and energy, and gives them the bottom line up front. Studies show that you have fifteen seconds to grab a reader’s attention in an email, document, or article. About 45 percent of readers will lose interest or drop out completely after fifteen seconds. If, however, you can grab and keep their attention past fifteen seconds (thirty-five words), they’ll be more likely to stick around for the rest of the content
+	  -------------------
+	  2022-12-16 11:04  |  Page No.: 78
+	  AMAZON-STYLE PRECISIONIf you’d like to write and speak with military-style or Amazon-style precision, your big idea must be clear, concise, and specific.Clear. Amazon places a premium on clear communication. Amazonians are encouraged to follow these guidelines to clarify their verbal and written communication:Use the active voice to make it clear who is doing what.Avoid jargon.Strive for a Flesch-Kincaid grade level of 8 or lower.Make sure your idea passes the So what? test.Since we’ve covered the first three communication tips, let’s take a deeper dive into the So what? test. I use a version of it to help CEOs and executives uncover the logline for major announcements and presentations. Here’s how it works.First, accept that you’re too close to your idea; you know details few others understand. Then, as you begin to craft a message, ask yourself: So what? Ask the question three times. You’ll find yourself getting closer to the core message with each answer—the one thing your audience wants to know
+	  -------------------
+	  2022-12-16 11:05  |  Page No.: 79
+	  Concise. Communicating the Amazon way means writing memos, documents, and emails that are easy to read and understand. Amazonians are taught to keep sentences to twenty or fewer words. That means the writer must eliminate unnecessary words
+	  -------------------
+	  2022-12-16 11:07  |  Page No.: 81
+	  Specific. In writing classes, Amazonians learn to avoid vague language, or “weasel words.”Instead of saying “nearly all customers,” be specific: “87 percent of Prime members.” Instead of saying “significantly better,” be specific: “an increase of 25 basis points.” Instead of saying “Some time ago,” be specific: “Three months ago.”Visit the Amazon newsroom for lessons in specificity. The logline (the first statement) in Amazon announcements usually contains precise information ranging from metrics and data to specific locations and target audiences. Here are a few examples (I bolded specific language):Amazon expands its Boston tech hub with plans to create 3,000 new jobs to support Alexa, AWS, and Amazon Pharmacy.Amazon Launches $2 Billion Housing Equity Fund to Make Over 20,000 Affordable Homes Available for Families in Communities It Calls Home.Amazon’s new one-million-square-foot fulfillment center in Oklahoma City will create 500 jobs.Amazon customers can now purchase prescription medications through the Amazon online store without leaving home. Amazon Prime members receive free two-day delivery and up to 80% savings when paying without insurance, with new prescription savings benefit.Amazon is hiring 75,000 Employees across Fulfillment and Transportation, with average starting pay of over $17 Per Hour and sign-on bonuses of up to $1,000
+	  -------------------
+	  5. Metaphors That Stick
+	  2022-12-16 11:43  |  Page No.: 88
+	  Lakoff and Johnson popularized the concept of conceptual metaphor theory, or CMT.5 It means that our brain makes sense of our world by “mapping” one domain in terms of another. This finding leads to the fundamental rule of metaphor: It must contain a source domain and a target domain. The target is the abstract concept you’re trying to get across; the source domain is the concrete thing you’re using as a comparison. Source domains allow us to understand the abstract target and to communicate a lot of information in just a few words. Source domains usually fall into a few categories: motion, physical location, or spatial orientation
+	  -------------------
+	  2022-12-16 11:56  |  Page No.: 91
+	  . Amazon’s senior leaders figured out that the most significant predictor of a team’s success was not necessarily its size but “whether it had a leader with the appropriate skills, authority, and experience to staff and manage a team whose sole focus was to get the job done.”
+	  -------------------
+	  2022-12-16 11:59  |  Page No.: 92
+	  According to Bryar and Carr, single-threaded leadership ushered in a new wave of innovation at Amazon because it allowed “a single person, unencumbered by competing responsibilities to own a single major initiative.” The STL heads up a team that has the resources, flexibility, and agility to deliver on its goals
+	  【Note】this type of leadership only works if he leader is great with strategy, communication, and management
+	  -------------------
+	  2022-12-16 12:14  |  Page No.: 93
+	  Single-threaded owners at Hopper are people who wake up and worry about one thing. The company has no product team, no engineering team, no data science team, no design team. Instead, Hopper is organized around small groups working on features or services to improve the customer experience. “It’s like a loosely bound federation of internal start-ups with very strong multidisciplinary teams,”11 says Lalonde.
+	  Anyone at the company can grow into a leadership position. Once a leader is assigned with a single focus, they are in charge of building the team and putting the right people in place. The team might start with one or two technical people, providing just enough resources to begin building, iterating, and delivering something new to the customer. If the product or feature finds a market fit, the single-threaded leader has the authority to scale the team and grow the idea into a bigger business
+	  -------------------
+	  2022-12-16 12:15  |  Page No.: 93
+	  And so, at Hopper, two-pizza teams have been replaced with Roman tents. Teams are organized into groups no larger than eight to ten people, with one leader who is accountable to the team’s sole pro
+	  -------------------
+	  2022-12-16 12:22  |  Page No.: 94
+	  Lawson wanted to bring that sense of urgency to his start-up. He believed that small teams were the secret to making his goals come true. Lawson recalls that, despite its size, Amazon was structured like a collection of start-ups with small teams led by empowered, mission-driven leaders.12 It was easy for Lawson to bring the small-team model to Twilio, which, after all, only had three founders, all of whom were software developers. If a customer reported a bug, Lawson could write the fix in five minutes. Three people made decisions quickly. They didn’t even need two large pizzas. Three bagels would do
+	  -------------------
+	  2022-12-16 12:35  |  Page No.: 97
+	  HOW TO ADD METAPHOR TO YOUR COMMUNICATION TOOL KIT
+	  Use metaphors to describe unique experiences or events
+	  -------------------
+	  2022-12-16 12:36  |  Page No.: 98
+	  Choose metaphors to breathe life into arcane topics. If you watch business news or follow the stock market, you’ve no doubt heard the phrase economic moat. Warren Buffett popularized the phrase at a 1995 Berkshire Hathaway meeting. A shareholder asked the question, “What are the fundamental rules of economics that you used to make money?”17
+	  Buffett answered, “The most important thing we do is to find a business with a wide and long-lasting moat around it, protecting a terrific economic castle with an honest lord in charge of the castle.”
+	  The castle metaphor acts as a concise shortcut, a vivid explanation for a complex system of data and information that Buffett and his team use to evaluate potential investments. A deep moat gives a company unique advantages that make it hard for competitors to enter the business, protecting its market share. The castle draws its strength from an honest and decent knight—the CEO—protecting it. Buffett explains that the moat acts as a permanent and powerful deterrent to potential attackers
+	  -------------------
+	  2022-12-16 12:47  |  Page No.: 100
+	  Don’t let your message get lost in translation. Finding the right metaphor takes work, but it’ll be worth the effort when you become famous for your communication skills.
+	  COACHING DRILL
+	  A simple metaphor format is “A is B” like “Time is money.” The format works well to express complex ideas. Select a complex idea from your own subject area. Use the A is B format to explain it. Describe the comparison in conversational language.
+	  Complex idea: __________________________ (A)
+	  Familiar idea: __________________________ (B)
+	  A is B format: __________________________ is _____________________
+	  Example:
+	  Complex idea: A good investment
+	  Familiar idea: Castle with a moat
+	  A is B format: A good investment is an economic castle with a deep moat around it to deter competitors
+	  -------------------
+	  2022-12-16 23:17  |  Page No.: 102
+	  An analogy, like its close relative the metaphor, is a figure of speech comparing two unrelated things to highlight their similar
+	  -------------------
+	  2022-12-16 23:17  |  Page No.: 103
+	  We like receiving information in the form of an analogy because we think in analogy. “Analogies are pervasive in human thought,”5 says psychologist Diane Halpern. “Whenever we are faced with a novel situation, we seek to understand it by reference to a familiar one
+	  -------------------
+	  2022-12-16 23:21  |  Page No.: 103
+	  By providing a common framework through which to see an idea in a new light, analogies facilitate the exchange of information from one person to an
+	  -------------------
+	  2022-12-16 23:22  |  Page No.: 104
+	  other. An analogy makes the abstract concrete
+	  -------------------
+	  2022-12-16 23:26  |  Page No.: 104
+	  A near-domain analogy comes from the same branch of science the audience already knows. A far-domain analogy compares one topic to another topic in a completely different area. The far-domain analogy for the lymphatic system compared it to the flow of water through the spaces of a sponge. The near-domain analogy compared the lymphatic system to the movement of blood through veins.
+	  In the electricity passage, the far-domain analogy compared electricity to a water hose. The voltage is like the pressure that pushes the water through the hose. The current is like the diameter of the hose (the wider it is, the more electricity flows through it), and resistance is like sand in the hose that slows down the flow of water. The near-domain passage described electricity flowing through an electrical circuit.
+	  The purpose of the experiment was to test people on their ability to recall what they had read. At first, the research did not find a significant difference among any of the groups immediately after reading the material. But when Halpern retested everyone one week later, she found significant differences. The people who read passages with far-domain analogies were able to recall much more of what they read and demonstrated a better understanding of the material. In scientific terms: “When the similarity relationship is more obscure, as in a distant domain analogy, subjects are required to seek underlying relationships in order to render it meaningful.” Put simply, Halpern had discovered that ideas far outside of the subject matter leave a deeper imprint on a person’s mind.
+	  Halpern’s experiment isn’t the only one in the field. In educational studies, students who read technical material containing far-domain analogies tend to score higher on tests that measure comprehension than students who read the same material with no analogies. Far-domain analogies such as “The heart is like a system of buckets and pumps” or “The circulatory system is like a railway” are memorable and easy to understand
+	  -------------------
+	  2022-12-16 23:26  |  Page No.: 105
+	  If you want your audience to remember, retain, and understand your idea, use an analogy far removed from the topic area. If you tell me that life is like a living organism, I might not pay much attention. But if you tell me that life is like a box of chocolates, I’d be curious to learn why. Forrest Gump knew the difference between a lousy analogy and a good one
+	  -------------------
+	  2022-12-16 23:28  |  Page No.: 106
+	  Often, when a memo isn’t great, it’s not the writer’s inability to recognize the high standard, but instead a wrong expectation on scope: they mistakenly believe a high-standards, six-page memo can be written in one or two days or even a few hours, when really it might take a week or more! They’re trying to perfect a handstand in just two weeks, and we’re not coaching them right. The great memos are written and re-written, shared with colleagues who are asked to improve the work, set aside for a couple of days, and then edited again with a fresh mind. They simply can’t be done in a day or two. A great memo probably should take a week or more
+	  -------------------
+	  2022-12-16 23:37  |  Page No.: 110
+	  Analogy is an ancient communication device, but its power to educate is more important than ever today as the world’s information grows in volume and complexity. Enhance your language with carefully chosen analogies and you’ll electrify your audiences.
+	  Analogies and metaphors are the building blocks of stories, so it shouldn’t come as any surprise that great storytellers use these figures of speech to make connections between familiar and unfamiliar things
+	  -------------------
+	  2022-12-16 23:55  |  Page No.: 138
+	  In The Cognitive Style of PowerPoint, Edward Tufte, a pioneer in the field of data visualization, argues that the traditional style of delivering slides with bullet points “usually weakens verbal and spatial reasoning, and almost always corrupts statistical analysis.”1 Tufte’s criticism appears in the first paragraph and gets more vicious throughout the paper
+	  -------------------
+	  2022-12-16 23:56  |  Page No.: 138
+	  Tufte writes, “In day-to-day practice, PowerPoint templates may improve 10 percent or 20 percent of all presentations by organizing inept, extremely disorganized speakers, at a cost of detectable intellectual damage to 80 percent. For statistical data, the damage levels approach dementia.” According to Tufte, “PowerPoint allows speakers to pretend they are giving a real talk, and audiences to pretend that they are listening
+	  -------------------
+	  2022-12-16 23:57  |  Page No.: 139
+	  Tufte directed his criticism at the typical PowerPoint presentation, which replaces sentences and paragraphs—verbal discussion—with word fragments and bulleted lists. According to Tufte, “By leaving out the narrative between the points, the bullet outline ignores and conceals the causal assumptions and analytic structure of the reasoning.” A list of bullet points is a presenter’s way of compressing language into brief phrases. Bulleted outlines “might be useful now and then,” Tufte writes, “but sentences with subjects and verbs are usually better
+	  -------------------
+	  2022-12-16 23:58  |  Page No.: 140
+	  In its final report, the Columbia Accident Investigation Board reached the following conclusion: “The endemic use of PowerPoint illustrated the problematic methods of technical communication … as information gets passed up an organization hierarchy, key explanations and supporting information is filtered out. In this context, it is easy to understand how a senior manager might read this PowerPoint slide and not realize it addresses a life-threatening situation
+	  -------------------
+	  2022-12-16 23:59  |  Page No.: 140
+	  The investigation convinced Tufte that bulleted lists broken up into fragments to fit a template does real damage to decision-making. “PowerPoint will not do for serious presentations,” says Tufte. “Serious problems require serious tools
+	  -------------------
+	  2022-12-16 23:59  |  Page No.: 141
+	  Bezos explained the reason for making the switch: “The reason writing a good 4-page memo is harder than ‘writing’ a 20-page Powerpoint is because the narrative structure of a good memo forces better thought and better understanding of what’s more important than what, and how things are related. Powerpoint-style presentations somehow give permission to gloss over ideas, flatten out any sense of relative importance, and ignore the interconnectedness of ideas.”
+	  -------------------
+	  2022-12-17 00:01  |  Page No.: 141
+	  GOOD INTENTIONS NEVER WORK, GOOD MECHANISMS DO
+	  One of the pithy Jeff-isms that has become part of the Amazon lexicon is: “Good intentions never work, you need good mechanisms to make anything happen.”
+	  The saying—now popular at Amazon—is a shortened version of a slightly longer explanation Bezos offered at an all-hands meeting in February 2008. “Often, when we find a recurring problem, something that happens over and over again, we pull the team together, ask them to try harder, do better—essentially, we ask for good intentions. This rarely works,”3 Bezos said. “When you are asking for good intentions, you are not asking for a change because people already had good intentions. But if good intentions don’t work, what does? Mechanisms work.”
+	  A mechanism is a repeatable process, a tool that aligns actions and decisions to Amazon’s Leadership Principles. To work properly, a mechanism is introduced, adopted, and “audited” to make sure it works as designed. For example, “two-pizza teams” and “single-threaded leaders,” which we discussed earlier, are examples of mechanisms. Another Amazon mechanism, born of frustration, is now credited for many of Amazon’s greatest innovations. The mechanism is narrative.
+	  A narrative is simply a written document that forces clarity of thought. Narratives come in different forms. The two primary forms that Bezos popularized at Amazon are the subjects of this chapter and the next, forms anyone can adopt to elevate the quality of their communication: the six-pager and the press release / frequently asked questions (PR/FAQ).
+	  -------------------
+	  2022-12-17 00:04  |  Page No.: 142
+	  The process of writing narratives allows you to refine, clarify, and articulate your ideas. Best of all, anyone can do it.
+	  The first Amazon attempts at writing narratives were “laughably poor,” Bryar recalls. Executives who didn’t think they could explain their ideas in four pages ignored the guideline and submitted forty pages of prose. When they were told to stick to the limit, they found clever ways of circumventing the rules like single spacing text, narrowing margins, and shrinking font sizes. Clever, but not effective. Bezos caught on quickly.
+	  -------------------
+	  2022-12-17 00:05  |  Page No.: 142
+	  Bezos and his senior leaders eventually decided that memos with a maximum length of six pages would suit their needs. Supporting details could be attached as an appendix, but the memo itself could be no longer than six pages. This raises a critical point. A narratively structured memo should be long enough to express the idea—and not a sentence more. If two pages are all it takes to share an idea, then stick to two.
+	  A two-pager or a six-pager serves the same purpose—forcing presenters to clarify their thinking. The act of writing narrative memos with titles, subheadings, sentences, verbs, nouns, and paragraphs is harder than filling slides with bullet points. Narratives force “the writer to think and synthesize more deeply than they would in the act of crafting a PowerPoint deck,”4 says Bryar. “The idea on paper will be better thought out, especially after the author’s entire team has reviewed it and offered feedback. It’s a daunting task to get all the relevant facts and all one’s salient arguments into a coherent, understandable document—and it should be.”
+	  There’s no formal template for writing a narrative that will impress Bezos, but there are proven strategies for creating an impressive narrative.
+	  -------------------
+	  2022-12-17 00:06  |  Page No.: 142
+	  FIVE STRATEGIES FOR WRITING GREAT NARRATIVES
+	  1. Focus on narrative, not “six-pagers.” The key to adopting and benefiting from Amazon’s six-pager is to keep the focus on where it belongs: the narrative. 
+	  -------------------
+	  2022-12-17 10:22  |  Page No.: 143
+	  The “six-pager” refers to a unique format that fits the needs of Amazon’s decision-making process in senior leadership meetings. There’s no rule even at Amazon that a narrative memo must be six pages. Any written communication, whether an email or internal memo, should be no longer than is necessary. In many cases, a one-page memo does the job
+	  -------------------
+	  2022-12-17 10:24  |  Page No.: 143
+	  Deupree also introduced the “one-page memo” to P&G’s leadership teams. According to management expert Tom Peters, “Deupree strongly disliked any memorandum more than one typewritten page in length. He often would return a long memo with an injunction: ‘Boil it down to something I can grasp.’ If the memo involved a complex situation, he sometimes would add, ‘I don’t understand complicated problems. I only understand simple ones.’ When an interviewer once queried him about this, he explained, ‘Part of my job is to train people to break down an involved question into a series of simple matters. Then we can all act intelligently.’”5
+	  -------------------
+	  2022-12-17 10:25  |  Page No.: 144
+	  Element
+	  Description
+	  Notes
+	  Idea Summary
+	  In one sentence, what are you proposing? See the logline in chapter 4 for tips on how to express your main idea in one sentence.
+	  “P&G Good Everyday is a new consumer rewards program, featuring our trusted brands, that helps turn everyday actions into acts of good for you, your family, the community and the world.”
+	  Perspective
+	  A situation summary that presents facts, trends, issues.
+	  “P&G has been working to make a positive impact for more than 180 years. Our family of household brands has had a longstanding commitment to doing what is right: making a positive community impact, supporting gender equality, driving diversity and inclusion, and promoting environmental sustainability in the world.”
+	  How It Works
+	  Explain the details of your proposal. How, what, who, when, where?
+	  “The P&G Good Everyday is a rewards program for people who want to make an impact.”
+	  Key Benefits
+	  Deupree challenged presenters to express three benefits of their idea, ideally benefits that proved to have strategic and profitable value for the company. See the rule of three in chapter 16 for an explanation of this powerful communication strategy.
+	  “When you join the P&G Good Everyday rewards program and take simple actions through the website, P&G will donate to the cause of your choice, so you can help make a difference, too. Engage through quizzes, surveys, or scanning receipts, earn rewards, and P&G automatically makes donations to the causes you care about at no cost to you.”
+	  Next Steps
+	  What actions need to be taken, by whom, and by when?
+	  “We can accomplish more together. With P&G Good Everyday, you can combine your desire to do good with P&G’s ongoing efforts to help solve challenges around the world. To sign up, visit the P&G Good Everyday website
+	  -------------------
+	  2022-12-17 10:28  |  Page No.: 145
+	  2. Stick to headings and subheadings. Returning to Edward Tufte’s essay, he says that “scientists and engineers—and everyone else for that matter—have communicated about complex matters for centuries without hierarchical bullet outlines
+	  -------------------
+	  2022-12-17 10:28  |  Page No.: 146
+	  Feynman was a genius, a scientist whose name is celebrated alongside Einstein’s, Galileo’s, and Newton’s. Feynman earned a reputation as “the great explainer” because he translated complex topics into plain, simple language. Feynman popularized a technique for learning new things: Write the concept on a sheet of paper in your own words, the words you would use to explain the topic to someone else. Write the explanation in complete sentences with nouns and verbs—not bullet points. Feynman once said, “You can recognize truth by its beauty and simplicity.”
+	  -------------------
+	  2022-12-17 10:31  |  Page No.: 146
+	  3. Don’t rush it. As you might recall from chapter 6 on analogies, Bezos once compared writing to learning to do a handstand. It looks easy but takes weeks, even months, of practice. The same tip applies to narratively structured memos. Good writing takes time. Don’t expect to become an expert overnight, and give yourself plenty of time (if possible) to refine what you create.
+	  You can’t rush narratives because clear writing reflects clear thinking. The biggest mistake narrative writers make is not spending enough time on the actual writing process. According to Bezos, if you put in the time to make it great, your idea will be brilliant, thoughtful, and have “the clarity of angels singing.” There’s no higher praise
+	  -------------------
+	  2022-12-17 10:31  |  Page No.: 146
+	  4. Collaborate to communicate. The tradition at Amazon is to submit six-pagers with no names on them. It sends the signal that good writing is a team effort and that no one author is solely responsible for writing a document.
+	  -------------------
+	  2022-12-17 10:32  |  Page No.: 147
+	  Although great writing is hard to describe, Bezos says there’s no question that teamwork elevates a document’s quality. Do you need to be an extremely skilled writer to write a world-class memo? “In my view, not so much,” says Bezos. As long as you work as a team, he adds. “The football coach doesn’t need to be able to throw, and a film director doesn’t need to be able to act. But they both do need to recognize high standards for those things and teach realistic expectations on scope. Even in the example of writing a six-page memo, that’s teamwork. Someone on the team needs to have the skill, but it doesn’t have to be you.” Left unsaid is that if the best writer on the team is you, you’ll become that person everyone wants on their team.
+	  -------------------
+	  2022-12-17 10:33  |  Page No.: 147
+	  “Precision counts,” says Porter. “It can be hard to summarize a complex business in six pages, so teams work for hours preparing the document for these reviews. But that preparation does two things. First, it requires the team writing the document to really, deeply understand their own space, gather their data, understand their operating tenets, and be able to communicate them clearly. The second thing a great document does is enable our senior executives to internalize a whole new space they may not be familiar with within thirty minutes of reading
+	  -------------------
+	  2022-12-17 10:35  |  Page No.: 147
+	  5. Hold study hall. At Amazon, everyone gets a printed copy of the document when they enter the meeting, and not a moment sooner. The attendees then read the material in silence. If attendees are remote, of course, they’re allowed to read the paper on a computer, but it’s ideal to read the memo together in the same room. Bezos refers to the time spent silently reading as “study hall.
+	  -------------------
+	  2022-12-17 10:35  |  Page No.: 148
+	  At Microsoft, which adopted the Amazon narrative idea, documents are uploaded to a collaborative platform like SharePoint, where readers make their comments in real time. With this method, everyone can see each other’s comments. When someone supports a point, they’ll write “+1,” which means, “I agree.” In just a moment, you’ll learn why and how the Amazon narrative made its way into Microsoft.
+	  -------------------
+	  2022-12-17 10:36  |  Page No.: 148
+	  For the record, if you’re in a meeting with Bezos, there’s a good chance he’ll be the last one to finish reading. Bezos has an uncanny ability to arrive at insights nobody in the room saw coming. “He assumes each sentence is wrong until he can prove it otherwise,”12 says Bryar. “He’s challenging the content of the sentence, not the motive of the writer
+	  -------------------
+	  2022-12-17 10:37  |  Page No.: 148
+	  If it sounds stressful, it is, according to Amazonians who have experienced the narrative experience. Jesse Freeman, a developer who spent five years at the company, said preparing the narrative memo was the most challenging and intense part of his job. “It felt like writing a master’s thesis,”13 he recalls. And yet, Freeman continued to use the method after he left the company. Writing narratives is simply “one of the most powerful ways you can organize your thoughts to share with others.”
+	  -------------------
+	  2022-12-17 10:42  |  Page No.: 151
+	  Kohavi was on the email string in 2004 that announced the ban on PowerPoint in S-Team meetings. It marked the first time Kohavi, who has a Ph.D. in machine learning, had been exposed to the narrative process. It didn’t take him long to recognize its value as a “forcing function,” challenging the writer to think clearly about expressing their idea
+	  -------------------
+	  2022-12-17 10:42  |  Page No.: 151
+	  Bezos touted the value of experimentation in his 2013 letter. “We have our own internal experimentation platform called Weblab that we use to evaluate improvements to our websites and products. In 2013, we ran 1,976 Weblabs worldwide, up from 546 in 2011,”18 he wrote. “One recent success is our new feature called ‘Ask an owner’ … from a product page, customers can ask any question related to the product. Is the product compatible with my TV/Stereo/PC? Is it easy to assemble? How long does the battery last? We then route these questions to owners of the product. As is the case with reviews, customers are happy to share their knowledge to directly help other customers.
+	  -------------------
+	  2022-12-17 10:43  |  Page No.: 152
+	  Kohavi offers the following advice to business professionals in any occupation, but especially to those in technical fields: “Storytelling is part of your job. Writing and presenting skills are critical. Math is important to learn, but many people miss the fact that in a real-world setting, in any organization, your job is to convince others to take action based upon some pattern that you discovered in the data. The ability to translate technical findings into a convincing narrative that is accessible to others who are not as technical is a super-critical skill.
+	  -------------------
+	  2022-12-17 10:44  |  Page No.: 152
+	  Kohavi says that Bezos is a brilliant translator. “He can go technical, but he can step back and write an amazing and thoughtful piece. The ability to take an idea and make it into something memorable is one of those things that Jeff did amazingly well.”
+	  Former Amazonian Brad Porter, the distinguished engineer who spent thirteen years at the company, says narrative is a critical element of Amazon’s success. “Amazon absolutely runs better, makes better decisions, and scales better because of this particular innovation,”19 according to Porter. “Imagine for a moment that you could go into a meeting, and everyone in the meeting would have very deep context on the topic you’re going to discuss. They would be well-versed in the critical data for your business. Imagine if everyone understood the core tenets you operate by and internalized how you’re applying them to your decisions. This is what meetings are like at Amazon, and it is magical.”
+	  -------------------
+	  2022-12-17 10:46  |  Page No.: 155
+	  Mock-ups at Amazon were created to show the entire customer journey on a website—from how the page looks to how customers navigate the site. Mock-ups required time and capital. Carr didn’t have any mock-ups. He simply wanted to get budget approval to assemble a digital media team.
+	  Bezos did not approve Carr’s budget request and sent him back to the drawing board. Carr returned a few weeks later and brought the mock-ups Bezos had requested.
+	  Bezos posed tough questions:
+	  How would the music service be different from iTunes?
+	  How much would ebooks cost?
+	  Would readers prefer to read ebooks on a tablet, phone, or PC?
+	  How, exactly, would Amazon’s digital offerings be better for customers than anything currently available?
+	  Carr’s answers failed to satisfy Bezos. “To Jeff, a half-baked mock-up was evidence of half-baked thinking,” says Carr.
+	  After several frustrating meetings, Bezos suggested a different approach. “Forget the spreadsheets and slides,” he said. Instead, for the next meeting, all ten executives were required to write a narrative, a memo in which they described their best idea for the digital media business
+	  -------------------
+	  2022-12-17 10:48  |  Page No.: 156
+	  Pitching an idea by starting with the press release focuses the team’s attention on developing features and services that will truly delight customers. It answers the question So what? When a customer hears about a product or service for the first time, they think, So what? What does it mean to me?
+	  When Amazon began using the future press release system—another one of those Amazon “mechanisms”—it soon became apparent that another narrative process would be required to address internal challenges and technical issues that arose during the development process. The solution was to add several pages of frequently asked questions (FAQs). The FAQ gives developers and decision-makers a clear view of the hurdles they’ll have to overcome to turn their ideas into reality.
+	  The working-backwards document at Amazon became known as the PR/FAQ. Since there’s no requirement to include an FAQ as part of the process, the remainder of this chapter will focus on the press release, a memo that anyone can write to pitch ideas, evaluate ideas, and align teams around a common vision for new products, services, and businesses
+	  -------------------
+	  2022-12-17 10:49  |  Page No.: 156
+	  My conversations with Carr and Bryar convinced me that the mock press release is one of the most powerful writing techniques you can adopt to launch a company or kick off the development of a new product or service. It works because it forces you and your team to put the customer at the center of the conversation
+	  -------------------
+	  2022-12-18 04:32  |  Page No.: 158
+	  Six elements make up the Amazon press release formula. Keep in mind that a “future” press release is a document that’s written, debated, rewritten, and debated. The first drafts are messy and imperfect. The final document brings clarity, aligning the team around a common vision. Since the official Kindle press release closely resembled the team’s original vision, I’ll use it as a blueprint to explain the six parts of the Amazon press release.
+	  1. HEADLINE
+	  Introducing Amazon Kindle.4
+	  The headline is a trumpet that heralds the product’s arrival. In one or two lines, it clarifies who is making the announcement and what they’re announcing. The header includes the name of the product when appropriate, but it’s not reserved for product announcements. On February 2, 2021, Amazon’s press department issued a release with the following headline: “Amazon.com Announces CEO Transition.” It answers who is making the announcement and what they’re announcing.
+	  2. SUBHEADING
+	  Revolutionary Portable Reader Lets Customers Wirelessly Download Books in Less Than a Minute and Automatically Receive Newspapers, Magazines and Blogs. No PC Required, No Hunting for Wi-Fi Hot Spots.
+	  The subheading is the first sentence under the title that describes a product’s most compelling customer benefit or differentiator. The subheading is the hook that gives readers a reason to pay attention. It must be written in concise and everyday language, highlighting the most eye-catching benefit that will delight the customer.
+	  The subheading is critical. It acts as the logline you learned about in chapter 4. You’ll recall that a logline is a prerequisite for Hollywood pitch meetings. It answers the fundamental question, What’s the movie about? An ideal logline should be no more than thirty words. The subheading in Kindle’s press release is twenty-nine words.
+	  3. SUMMARY PARAGRAPH
+	  Seattle—November 19, 2007—Amazon.com today introduced Amazon Kindle, a revolutionary portable reader that wirelessly downloads books, blogs, magazines and newspapers to a crisp, high-resolution electronic paper display that looks and reads like real paper, even in bright sunlight. More than 90,000 books are now available in the Kindle Store, including 101 of 112 current New York Times Best Sellers and New Releases, which are $9.99, unless marked otherwise. Kindle is available starting today for $399.
+	  The introductory first paragraph of a press release is known as a summary paragraph. It begins with a location and a date. It’s important to add a date even in a “future” press release because it forces a discussion about the feasibility of the project. The introduction offers a concise summary of the product and its benefits. Put 80 percent of your creative energy into the title, subtitle, and summary paragraph because 80 percent of your readers will stop reading at this point.
+	  4. PROBLEM PARAGRAPH
+	  “We’ve been working on Kindle for more than three years. Our top design objective was for Kindle to disappear in your hands—to get out of the way—so you can enjoy your reading,” said Jeff Bezos, Amazon.com Founder and CEO. “We also wanted to go beyond the physical book. Kindle is wireless, so whether you’re lying in bed or riding a train, you can think of a book, and have it in less than 60 seconds. No computer is needed—you do your shopping directly from the device. We’re excited to make Kindle available today.”
+	  The second paragraph explains the problem your product or service intends to solve. There’s no requirement that quotes appear in the problem paragraph, but in the Kindle press release, they made the creative decision to let Bezos do the talking. The critical thing to remember about the second paragraph is that it must raise a problem the product solves—otherwise, there’s no reason for the solution.
+	  5. SOLUTION AND BENEFITS PARAGRAPHS (THREE TO SIX)
+	  Downloads Content Wirelessly, No PC Required, No Hunting for Wi-Fi Hot Spots
+	  The Kindle wireless delivery system, Amazon Whispernet, uses the same nationwide high-speed data network (EVDO) as advanced cell phones. Kindle customers can wirelessly shop the Kindle Store, download or receive new content—all without a PC, Wi-Fi hot spot, or syncing.
+	  The third paragraph of a press release begins to take a deeper dive into the details of the product, service, or idea. Customer problems are resolved simply and delightfully. Solution paragraphs include an explanation of how the product or service works and how easy it is to get started. Keep these paragraphs short, no more than three or four sentences.
+	  In the Kindle press release, bold subheads call out the benefits of the product. A few short details follow each bullet point. For example, “Download Content Wirelessly” was the chief benefit. Others included:
+	  No Monthly Wireless Bills or Commitments
+	  Reads Like Paper
+	  Books, Blogs, Magazines and Newspapers
+	  Holds Hundreds of Books in 10.3 Ounces
+	  Built-In Dictionary and WikipediaLong Battery Life
+	  Be selective about the benefits you highlight. The entire press release should fit on a page. If you’ve written one and a half pages, it’s too long.
+	  6. PARTNERSHIPS HIGHLIGHTS, EXECUTIVE QUOTES, OR CUSTOMER TESTIMONIALS
+	  Kindle customers can select from the most recognized U.S. newspapers, as well as popular magazines and journals, such as The New York Times, Wall Street Journal, Washington Post, Atlantic Monthly, TIME and Fortune. The Kindle Store also includes top international newspapers from France, Germany, and Ireland, including Le Monde, Frankfurter Allgemeine and The Irish Times.
+	  Engaging quotes or testimonials from company spokespeople, partners, and customers make up the sixth element of an ideal press release. In this press release, a Bezos quote was offered earlier, so this paragraph highlights partnerships. Even if you’re writing a future press release for a product that’s nothing more than a sparkle in your eye, you should still go through the exercise of including quotes from hypothetical customers expressing their joy or highlighting your ideal partners. This is your chance to clarify precisely why customers will love your idea.
+	  “Before we write a line of code, we start with the press release,” says Amazon CEO Andy Jassy. “The press release is designed to flush out all the benefits of the product to make sure that you’re really solving the customer problem
+	  -------------------
+	  2022-12-18 04:42  |  Page No.: 163
+	  “Bezos takes a red pen to press releases, product descriptions, speeches, and shareholder letters, crossing out anything that does not speak simply and positively to customers,”10 writes Brad Stone in The Everything Store. “Bezos didn’t believe anyone could make a good decision about a feature or a product without knowing precisely how it would be communicated to the world—and what the hallowed customer would make of it
+	  -------------------
+	  2022-12-18 04:45  |  Page No.: 163
+	  Bezos maintains high standards during the narrative-writing process. According to Stone, it’s not unusual for Bezos to suggest a punchier headline or to say, “I’m already bored,” after he’s read a few sentences of a memo. “He wanted people thinking deeply and taking the time to express their thoughts cogently
+	  -------------------
+	  2022-12-18 04:47  |  Page No.: 164
+	  Writing a mock press release is meant to be hard. It forces you to clarify your ideas with precision, more so than you could ever do with bullet points on a slide. It requires clear explanations to the following questions:
+	  How will customers interact with the product?
+	  How is it different from anything that exists today?
+	  What features will customers find most appealing?
+	  Why will customers love the product or service?
+	  -------------------
+	  2022-12-18 04:48  |  Page No.: 164
+	  “The first thing to know is that writing a PR/FAQ is a big commitment that takes time and tenacity,”11 Cast says. “Over the six weeks that I wrote the Amazon Books PR/FAQ, I spent at least 120 hours writing at least twelve drafts.” Cast’s work paid off. Her “working backwards” meeting lasted ninety minutes, concluding with Bezos and members of the S-Team giving the green light to the development of Amazon’s first physical stores.
+	  Table 10 shows the elements of Cast’s mock press release that gave life to Amazon Books.
+	  Table 10: Mock Press Release for Amazon Books12
+	  Headline:
+	  Amazon Opens Offline Bookstores with Online Features and BenefitsSubheading:
+	  Stores Include Amazon’s Full Line of Devices and Offer Customers Same Low Prices as Amazon.com.
+	  First Paragraph:
+	  In this paragraph, Cast announced that Amazon had opened its first physical store. She specified its location along with several customer benefits.
+	  Second Paragraph:
+	  Cast made a creative choice in this paragraph. She opted to avoid stating a “problem” since there wasn’t really a problem with brick-and-mortar bookstores. Instead, she opted to write a hypothetical quote from Jeff Bezos highlighting some of the differences that would make Amazon Books a better experience for the company’s customers.
+	  Paragraphs Three to Six:
+	  Cast provided details that would guide designers as they created the in-store experience.
+	  Company Quotes / Customer Testimonials:
+	  She included quotes from customers—again, hypothetical. The customers expressed their enthusiasm about seeing books faced out, reading Amazon ratings and reviews, comparing Amazon tablets, discovering new items like Fire TV Stick, and using the mobile app to place orders or find more information. Cast says customer testimonials are a key part of the press release process because they help decision-makers evaluate the strength of the idea. If the quotes are weak, then it’s likely the idea fails to deliver substantial value to a large enough customer base to make the project worthwhile
+	  -------------------
+	  2022-12-18 04:49  |  Page No.: 165
+	  COACHING DRILL
+	  Use the table below to draft a mock press release for your idea: a start-up, product, service, company, or plan.
+	  Topic:
+	  (Product, initiative, service, or company.)
+	  Headline:
+	  (It answers who is making the announcement and what they’re announcing.)Subheading:
+	  (The subheading is the hook that gives the reader a reason to pay attention. It must be concise. Keep it under thirty words.)
+	  First (Summary) Paragraph:
+	  (This first paragraph is an introduction that offers a concise summary of the product, initiative, service, or company and its benefits.)
+	  Second (Problem) Paragraph:
+	  (The second paragraph explains the problem your product, initiative, service, or company intends to solve.)
+	  Paragraphs Three to Six:
+	  (The third to sixth paragraphs dive deeper into the details of your product, initiative, service, or company and how it solves the problem.)
+	  Company Quotes / Customer Testimonials:
+	  (Use engaging quotes from company spokespeople, partners, and customers, even if they don’t exist yet
+	  -------------------
+	  2022-12-18 04:59  |  Page No.: 167
+	  John then made a bold decision. He convinced the team to create a twenty-minute presentation, giving the CEO forty minutes of his time back. If the chief executive had more questions, they’d come armed with answers. But the pitch itself would last no more than twenty minutes. John is a student of communication and recognized that long presentations are often convoluted, disjointed, overwhelming, and just plain boring. Short presentations are almost always more persuasive than long ones
+	  -------------------
+	  2022-12-18 05:01  |  Page No.: 168
+	  Working backwards from the press release did, indeed, change John’s life. John earned a promotion to lead the groundbreaking project. He’s been named one of only twenty division presidents in a global company of more than one hundred thousand employees. “I wouldn’t be in this position if it hadn’t been for communication skills,” John told me. “The ability to convey compelling ideas clearly and concisely is a critical skill. If you want to grow in a large company—or raise money for a start-up—you have to convince a boss, CEO, or investor. I’m an example of how presentation skills can make a career.”
+	  -------------------
+	  2022-12-18 05:06  |  Page No.: 168
+	  “If you can’t explain the problem your idea solves in a sentence or two, you probably don’t understand the problem well enough,” Zane says. “If you can’t state the customer benefits in a few sentences, and show—with quotes—why they’ll love the product, you don’t know your customer well enough. If you can’t explain—again in a sentence or two—how your product is different from the competition or how it will make your customer’s life easier, it’ll be nearly impossible to build the support you’ll need internally.”
+	  -------------------
+	  2022-12-18 05:07  |  Page No.: 169
+	  Product managers are known as “mini CEOs” because of their cross-functional role. “I’m dealing with four or five different audiences,” says Zane. “I have to talk in engineering language to developers building the product. I have to talk numbers with the CFO and clearly explain the impact of our product on the company’s bottom line. I have to convince our salespeople that customers will love the product and spend more money with us. Everything I communicate must be specific to the audience. If I’m not able to adapt my message for different audiences, I’ll be inefficient and less successful
+	  -------------------
+	  2022-12-18 05:13  |  Page No.: 169
+	  “Communication, oral and written, is one of the most important skills that a scientist or a professional can develop,”15 Varol told me. “Being able to distill what you’ve been working on—especially on a complicated subject—into language that anyone can understand is a rare but valuable skill. The people who have mastered that skill really tend to stand out.”
+	  -------------------
+	  2022-12-18 05:21  |  Page No.: 173
+	  FOUR REASONS TO READ MORE BOOKS THAN YOU DO NOW
+	  1. Books are simulators for the mind.
+	  “Reading is the sole means by which we slip, involuntarily, often helplessly into another’s skin, another’s voice, another’s soul,”7 says novelist Joyce Carol Oates.
+	  By allowing you to slip into another person’s soul, books act as simulators for the mind. According to neuroscientists, the human brain doesn’t distinguish between reading about an experience and experiencing an event in real life. When you place yourself in the middle of circumstances the book’s characters face, you can ask yourself, What would I have done in that situation?
+	  -------------------
+	  2022-12-18 05:27  |  Page No.: 174
+	  2. Books offer perspective.
+	  “Books provide the chance to experience an enormous variety of life experiences without leaving home or school,”9 says Stavridis. “How else can a young aspiring leader learn how Ernest Shackleton managed to save his entire crew after his ship, Endurance, was crushed by ice and destroyed in Antarctica in 1915? As I think back on my lifetime of reading, many of the people I admire most deeply are known to me only through books—either by them or about them.”
+	  Entrepreneurs often find inspiration by reading first-person accounts of those who overcame overwhelming odds to turn their vision into reality. For example, in a 2009 Newsweek interview, Bezos said, “If you read The Remains of the Day, which is one of my favorite books, you can’t help but come away and think, I just spent 10 hours living an alternate life, and I learned something about life and regret. You can’t do that in a blog post
+	  -------------------
+	  2022-12-18 05:28  |  Page No.: 174
+	  3. Books are a valuable form of condensed knowledge.
+	  Even investors who clamor for a piece of the next hot start-up can’t match the return on investment a good business book provides
+	  -------------------
+	  2022-12-18 05:28  |  Page No.: 174
+	  A book is the single most valuable tool to boost your leadership skills
+	  -------------------
+	  2022-12-18 05:31  |  Page No.: 174
+	  4. Readers are better speakers.
+	  According to Admiral Stavridis, “The essence of leadership is the ability to communicate and inspire. And, to do that, you have to be a good speaker and a good writer. By reading good literature, both fiction and nonfiction, you can enhance your written and verbal skills.”
+	  -------------------
+	  2022-12-18 05:33  |  Page No.: 175
+	  Simply put, voracious readers are better speakers. People who read an assortment of books in fiction and nonfiction categories have a broad, interesting variety of stories from which to pull. They have more arrows in the quiver: stories, insights, examples, and wisdom. They offer fresh, surprising, and unique ways of looking at the world and explaining what they see. Since humans are natural explorers who love to learn new things, we’re attracted to readers because they act as culture keepers; they inform, illuminate, and inspire. Bezos once said that the secret to creating compelling content—books, movies, memos—is to be interesting. You have to be “riveting,” he said
+	  -------------------
+	  2022-12-18 05:34  |  Page No.: 177
+	  “Leaders need to expand their knowledge every day—to exercise their most unique muscle; their brain,”13 writes Rubenstein. “Failing to do so makes it difficult to keep up with a rapidly changing world. I have tried to continue to learn by somewhat obsessive reading. Nothing focuses the mind like a well-written book
+	  -------------------
+	  2022-12-18 05:35  |  Page No.: 177
+	  Rubenstein says great leaders share similar qualities in addition to excellent communication skills. The books they’ve written provide a wealth of knowledge and shortcuts to success. Step one is to identify the most relevant categories to your career, business, and interests. Step two is to identify leaders and entrepreneurs you admire. Step three is to read their books, blogs, interviews, and articles. Books likely opened up a new world for those leaders, and they’re eager to share their recommendations. So take them up on it.
+	  -------------------
+	  2022-12-18 05:36  |  Page No.: 178
+	  In 2003, Jeff Bezos assigned his technical assistant, Colin Bryar, the task of selecting books for Amazon’s senior leadership team. “They were smart businesspeople, but they needed more technical knowledge on how to build scalable and robust software,”15 says Bryar. “One of Amazon’s Leadership Principles is Learn and Be Curious. So although they had very demanding jobs, our S-Team embraced the idea of a book club. Jeff would assign a book, and he read it along with everyone else. Then, we’d get together as a group to discuss it. We did that every four to six weeks.”
+	  -------------------
+	  2022-12-18 05:37  |  Page No.: 178
+	  Bryar and Bezos selected Fred Brooks’s The Mythical Man-Month, a book that inspired Amazon’s now famous “two-pizza teams.” The S-Team also read Good to Great, which inspired the flywheel strategy that propelled Amazon’s growth. Built to Last and Creation inspired Amazon Web Services, The Innovator’s Dilemma inspired the Kindle, and Sam Walton’s Made in America inspired Amazon’s sixteen Leadership Principles.
+	  Another book, Zingerman’s Guide to Giving Great Service, offered ideas on how to amaze and delight customers, while The Goal taught Amazon executives to manage bottlenecks, logistics, and other operational challenges in its fast-growing e-commerce business. And where did Bezos get the idea to attach the original 1997 shareholder letter to every letter he wrote over the next two decades? Alan Greenberg’s Memos from the Chairman
+	  -------------------
+	  2022-12-21 02:52  |  Page No.: 182
+	  AMP YOUR PRESENTATIONS
+	  When clients come to us to transform their speaking skills, we rely on a model that enables them to “AMP” their presentations. Amp is a transitive verb whose definition is “to excite and energize.” We use it as an acronym to describe the three variables that will transform you into a dynamic speaker who excites and energizes your audiences
+	  -------------------
+	  2022-12-21 02:52  |  Page No.: 183
+	  Variable
+	  Explanation
+	  Ability (Constant)
+	  Your natural ability is largely constant. These are individual strengths and talents that you already have. These strengths are noticeable at every stage of your presentation skill development. They are foundational skills you will build upon.
+	  Natural abilities include:
+	  Comfortable speaking in front of others.
+	  Deep content knowledge.
+	  Creative with words, imagery, metaphors, or art.
+	  A strong, resonating vocal tone.
+	  Comfortable finding the humor in situations.
+	  Good posture, perhaps from a background in sports or performing arts.
+	  Message
+	  (NOT Constant)
+	  The content of your presentation: theme, clarity, word choice, stories, slides, and visuals.
+	  Your message is a variable you can change and develop. A strong message includes:
+	  Emotionally engaging content (stories, images, videos).
+	  A short, clearly expressed theme.
+	  Three supporting examples.
+	  Short sentences written in the active voice.
+	  Visually engaging slides.
+	  Stories that grab attention.
+	  Simple, understandable sequence.
+	  Practice
+	  (NOT Constant)
+	  The time you spend rehearsing and internalizing the content is the second variable that you can control. The more time you commit to deliberate practice, the more confident you’ll feel on performance day.
+	  You can adjust the amount of time you devote to this variable. Rehearse your presentation until:
+	  You’ve internalized the key messages on each slide and you can deliver those messages without looking at notes.
+	  You can deliver the presentation in a conversational style, like you’re having dinner with friends.
+	  You’re comfortable with demonstrations, knowing how they’re going to work and how long it will require to complete the demo.
+	  You’ve shortened the stories you tell so they’re concise, relevant, and keep the action moving.
+	  The first step to sharpening your speaking skills is to understand your Ability. A person with more natural strengths still needs to have a great Message and commit the Practice time to refine their delivery. A person who shows fewer natural strengths early in their public-speaking journey must still learn to craft a great Message. They’ll also have to devote far more practice time than other speakers, but the practice will help them shine
+	  -------------------
+	  2022-12-21 02:56  |  Page No.: 188
+	  We find that rehearsing a speech or presentation at least ten times gives a speaker the confidence they’ll need to own the room
+	  -------------------
+	  2022-12-21 03:02  |  Page No.: 190
+	  By 2019, Bezos has substantially improved his delivery. His sentences are sharp, precise, and concise. He appears comfortable and unhurried. He pauses after expressing big ideas to let the concepts sink in
+	  -------------------
+	  2022-12-21 02:59  |  Page No.: 191
+	  Practice is not something you do because you’re bad; practice is something you do because you are good. Great communicators instinctively know that practice matters, and they always make time for it
+	  -------------------
+	  2022-12-21 03:01  |  Page No.: 192
+	  If I had been there to coach Steve Jobs, my first step would be to help Jobs see his own strengths that he could build on. Those strengths did, indeed, turn Jobs into a magnificent storyteller. For example, although he was nervous, Jobs used assertive language and spoke in crisp, clear sentences. Instead of rambling, he cut to the chase. He found humor in the situation and had a strong vocal tone
+	  -------------------
+	  2022-12-21 03:03  |  Page No.: 195
+	  The key to becoming an authentic and charismatic speaker is not to change who you are. Embrace the attributes that make you unique. Celebrate your strengths and abilities. We all have them. They are qualities that won’t change. Build on them. Save your efforts for the two qualities you can sharpen: message and practice. If you invest in these two things, you will become an amazing communicator. It will happen. Great communicators put in practice time because time is what makes communicators great. AMP your presentations and you’ll be thrilled with the results.
+	  -------------------
+	  2022-12-21 03:05  |  Page No.: 196
+	  CUSTOMER
+	  Jeff Bezos wasted no time in telling the world what he cared about the most. In his very first letter to Amazon shareholders in 1997, he cited the customer twenty-five times, setting the stage for what would become Amazon’s secret sauce: “Amazon.com uses the Internet to create real value for its customers and, by doing so, hopes to create an enduring franchise, even in established and large markets.”1
+	  According to Bezos, customer obsession wasn’t just a good strategy, it was an absolute requirement in 1997 when the majority of Americans had never been online, let alone purchased a product over the internet. Everything from how to use a modem to navigating a website had to be explained in “excruciating detail,” Bezos said. Making the experience easy for customers fueled Amazon’s rapid rise.
+	  Obsessing over the customer evolved into a mission that would drive Amazon’s business decisions then and now. But a mission doesn’t just take hold and 
+	  -------------------
+	  2022-12-21 03:05  |  Page No.: 197
+	  scale as a company gets bigger. A mission needs a repeater in chief who keeps everyone focused on the big picture. By 1998, Bezos had clarified the company’s mission. Amazon, he said, “intends to become the world’s most customer-centric company.” For the next twenty-three years, Bezos became the chief evangelist for Amazon’s mission and turned it into a mantra that everyone can recite.
+	  -------------------
+	  2022-12-21 03:05  |  Page No.: 197
+	  OVERCOMMUNICATE BY A FACTOR OF TEN
+	  Harvard business professor John Kotter found that most leaders under-communicate their vision by a factor of ten
+	  -------------------
+	  2022-12-21 03:05  |  Page No.: 197
+	  “Transformation is impossible unless hundreds or thousands of people are willing to help, often to the point of making short-term sacrifices,”2 Kotter wrote in the Harvard Business Review. “Without credible communication, and a lot of it, the hearts and minds of the troops are never captured
+	  -------------------
+	  2022-12-21 03:12  |  Page No.: 197
+	  Jeff Bezos, on the other hand, is a leader who doesn’t believe that it’s possible to overcommunicate a mission. In his first known public speech in 1998, Bezos talked about the “customer” a full sixty-two times. And he was just getting started. Bezos put the customer center stage for the next two decades. Figure 13 shows the most common words that appear throughout all twenty-four years of Bezos letters. The customer clearly rules
+	  -------------------
+	  2022-12-21 03:12  |  Page No.: 197
+	  As I mentioned, customer obsession began to take shape as the company’s official mission in 1998. In his letter to shareholders that year, Bezos explained how the mission should guide decision-making at every level of the company. “I constantly remind our employees to be afraid,” he wrote. “To wake up every morning terrified, not of our competition, but our customers.
+	  -------------------
+	  2022-12-21 03:13  |  Page No.: 197
+	  Bezos continued to clarify the mission the following year. Customer obsession, he said, meant that Amazonians should listen to customers, invent on their behalf, and personalize the service for each customer. You don’t want to hire mercenaries at your company, you want to be surrounded with missionaries, Bezos would later say. Missionaries care about the mission. Years before “purpose-driven” companies became part of the business vernacular, Bezos was telling his senior leaders to keep Amazon’s purpose top of mind and to hire those people who believed in its mission. People crave meaning in their lives, and they want to work for an organization whose mission they ad
+	  -------------------
+	  2022-12-21 03:20  |  Page No.: 198
+	  The customer-focused mission serves as a defining element of the company culture and unites Amazonians across teams and locations. Employees work in thirty-four job categories, such as marketing, engineering, operations, warehouse, business development, human resources, product management, and software development. Regardless of which position people apply for, Amazon reminds them the company’s intense focus on the customer is the reason it’s one of the world’s most admired brands. It’s hard to forget the mission when it’s the first Leadership Principle that every job candidate and every Amazonian is expected to know: customer obsession. Its definition is inspired by those early Bezos letters. The principle reads, “Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers
+	  -------------------
+	  2022-12-21 03:23  |  Page No.: 199
+	  Cognitive psychologists say the “mere-exposure effect” is a phenomenon that simply means the more you hear something, the more you like it. When it comes to a company’s mission statement, the more you hear it, the more you like it. If you like the message and internalize it, you’ll be more likely to act on it. A mantra takes a mental highlighter to the mission. You can’t miss it.
+	  Jeff Bezos doesn’t under-communicate his mission by a factor of ten; he amplifies the mission by a factor of ten.
+	  Bezos repeated the mantra of customer obsession relentlessly in nearly every interview, memo, speech, shareholder letter, and media interview. He did so day after day, year after year, decade after decade
+	  -------------------
+	  2022-12-21 03:28  |  Page No.: 200
+	  Unlike most leaders who under-communicate their company’s mission, Bezos continued to repeat his mantra until everyone internalized it. His purpose-driven outlook inspired him to partner with others who also shared his passion for mission. One of those partners was an entrepreneur whose company became famous for its founder’s vision to deliver happiness to every customer: Zappos
+	  -------------------
+	  2022-12-21 03:29  |  Page No.: 200
+	  In April of 2009, Hsieh flew to Seattle for an hour-long meeting with Bezos. According to Hsieh, “I gave him my standard presentation on Zappos, which is mostly about our culture. Toward the end of the presentation, I started talking about the science of happiness—and how we try to use it to serve our customers and employees better.”6
+	  Bezos interrupted and said, “Did you know that people are very bad at predicting what will make them happy
+	  -------------------
+	  2022-12-21 03:29  |  Page No.: 201
+	  “We’ve made mistakes and we’ve learned some things,”7 he said. “But here’s what I know: You need to obsess over customers. We have been doing this since the very beginning. It’s the only reason why Amazon.com exists today in any form. When given the choice of obsessing over competitors or obsessing over customers, we always obsess over customers. We like to start with customers and work backwards
+	  -------------------
+	  2022-12-21 03:33  |  Page No.: 201
+	  “The number one thing that has made us successful by far is obsessive, compulsive focus on the customer, as opposed to obsession over the competitor,” Bezos told David Rubenstein in a 2018 interview for Bloomberg Television. “It is a huge advantage to any company if you can stay focused on the customer instead of your competitor.”8 The company that started with eleven people in a Seattle garage has topped 1.6 million employees worldwide and is intimately entwined in the U.S. economy. While a lot has changed for Amazon since its founding in 1994, one thing has remained consistent from Day One—a relentless focus on one overarching mission, a mission driven by its founder and his successor
+	  -------------------
+	  2022-12-21 03:35  |  Page No.: 202
+	  In a CNBC interview on October 2, 1997, Jobs said, “If you do the right things on the top line, the bottom line will follow.”9 Jobs believed that if a company has the right strategy, the right people, and the right culture, sales will follow. 
+	  -------------------
+	  2022-12-21 03:36  |  Page No.: 203
+	  “We’re going to get back to basics with great products and great marketing,” Jobs began
+	  -------------------
+	  2022-12-21 03:36  |  Page No.: 203
+	  Jobs said the company would have to stop talking about “speeds and feeds, MIPS and megahertz” to bring the brand back to greatness. Customers didn’t care about all that. They cared about their goals, hopes, and dreams.
+	  Jobs then asked a series of rhetorical questions: Who is Apple? What do we stand for? Where do we fit in the world? What do we want customers to know about us?
+	  Apple wasn’t in the business of “making boxes for people to get their jobs done,” he said. “Our core value is we believe that people with passion can change the world for the better, and those are the people we’re making tools for
+	  -------------------
+	  2022-12-21 03:42  |  Page No.: 204
+	  “Effective public speaking and communication skills have always been important for leaders,”12 says Whole Foods cofounder John Mackey. “Purpose is foundational. Connecting people to purpose is the first and foremost job of a conscious leader
+	  -------------------
+	  2022-12-21 03:42  |  Page No.: 205
+	  In other words, purpose is not necessarily the product or service that you sell. Purpose is how your work will make the community a better place and elevate the lives of your customers.
+	  -------------------
+	  2022-12-21 03:43  |  Page No.: 205
+	  “Purpose-oriented companies have higher productivity and growth rates,”14 according to a report by Deloitte Consulting. “Purpose-oriented organizations also report 30 percent higher levels of innovation and 40 percent greater workforce retention than their competitors.
+	  -------------------
+	  2022-12-21 03:47  |  Page No.: 206
+	  organizations who fail to articulate the company’s purpose to customers, employees, partners, and investors “run the risk of falling behind or failing entirely. This trend will only strengthen as younger consumers who grew up with a deeper sense of purpose than previous generations seek out brands that share their values
+	  -------------------
+	  2022-12-21 03:48  |  Page No.: 206
+	  As the COVID-19 pandemic reminded us, the only thing certain about the future is that it’s uncertain. As leaders grapple with unprecedented changes in the workplace, they should recommit to articulating their company’s purpose and communicating it as vividly and frequently as possible. “A higher purpose is like a living thing: it must be nurtured,”15 Mackey reminds us. “At every step of the journey, it is the leader’s role to seek, refine, and champion that purpose.”
+	  Hubert Joly agrees with Mackey that a company’s “noble purpose” delights customers, engages employees, and rewards shareholders. But a purpose needs an advocate to champion it. Joly surprised the business world by striking an unlikely partnership with Amazon. As CEO of retailer Best Buy, he had heard the stories about how Amazon would shift consumers’ habits, effectively ending the need for the big-box electronic store. But rather than seeing Amazon as an existential threat, Joly decided to showcase Amazon’s products to create a mutually beneficial relationship. Joly shares the details of Best Buy’s turnaround in his book, The Heart of Business.
+	  According to Joly, “Best Buy’s noble purpose of enriching lives through technology unleashed significant innovation and growth.”16 Employees will rally around a noble purpose, and customers profoundly relate to it, says Joly, only if there’s a leader who acts as its chief storyteller, a purpose champion. “Our brains are wired to connect through storytelling,” Joly writes. “Telling everyday stories—stories of employees, customers, communities, and how they impact each other’s lives—fosters a sense of purpose and connection with where we work and whom we work with.”
+	  Your employees want to know why they matter and why their work matters. It’s up to you to model the purpose in everything you do, write, and say. Because once people buy into the purpose of the mission, they’ll be inspired to execute it.
+	  -------------------
+	  2022-12-21 03:58  |  Page No.: 209
+	  Michael Moritz invests in crazy ideas that others overlook, including those two guys in a garage who created Apple. Moritz also invested in Google, Airbnb, PayPal, and WhatsApp through his legendary venture capital firm, Sequoia Capital.
+	  “The people who do remarkable things tend to be obsessed by what they are working on,”20 Moritz once told me in an interview for Forbes. Moritz definedan “obsession” as being so captivated by an idea that you simply have no choice but to pursue. It’s an idea that stalks you at night and walks by your side in the daylight. It doesn’t let you go. Jeff Bezos once said an obsession is an idea that you passionately believe in. You don’t chase passions, he added. They come looking for you.
+	  We now know the obsession that came looking for Bezos. We learned how the founders of Apple, Whole Foods, and Medtronic started with little more than ideas and, fueled by a purpose bigger than their products, revolutionized the world.
+	  Your mission will be different from theirs. It is distinctly and uniquely yours and yours alone. Once you identify your mission, share it. Proclaim it. Shout it. Announce it. Publish it on social media. Declare it. Live it. Above all, keep it alive in the hearts and minds of everyone who crosses your path. You might inspire them to join your quest. Since nothing worth building is accomplished alone, you’ll need to attract the best and the brightest. Make your journey irresistible, an adventure that people will be delighted to join
+	  -------------------
+	  2022-12-21 03:59  |  Page No.: 212
+	  According to former Amazon executive Bill Carr, who cowrote Working Backwards, the secret sauce that creates Amazon’s culture is made of four ingredients: customer obsession, long-term thinking, eagerness to invent, and taking pride in operational excellence. “Amazon has never wavered in its commitment to these four core principles,”3 Carr says. “And they are in large part the reason that in 2015 Amazon became the company that reached $100 billion in annual sales faster than any other in the world
+	  -------------------
+	  2022-12-21 04:01  |  Page No.: 212
+	  Carr says that Amazon Prime Video, which has more than one hundred million viewers, resulted from a decade of research, development, and content acquisition. “Having that long time horizon is critical if you want to build something big and enduring. Many companies will give up on an idea if it doesn’t produce returns in a quarter or a year. Amazon will stick with an initiative for five, six, seven years—all the while keeping the investment manageable, constantly learning and improving—until it gains momentum and acceptance.”
+	  -------------------
+	  2022-12-21 04:02  |  Page No.: 212
+	  “In the early days at Amazon, Jeff Bezos left a single chair empty around the boardroom table,”4 says John Rossman. “It informed all attendees that they should consider that seat occupied by their customer, the most important person in the room.” Rossman worked closely with Bezos and played a crucial role in launching Amazon Marketplace, now responsible for 50 percent of all units sold at Amazon.com. The chair resonated deeply with Rossman who never forgot the symbol or its messageThe chair served to align every discussion around the question, “What’s best for our customers?” According to Rossman, the chair was one of many calculated, highly-symbolic gestures that served to repeat core messages to reinforce Amazon’s leadership principles. In this case, every decision in one way or another had to consider the customer’s perspective.
+	  Inspiring leaders communicate with passion, purpose, and vision. They use metaphors and analogies, stories, and anecdotes to convey their ideas. Symbols are also part of the rhetorical tool kit because they evoke a powerful sensory experience. Since our senses evolved to work together—vision influences hearing, smell influences taste—we learn best when several senses are stimulated at once
+	  -------------------
+	  2022-12-21 04:11  |  Page No.: 217
+	  Data only leads to action if people understand the story the numbers tell
+	  -------------------
+	  2022-12-21 04:11  |  Page No.: 217
+	  While the human brain allows us to perform extraordinary feats of imagination and information processing, it has limitations. It simply wasn’t made to process large numbers
+	  -------------------
+	  2022-12-21 04:14  |  Page No.: 218
+	  When it comes to numbers, the secret to grabbing a person’s attention and convincing them to take action on your ideas is not to overwhelm them with even more numbers, statistics, and data points. The secret is to hold your fire. Then choose your target carefully—identify the most important number your audience needs to know. The next step is to make the data relatable.
+	  You’ll recall from chapter 6 that the human brain is an analogy machine, constantly comparing the new and abstract to the old and familiar. Your new idea is more likely to stick when you compare it to something the audience knows. The same approach applies to communicating data. Cognitive scientists say, “People have difficulty reasoning about magnitudes outside of human perception.”3 Numbers that are too small, like nanoseconds, or too large, like the number of stars in the universe, are beyond what we can perceive in our mind’s eye. Fortunately, there are simple ways to rescale numbers that will make them easier to comprehend. The most common comparisons are made to size, distance, and time
+	  -------------------
+	  2022-12-21 04:15  |  Page No.: 219
+	  Steve Jobs loved using size and weight to explain data. In The Presentation Secrets of Steve Jobs, I feature many examples of Jobs putting data into context, but few presentations were as memorable as the introduction of the iPod. In 2001, Jobs revolutionized the music industry with the introduction of Apple’s first iPod. Jobs knew that few people would understand or care that the device stored 5 gigabytes of data (music). But wait! he exclaimed. The iPod was much more than 5 gigabytes of data. It’s “1,000 songs in your pocket.” And with a magician’s flourish, Jobs pulled an iPod from the pocket of his blue jeans as the audience gasped and cheered
+	  -------------------
+	  2022-12-21 04:18  |  Page No.: 220
+	  Bezos also loves making time comparisons, especially when he can relate data to how much time the consumer saves.
+	  “Consumers complete 28% of purchases on Amazon in three minutes or less,”8 Bezos wrote in the 2020 shareholder letter. Left alone, those two numbers—twenty-eight and three—don’t mean much
+	  -------------------
+	  2022-12-21 04:18  |  Page No.: 221
+	  CREATE VALUE
+	  Influential speakers avoid adding to the deluge of data overwhelming their listeners. Instead, they choose a few key statistics and build stories around those data points, using concrete examples that nonexperts can easily comprehend and remember. According to Google chief economist Dr. Hal Varian, “The ability to take data—to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it—is going to be a hugely important skill in the next decades.”9
+	  By making data relevant to your readers or listeners, you’re helping them see numbers in a new way. Developing this persuasive communication skill also gives you the ability to reframe events as opportunities instead of setbacks, a key ingredient to persuade others to act on your idea.
+	  -------------------
+	  2022-12-21 04:38  |  Page No.: 222
+	  Bezos used the story and the supporting data to offer this advice: “If you want to be successful in business (in life, actually), you have to create more than you consume. Your goal should be to create value for everyone you interact with. Any business that doesn’t create value for those it touches, even if it appears successful on the surface, isn’t long for this world. It’s on the way out.” Remember that we think in story. By wrapping data in story, you make it far easier for your listener or reader to understand your message.
+	  By making data relevant for your listeners you demonstrate the value you’re creating. Show the value your start-up will offer investors (how much your company will make, when you’ll hit your goals, and when they will start seeing a return on their money). Show the value you’ll add to a new company once you’re hired (if you increased sales by 25 percent at your last company, tell them how you did it and how you can do the same for them). Show the value your business brings to customers and employees (saving them time and money, or helping them generate more sales). Bezos offers a valuable lesson when he says create value for everyone. But sometimes, you need to show your work.
+	  -------------------
+	  2022-12-21 04:39  |  Page No.: 223
+	  Great leaders build successful companies because they have a vision of who the company serves, the problem the company solves, and how the company enriches the lives of everyone it touches. Communication is the key to rallying people around that vision and persuading them to become travelers on your epic journey.
+	  -------------------
+	  2022-12-21 04:56  |  Page No.: 224
+	  Georgetown University researchers found that three charms but four alarms. The study intended to find out why consumers found some product messages more appealing than others. It turns out that consumers find three product claims to be persuasive. Consumers lose interest and become less impressedonce product claims beginning climbing to four, five, or more. According to the research, if you’re selling a product or pitching an idea, backing your argument with just one message isn’t convincing.3 Two supporting statements are better than one. But three is the magic number
+	  -------------------
+	  2022-12-21 05:00  |  Page No.: 225
+	  Effective communicators like Jeff Bezos speak in threes:
+	  “We’ve had three big ideas at Amazon that we’ve stuck with for 18 years, and they’re the reason we’re successful: Put the customer first. Invent. And be patient.”
+	  “The keys to success are patience, persistence, and obsessive attention to detail.”
+	  “Amazon’s success is built on three pillars: selection, convenience, and low prices.”
+	  “In this turbulent global economy, our fundamental approach remains the same: stay heads down, focused on the long term, and obsessed with customers.”
+	  “We ask people to consider three questions before making a hiring decision: Will you admire this person? Will this person raise the effectiveness of the group? On what dimension will this person be a superstar?”
+	  “Work hard, have fun, make history.
+	  -------------------
+	  2022-12-21 05:04  |  Page No.: 225
+	  THE GALLO METHOD MESSAGE MAP TEMPLATE
+	  The Gallo Method Message Map template leverages the rule of three to power your story. It works like this:
+	  First, draft a logline. Ask yourself, What is the one most important thing I want my audience to know? The logline should be specific, clear, and concise. It should be no more than thirty words (ten words is even better). If your logline can’t fit in a Twitter post of 140 characters, it’s way too long. Recall what Bezos repeatedly said about Amazon: “Our mission is to be Earth’s most customer-centric company.” Nine words, fifty-nine characters. Keep your vision bold—and short
+	  -------------------
+	  2022-12-21 05:07  |  Page No.: 226
+	  Second, craft three messages to reinforce the logline. None of the messages are important enough to replace your big idea—they support the big picture.
+	  Third, bring those messages to life with stories, data, or analogies. These figures of speech will enhance your message and make it more persuasive
+	  -------------------
+	  2022-12-21 05:15  |  Page No.: 229
+	  Figure 16.2: The Message Map Template
+	  【Note】screenshot
+	  -------------------
+	  2022-12-21 05:16  |  Page No.: 230
+	  Figure 16.3 shows a visual of a fourteen-slide layout using content taken directly from a Message Map structure
+	  【Note】screenshot
+	  -------------------
+	  2022-12-21 05:23  |  Page No.: 232
+	  Breakthrough ideas don’t appear on demand. Creative ideas rarely occur when you’re staring at a blank page on a computer screen. Instead, epiphanies happen when five conditions are met.
+	  First, get enough sleep.
+	  “I am very focused on getting eight hours of sleep,”1 Bezos says. “I think better. I have more energy.” Once Bezos wakes up, he doesn’t jump into work. In fact, he sets aside time every morning to “putter.” He reads the paper, has coffee, enjoys breakfast with the kids. Bezos sets his first important meeting for 10:00 A.M. when his energy is at its highest. According to Bezos, leaders get paid to make a small number of high-quality decisions a day. If you can make three such decisions, you’re above average, says Bezos. Getting enough sleep will give you the energy to make quality decisions and come up with new ideas.
+	  -------------------
+	  2022-12-21 05:24  |  Page No.: 232
+	  Second, stay active.
+	  Steve Jobs preferred to have serious conversations during long walks. Apple and Pixar employees recall these “brainstorming walks” as far more productive than conference room meetings: Walks are where Jobs came up with his most novel ideas
+	  -------------------
+	  2022-12-21 05:46  |  Page No.: 233
+	  According to a Stanford study, walking boosts our creative output by 60 percent.2 The participants were given “divergent thinking” tests, which measure novel or innovative ideas. The researchers measured subjects while they walked and while they sat. The majority of participants were far more creative when they were active.
+	  The act of walking sparks novel ideas because brains evolved from ancestors who walked up to twelve miles a day. It’s unnatural to sit in a classroom for hours on end, or conduct Zoom calls all day, or to expect a spark of creativity as you gaze into a digital screen. Get sleep, stay active, and putter around—creative ideas can’t be forced. They have to be allowed to flourish in the right conditions
+	  -------------------
+	  2022-12-21 05:46  |  Page No.: 233
+	  Third, let your passions choose you.
+	  “Ever since I was five years old, when Neil Armstrong stepped on the surface of the moon, I’ve been passionate about space, rockets, rocket engines, and space travel,”3 Bezos said to explain why he was stepping aside from Amazon to focus on his space company, Blue Origin. “I think we all have passions. And you don’t get to choose them. They pick you. But you have to be alert to them. You have to be looking for them.
+	  -------------------
+	  2022-12-21 05:50  |  Page No.: 233
+	  Fourth, be a learn-it-all.
+	  One of Amazon’s Leadership Principles is Learn and Be Curious. Leaders are never done learning and always seek to improve themselves. There are two types of people: learn-it-alls and know-it-alls. In a rapidly changing global landscape, only those who are constantly learning will develop novel ideas that move the world forward.
+	  Author Walter Isaacson says Jeff Bezos reminds him of Leonardo da Vinci: “In his delight-filled notebooks, we see his mind dancing across all fields of nature with a curiosity that is exuberant and playful … Jeff Bezos embodies these traits. He has never outgrown his wonder years. He retains an insatiable, childlike, and joyful curiosity about almost everything
+	  -------------------
+	  2022-12-21 05:50  |  Page No.: 233
+	  Fifth and finally, cultivate a limitless mindset.
+	  Entrepreneurs who change the world actively fight the status quo bias in almost everything they do or pitch. The status quo bias simply means that weprefer the way things are today rather than trying new things. Bezos overcame the bias when he pitched the idea for an online bookstore. He overcame the bias when he pursued “crazy” ideas such as e-commerce, streaming entertainment, cloud computing, same-day delivery, and space exploration. Nothing seemed too far-fetched.
+	  Bezos does not impose limits on his ideas. “The idea of going to the moon was so impossible that people actually used it as a metaphor for impossibility,”5Bezos says. “What I hope you take away from that is that anything you set your mind to, you can do.”
+	  When you set the conditions for success and creativity, you’ll stand out. Differentiation is the key to survival at a time when others want you to be typical. In his last shareholder letter as CEO, Bezos wrote that it takes work to be distinctive when the world attempts to make you normal. It’s easier and takes less energy to be like everyone else.
+	  “We all know that distinctiveness—originality—is valuable,”6 Bezos writes. “But the world wants you to be typical—in a thousand ways, it pulls at you. Don’t let it happen.”
+	  It takes continuous effort, lifelong learning, abundant energy, and relentless passion to be original. “Never, never, never let the universe smooth you into your surroundings,” Bezos said.
+	  “It remains Day 1
+	  -------------------
+-

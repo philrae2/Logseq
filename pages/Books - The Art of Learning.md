@@ -1,0 +1,26 @@
+---
+title: Books - The Art of Learning
+---
+
+- **tags:** #learning
+- **author:** [[Josh Waitzin]]
+- **status:**
+- **link:**
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Children who associate success with hard work tend to have  a "mastery-oriented response" to have challenging situations, while children who see themselves as just plain "smart" or "dumb" or "good" or "bad" at something, have a learned "learned helplessness orientation."
+	- [[learning theorists]] are given and receive feedback that is more process-oriented.  They associate success with effort and the process, rather than basing success with the outcomes and minimizing their efforts and challenges.
+	- Concentrate on gaining enjoyment from the effort and process rather than the results.
+	- Don't let your emotions cloud your judgement and make influence your decision making, continue to think slowly and deeply.
+	- Transitions of emotions, mental state, and environment can negatively impact your ability to learn and think
+	- A key component of high level learning is cultivating a resilient awareness that is the older, conscious embodiment of a child's playful obliviousness.
+	- Often the study of a subject may lead you to the studying and exposure to the opposite.
+	- Learn to recognize mistakes (from yourself and of others) so you can learn and avoid them in the future.  The inability and lack of awareness to spot your errors is detrimental to your speed of learning.
+	- Be willing to invest in a losing position in order to learn to surmount a large problem. This may take months of seemingly hard work in losing, but in the end you can find a solution out of the "losing" situation.  Don't be prideful and avoid challenges and learning from people who are better than you.
+		- Learn to have a beginner's mind and be able to make mistakes and learn with humility and openness even though you are being watching by people and expecting you to perform.
+	- Be okay with incremental learning. You don't have to be smart, good, or find the solution right away.
+	- The learning principle is to plunge into the detailed mystery of the micro in order to understand what makes the macro tick.
+		- Learning deeply enables you to build a solid foundation to build your knowledge on. Superficial knowledge may seem showy but is fragile and can be easily broken if given enough stress.
+		- Don't be afraid to learn slowly and repeat the same information over and over again. Repeated exposure can help you make connections to information that you may not have made given the first or second pass.
+		- Don't be afraid to start slow and learn the basics or simple foundational knowledge or skills.
+	- Don't be too overly concerned and attached to fancy techniques and methods, it is much more important to internalize and refine the knowledge you have over the quantity. Depth beats breadth. Concentrate and lean into what you are good at.

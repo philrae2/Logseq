@@ -1,0 +1,70 @@
+---
+title: Books: Think Like A Programmer: An Introduction to Creative Problem Solving
+---
+
+- **tags:** #[[Computer Programming]] #[[Problem Solving]]
+- **author:** [[Anton Spraul]]
+- **status:** #[[📥inbox]]
+- **link:**
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Strategies for Problem Solving
+		- Restate the Problem
+			- Restating the problem in a more formal manner is a great technique for gaining insight into a problem. Many programmers seek out other programmers to discuss a problem, not just because other programmers may have the answer but also because articulating the problem out loud often triggers new and useful thoughts. Restating a problem is like having that discussion with another programmer, except that you are playing both parts.
+			- The broader lesson is that thinking about the problem may be as productive, or in some cases more productive, than thinking about the solution. In many cases, the correct approach to the solution is the solution.
+			- In some cases, a problem that looks very difficult may seem easy when stated in a different way or using different terms. Restating a problem is like circling the base of a hill that you must climb; before starting your climb, why not check out the hill from every angle to see whether there’s an easier way up? Restatement sometimes shows us the goal was not what we thought it was.
+		- Divide the Problem
+			- In solving programming problems, we are sometimes faced with situations where we can’t see a clear path to code the solution, but we must never allow this to be an excuse to forgo planning and systematic approaches. It’s better to develop a strategy than to attack the problem through trial and error.
+			- The other lesson is that sometimes problems are divisible in ways that are not immediately obvious. Looking for a way to divide a problem is usually time well spent. Even if you are unable to find a clean division, you may learn something about the problem that helps you to solve it. When solving problems, working with a specific goal in mind is always better than random effort, whether you achieve that specific goal or not.
+			- Finding a way to divide a problem into steps or phases can make the problem much easier. If you can divide a problem into two pieces, you might think that each piece would be half as difficult to solve as the original whole, but usually, it’s even easier than that.
+		- Start at the most constrained part of the problem
+			- The main lesson from sudoku is that we should look for the most constrained part of the problem. While constraints are often what make a problem difficult to begin with (remember the fox, the goose, and the corn), they may also simplify our thinking about the solution because they eliminate choices.
+			- If one part of the problem is heavily constrained, that’s a great place to start because you can make progress without worrying that you are spending time on work that will later be undone. A related corollary is that you should start with the part that’s obvious. If you can solve part of the problem, go ahead and do what you can. You may learn something from seeing your own code that will stimulate your imagination to solve the rest.
+		- Always have a plan
+			- This is perhaps the most important rule. You must always have a plan, rather than engaging in directionless activity. By this point, you should understand that having a plan is always possible. It’s true that if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution. To be fair, the plan may require alteration somewhere along the journey, or you may have to abandon your original plan and concoct another
+			- Planning also allows you to set intermediate goals and achieve them. Without a plan, you have only one goal: solve the whole problem. Until you have solved the problem, you won’t feel you have accomplished anything. As you have probably experienced, many programs don’t do anything useful until they are close to completion.
+				- Therefore, working only toward the primary goal inevitably leads to frustration, as there is no positive reinforcement from your efforts until the end. If instead, you create a plan with a series of minor goals, even if some seem tangential to the main problem, you will make measurable progress toward a solution and feel that your time has been spent usefully. At the end of each work session, you’ll be able to check off items from your plan, gaining confidence that you will find a solution instead of growing increasingly frustrated.
+		- Start with what you know
+			- When programming, you should try to start with what you already know how to do and work outward from there. Once you have divided the problem up into pieces, for example, go ahead and complete any pieces you already know how to code. Having a working partial solution may spark ideas about the rest of the problem. Also, as you may have noticed, a common theme in problem solving is making useful progress to build confidence that you will ultimately complete the task. By starting with what you know, you build confidence and momentum toward the goal.
+		- Reduce the Problem
+			- With this technique, when faced with a problem you are unable to solve, you reduce the scope of the problem, by either adding or removing constraints, to produce a problem that you do know how to solve. We’ll see this technique in action in later chapters, but here’s a basic example. Suppose you are given a series of coordinates in three-dimensional space, and you must find the coordinates that are closest to each other. If you don’t immediately know how to solve this, there are different ways you could reduce the problem to seek a solution. For example, what if the coordinates are in two-dimensional space, instead of three-dimensional space? If that doesn’t help, what if the points lie along a single line so that the coordinates are just individual numbers (C++ doubles, let’s say)? Now the question essentially becomes, in a list of numbers, find the two numbers with the minimum absolute difference.
+			- Of course, to solve the original problem, we will eventually need the skills involved in both reductions. Even so, reduction allows us to work on a simpler problem even when we can’t find a way to divide the problem into steps. In effect, it’s like a deliberate, but temporary, Kobayashi Maru. We know we’re not working on the full problem, but the reduced problem has enough in common with the full problem that we will make progress toward the ultimate solution. Many times, programmers discover they have all the individual skills necessary to solve the problem, and by writing code to solve each individual aspect of the problem, they see how to combine the various pieces of code into a unified whole.
+			- Reducing the problem also allows us to pinpoint exactly where the remaining difficulty lies. Beginning programmers often need to seek out experienced programmers for assistance, but this can be a frustrating experience for everyone involved if the struggling programmer is unable to accurately describe the help that is needed.
+		- Avoid frustration when solving problems. The more work you try to do in each step, the more you'll get frustrated if you're not making progress.
+		- Store reusable code for easier study and future use
+	- Examples
+		- Half Square
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F1ZxPCRZF_U.png?alt=media&token=6a0072bc-269a-4d4b-b2df-dedbd506cc77)
+				- First reduce the problem to something easier.
+					- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FFO9MJdDZrn.png?alt=media&token=1e62bb67-76fa-4ccd-87c8-691e6c6ba96b)
+					- We can then even further reduce this problem to only printing to the console five iterations of #
+					- We can then gain the insight that printing five rows requires a for loop and start solving the more complex problems.
+				- To solve the more complex we can write down everything we know such as the number of rows and the number of hashes we want at each row.
+					- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FlZu3czNPIy.png?alt=media&token=15ce69c0-63be-46cd-9517-cb3377892ad9)
+					-
+		- Triangle
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FegmaaXNFq9.png?alt=media&token=f02c80af-a083-42b6-a1e0-df19f07913d2)
+			- To approach this problem from the Half-Square problem we can write down everything we know.
+				- Display a row of symbols of a particular length using a loop
+				- Display a series of rows using nested loops
+				- Create a varying number of symbols in each row using an algebraic expression instead of a fixed value
+				- Discover the correct algebraic expression through experimentation and analysis
+			- We can reframe the data we are given to get other numbers that describes the same picture.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FyP4pWc63fi.png?alt=media&token=5cfe95b6-f022-419e-a1cf-5f31572341a4)
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FHvunjVkb_T.png?alt=media&token=5f8aaccb-a8f0-4ca2-8f6e-3006eddc9d31)
+				-
+		- Luhn Checksum Validation
+			- Understand the problem
+				- The Luhn formula is a widely used system for validating identification numbers. Using the original number, double the value of every other digit. Then add the values of the individual digits together (if a doubled value now has two digits, add the digits individually). The identification number is valid if the sum is divisible by 10. Write a program that takes an identification number of arbitrary length and determines whether the number is valid under the Luhn formula. The program must process each character before reading the next one.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FdcLbkYPggl.png?alt=media&token=461c55ef-acd5-4a22-8ad8-efd944c49168)
+			- Breakdown the requirements by writing down issues and roadblock
+				- Knowing which digits to double
+				- Testing double numbers 10 and greater according to their invididual digits
+				- Knowing we've reach the end of the number (as we receive the numbers from left to right, but need to double the digits starting from the right most)
+				- Reading each digit separately
+			- To solve the I(as a whole, solve each problem individually) -- the order doesn't matter
+			- We can further simplify each hurdle to even simpler problems by putting constraints to each problem
+			- Because we don't know if the pin is odd or even or how long it will be we need to solve for both instances and check at the end which solution to offer to the user.
+				- We can solve more than one possibility, but only use one of the outcomes.
+	- Arrays
+		- Use arrays as lookup tables instead of using switch statements

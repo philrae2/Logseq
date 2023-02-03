@@ -1,0 +1,13 @@
+- Articles
+	- [[Cover Letters Are Dead]]
+	- ![How to Answer Tough Job Interview Questions Without Lying.pdf](../assets/How_to_Answer_Tough_Job_Interview_Questions_Without_Lying_1666837259501_0.pdf)
+	  id:: 6359eaff-7b8a-4429-831f-6a7918fe5477
+		- Answering Difficult Questions
+			- When asked negative or challenging question, don't dodge the question instead take the discussion into a positive realm.
+			- *Have you ever had a conflict with a prior boss or describe the worst boss you've ever had and how you resolved matters?*
+				- "I'm fortunate in that I've had very positive relationships with my managers. In my last position, my manager and I once disagree on the best launch date for a project..."
+			- *What didn't you like about your last job?*
+				- Downplay the negative and play up the positive. "I liked most of my responsibilities, especially X, Y, and Z. Perhaps my least favorite aspect was administrative actions
+			- What is your greatest weakness?
+				- Mention the smallest weakness that isn't related to the job.
+	- [ Winning the Interview when you’re 1 of 2 Final candidates](https://web.archive.org/web/20191223113648/http://www.interview-aid.com/2012/07/25/interviewing-get-the-job)

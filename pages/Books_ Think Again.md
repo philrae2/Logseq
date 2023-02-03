@@ -1,0 +1,183 @@
+---
+title: Books: Think Again
+---
+
+- author: [[Adam Grant]]
+- tags: #[[📥inbox]], #innovation
+- Prologue
+	- Intelligence is traditionally viewed as the ability to think and learn but in a world full of information, intelligence can be reframed as the ability to rethink and unlearn.
+		- We not only hesitate to rethink our answers, we hesitate on the very idea of rethinking. Part of the reason is that we are cognitively lazy. We prefer the ease of hanging on to old views over the difficulty of grappling with new ones.
+			- Questioning ourselves makes the world more unpredictable (#antifragile), it requires admitting that facts may have changed, that what was once right is now wrong. 
+			  id:: aab3f59b-106c-4b55-bac0-930abc1b524f
+			- Reconsidering something we believe deeply can threaten our identities, making it feel as if we're losing a part of ourselves.
+		- Under acute stress, people typically revert to their automatic, well-learned responses. #[[system 1 thinking]]] #[[decision making]]
+			- Our ways of thinking become habits that can weigh us down, and we don't bother to question them until it's too late.
+	- Thinking again can help generate new solutions to old problems and revisit old solutions to new problems.
+		- > A hallmark of [[wisdom]] is know when it's time to abandon some of your most treasured tools and some of the most cherished parts of your identity.
+- Chapter 1 - #rethinking
+	- > Progress is impossible without change; and those who cannot change their minds cannot change anything. - George Bernard Shaw
+	- The character trait of sticking to our ideas, beliefs, and opinions are outdated mental models in an environment that is constantly changing and evolving. The new fast paced environment asks us to spend more time thinking and rethinking.
+		- The accelerating pace of change means that we need to question our beliefs more readily than before.
+	- Rethinking is not only a skillset but also a mindset.
+		- Scientists as a profession, rethinking is fundamental. They are paid to for the constant awareness of the limits of their understanding, are expected to doubt what they know, be curious about what they don't know, and update their views based on new data.
+			- [Experimenting]([[experiment]]) can inform our daily decisions. We should adapt a scientific mindset of rethinking.
+		- Mental dexterity doesn't guarantee mental dexterity. It doesn't matter how much brainpower we have, if we lack motivation to change our minds, we'll miss many occasions to think again. The higher your IQ the more you are likely to fall into stereotypes and the smarter  you are the more you struggle to update your beliefs.
+		- We have to actively pursuit open-mindedness, seek out the reason why we might be wrong and revising our views based on what we learn. It is easier to look for that one instance why we are wrong than compiling the reasons of why we are right. #influence #Persuasion
+		- Rethinking is based on the foundation of [[intellectual humility]] - knowing what we don't know. Recognizing our intellectual shortcomings opens us to doubt and curiosity as we question our current understanding. This curiosity can lead us to new discoveries and reinforcing our humility by the things we still need to learn.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FWYLR_wJB7S.png?alt=media&token=f9643314-1708-4455-b444-c8606dfb6797)
+			- Statements people who are are opponents of rethinking:
+				- That will never work here
+				- That's not what my experience has shown
+				- That's too complicated, let's not overthink it
+				- That's the way we've always done it
+- Chapter 2
+	- [[Duning-Kruger]] effect, when we lack competence that we're most likely to be brimming with overconfidence. The less intelligent we are in a particular domain, the more we seem to overestimate our actual intelligence.
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FYiLd95Mvng.png?alt=media&token=d849a760-69f0-44cc-af47-5f00d6535cd4)
+			- In addition to this tendency, we are then blind to this effect, and therefore less likely to rethink our confidence or actual level of competence. The first rule of the Dunning-Kruger effect is that you don't know you're affected.
+			- A deficit in metacognitive skill, ability to think about our thinking, can also cause us to blind ourselves to our own incompetence.
+				- A bit of knowledge can be a dangerous thing. In too many domains of our lives, we never gain enough expertise to question our opinions or discover what we don't know.
+			- We become blinded by arrogance when we're convinced of our strengths and strategies. Confidence, on the other hand, is a measure of how much we believe in one's self. One can be confident in their ability to achieve a goal with the humility to question whether the right tools are present.
+	- [[Imposter syndrome]]
+	  id:: f1e986a6-7907-412e-aef8-afcce44dd2ad
+		- **The three benefits of imposter syndrome**
+			- The first upside of feeling like an imposter is that it can motivate us to work harder.
+			- Imposter thoughts can motivate us to work smarter
+				- When we don't believe we're going to win, we have nothing to lose by rethinking our strategy.
+			- Feeling like an imposter can make us better learners.
+				- "Learning requires humility to realize one has something to learn"
+- Chapter 3 - The Joy of Being Wrong
+	- An idea to us is interesting because it challenges our beliefs, but when our core beliefs are threatened we often shut down. Interesting ideas are only when they don't matter that much to us. A totalitarian ego keeps threatening information out of our minds.
+	- We shouldn't be ashamed of being wrong. It means we've learned something new and are now a little less wrong. We can protect ourselves from ignorance by not allowing our beliefs as part of our identity.
+		- Attachment to our ideas is what keeps us from recognizing when our opinions are off the mark and rethinking them. To unlock the joy of being wrong, we need to detach.
+			- There are two ways to detach:
+				- 1. Detaching your present from your past
+				- 2. Detaching your opinions from your identity
+		- The best forecasters of events where those people who updated their beliefs more often. The best forecasters saw their opinions as hunches than as truths—possibilities to entertain rather than facts to embrace. They questioned ideas before accepting them, and they were willing to keep questioning them even after accepting them. They were constantly seeking information and better evidence—especially disconfirming evidence.
+			- It's a sign of wisdom to avoid believing every thought that enters your mind. It's a mark of emotional intelligence to avoid internalizing every feeling that enters your heart.
+			- If we want to be right in the long term we have to be comfortable to backtracking, stumbling and rerouting in the short term, meaning we have to be okay with making a lot of mistakes now to be right in the future.
+			- > People who are right a lot listen a lot, and they change their minds frequently. If you don't change your mind frequently, you're going to be wrong a lot.
+			- When forecasting, list the conditions for the forecast to be true and another set of conditions that would need to be true to change your mind.
+			-
+- Chapter 4 - The Good Fight Club
+	- Types of conflicts are task and relational conflicts.
+		- High performing groups are where there are task conflicts but a low level of relational conflicts. The low performing working groups have the opposite ratio of conflict types.
+			- Task conflicts in teams has been linked to higher creativity and smarter choices. When teams experience moderate task conflicts early in the process/project, they generate more original ideas.
+		- Relationship conflict is destructive in part because it stands in the way of our rethinking. When we get emotional and personal we become self-righteous of our own views and dismissive of other views.
+		- Task conflicts can be constructive when it brings in diversity of thoughts, which prevents us from being overconfident. It leads to question our assumptions, remain humble and stay curious about what we may be missing. __Productive disagreement is a critical life skill.__
+			- Agreeableness and people pleasing can be detrimental to productive problem solving. It is not a trait for rethinking our ideas.
+			- For productive rethinking, we need a challenge network, a group of people we trust to point out our blind spots and help us overcome our weaknesses. We need to make sure we are surrounding ourselves with disagreeable givers, not takers. Givers often make the best critics because their intent is to elevate the work, not feed their own egos. They challenge because they care.
+				- Avoiding an argument is bad manners and silencing disrespects the value of others' views and the ability to have a civil disagreement.
+		- Don't agree to disagree
+			- When conducting a vigorous debate or challenge, keep emotions and personal egos out of it. The tension isn't emotional rather it is based on intellect.
+			- One problem with task conflicts is that it can spill over to relationship conflict.
+			- Simply reframing a dispute as a debate rather than an disagreement signals that you're receptive to consider dissenting opinions and changing your mind. This in turn motivates the other person to share more information with you.
+				- When we debate it should be based on "how" rather than why we are right and why the other is wrong.
+- Chapter 5 - Dances with Foes: How to Win Debates and Influence People
+	- When we're trying to persuade people, we frequently take an adversarial approach. Instead of opening their minds, we effectively shut them down or rile them up. The more productive approach to debate is to collaborate with humility and curiosity, and invite others to think more like scientists.
+		- The best negotiators will devote more time finding common ground with their debate partners. The better negotiators will also use less arguments for their cause and will limit their reasoning to only a select best. They do not want to water down their best arguments with with weaker ones.
+			- The more reasons we offer, the easier it is for others to dismiss our whole case while they dismiss our weakest arguments.
+		- The skilled negotiator rarely spends time on defense or offense but rather stays curious with questions.
+		- We won't have much luck changing other people's minds if we refuse to change ours. We can demonstrate openness by acknowledging where we agree with our critics and even what we've learned from them. Then we can ask what views they might be willing to revise, we're not hypocrites.
+			- When we concede that someone else has made a good point, we signal we're in the scientific mindset trying to get to the truth.
+			- To improve finding a common ground, pay attention to the strongest arguments your debate partner has so we can learn from them and help revise and refine our own thinking.
+			- We must also portray a softness in our presentation and not come off too strong. Don't step on their toes when you're trying to influence them.
+			- Use a few strong points, our brains can only remember a few points in our heads
+	- __The quality vs quantity of our points are dependent on the state of our audience:__
+		- if they're not invested in the issue or they're receptive to our perspective, quantity is a sign of quality
+		- The more the topic matters to them, the more the quality of reason matters.
+		- When audiences are skeptical of our view, piling on more justifications backfire. In this scenario be careful to choose reasons that fit together and not disjointed or unrelated reasoning and justifications.
+	- The source of our arguments also matters for effective influence. The most effective sources are those closest to our audience.
+		- When we give the most convincing evidence that allows the audience to persuade themselves, it is the most effective. If we ask people if they're going to attend a basketball game instead of influencing them with quotes from the basketball team, they are more likely to respond positively. When we ask them directly rather than influence them through other's justifications, we get more of the desired effect.
+		- Psychologists have found that the most likely person to persuade you, is yourself. You get to pick the reasons you find most compelling, and you come away with a real sense of ownership over them.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FENDDKJptmN.png?alt=media&token=810003f0-5062-498b-9161-01982d8ee540)
+			- We can asks audiences questions to help them engage in our discussion rather than speak in declaratives. Asking questions help people overcome overconfidence and instead start the rethinking cycles.
+			- > When we support our argument with a small number of cohesive, compelling reason, we encourage them to doubt their own opinions. And when we ask questions, we leave them intrigued to learn more.
+			- When someone becomes hostile, sidestep. Have a conversation about the conversation away from the substance of the disagreement and toward the process of having a dialogue.  Focus on understanding and learning rather than arguing and persuading.
+				- The more anger and hostility the other person expresses, the more curiosity and interest you show. Your tranquility is a sign of strength.
+			- We can engage our own feeling and that of our partner as well as comment on our own understanding. __I’m disappointed in the way this discussion has unfolded—are you frustrated with it? I was hoping you’d see this proposal as fair—do I understand correctly that you don’t see any merit in this approach at all? Honestly, I’m a little confused by your reaction to my data—if you don’t value the kind of work I do, why did you hire me?__
+			- In a heated argument, you can always stop and ask, __“What evidence would change your mind?”__ If the answer is “nothing,” then there’s no point in continuing the debate. You can lead a horse to water, but you can’t make it think.
+	- When we know we lack the strong direct qualities that are outlined by a need (example: applying for a job listing), it may be effective to acknowledge our weaknesses and openly address the lack of qualification. Then we can redirect by highlighting our other qualities that we possess that maybe be beneficial to the organization.
+		- We show that we have the foresight to spot them and the integrity to acknowledge them.
+	- When we ask questions directed towards our audience we invite them to collaborate and think and problem solve, rather than argue.
+- Chapter 6 - Diminishing [[prejudice]] by Destabilizing [[Stereotype]]s
+	- Why do we form prejudices against other groups of people? In every human society, people are motivated to seek belonging and status. When we join and identify with a group of people we fulfill belonging and gain status when our group "wins".
+		- In our groups who share the same beliefs as we do the stereotypes we believe in become stickier when we are not exposed to other types of thinking and ideas.
+		- Share values between groups can help reduce the stereotypes we hold against each other, though this does not always work or stick for everyone.
+	- We sometimes humanizing another member of a rival group can improve our impressions of a rival group but all this does is make this specific individual different from the group, and therefore more likeable. We increase our like for the individual but retain our stereotypes for the group.
+	- If we think about the arbitrariness of our prejudices we are more likely to reexamine our prejudices than thinking about the positive aspects of an individual or group that fall under our negative assumptions and dislike.
+		- To change minds and opinions a key step is getting them to do some counterfactual thinking: helping them consider what they'd believe if they were living in an alternate reality. In psychology it involves imagining how the circumstances of our lives could have unfolded differently. When we realize how easily we could have held different stereotypes, we might be more willing to update our views.
+	- Asking people questions can motivate them to rethink their conclusions. People gain humility when they reflect on how different circumstances could have led them to different beliefs.
+- Chapter 7 - Mild Mannered Interrogators
+	- Often, using science and cold hard facts as a way to influence people may not be effective, in fact, it will only strengthen and lead them to dig deeper into their beliefs. A better approach is to ask questions and listen to the answers. #[[motivational interviewing]]
+		- Motivational interviewing starts with an attitude of humility and curiosity. We don't know what might motivate someone else to change but we're genuinely eager to find out.
+		- __Steps to motivational interviewing__
+			- Asking open-ended questions
+			- Engaging in reflective listening
+			- Affirming the person's desire and ability to change
+		- When people ignore advice, it isn't always because they disagree with it. Sometimes they're resisting the sense of pressure and the feeling that someone else is controlling their decision. They feel like they need to protect their freedom.
+		- In motivational interviewing there's a distinction between sustain talk and change talk.
+			- Sustain talk is commentary about maintaining the status quo.
+			- Change talk is referencing a desire, ability, need, or commitment to make adjustments.
+				- When we hear change talk, then we should tease that  conversation out to motivate change.
+				- We also need to make sure we summarize the discussion to make sure we understand them and that we didn't misinterpret or forgot something.
+				- Lastly, we need to help them achieve their goals and help them execute.
+		- Motivational speaking shouldn't be used manipulatively. It requires a genuine desire to help.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F1uGcbZ7zVI.png?alt=media&token=62c3d99b-b668-4b8a-95e2-6b22335b825c)
+	- **The art of influential listening** [[q: How to listen]]
+		- The key to [[Persuasion]] is [[listening]]. It's a set of skills in asking and responding. It starts with showing more interest in other people's interests rather than trying to judge their status or prove our own.  #[[Lessons Learned]]
+			- We can ask better questions, truly curious questions by omitting the hidden agenda of fixing, saving, advising, convincing, or correcting. Instead, we can help facilitate the clear expression of another person's thoughts.
+				- When people are felt listened to by empathetic, nonjudgmental, and attentive people, they were less anxious and defensive. They felt less pressure to avoid contradictions in their thinking, which encouraged to explore their opinions more deeply, recognize nuances in them, and share them more openly.
+		- Many communicators try to make themselves look smart. Great listeners are more interested in making their audiences feel smart.
+- Charged Conversations - 8
+	- Binary bias is the human tendency to seek clarity and closure by simplifying a complex continuum into two categories.
+		- However, more people are inclined to think again if we present the true complexity of a problem, rather than its simplification. A dose of complexity can disrupt overconfidence. It gives us more humility about our knowledge and more doubts about our opinions, and it can make us curious enough to discover the information we were lacking.
+		- To overcome binary bias, we need to be aware of the range of perspectives across a given spectrum.  For example in climate change, there are believers who may be concerned or alarmed and then nonbelievers who may range from cautious to disengaged to doubtful to dismissive.The
+			- It's especially to distinguish skeptics from deniers. Skeptics have a healthy scientific stance: They don't believe everything they see, hear or read. They ask critical questions and update their thinking as they gain access to new information.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FvzrnQj74a4.png?alt=media&token=3f8052ef-e4b3-411f-bd92-1525f3dbe7e8)
+		- As consumers of information, we have to embrace a more nuanced point of view. We can learn to recognize complexity as a signal of credibility. Acknowledging complexity doesn't make speakers and writers less convincing; it makes them more credible.
+	- Emotional intelligence is useful for leadership to have in jobs where it is highly customer-facing such as realty or retail. However, IQ becomes more important when emotion is less influential like accounting and car repair.
+	- Mixed Feelings
+		- Trying to empathize with other people's perspective when we don't understand theirs stance is ineffective. It can actually make us less receptive to rethinking our own attitudes.
+			- What works is not perspective-taking but perspective seeking: actually talking to people to gain insight into the nuances of their views. They test their hypothesis by striking up conversations.
+			- We can convey respect and state it from the start of a conversation to increase trust.
+			- More varied and complex emotional conversations are more productive. In a productive conversation people treat their feelings as a rough draft, that is not fixed but rather changeable as we learn and gather more information.
+			- Restrictive range of emotions is the cause for unproductive conversations. We can fall to binary bias with emotions, not only issues.
+- Chapter 9 - Rewriting the Textbook
+	- **Thinking like fact checkers**
+		- Interrogate information instead of simply consuming it
+		- Reject rank and popularity as a proxy for reliability
+		- Understand that the sender of information is often not its source
+		- We learn better when learning is difficult and challenging. Lectures aren't designed to accommodate dialogue or disagreement; they turn into passive receivers of information rather than active thinkers.
+		- Across a wide range of industries, grades are not a strong predictor of job performance. __Achieving excellence in school often requires mastering old ways of thinking. Building an influential career demands new ways of thinking.__
+		- Psychologists find that one of the hallmarks of an open mind is responding to confusion with curiosity and interest. Confusion can be a cue that there's new territory to be explored or a fresh puzzle to be solved.
+	- Education
+		- When we're teaching or providing education we can express more humility, exude more curiosity and introduce a joy for discovery and rethinking. [[Q: How can we promote rethinking when we're giving informational presentations]]
+- Chapter 10 - Building Cultures of Learning at Work #[[Psychological Safety]]
+	- Psychologically safe teams self reported more errors, but they actually made fewer errors. By freely admitting their mistakes, they were able to learn what had caused them and eliminate them moving forward.
+		- Psychologically unsafe teams, people hid their mishaps to avoid penalties, which made it difficult for anyone to diagnose the root cause and prevent future problems. They kept repeating the same mistakes.
+	- Psychological safety is fostering a climate of respect, trust, and openness in which people can raise concerns and suggestions without fear of reprisal. Its the foundation of a learning culture.
+		- Fear of reprisal can be getting cut off from your suggestions or not being taken seriously or given excuses to stop from rethinking current processes.
+		- In performance cultures, the emphasis on results often undermines psychological safety. When we see people get punished for failures and mistakes, we become worried about proving our competence and protecting our careers. This behavior leads to self-limiting behavior, biting our tongues rather than voicing questions and concerns.
+			- This can be due to the power distance between our bosses, we are afraid of challenging their ideas. We feel pressured to conform too authority. We tend to self-censor in the presence of "authority" especially if we lack confidence in our expertise.
+			- Performance culture can tunnel in concentrating too much on the outcomes. If we face a delay in launch we can face criticism and feel threatened about the security of our careers and reputation. Focusing on results may be good for short-term performance, but it can be an obstacle to long-term learning.
+				- When we are only held accountable for whether the outcome was a success or a failure we are more likely to continue with our current way of doing things. Exclusively praising and rewarding results is dangerous because it breeds overconfidence in poor strategies, incentivizing people to keep doing things the way they've always done them. It isn't until a high stakes decision goes horribly wrong that people pause to reexamine their practices.
+				- Along with outcome accountability we can create process accountability by evaluating how carefully different options are considered as people make decisions. A bad decision process is based on shallow thinking. A good process is grounded in deep thinking and rethinking, enabling people to form and express independent opinions.
+				- An example of process accountability is Amazon's decision to use six page memos for decision making instead of PowerPoints. The memo lays out a problem, the different approaches that have been considered in the past and how the proposed solution serve the customer.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F8wA96MWr9u.png?alt=media&token=88036e3e-0d22-4cc6-8953-ad51a66712a9)
+		- __How do we know?__ Is a question we need to ask more often,, both of ourselves and of others.
+		- To start a culture of psychological safety, means we have to model the values we want to promote, identifying and praising others who exemplify them and build a coalition of colleagues who are committed to making the change. Leadership can show vulnerability and share their past experiences in feedback and how they used it to improve their processes and rethinking.
+			- Leadership can normalize vulnerability and motivate others to share their struggles. This behavior has to be repeatedly demonstrated as the first demonstrations are suspect to the team until they can confirm it is an intended and honest behavior.
+	- Psychological safety without accountability, people tend to stay within their comfort zone and when there's accountability but not safety, people tend to stay silent in an anxiety zone.
+	- **Rethinking scorecard**
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FRlX2T0wcJE.png?alt=media&token=c51e9b84-7f50-4b2c-bd08-f2c19cd7ba06)
+		- In a [[Learning Culture]] we don't stop keeping score we try to expand it. We should consider both the outcomes and the decision-making process. Even if the outcome of a process or decision is positive, it may not necessarily mean it is a success. If the process was shallow, luck played a greater role in the outcome. If the decision process was deep, then we can count it as an improvement and we've discovered a better practice.
+			- If the outcome was negative it is considered only a failure if the decision process was shallow, but if we evaluated the decision thoroughly, we've run a successful and smart experiment.
+				- The ideal time to run these experiments is when the outcome is inconsequential or reversible. Too often in many organizations, we seek a guarantee that the outcome will be good before testing or investing in something new. Requiring proof is an enemy of progress.
+				- A learning culture is to welcome experimentation to make rethinking a routine.
+			- Process accountability is also about decision authority. People making decisions should also be held accountable for the process and outcomes. Similarly, we can improve the decision-making process by separating the decision-maker from the evaluator (if applicable)—rethinking is more likely to happen.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FRCZuFB7wVT.png?alt=media&token=044bcd51-63be-40f7-be43-998cb3e7d188)
+	-
+- Chapter 11 - Escaping Tunnel Vision
+	- Grit is the combination of passion and perseverance that can motivate us to achieve our long term goal. However, grit, can also hinder us rethinking other options on an otherwise failing endeavour.
+	- When making choices and decisions based on preferences, do a check up on your biases. When were they formed are they still relevant now before committing to a choice. We may find that we need to update and rethink our preferences and motivations.
+	- Psychologists find that the more people value happiness, the less happy they often become with their lives.

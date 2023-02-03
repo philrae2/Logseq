@@ -1,0 +1,136 @@
+---
+title: Books - Simply Said
+tags: #[[📥inbox]] [[Jay Sullivan]]
+---
+
+- Introduction: Focus On Others
+	- > Focus less on yourself and more on other people. If we want to improve our ability to connect with others, to understand them and to be understood more clearly, the easiest and most effective way to do so is to focus less on ourselves and more on the other person.
+	- The single most significant differentiator we can apply to our communication skills to improve our effectiveness. When we communicate, instead of thinking, "What am I trying to convey?" we should ask ourselves, "Why is he reading my email or attending this meeting? What does she hope to get out of this presentation." #[[customer journey]]
+		- If we put focus on what the other person is trying to gain from the exchange, we will do a better job communicating, because we will select more pertinent information, drill down to the desired level of detail, and make the information we are sharing more accessible to our audience.
+	- When we speak we are often self-centered and selfish, as we communicate from our own perspective rather than from others' viewpoints. We also listen and filter with our own self-centeredness. This leads us to make assumptions and hear ideas through the prism of our personal experiences. #communication #presentation #Writing
+		- Our self-centeredness in listening and communicating can create a disconnect between us and others.
+		- When we communicate, instead of thinking, "What am I trying to convey", we should ask ourselves, "Why is he reading my email r attending this meeting? What does she hot to get out of this presentation?"
+		- Your audiences don't care about you or your content.
+			- They care about how your content impacts them.
+		- If we want to connect with our audience, we need to minimize how much we talk about ourselves or our content and only talk about those things to the extent that they impact your audience.
+		- ^^Being helpful to the audience is the only legitimate reason for sharing information. Clearly state this in your presentation and writing.^^
+		- **Start with why our audience is in the meeting and why the information or discussion is helpful to them**
+			- "You're all here today because you're concerned about X. I thought it would be helpful to you if we spent a few minutes about
+				- When we say and start with "helpful to you," we have told our listeners very directly that we have put all of our energy into serving them.
+- Section 1 - Your Content
+	- Chapter 1 - Conveying a Clear Message
+		- We have to clearly state the key takeaway of our presentation. What is the message we are to convey?
+			- ^^A clear message is short, uses simple language, and focused on the needs of the audience.^^
+		- Keep it short
+			- Ask yourself if the audience will be able to repeat the message to someone else after hearing your presentation?
+		- Use Simple language
+			- Don't try to sound smart and be aware of the jargon you're using.
+				- Avoid using jargon.
+			- Don't use big words to impress anyone.
+				- People assume you are smart. You're graded on having impact.
+				- It's not your job to appear smart or clever, but to convey the message clearly.
+				- Example message:
+					- Old Message: "We must have a strong risk management system in place so taht we stay out of jail."
+					- Redone message: "Let's actively manage risks so it doesn't manage us."
+		- Focused on the needs of the audience
+			- ^^It is always about how your audience—your listener or reader—need to use your content^^
+				- To craft an audience-focused message, ask yourself: "What does this audience need to learn by attending this meeting?"
+		- Building Rapport
+			- While many business decisions are based on analytics and credentials, just as many are based on the personal connections people feel with one another.
+			- ^^Always stay positive^^
+				- Build rapport by staying positive and turning the conversation back to the other person.
+				- ^^If you're talking you're not learning.^^
+		- Introductions #[[personal introductions]]
+			- Don't introduce yourself just as a title, instead talk about what you do to help other people. I help coordinate and implement software solutions. If possible your introductions can tailor themselves to the person you are speaking to.
+				- If you know they are a lawyer and you are communications consultant, you can introduce yourself as "I help lawyers improve their communication."
+	- Storytelling
+		- If we aren't good at storytelling, analogies and examples are great substitutes.
+		- Stories should sound unrehearsed, however you should know how you're going to start and end.
+			- Decide what you want to pursue and accomplish and include only those details.
+	- Chapter 3 - A place for everything - Organizing your content
+		- Keeping the focus on the other person isn't just about the key message. It extends to the way you organize your information.
+		- Consider three aspects to structuring your information:
+			- The audience's needs
+			- The key message you want listeners to hear
+			- Your purpose—to persuade them to take action or to simply convey information
+		- Start with what the other person. What do they need to take away from the conversation? Give context.
+			- Poor example:
+				- "I want to talk to you about Project X"
+			- Good example
+				- "Since you have a staff meeting tomorrow, I thought it would be helpful
+		- When giving a presentation don't say "presentation". No one wants to be presented to, rather say  "I am here today to talk about X."
+		- Talk about the content not the medium if using PowerPoint.
+		- The informative format
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F6l6F83wjke.39.02%20PM.png?alt=media&token=93426b1f-7915-4495-ac47-2f1ccf1e434b)
+				- Tell them what you're going to tell them
+				- Tell them what you've got
+				- Tell them what you've just told them
+				- This is straight out of Aristotle's Rhetoric
+			- The informative format is repetitive as repetition drives home the key ideas.
+		- The persuasive format
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FSDJtspo5r8.39.34%20PM.png?alt=media&token=4c6da28b-6c4f-45df-8f01-0c01e728819a)
+			- The gist of the persuasive format is to mention very briefly what you want, and then spend the majority of your talk telling your audience why should want it.
+			- If you want to be persuasive, focus on what's in it for your audience.
+			- The hook
+				- The hook is something to grab their attention.
+					- State the problem, quote a startling statistic, or use a rhetorical question
+						- If you state a problem, then the recommendation you share solves that problem.
+						- It's best to solve the problem as a group.
+					- Use numbers, statistics, and data to back you up.
+					- Ask a rhetorical questions as it serves three purposes:
+						- Allows you to frame the discussion
+						- Creates the illusion of participation, even when you will be doing all the talking (though if you're talking, you're not really learning)
+						- Starting with a rhetorical question can help you go beyond the initial jitters that come with giving a presentation
+							- It relaxes us to ask a question as if we are talking to one person
+			- Once you have their attention then tell them what you want.
+				- It's better to tell your conclusion up front versus waiting until the end due to time constraint (this recommendation can change due to cultural differences)
+			- Once you impart your recommendation, share what the benefits are of your recommendation. Why should they care?
+				- To help figure out benefits for your audience, think about time, feelings, and money.
+			- Prove your benefits using statistics, testimonials or anecdotes. Use real world examples to help drive how they themselves can benefit.
+			- Once you've proven the benefits, summarize your recommendation again, every briefly, without the detail you provided the first time.
+			- ^^Tell next steps^^. Share how you'll get to reap the benefits of your recommendation. Clearly define the steps, including who will do what by when.
+				- Example: Assuming you approve this recommendation by the end of next week, we will get the ball rolling next week. I will reach out to the three people who have expressed interest in relocating. Susan will immediately start sourcing local candidates in Asia. Marvin will look at communicating this more broadly, first within the company this month and then among our clients and projects later in the year when we have a firm plan.
+			- **Craft the content**
+				- Although we will deliver the information in the order listed above, but we will have an easier time creating the content if you follow a different order.
+				- Start with the message and the benefits to the audience.
+				- If you focus on the meat of what you want to convey first, how to get started will flow naturally from that point and the presentation will appear seamless and cohesive.
+	- Section 2 - Your oral communication skills
+	- Chapter 4 - Stand up and stand out : Making the most of your body language
+	- Chapter 5 - Are we just waiting to talk? Listening to Understand [[q: How to listen]]
+		- To create more effective messages about yourself and your ideas, focus less on yourself and more on other people.
+		- This is how we differentiate ourselves from most other people in business and in life.
+		- ^^Your goal when communicating is to meet the needs of the other person^^
+		- Listening well is hard work.
+			- Convey a listening posture and body language
+			- Take notes
+				- Taking notes can help us focus on the conversation instead of letting our minds wander
+				- Note taking conveys a listening and engaged body language
+				- We don't need to write everything verbatim, write enough and only the relevant and important information
+				- Before ending the meeting, review your notes and flesh them out so they are understandable in the future
+		- Change the norm. Let the other person speak more and ask questions for them to keep going and elaborate more.
+			- Don't fight to contribute.
+			- People avoid bad listeners. They are viewed as being wrapped in themselves.
+			- People will come and seek the advice of a good listener because they are perceived as someone looking at the bigger picture and as being able to see beyond themselves.
+		- Ask probing questions
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F1_vNOAxHeQ.57.26%20PM.png?alt=media&token=d8fb3159-3d75-41a0-a796-20b1b7c14ffb)
+			- Your job in any business meeting is to dig down until you're uncovering information you didn't even know you didn't know.
+		- Ask closed questions or open-ended questions, depending on your goal
+			- Open-ended questions usually begin with "What", "Why" or "How"
+				- They create a reputation for ourselves as good listeners if we ask more open-ended questions
+				- They require the person to be more reflective, complete, and substantive
+			- Our job, regardless of our role or career, is to be helpful to other people. If what you do at work isn't helpful to someone else, your role won't exist for long
+			- Three helpful questions to ask:
+				- How can I help?
+				- What would be most helpful to you?
+				- Would it be helpful to you if I...?
+		- Confirm and Clarify
+			- When you listen effectively, you don't just learn new information; you challenge the perspective you already had. You learn to make fewer assumptions.
+			- Three components of a clarifying statement:
+				- An introductory phrase
+				- The restatement of the point the other person made
+				- A confirming question
+				- "So, if I'm hearing you correctly..."
+				- "Based on your comments, you believe..."
+				- "I think you've shared..."
+			- In order to foster the sense that you are focused on the needs of the other person, you must manage your tone when confirming what someone has said to you.
+			-

@@ -1,0 +1,8 @@
+- Situation
+	- Open with a brief description of the situation and context of the success story (who, what where, when, how)
+- Task
+	- Explain the task you had to complete highlighting any specific challenges or constraint (e.g., deadlines, costs, other issues)
+- Action
+	- Describe the specific actions that you took to complete the task. These should highlight desirable traits without needing to state them (initiative, intelligence, dedication, leadership, understanding,etc)
+- Result
+	- Close with the result of your efforts. Include figures to quantify the result if possible

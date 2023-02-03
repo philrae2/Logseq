@@ -1,0 +1,26 @@
+---
+title: Article: How to read less but get more out of it
+---
+
+- **tags:** #Article #HowToRead
+- **author:** Tomas Baranek
+- **status:** #SecondReview
+- source: https://lifehacky.net/how-to-read-less-but-get-more-out-of-it-bf61ca062d5a
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Read less, think more
+	- “Before you read something, always ask yourself: what’s interesting about it? Before you write something down: what’s so relevant about it that it’s worth writing down?” — Sönke Ahrens, How to Take Smart Notes
+		- The goal should be to add as little as possible. Because a joyful “hypothesis” added to an inbox mentally instantaneously becomes another task (just like all the emails, messages, and whatever else is already being thrown at us.)
+	- If the goal of reading is to understand, to be able to recall and apply the content later at the right moment, ordinary reading or skimming is not enough. Without thinking and writing extracts in one’s own words, this will not do.
+	- How? Establish a content filter, or a whitelist:
+		- Think about where you want to be in a few years. For example: I would like to be making my own podcasts / I would like to have a family and a job in healthcare / I want to be where I am, but to be doing things better.
+		- Narrow your vision to topics that make sense to pursue. Perhaps you dream about having your own podcast about productivity for parents with young children? So the main topics might be: parental leave, relaxation, sleep, what/where/how to go out with kids, legislation, financial independence…, and probably how to make podcasts. Look for other subtopics that relate to the main topic of your vision that you enjoy. Write them down and you have the basis for a whitelist.
+		- Choose formats and sources of information that deliver value. Which types of sources are best for your purpose and which are useless? Do you exclusively need original peer-reviewed scientific articles, or would videos and long interviews with experts suit your purpose, or will selected blog posts suffice? Which publishers, media outlets, and authors matter to you? Reduce. Write it all in a whitelist.
+		- Your list of topics and resources is now a crude screening tool — post it, add it to your daily agenda, your wallet, your computer desktop or browser, and consciously cut off access to anything else that distracts you from your plan. Especially with books, this will help you filter titles before you start stressing about where you’ll find the time (and money) to read them. A little advance research on the book and questioning what purpose it would serve, can give you more time to dig deeper into more relevant content.
+		- Be picky. Whenever you come across a headline, a link, an article, an ad, a video, a book… be uncompromising. Consult your whitelist. Remind yourself that you can’t read everything and that’s not your goal. Before you click or add something to your reading list for later, do some triage according to your list of allowed topics and sources. Ask yourself a Question: __How will paying attention to this material serve my vision and plan to become who I want to be, how will this benefit my future self? Is it worth adding another topic to this process, or diving deeper into what’s in the queue?__
+		- If you are torn, put the item on your longlist. A longlist is a list that you never have to come back to.
+	- We can consume books in multiple ways. According to Mortimer Adler, author of the legendary [__How to Read a Book__](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/ref=sr_1_1?dchild=1&keywords=how+to+read+a+book&qid=1625325785&sr=8-1) (first published in 1940 and still quoted today), there are multiple kinds of reading depending on what you want to accomplish (paraphrased):
+		- elementary: you simply read as you are used to, to understand it, to comprehend it, to “enjoy it,” etc.
+		- inspectional: it’s actually skimming — you glance at the most important parts, the beginning, the end, the cover, the summary, the table of contents, you read a few pages. The goal is to get an idea, often before buying it for yourself or someone else (school), not to enjoy or study the book in detail and integrate it into your base of knowledge
+		- analytical: immersing yourself into the text; you read in detail, take notes, look for what you don’t understand — you simply try to understand, connect to existing knowledge and consciously take something away
+		- synoptical (synthetic): according to Adler, used by writers and academics — read multiple books and materials on a topic and try to make new ideas and connections by thinking, comparing or contrasting; most people don’t read this way anymore after they finish their schooling, with the exception of scientists, writers or people who are extremely passionate about a given book (or topic).

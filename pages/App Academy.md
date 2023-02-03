@@ -1,0 +1,13 @@
+- [[Introduction to Problem Solving 1]]
+- [[Introduction to local JavaScript]]
+	- Data Types
+- [[Intro to HTML]]
+- Intro to CSS
+	- [CSS Selectors - App Academy]([CSS Selectors](https://my.appacademy.io/lessons/basic-styling/165f9555/practices/css-selectors/9c0a2ca0))
+		- [[CSS Selectors]]
+		- [[Class Selectors]]
+	- CSS Debugging
+		- [CSS Debugging - App Academy](https://my.appacademy.io/lessons/debugging-and-refactoring-css/137983bd/practices/debugging-css/810bee76)
+- Resources
+	- [GitHub Book](https://launchschool.com/books/git/read/introduction)
+	- [Intro to JavaScript](https://launchschool.com/books/javascript/read/introduction)

@@ -1,0 +1,23 @@
+---
+title: Polya - How to Solve It
+---
+
+- **tags:** #[[Problem Solving]]
+- **author:** [[G. Polya]]
+- **status:**
+- **link:**
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Part 1. In the Classroom
+		- The student should acquire as much experience of independent work as possible. The teacher should help, but not too much and not too little, so that the student has reasonable share of the work.
+		- Questions, recommnedations, and mental operations
+			- __What are the unknowns?__ What are the data? What is the condition?
+		- Main Divisions, Main Questions
+			- Trying to find the solution, we may repeatedly change our point of view, our way of looking at the problem.
+			- Our conception of the problem is likely to be incomplete when we start work; our outlook is different when we have made some progress, it is again different when we have obtained a solution.
+			- Four phases
+				- Understand the problem; we have to see clearly what is required
+				- See the connections between information and data
+					- How the unknown is linked to the data in order to obtain the idea of the solution to make a plan
+				- Carry out the plan
+				- Look back the completed solution to review and discuss

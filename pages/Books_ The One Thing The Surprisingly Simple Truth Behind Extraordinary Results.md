@@ -1,0 +1,67 @@
+---
+title: Books: The One Thing The Surprisingly Simple Truth Behind Extraordinary Results
+---
+
+- **tags:** #Books
+- **author:** [[Gary Keller]]
+- **status:** #[[📥inbox]]
+- **link:** [Amazon.com: The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results (Audible Audio Edition): Gary Keller, Jay Papasan, Timothy Miller, Claire Hamilton, Rellek Publishing Partners, Ltd.: Books](https://www.amazon.com/The-ONE-Thing-audiobook/dp/B00FPVS27W/ref=sr_1_1?dchild=1&keywords=the+one+thing&qid=1630697704&sr=8-1)
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Introduction
+		- > There can only be one most important thing. Many things may be important, but only one can be the most important.
+		- If today your company doesn't know what its one thing is, the the company's one thing is to find out.
+		- When we apply the "one thing concept" to people we find that extraordinary successful people with one intense emotion or one learned ability that shines through, defining them or driving them more than anything else.
+			- > You must be single-minded. Drive for the one thing on which you have decided. - General S. Patton
+			- Often, the line between passion and skill can be blurry. That's because they're almost always connected.
+		- Passion for something leads to disproportionate time practicing or working at it. That time spent eventually translates to skill, and when skills improves results improves. Better results makes us enjoy our activities and more passion and time is invested. It becomes a skill increasing cycle.
+		- > Success demands singleness of purpose - Vince Lombardi
+		- Focusing on one thing or a few things at a time focuses us away from distractions and overloading our time and energy away from valuable activities and missions.
+	- 1 - The Lies they mislead and derail us
+		- The six lies between you and success
+			- Everything matters equally
+				- Knocking out a hundred tasks for whatever the reason is a poor substitute for doing even one task that's meaningful. 
+				  id:: 8aaa9e51-e18a-4395-8e8d-531a44732cfe
+				- Not everything matters equally, and success isn't a game won by whoever does the most.
+				- Achievers operate differently. They have an eye for the essential. They pause just long enough to decide what matters, and then allow what matters to drive their day. Achievers do sooner what others plan to do later and defer, perhaps indefinitely, what others do sooner. The difference isn't in intent, but in right of way. Achievers work from a clear sense of priority.
+					- A to-do list is simply the things you think you need to do; the first thing on your list is just the first thing you thought of. To-do lists inherently lack the intent of success.
+					- Instead of a to-do list, you need a success list—a list that is purposefully created around extraordinary results.
+				- The 80/20 Principle asserts that a minority of causes, inputs, or effort usually lead to a majority of the results, outputs, or rewards. In other words, in the world of success, things aren't equal. A small amount of causes creates most of the results.
+					- The Pareto Principle points us in a very clear direction: the majority of what you want will come from the minority of what you do. Extraordinary results are disproportionately created by fewer actions than most realize.
+					- The Pareto Principle can be taken to the extreme and from the 20 percent that leads to the greatest results, find the one thing that is the most influential.
+			- Multitasking
+				- Multitasking is a lie. It's a lie because nearly everyone accepts it as an effective thing to do, but multitaskers are outperformed on every measure. They are lousy at everything.
+				- It's an effective way to get less done, and is merely the opportunity to screw up more than one thing at a time.
+				- People can actually do two or more things at once, such as walk and talk, or chew gum and read a map; but like computers, we can't focus on two things at once. Our attention bounces back and forth.
+				- Every time we try to do two or more things at once, we're simply dividing up our focus and dumbing down all the outcomes in the process.
+					- Multitaskers make more mistakes than non-multitaskers. They often make poorer decisions because they favor new information over old, even if the older information is more valuable.
+				- We know that multitasking can even be fatal when lives are at stake. In fact, we fully expect pilots and surgeons to focus on their jobs to the exclusion of everything else. And we expect that anyone in their position who gets caught doing otherwise will always be taken severely to task. We accept no arguments and have no tolerance for anything but total concentration from these professionals. And yet, here the rest of us are—living another standard. Do we not value our own job or take it as seriously? Why would we ever tolerate multitasking when we’re doing our most important work? Just because our day job doesn’t involve bypass surgery shouldn’t make focus any less critical to our success or the success of others. Your work deserves no less respect. It may not seem so in the moment, but the connectivity of everything we do ultimately means that we each not only have a job to do, but a job that deserves to be done well. Think of it this way. If we really lose almost a third of our workday to distractions, what is the cumulative loss over a career? What is the loss to other careers? To businesses? When you think about it, you might just discover that if you don’t figure out a way to resolve this, you could in fact lose your career or your business. Or worse, cause others to lose theirs.
+				  id:: cbda825b-d4a1-4c55-bf71-33f8e8a755a9
+				- “The people we live with and work with on a daily basis deserve our full attention. When we give people segmented attention, piecemeal time, switching back and forth, the switching cost is higher than just the time involved. We end up damaging relationships.”
+			- A disciplined life
+				- Contrary to what most people believe, success is not a marathon of disciplined action. Success is actually a short race—a sprint fueled by discipline, just long enough for habit to kick in.
+				  id:: 17eef0f6-5223-46d5-9f6f-aebd5fd90e45
+				- You don’t need to be a disciplined person to be successful. In fact, you can become successful with less discipline than you think, for one simple reason: success is about doing the right thing, not about doing everything right.
+				- The payoff from developing the right habit is pretty obvious. It gets you the success you’re searching for. What sometimes gets overlooked, however, is an amazing windfall: it also simplifies your life. Your life gets clearer and less complicated because you know what you have to do well, and you know what you don’t. The fact of the matter is that aiming discipline at the right habit gives you license to be less disciplined in other areas. When you do the right thing, it can liberate you from having to monitor everything.
+				- The right discipline goes a long way, and habits are hard only in the beginning. Over time, the habit you’re after becomes easier and easier to sustain. It’s true. Habits require much less energy and effort to maintain than to begin (see figure 7). Put up with the discipline long enough to turn it into a habit, and the journey feels different. Lock in one habit so it becomes part of your life, and you can effectively ride the routine with less wear and tear on yourself. The hard stuff becomes habit, and habit makes the hard stuff easy.
+				- Big Ideas
+					- Don’t be a disciplined person.
+						- Be a person of powerful habits and use selected discipline to develop them.
+					- Build one habit at a time.
+						- Success is sequential, not simultaneous. No one actually has the discipline to acquire more than one powerful new habit at a time. Super-successful people aren’t superhuman at all; they’ve just used selected discipline to develop a few significant habits. One at a time. Over time.
+					- Give each habit enough time.
+						- Stick with the discipline long enough for it to become routine. Habits, on average, take 66 days to form. Once a habit is solidly established, you can either build on that habit or, if appropriate, build another one.
+			- Willpower is always on will-call
+			- A balanced life
+			- Big is bad
+- [[roam/comments]]
+	- [[September 15th, 2021]]
+		- [[philipr@posteo.net]]
+			- ((17eef0f6-5223-46d5-9f6f-aebd5fd90e45))
+				- Success can become a marathon if we don't create the automatic habits that create compounding value.
+	- [[September 6th, 2021]]
+		- [[philipr@posteo.net]]
+			- ((8aaa9e51-e18a-4395-8e8d-531a44732cfe))
+				- Prioritize your daily activities by which is the most meaningful or creates the most value.
+			- ((cbda825b-d4a1-4c55-bf71-33f8e8a755a9))
+				- If we expect surgeons and doctors not to multitask at their work, then we should care about the quality of our work too. If we want to be successful, we should not multitask on important work.

@@ -1,0 +1,149 @@
+title:: Books: How to be a Boss
+tags:: #[[📥inbox]], #Leadership, Career Development
+author:: [[Justin Kerr]] 
+status:: read
+link:: [Amazon.com: How to be a boss eBook : Kerr, Justin: Kindle Store](https://www.amazon.com/How-be-boss-Justin-Kerr-ebook/dp/B076QK4TBN/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1631459252&sr=8-1)
+
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Introduction
+		- Focus too much on business results above all else, and your team is likely to burn out and resent you for treating them like a cog in your machine. Focus too much on being popular and the work will likely to suffer
+		  id:: c61c53bf-33b9-49c8-a495-d266fa0a4848
+		- Being a boss is really hard, but if we treat people like human beings instead of employees, over communicate the why of each decision and always use bullet points when we send emails, most of the noise will fade to the background.
+	- People
+		- When the basic interactions in the workplace becomes transactional—don't do this, fill this out—it is easy for bosses to fall into the title-based relation (boss vs employee), which leads to unhealthy, robot-like exchange of information. #[[q: How to be a leader without authority]]
+		- Consider your employees as more than the sum of their last project or mediocre presentation, they are going to have both good days and bad days. They may be dealing with a health issue or a family problem they prefer to keep private.
+		- **Our job is not to make everyone like us, but to connect with our coworkers and employees as people—individuals who each require their own special handling instructions.**
+		- 9 Ways to to make your team hate you
+			- It is inevitable that you are going to disappoint people. It is unavoidable that something is going to go wrong sooner or later. It is impossible to do everything right every moment of every day because you are a human being and human beings make mistakes—especially when lots of other people are involved.
+			- **Remember that everyone is watching (even when you think they aren't), so keep it simple and focus on the things you can control: treating people with respect and avoiding these nine behaviors, which will inevitably make your team hate you.** [[q: How to be a good coworker and colleague]]
+				- Change your  mind
+					- Part of your job as a boss is to keep the train moving. This means we can't change our mind every 10 minutes or every third day.
+					- Every time we change our mind, we are wasting people's time and energy. We erode our team's confidence in our ability because we create a constant state of anxiety that will inhibit our credibility and the team's motivation. 
+					  id:: 98fb3eb1-3a31-4b5f-9746-4bd150645a50
+					- You won't always make the right decision—of course you will change your  mind sometimes—on the whole it is better to take action and tackle the next issue rather than dwell and sulk and question past decision.
+					- Be clear and move on.
+				- Get overruled
+					- If your boss is contradicting you on a regular basis, your team will interpret this as a reflection that you suck as your job.
+						- If your team sees this happen too many times, they will stop respecting you and instead simply wait until they get confirmation from your boss.
+					- **Gaining alignment from your boss should be a top priority for you on a daily basis and weekly basis. Your goal should be to stay aligned with your boss by maintaining a weekly 1:1 meeting where all key decisions can be debated and aligned in advance.**
+				- Take credit for their work
+					- It isn't about what you can do. It's about what you can get others to do, how you get them to do it, how they feel about doing it and of course the quality of what they do. Your team is a reflection of you.
+					- The point is that you look good when your team looks good.
+					- **Don't try and prove how smart you are by adding your two cents to every conversation. Leave room for other people to talk before you decide to steam roll over the meeting with all of your good ideas. It may feel like you are adding value, but it looks like you are taking credit by implying how smart you are by controlling the meeting.**
+				- Assume they are just like you
+					- **You can become a better boss by acknowledging that everyone you work with is different from you.**
+					- If you try and turn everyone around you into Mini-Me's by overcorrecting,  telling them how you did this or that, it won't take long before everyone starts to resent your leadership as an experiment in self-aggrandizement.
+					- What motivates you isn't necessarily going to motivate the people on your team. Whatever reasons you have for working at this company are not the same reasons your employees come to work every day.
+						- Keep it simple. Identify what works for individual team members and motivate accordingly.
+				- Tell them what they did wrong
+					- Balance correction with positive reinforcement. When corrections become transactional, it can come off that we don't see them as a person. The end results looks like that every interaction becomes another way of saying "I'm amazing, and you're not."
+				- Never respond to emails
+					- As a boss, you are in the service of others, and answering emails in a timely manner should be at the top of your to-do list every day.
+				- Send emails at night
+					- Sending emails during nighttime reveals that you are bad at your job. Working late does not mean you are a hard worker, it means that you can't keep up with the daily tasks—not a good look for a boss.
+				- Send emails on the weekend
+					- Don't do it.
+				- Avoid tough conversations
+					- Being a leader has as much to do with what you say and what you don't say.
+					- Avoiding tough conversations only delays the inevitable and often exacerbates the minor into something major. If the end result is a suprise non-promotion, there is basically no recovery.
+		- 10 Ways to make your team love you
+			- Be honest
+				- **Don't waste your energy triangulating feedback.. Don't waste energy trying to hide mistakes or unflattering results**
+				- If you screw up own it. If someone screws up, there is 90% certainty that person already knows they screwed up, so don't play politics and waste half your time not saying what you actually  want to say. ^^Figure out what went wrong and fix it.^^
+				- **Everyone respects honesty (even when it hurts a little)**
+			- Praise in public
+				- Your employee will feel important, supported and excited to be working in an place where their efforts are recognized
+				- REPLY ALL - is a low-effort/high-impact method of spreading the love. Acknowledging a well-written email that provides clear direction or highlights a strong business result
+			- Send Secret emails
+				- On the occasion that your employee sends you a good email (thoughtful, well organized, productive, reflective of a positive result), forward it to your boss with a quick note along the following lines. "Hey I just wanted to let you know that Nick Groves is doing a great job on project X. If you get a  chance I know it would mean a lot to him to hear from you about it."
+				- Nick will see that you are championing his work to upper management. Your boss will see that you are championing your team. Your boss will be flattered to know their opinion and feedback is valued. You will motivate Nick to keep doing good work.
+			- Jump on the grenade
+				- When something goes wrong in a meeting in front of your boss you have two choices. You can either sit back and do nothing, letting your team member struggle, fail, and ultimately look bad (this is the "throwing the employee under the bus" technique) or you can step up, take responsibility and shield your employee from any further embarrassment while moving the meeting forward in a positive direction (this is the "jump on the grenade" technique)
+				- **If you are  selfish enough to think that saving face in front of your boss is better than standing up your team, you are fundamentally misunderstanding the role of a good boss.**
+				- Your job is to support your team and to look good through their actions and achievements. Hiding behind poor performance is a coward's game and will stunt your ability to take on bigger responsibilities in the future because your team and your boss will doubt your integrity.
+				- Even if it is 100% not your fault, even if the employee did exactly the  opposite of what you told them: jump on the grenade. It shows leadership and it protects team morale.
+				- Don't allow yourself to be worried about your own reputation. It's easy to circle back to your boss and explain that you were jumping on the grenade and that you will discuss directly with the team member how to improve their performance. If you take the time to explain your actions to your boss, they will have more respect for you based on the priority you place on championing your team.
+			- Go outside
+				- Your job as a boss is to notice the monotony and routines of work life and break them in order to bring energy to your team, keeping everyone fresh and keeping the human spirit alive on a day-to-day basis. The goal isn't to create a perfect environment.
+			- Eat Lunch Together
+				- Your goal as a boss is to facilitate opportunities for the people on your team to relate to each other beyond the forms and routines of work and build connections that allow everyone to appreciate their differences and hopefully find shared interests.
+			- Pay for everything
+				- Your success as a boss, and your next promotion, is ultimately and inextricably tied to the performance of your team, and as such you should constantly be on the lookout for any and every opportunity to demonstrate your appreciation for all the hard work they do (on your behalf).
+				- Whether it’s a $5 coffee or a $180 bar tab, it’s all worth it. Whatever you spend in support of your team’s happiness will come back to you one hundred times over in future promotions, business success and loyalty.
+			- Ask small questions
+				- It doesn’t cost you anything to be nice, and asking small questions can play an important role in your ability to connect with your team and understand what is important to them. When you ask how their weekend was, and they tell you that they were out on the lake water-skiing, this is not just meaningless small talk. This becomes a valuable insight into the values and priorities of your co-worker, all of which can be used in the future across multiple settings of feedback, team building and casual interactions.
+			- Celebrate birthdays
+				- Everyone likes to have their existence acknowledged. Your job as a boss is to constantly find ways, little and big, to let your team know that each of them matters to you. They aren’t just cogs in a wheel.  One of the easiest ways to do this is to celebrate each team member’s birthday.
+			- Leave the party early
+				- I hate to be the one to break it to you but people don’t want to party with you. There are a lot of great things about being the boss but one of the things that sucks is that you can’t—you shouldn’t—party with your team anymore. It’s OK to help get the party started. It’s important you grease the wheels by buying the first round. But after that? Do your team a favor and remove yourself from the equation.
+	- How to lead your team
+		- You are a boss. This does not mean that your job is to boss people around. The good bosses understand the true power exists in being able to lead a team and not just boss a team.
+		- **There is a big difference between telling someone they have to do something because you say so and motivating someone to do something because they understand it will ultimately help them accomplish their own goals.**
+		- 3 Keys to leading your team
+			- **Always be communicating**
+				- Most bosses think communication starts with telling their team which forms to fill out and ends with telling their team when the deadline is. While this bare-bones approach may feel like efficient communication, it is merely instruction. Actual communication, effective lead-your-team communication, must include the why.
+					- Why am I asking you to do this? Why did this change? Why does this need to be done by 4 p.m.? Why didn’t I tell you about this earlier? Why is the VP telling us to do the exact opposite thing than what they told us to do last week?
+				- **By giving your team access to more information and being radically transparent, you are able to make the best out of bad or inconvenient situations and can effectively lead your team no matter the roadblock.**
+					- This also prevents mistakes because the employees will assume they understood your bare-bones communication or can cause unnecessary back and forth that could be prevented by providing transparency early on.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F_c4V2Ev-J5.png?alt=media&token=918543ef-4d7f-4eaf-b04e-5886f922e165)
+				- All of their frustrations, all of their redone work will be hung around your neck because you haven’t given context. By omitting the why you leave yourself susceptible to an impression that you are the why—you suck at your job and that is why they have to redo so much work.
+				- Whether it’s an email, a quick team meeting or simply a driveby someone’s desk to add context to your request, the extra effort of overcommunicating is always the better approach to leading your team. It may feel counterintuitive at first, but achieving efficiency through overcommunication is a secret ingredient for every effective boss.
+			- Pick your priorities
+				- Get rid of the dumb stuff
+					- The first step when setting priorities is to identify what is least important.
+						- It is often difficult (or impossible) to get everyone to agree on what is most important, but it is shockingly easy (and fast) to get everyone to agree on what is a waste of time, so I encourage you to start setting priorities by soliciting feedback from your team about any meetings/forms/projects that they don’t think are necessary.
+						- Inevitably there are 30-minute meetings which could be shortened to 15 minutes (or replaced with a simple email). Inevitably there are forms that can be automated (or simply ignored). Inevitably, no matter where you work or what you do I can guarantee that you are wasting as much as 30 percent of your day on things that don’t matter (meaning they aren’t big enough to make a difference or there is no real outcome from your efforts).
+						- Once your team identifies these time wasters, it is your job to take action because by getting rid of what’s unimportant, you will simultaneously prioritize what is most important.
+				- Pick one thing
+					- At the beginning of each week you should communicate the most important project or deadline that the team should focus on delivering in the next five days.
+			- Set small goals
+				- Overcommunicating and setting clear priorities are the foundation for leading your team, but it is also critical that you give your team concise and easy to understand goals so they can measure their performance (and be rewarded) on a daily, weekly and monthly basis. It’s important to realize that most people are motivated by what is in front of them right now as opposed to what might happen 300 days in the future.
+				- It is your responsibility, as a boss, to constantly articulate (and oftentimes create) these goals.
+				- Large companies have a tendency to set generic, long-term (meaningless) goals against which it is impossible for employees to calibrate and motivate their own individual behaviors. Therefore you need to be in a constant rhythm of taking these too-big goals and breaking them down into bite-size chunks that are more easily digested by your team. The key is to make it real.
+	- How to motivate your team
+		- Keeping your team members motivated and engaged in their work is of the utmost priority because if even one member of your team suffers from lack of motivation, it can have an adverse effect on everyone with whom they come into contact.
+		- Motivation can take many forms (cheerlead, complimenting, challenging, promoting) and each has its time and place in a setting as complex as the workplace.
+		- Give people more work
+			- People stop learning when they aren't challenged. When people stop learning, they get bored, and they do worse work, more slowly, with the end result being a decline in performance or quitting.
+			- Giving people stretch assignments means specifically and thoughtfully carving out opportunities for each team member to take on additional responsibilities. Maybe your director is always organizing a meeting or sending out recaps? Change the person in charge to be someone on your team one level lower.
+			- It is critical that you take the time to explain to each individual (and the larger team) why this change in process or responsibility is actually an opportunity for growth. Failing to do so loses 90 percent of the motivational impact of such moves.
+			- Don’t be selfish. Don’t hoard all the meetings for yourself. Be generous and openly give more work to your employees with the intent of raising their visibility within the organization and motivating their performance.
+		- The Jedi Mind trick - only works for excellent people
+			- Give full trust to your employee and tell them they will do great. This forces them to make sure that they took full ownership of the results and outcomes to match the expectations that you shared with them. If they are great people, they will ensure they meet and live up to your expectations.
+	- How to give feedback
+		- Related Notes: [[Books: Thanks for the Feedback]]
+		- If you can develop a great feedback game your life as a boss will be easier. If you suck at giving feedback or you are afraid of giving feedback—bummer. You have no hope of being a good boss. In fact, I would go so far as to say that a full 50 percent of your success or failure as a boss will hinge on your ability to give your employees feedback, both positive and negative.
+		- If you can successfully frame your feedback as a conversation to help them improve their job performance, then giving feedback should be a welcome part of every boss/employee relationship. If, on the other hand, you fail to set any context for your feedback, it will always be perceived as a punishment or a judgement of all the ways in which the recipient is simply not good enough, thus creating an unnecessarily toxic interaction.
+		- 1. Do your homework
+			- The first step to delivering feedback happens before you say a single word. Do you know who this person is? Do you know what motivates them? Do you know what they might be sensitive about? Have you invested the time and energy to get to know the employee as a human being?
+			- If your employee trusts you, then giving feedback will be received as coaching. If your employee thinks you enjoy belittling them and pointing out everything they do wrong because you think you are perfect and you want everyone to be just like you, then no matter what you do, no matter what you say, no matter how you say it, it is not going to be received as useful feedback. It is going to be received as criticism.
+				- Every conversation that came before informs your employee’s experience of what you are saying to them now.
+		- 2. Set context
+			- Always start any conversation about constructive feedback by setting the context. “I remember you asked me to help you get better at influencing senior leadership and I noticed something today that might help…” You want to remind your employee that what you are about to say is for their own benefit and development. This isn’t about you being critical. This isn’t about them screwing up. This is about working together toward the same (previously agreed on) goals. With this simple context, anything you say, even if it isn’t perfect, is likely to be received as coaching rather than criticizing.
+		- 3. Be yourself
+			- Your employees can easily tell the difference between when you’re acting like a boss—doing or saying something you think is correct—versus being human and authentic, however imperfect it might be.
+		- 4. Be honest
+			- Trying to couch your constructive feedback in sub-meanings and subtlety is a losing strategy. It will take you twice as long to say half as much and nothing will change because nothing has truly been communicated. People aren’t stupid. If something is going wrong, the employee knows it is going wrong so you are not tricking anyone (or helping anyone) by not addressing the problem directly and simply. It might sting a little on impact but ultimately everyone benefits from living and working in a space with no hidden agendas or unspoken truths.
+		- 5. Keep it simple
+			- When it comes to giving feedback you can only say one thing at a time if you want it to truly have meaning and a lasting impact. If you try to explain more than one topic in an intense feedback session it will lead to confusion and demotivation for your employee.  Focus on the most important behavior the person needs to change and solve that first. Even if there are three different topics that need to be addressed, I recommend you focus on the most important of these three topics, address it directly with the employee, work with them to improve it and then move to the next topic later. Asking an employee to fix three things will result in nothing being fixed. It’s your job as a boss to synthesize all the noise into very simple, very clear, actionable feedback.
+		- 6. Act fast
+			- Most bosses don’t realize that positive feedback has an expiration date. In fact, some positive feedback can expire as quickly as 10 minutes or 30 minutes later. Wait any longer and the compliment loses all of its flavor, meaning and nutrients. The context is lost, the natural energies and emotions have subsided and your positive feedback is going to land flat. An opportunity missed.
+			- You can also give positive feedback during the meeting. Especially if it is a long boring meeting, a simple “nice work” from the boss can have the effect of calming everyone down, making everyone feel safe and giving confidence to the entire team that things are going well.
+		- 7. Don’t rush it
+			- A good rule of thumb is, if you have something positive to say, say it. If you have something negative to say, save it. It is important to recognize that when you say something can be equally important as how you say something.
+			- Finding the right moment and dedicating the right amount of time to give constructive feedback is critical to ensuring that your employee is receptive to hearing the message you want them to absorb. One easy rule to follow is to make sure that you never give negative feedback immediately following a big meeting. The employee will be filled with adrenaline and ready to protect themselves against any perceived danger. In this case, even the smallest negative comment might trigger an outsized physical or emotional reaction. By waiting until later you also give yourself time to process the feedback required and consider the proper context to present the conversation. This is at the heart of being a good boss and helping your employees improve their performance while keeping their confidence and motivation high.
+		- 8. Say it to everyone (instead of someone)
+			- Shifting the focus from an individual to the larger group can have the benefit of depersonalizing the feedback while also broadening the audience and the potential benefits. For example, at your weekly team meeting: “Hey everyone, one quick thing I wanted to note. I’ve noticed that as a team we have a tendency to never frame the topic of discussion before we jump in, and I think this might be leading to some confusion in our meetings. Going forward let’s make sure to start every meeting by explaining why we are there and what the key output should be.” Finding the right way to introduce small teachable moments can make a huge difference in your team’s growth, motivation and engagement in their work. Depersonalizing it (when appropriate) helps everyone hear the feedback without feeling singled out.
+			- Did you give the correct instructions? Did you give enough information? Did you give an example? Did you take the time to teach the person how to do the task before asking them to do it? Is there anything you could have done to better help prepare your employee for that project or presentation?
+		- 9. Look in the mirror
+			- Before you tell someone how much they suck, consider teaching as an alternative to beating. If you find yourself in a situation where you have given the same feedback to the same employee multiple times, then you need to change something. Remember that insanity is defined as doing the same thing over and over and expecting a different result. A good place to start might be to consider what you—the boss—are doing wrong. Nobody likes to suck at their job so if your employee is failing, maybe it is your fault?
+		- Don't Say But
+			- Good job but. The presentation went well but... Many bosses rely on the formula of good news followed by bad news as a way to balance feedback, so I want to make this point explicitly-do not use the word “but" when giving feedback. If you want to compliment someone on something they did well, compliment them and let that compliment exist in its own context (sentence) and then move on to your constructive feedback by starting a completely new sentence. This may feel overly prescriptive, but I promise it will improve the reception of your feedback. No matter what you say or how you say it the employee will only remember what comes after the "but," so be careful and choose your words wisely.
+- [[roam/comments]]
+	- [[September 12th, 2021]]
+		- [[philipr@posteo.net]]
+			- ((c61c53bf-33b9-49c8-a495-d266fa0a4848))
+				- What are the ways we can motivate people to do better work? What are the upstream and downstream decision-making to help with this. If we hired A-players, then motivation wouldn't be a problem.
+			- ((98fb3eb1-3a31-4b5f-9746-4bd150645a50))
+				- What are processes and methodologies can we employ to minimize change?

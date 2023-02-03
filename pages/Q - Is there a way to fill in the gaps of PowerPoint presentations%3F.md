@@ -1,0 +1,10 @@
+- Related Notes
+	- [[q: how to present]]
+	- [[q - How to write better]]
+	- [[z - How to improve business writing]]
+- Gaps in PowerPoint Presentations
+	- PowerPoints lack narrative that helps explore details of an idea. Bullet points flattens any sense of relative importance of ideas and ignore interconnected of ideas
+- Solutions
+	- Draw out the narrative
+	- Tease out the interconnected of ideas
+	- Draw out the important ideas and provide justification

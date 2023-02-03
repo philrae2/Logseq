@@ -1,0 +1,320 @@
+---
+title: Books: Conversationally Speaking
+---
+
+- author:: [[Alan Garner]]
+- Tags:: #communication #self-esteem #self-esteem
+- Status:: [[📥inbox]]
+- Related Notes::
+- Full Notes:
+	- Most people dwell on their [[failure]]s, berating themselves over and over. All that typically does is cause them psychological pain, drain them of energy, and discourage them from trying again.
+		- If you want to become a more positive, [[assertive]] person, learn from your mistakes and leave them behind, but dwell on your successes.
+		  id:: 7c894fde-066e-4575-97ff-c45d187e8f3a
+	- So when you achieve your goals, and whenever else you do something that you like, get in the habit of letting yourself know how pleased you are:
+	  id:: b14bfd47-449d-4c53-9aeb-b2de6bc3b47e
+		- The findings were conclusive and overwhelming: There was not one [[assertive]] person in their sample who typically criticized himself and not one passive person who typically [[praise]]d himself.
+		- One study found that assertive people [[compliment]] themselves frequently while nonassertive people often put themselves down.
+	- What exactly is a concrete [[goal]]? It is a statement describing a specific performance. A correctly written concrete goal has the following characteristics:
+		- It Is [[Specific]]: It describes one behavior that cannot be confused with other behaviors. For example, rather than saying you want to act more warmly toward a friend, you might make your goal to give that person a surprise present.
+		- It Is [[Verifiable]]: If someone is observing your behavior, she will be certain that you have achieved your goal. For this reason, being close to your family isn’t an adequate goal, while inviting your family to go on a picnic is.
+		- It Is [[Positive]]: It requires you to increase the frequency of a desired behavior rather than decrease the frequency of one that isn’t desired. For instance, rather than saying, “I want to stop avoiding Jesse,” you might say, “I want to invite Jesse to have lunch with me today.”
+		- It Is [[Measurable]]: You can tally up how often you perform your target behavior over a given period of time. Instead of deciding, for example, that you want to get to know more people, you might decide that you want to smile at five people you don’t know each day and talk to one of them for at least two minutes.
+		- It Depends Solely on Your Action: ^^Since you can only control your own behavior, it really isn’t fair to base your success or failure on the responses of others.^^ So if your goal is to invite your neighbors to a barbecue and you do it, you’ve met your goal, regardless of whether they say yes or no.
+	- Demanding Obedience to Self-Defeating Rules You may be adhering to rigid rules of conduct which are impairing your ability to be socially effective. Men and women follow literally hundreds of “shoulds” and “shouldn’ts,” “oughts” and “oughtn’ts,” “do’s” and “don’ts, “musts” and “mustn’ts,” despite the fact that they only result in failure and frustration.
+		- If you follow rules like these, you are not only limiting your actions, you are sending out false messages to others. Since you can’t not communicate, when you fail to smile or to start a conversation or to issue an invitation or to state your preferences or to talk about yourself or to express love, others will probably conclude on the basis of what they can see that you just don’t care about them. Obeying rules like these usually makes successs impossible.
+	- Challenging Your Demanding Beliefs Demanding Perfection and Obedience to Self-Defeating Rules: When you find yourself passing up social opportunities because of some “should,” statement ask yourself: Who made up this rule? Why should everything be perfect anyhow? Why must I act this way? Where is it written? Other people don’t follow this rule. Why should I? Why should I continue to act the way I have been, even though it never gets me anything? Trying to answer questions like these will help you to firmly establish in your mind the fact that there is no proof that you, others, or the world in general should be different and that these self-defeating rules are unworthy of your blind obedience.
+	  id:: 33eba3d9-e279-4116-ace6-1e82f0c3ecca
+		- According to Johnson, when you seek idealistic goals without specifying their form, you will necessarily suffer frustration after frustration until you are demoralized and give up.
+		- Once you have challenged your irrational demanding beliefs, it’s vital that you replace them with new, rational beliefs.
+		- Further, these questions will help you to see that the fact that you have acted a certain way in the past doesn’t mean that you must continue to do so in the future. True enlightenment, as the saying goes, means “lightening up” on yourself.
+	- Just as you may be demanding of yourself obedience to various rules and regulations, so you may be demanding that others act the way you want them to act. You may be insisting, for instance, that people should be friendlier or more considerate toward you than they are, or that they must agree with you or love you when they don’t.
+		- While you have a good deal of control over your own actions, you have very little control over those of others. People behave the way they do because of factors such as their physical and emotional state, the way they perceive their relationship with you, their past relationships, the situation the two of you are in, the role models they have patterned themselves after, and their ideals. Given the totality of these factors, they have every reason to act exactly as they do. Now, you might like it better if they acted differently and you might even believe they would be better off in the long run if they acted the way you want them to, but demanding won’t bring it about.
+			- Now don’t get me wrong. I’m not saying that you shouldn’t demand that others act any way you want. What I am suggesting is that working to bring about those changes is far more likely to produce the results you desire and far less likely to upset you emotionally.
+	- People often follow the rule that everything about themselves and others must be perfect before they will take a risk. 
+	  id:: d59dd401-1314-46ec-a5c2-a60c792c83d7
+		- The problem with this rule is that life isn’t like that: something is always “wrong.” Just as paranoids find threat in everything they see and hypochondriacs find illness in everything they feel, so perfectionists can always spot error. Perfection is simply not a human quality, and those who insist on it find no shortage of excuses for inaction.
+		  id:: 7af736a3-ed61-4b90-b346-31437e36058e
+	- In a similar vein, when you label others, ask yourself what evidence you are basing your conclusions on and then look for evidence to the contrary. Counter your limiting statements with ones which leave you free to grow and explore your world,
+	- Challenging Your Overgeneralizations Instead of blindly accepting the labels you pin on yourself, demand proof of the accuracy of your statements.
+		- Say, for instance, “Where’s the proof that I am shy just because I held back again?” “Where’s the evidence I’m a failure and so will never succeed with anyone, just because I failed this one time?” You won’t find enough proof to support any self-labels since overgeneralizations are, by their very nature, sweeping conclusions based upon an incomplete sampling. Next, continue refuting your overgeneralizations by reviewing in your mind the opposite of what the label implies: times you have been assertive, ways you have succeeded. Most likely you’ll find plenty of those.
+		- Labels are frequently harmful, but always inaccurate. You may have made mistakes in deciding not to be more assertive in the past. You may have made mistakes in deciding to be assertive with what turned out to be the wrong people. You may have made mistakes, but those mistakes haven’t made you anything.
+	- Overgeneralizing About Others Just as you may be overgeneralizing about your “nature” or your “fate,” so you may be limiting yourself by overgeneralizing about others.
+	- 21. Failure Is the Price You Pay for Success Besides saying that past failures can influence what you’ll do in the future, labels say that past failures can determine how you’ll do. If you search for evidence to support this belief, you’ll find none. In fact, what you will find is evidence that everyone who has ever succeeded at practically anything has failed a good deal.
+	  id:: d4e9ead3-9529-433a-af3d-a6f68f4f5cfa
+	- 22. If you’ll only let go of the dead weight of your past shortcomings, you can be free to change and grow and experience a world of exciting possibilities. It really isn’t any more involved than that.
+	- id:: 630adaa9-ce76-49a3-9a11-189f2a9dd114
+	  23. All these labels are based upon poor past performance. When you use them, you make past failure an excuse for present inaction. Your present inaction provides you with still more “proof” that those negative self-labels are accurate and with still more justification for future inaction. After playing the part for a while, you may end up concluding, “I just can’t help acting the way I do,” or “This is just my nature,” and then give up trying. You as a person are an evolving process. The fact that you chose to act in a certain way doesn’t mean you have to forever continue to do so. All of these labels are nonsense—faulty conclusions based upon faulty reasoning. You may have chosen to act shyly in the past, but that doesn’t mean you have to make the same choice in the future. Anxiety may have held you back in the past, but if you stop copping out, [[catastrophizing]], overgeneralizing, and demanding, that won’t be the case anymore.
+		- <Conversationally Speaking>(Alan Garner)
+	- 24. Overgeneralizing About Yourself How do you describe yourself? Many people who have acted shyly in the past label themselves “shy” in the present. Many who have failed label themselves “failures.” Lots of otherwise completely sensible people pin labels on themselves like “quiet,” “neurotic,” “nervous,” and “introverted.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 25. They show that people who do nothing more than begin using less emotionally charged words in their self-talk can normally significantly reduce their anxiety. Given this information, it makes sense for you to consciously work at replacing “horrible,” “awful,” and “terrible” with words like “unfortunate” and “inconvenient.” For example, if you are about to introduce yourself to a group of strangers, instead of catastrophizing, you might say to yourself, “I’d like to chat with those people. If none of them wants to, it will be unfortunate, but I’ll certainly survive. Anyway, since taking chances is the only way I’ll ever make any friends, I’m going to go for it.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 26. Finally—and this is important—provide yourself with realistic alternative self-talk.
+		- <Conversationally Speaking>(Alan Garner)
+	- 27. After you have thought through what is realistically likely to happen if things don’t go as you want them to, challenge your use of words like “terrible,” “awful,” and “horrible” to describe those consequences. Put those words into perspective by telling yourself that they may be suitable for describing events such as the slaughter of millions of Jews by the Nazis, the 1906 San Francisco earthquake, the sinking of the Titanic, the crash of the Hindenburg, and the Son of Sam murders—but certainly not the possibility of someone failing to accept your invitation, laugh at your joke, or agree with you. A negative response just plain isn’t in the same league with those events.
+		- <Conversationally Speaking>(Alan Garner)
+	- 28. CHALLENGING YOUR CATASTROPHIZING BELIEFS When you find yourself catastrophizing, ask yourself, “How probable is it that these dread consequences I’m imagining will come about?” If you decide that it isn’t likely, tell yourself that in no uncertain terms. You might even make fun of your catastrophizing. If you think it is possible that things won’t work out well, ask yourself, “What’s realistically the worst that’s likely to happen if I fail?” The reality is probably not nearly as frightening as you might have imagined it would be when you thought in general terms.
+	- 29. Catastrophizing means telling yourself that things may not go as you want them to (a rational belief), and adding that if they don’t, it will be “terrible,” “awful,” or “horrible,” and that you “won’t be able to stand it” (an irrational belief). Catastrophizing self-talk like this causes your stomach to churn, your skin to perspire, your adrenal glands to pump adrenalin into your bloodstream, your heart to pound, and blood to be directed away from your brain and toward your muscles. It triggers in your mind an emergency alert system developed over thousands of years during which our ancestors—cavemen and nomads—needed immediate energy to fiercely fight off or rapidly flee attackers. Although you’re not really in danger, when you catastrophize, your body reacts as though you were, and the high level of anxiety that results is exceedingly uncomfortable. If you do run away, you will be rewarded with an immediate and dramatic drop in your anxiety level. If you stick it out, your tension will probably cause you to respond awkwardly. It’s ironic that when we most want things to go well, we are least able to make them happen. Just when we are most concerned with speaking well, we begin to stumble over our words. When we desperately want to do well on a test, our memory goes blank.
+		- <Conversationally Speaking>(Alan Garner)
+	- 30. Finally, examine your self-talk for catastrophizing, over-generalizing, and demanding beliefs and dispute those too. (Note: If you are in a hurry or are confronting irrational beliefs that you have already disputed in the past, you may want to use Wolpe’s technique of cutting short your irrational self-talk by saying, “Stop!” silently or out loud and then doing the things you had planned to do.)
+		- <Conversationally Speaking>(Alan Garner)
+	- 31. COPPING OUT You may be telling yourself that things that happen to you are “making” you feel anxious. This type of self-talk is known as copping out because it involves placing the blame for your unpleasant emotions on outside events, rather than where it belongs: on your beliefs about those events. Challenging Your Copping-Out Beliefs When you find yourself blaming outside events for the way you feel, ask yourself, “Where is the proof that these events are making me feel anxious?” You won’t find any proof. Using the logical method outlined earlier in the chapter, establish the fact that it’s your beliefs about those events that are responsible for your anxiety. Tell yourself this in no uncertain terms, adding that you will no longer respond like a puppet on a string, automatically becoming anxious whenever things may not go as you would hope.
+		- <Conversationally Speaking>(Alan Garner)
+	- 32. Events don’t determine your emotional reactions—your beliefs about those events do. This has always been true for all your experiences, including those unrelated to your social life.
+		- <Conversationally Speaking>(Alan Garner)
+	- 33. The answer is that events don’t make people respond emotionally. It’s the beliefs they hold about those events that are responsible. Only when we add this factor to our chart can we account for the differing emotional reactions of different people to the same event.
+		- <Conversationally Speaking>(Alan Garner)
+	- 34. When you express an emotion outwardly, you will tend to experience it inwardly.
+		- <Conversationally Speaking>(Alan Garner)
+	- 35. PERSONAL SPACE Space isn’t empty; it is rich with meaning and plays a major role in shaping your relationships.
+		- <Conversationally Speaking>(Alan Garner)
+	- 36. PERSONAL SPACE Space isn’t empty; it is rich with meaning and plays a major role in shaping your relationships. People
+		- <Conversationally Speaking>(Alan Garner)
+	- 37. There are some girls who lack support and are pushovers. Many in our culture reach
+		- <Conversationally Speaking>(Alan Garner)
+	- 38. Finally, propose a specific time when the two of you will review how the solution is working and if any changes are needed. If you don’t show your commitment to having the agreement carried out by taking this final step, the other person probably won’t care much either. Your working out a specific time to check up on the agreement shows that you are serious about seeing the agreement become part of your continuing relationship.
+		- <Conversationally Speaking>(Alan Garner)
+	- 39. Once your message has been received, it may be accepted, rejected, or an alternative may be suggested which better meets the other person’s needs too. Be certain that as you negotiate your agreement, you keep in mind your original intent—to have some need met or some right respected. Your solution must satisfy that intent or your efforts have been in vain. Once you arrive at a solution, use active listening to reinforce the agreement in both of your minds and to be certain each of you has achieved the same understanding.
+		- <Conversationally Speaking>(Alan Garner)
+	- 40. When someone asks you a question while you’re active listening, simply reflect the meaning or the feelings that you think lie behind the message.
+		- <Conversationally Speaking>(Alan Garner)
+	- 41. When someone asks you a question while you’re active listening, simply reflect the meaning or the feelings that you think lie behind the message. It
+		- <Conversationally Speaking>(Alan Garner)
+	- 42. When you have a point to make to people who are especially defensive or angry, use active listening to diffuse their tension and make them more receptive to your message. Your strategy here is simple: (1) deliver your assertion, (2) be silent, (3) use active listening to reply to the defensive response, (4) repeat steps 1, 2, and 3 as often as necessary to have your point heard.
+		- <Conversationally Speaking>(Alan Garner)
+	- 43. Even when you make a direct assertion, others will sometimes fail to understand what you want, will ignore you, or will change the subject. In such cases, it is frequently necessary to repeat your point until you are certain it has registered, a technique called repeated assertion. You may also find the techniques of agreeing with the truth and agreeing with the critic’s right to an opinion of value here. Here is an example of a conversation that Christy, one of my students, had shortly after taking Conversationally Speaking.
+		- <Conversationally Speaking>(Alan Garner)
+	- 44. On some occasions, you may find that your requests for change will work better if you are flexible and vary the order of the behavior, the consequences, your feelings, and your direct assertions. You may even find it appropriate to omit one or more elements of your request for change.
+		- <Conversationally Speaking>(Alan Garner)
+	- 45. And, if you want large changes, you are far more likely to get them if you get agreements for small changes to take place over time.
+		- <Conversationally Speaking>(Alan Garner)
+	- 46. When you hint, what you want and how much you really want it often is not clear. Your direct assertions are more likely to be followed if you make them one at a time.
+		- <Conversationally Speaking>(Alan Garner)
+	- 47. Your direct assertions should be concrete and should ask for a specific change in behavior (“Please knock before you enter my room”) rather than for a general change in attitude or personality (“Please be more considerate”). Your direct assertions will be taken far more seriously if you phrase them as requests, rather than as questions.
+		- <Conversationally Speaking>(Alan Garner)
+	- 48. Many—if not most—people will modify their behavior to suit your needs when you use the approach described above. When that doesn’t happen, you will need to be more specific about what you want. You will need to make a direct assertion: “I have a problem. When you left your clothes on the bathroom floor this morning, I tripped on them when I went in to take a shower, and I feel angry. Please put your clothes in the hamper before you leave.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 49. PAUSE Once you have completed your statement, stop. Be silent. Allow the other person time to reflect on what you have said, to propose a solution which suits both of your needs. You will look stronger and the other person will be more likely to abide by any solution the two of you reach if she or he has a hand in its formulation.
+		- <Conversationally Speaking>(Alan Garner)
+	- 50. Be sure to express your feelings briefly. Don’t use profanity, as it often serves only to increase defensiveness and inflame situations. Say nothing about the other person’s character or personality. (“You’re irresponsible.” “You’re thoughtless.” “You’re no good.”) And lastly, be certain that you don’t substitute thoughts and inferences for feelings:
+		- <Conversationally Speaking>(Alan Garner)
+	- 51. DESCRIBE YOUR FEELINGS Finally, describe your feelings about the behavior and its consequences:
+		- <Conversationally Speaking>(Alan Garner)
+	- 52. When possible, state the consequences of the behavior from a positive perspective.
+		- <Conversationally Speaking>(Alan Garner)
+	- 53. STATE THE CONSEQUENCES After you have claimed ownership of the problem and have described the problem behavior, state the consequences or possible consequences of that behavior. What has happened or might happen as a result of what the other person has done or is doing?
+		- <Conversationally Speaking>(Alan Garner)
+	- 54. When you describe the problem behavior and deliver the rest of your request for change, the nonverbal message you send should complement your serious verbal message. Face the other person directly. Look her or him in the eye as you deliver your message. Take a deep breath before you speak. You should sound relaxed yet firm. Your facial expression should be appropriate to your message. Many people, out of nervousness, smile while telling others how upset they are. Sending such messages is confusing and lessens the impact of what you have to say.
+		- <Conversationally Speaking>(Alan Garner)
+	- 55. Requests for change are almost always weakened by the use of inferences. You can’t know other people’s motives, so your inferences will frequently be wrong. And even when you are right, others will seldom admit it. Instead of problem solving, the use of inferences leads only to fruitless faultfinding.
+		- <Conversationally Speaking>(Alan Garner)
+	- 56. Avoid making inferences about the motives of others. Inferences go beyond observations and tell others the motivations behind their actions.
+		- <Conversationally Speaking>(Alan Garner)
+	- 57. Avoid accusing the other person of always performing the behavior (“You’re always late”) or of never performing it (“You never let me talk”). Such broad descriptions are inaccurate and difficult to respond to, and they tend to make others defensive. Instead, refer to one or more recent instances.
+		- <Conversationally Speaking>(Alan Garner)
+	- 58. Bring up just one problem behavior at a time—bring up several and the other person is likely to feel overwhelmed and retreat. It’s best if the problem behavior is occurring in the present or occurred in the recent past. Talking about old slights and grudges is unlikely to accomplish anything.
+		- <Conversationally Speaking>(Alan Garner)
+	- 59. Be specific and objective in your description of the problem behavior. If your description is vague, the other person may well not know what you mean and is unlikely to meet your needs.
+		- <Conversationally Speaking>(Alan Garner)
+	- 60. By clearly telling others, “I have a problem,” you greatly lessen the chance that they will become defensive and greatly increase the chance that you will resolve your conflicts with them.
+		- <Conversationally Speaking>(Alan Garner)
+	- 61. Further, people frequently become defensive when they are accused of having problems that are not their own.
+		- <Conversationally Speaking>(Alan Garner)
+	- 62. Learning to distinguish who owns a problem will spare you futile involvement in conflicts that are not truly your own.
+		- <Conversationally Speaking>(Alan Garner)
+	- 63. IDENTIFY WHO OWNS THE PROBLEM Begin by clearly establishing who owns the problem. A problem is yours whenever you are the person whose needs are not being met.
+		- <Conversationally Speaking>(Alan Garner)
+	- 64. Having done that, if the other person persists, use broken record by continuing to agree with whatever she says while repeating over and over, using the same words, the fact that you don’t want to do it. No one can argue with a broken record and so your would-be manipulator will probably soon give up.
+		- <Conversationally Speaking>(Alan Garner)
+	- 65. The three steps that precede your using broken record are the same ones that you can use in handling criticism. First, if you don’t understand the other person, ask for details. Second, once you are clear, agree with the truth or agree with the critic’s right to an opinion. Third, self-disclose the fact that you don’t want to do what is being asked of you, possibly adding your reasons.
+		- <Conversationally Speaking>(Alan Garner)
+	- 66. When you totally disagree with criticism, you may wish to voice that disagreement. But, then again, you can usually find some way to agree with it while affirming what you believe to be the truth:
+		- <Conversationally Speaking>(Alan Garner)
+	- 67. Critics will often present you with value judgments as though they were truths, and your most constructive response, once again, is to agree with the critic’s right to an opinion.
+		- <Conversationally Speaking>(Alan Garner)
+	- 68. Since you can’t be certain that criticism will always prove to be inaccurate even when you disagree with it, you can certainly agree with the critic’s right to an Opinion. Doing so will help you to give some thought to differing points of view, while at the same time helping you maintain your own position. Neither you nor your critic need be branded as “wrong” or “not okay”; you are simply two people who see an issue differently.
+		- <Conversationally Speaking>(Alan Garner)
+	- 69. Agree with the Critic’s Right to an Opinion.
+		- <Conversationally Speaking>(Alan Garner)
+	- 70. Disclosing feelings is an excellent strategy as it leaves the other person with little to counter, since feelings afford slim ground for argument.
+		- <Conversationally Speaking>(Alan Garner)
+	- 71. when somebody cites some general truth, you can quite legitimately agree with the truth while maintaining your position.
+		- <Conversationally Speaking>(Alan Garner)
+	- 72. When you are confronted with criticism that is obviously too broad, you can agree with the part that you think is true and disagree with the rest. Citing proof will most effectively help you to back up your disagreements.
+		- <Conversationally Speaking>(Alan Garner)
+	- 73. If you intend to change in response to the criticism, agreeing with the truth and then stating what you expect to do differently will normally restore harmony. Even if you don’t intend to change, you will improve the situation by assertively saying so after agreeing with the truth and admitting that your behavior may be a problem for the other person.
+		- <Conversationally Speaking>(Alan Garner)
+	- 74. When you agree with criticism, you can most effectively acknowledge your agreement by repeating the key words used by your critic. (“You’re going to be late.” “That’s true, I most likely am going to be late.”; “You didn’t clean up your room.” “You’re right. I didn’t clean up my room.”) This does a far better job of showing your critic that she has been heard than does just saying, “Yes” or “That’s right.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 75. It’s simple to learn to agree with the truth. The first step is to think about whether criticism directed at you is accurate or likely, in your estimation, to come to pass. If you have frequently been receiving the same criticism, you may wish to look particularly closely for evidence to back up those objections.
+		- <Conversationally Speaking>(Alan Garner)
+	- 76. But how can you agree with criticism that is plainly wrong? Simple. There are two types of agreement statements and you can always use one or the other while at the same time maintaining your own position. Here are your options. 1. Agree with the Truth. If you listen to your critics nondefensively, you will frequently find yourself agreeing that much of what they have to say is valid, accurate, or pretty likely in your opinion to come to pass. When this is the case, your most powerful response is to agree with the truth.
+		- <Conversationally Speaking>(Alan Garner)
+	- 77. But how can you agree with criticism that is plainly wrong? Simple. There are two types of agreement statements and you can always use one or the other while at the same time maintaining your own position. Here are your options. 1. Agree with the Truth. If you listen to your critics nondefensively, you will frequently find yourself agreeing that much of what they have to say is valid, accurate, or pretty likely in your opinion to come to pass. When this is the case, your most powerful response is to agree with the truth. Consider these examples related by students (and the defensive remarks they might have made):
+		- <Conversationally Speaking>(Alan Garner)
+	- 78. But how can you agree with criticism that is plainly wrong? Simple. There are two types of agreement statements and you can always use one or the other while at the same time maintaining your own position. Here are your options. 1.
+		- <Conversationally Speaking>(Alan Garner)
+	- 79. Step Two: Agree with the Criticism After you ask for details and find out exactly what the other person’s objections are, the next step is simply to agree with the criticism.
+		- <Conversationally Speaking>(Alan Garner)
+	- 80. Occasionally, when you ask for details, you will find that what you thought was criticism really wasn’t.
+		- <Conversationally Speaking>(Alan Garner)
+	- 81. In helping the other person to clarify her remarks you may want to ask for details by suggesting possible complaints and asking whether they are a problem. And, since your goal is understanding, once you find out, you may even want to ask whether she has any additional complaints to make.
+		- <Conversationally Speaking>(Alan Garner)
+	- 82. It’s simple to ask for details. Like a reporter, all you do is pose questions designed to find out who, what, when, where, why, and how:
+		- <Conversationally Speaking>(Alan Garner)
+	- 83. It’s simple to ask for details. Like a reporter, all you do is pose questions designed to find out who, what,
+		- <Conversationally Speaking>(Alan Garner)
+	- 84. Step One: Ask for Details This alternative involves two step, the first of which is ask for details.6 Criticism is often given in generalities (“I don’t like your attitude.” “You don’t care about me.”). Requesting particulars will enable you to find out exactly what the other person’s objections are. This skill is neither an offensive weapon nor a defensive shield: It is a tool for understanding.
+		- <Conversationally Speaking>(Alan Garner)
+	- 85. You’d be more likely to lend me 50 cents than $50, wouldn’t you? Well the same is true for other people. The less you ask for, the more likely you are to get it. So if you’ve just met somebody, he’s more likely to agree to a cup of coffee than to a seven-course Chinese dinner.
+		- <Conversationally Speaking>(Alan Garner)
+	- 86. It’s a good idea to get a firm commitment from the other person before the end of the first meeting. Tell her what activity you have in mind, the day, time, and place, and perhaps why you, using dual perspective, think she’d have a good time. Then ask if she’s interested.
+		- <Conversationally Speaking>(Alan Garner)
+	- 87. If you don’t use dual perspective in planning your activities, you’re more likely to get turned down, and even if you get a “yes,” you may regret it.
+		- <Conversationally Speaking>(Alan Garner)
+	- 88. It’s easy to achieve dual perspective: Just ask the other person what activities interest him.
+		- <Conversationally Speaking>(Alan Garner)
+	- 89. Different people have different interests. Your invitations are vastly more likely to be well received and the other person is far more likely to have a good time if you think not only in terms of what you’d like to do but also in terms of the other person’s preferences.
+		- <Conversationally Speaking>(Alan Garner)
+	- 90. but I’m not really a part of it all—I don’t really help shape it . . . I don’t matter to anyone. . . . THERAPIST:
+		- <Conversationally Speaking>(Alan Garner)
+	- 91. TALKING ABOUT THE OTHER PERSON Most people like to talk about themselves and will be pleased to respond to your questions or comments. Before you begin, observe what the other person is doing, wearing, saying, and reading, and think of something you’d like to know more about.
+		- <Conversationally Speaking>(Alan Garner)
+	- 92. To begin a conversation about the situation, look around and find things that interest or puzzle you. Use dual perspective: find something to say that the other person is also likely to want to talk about. This is especially easy to do if you’re together in class, on the job, or in a special-interest group such as Parents Without Partners, the PTA, the Sierra Club, or the Young Democrats or Republicans. After you have asked your question or make your statement, listen carefully for the response, especially noting any free information you may want to follow up.
+		- <Conversationally Speaking>(Alan Garner)
+	- 93. To begin a conversation about the situation, look around and find things that interest or puzzle you. Use dual perspective: find something to say that the other person is also likely to want to talk about. This is especially easy to do if you’re together in class, on the job, or in a special-interest group such as Parents Without Partners, the PTA, the Sierra Club, or the Young Democrats or Republicans. After you have asked your question or make your statement, listen carefully for the response, especially noting any free information you may want to follow up.
+		- <Conversationally Speaking>(Alan Garner)
+	- 94. Starting a conversation by talking about the situation you are both in is usually the best of your three options. It’s less likely to provoke anxiety than is talking about the other person and more likely to promote involvement than is talking about yourself.
+		- <Conversationally Speaking>(Alan Garner)
+	- 95. If you want to be taken seriously, make direct statements and show that you own those statements by using the pronoun “I,” as in “I’m tired and I want to go now” and “I don’t think we can afford that.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 96. If you want to be taken seriously, make direct statements and show that you own those statements by using the pronoun “I,” as in “I’m tired and I want to go now” and “I don’t think we can afford that.” Holding
+		- <Conversationally Speaking>(Alan Garner)
+	- 97. If you exaggerate your virtues, conceal your faults, or try to portray your idea of what the other person wants, you may think you wisely increase your chances for social success. But in reality, you only cause yourself more problems. Your actions will have one of two results: 1. The other person will reject you because he or she is not attracted to the “perfect” self you are portraying (leading you to wish you had tried to find acceptance as yourself). 2. The other person will be attracted to your loveable act. If this occurs, you won’t be able to really experience as your own the warmth and acceptance that will be given. The character you’re portraying will be receiving it, not you.
+		- <Conversationally Speaking>(Alan Garner)
+	- 98. Sharing yourself interestingly requires not only that you list facts but that you tell how you relate to those facts.
+		- <Conversationally Speaking>(Alan Garner)
+	- 99. When you disclose feelings like these to others, you encourage them to identify with you and to share their feelings in turn. Further, by self-disclosing, you avoid the frustrating and self-defeating strategy of hoping others will be considerate of your feelings even though you have never told them what your feelings are.
+		- <Conversationally Speaking>(Alan Garner)
+	- 100. Further, by self-disclosing, you avoid the frustrating and self-defeating strategy of hoping others will be considerate of your feelings even though you have never told them what your feelings are.
+		- <Conversationally Speaking>(Alan Garner)
+	- 101. Disclosing facts and opinions is important, but if you don’t disclose your feelings, people will probably begin considering you cold and shallow and uninterested in getting close to them.
+		- <Conversationally Speaking>(Alan Garner)
+	- 102. your expressions of feeling will generally be considered to give the closest possible insight into who you are.
+		- <Conversationally Speaking>(Alan Garner)
+	- 103. On the other hand, if you express your opinions as fact, you will not, as Will Rogers said, “be leaving a doubt to hang a conversation on.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 104. If you express them in a somewhat open-minded manner, your opinions can also provide others with material on which to base interesting conversation.
+		- <Conversationally Speaking>(Alan Garner)
+	- 105. By being the first to make a revelation, you make it clear that an exchange of information is taking place rather than an interview, and you let him know exactly how you want him to answer. Modeling makes it easy for others to reveal themselves.
+		- <Conversationally Speaking>(Alan Garner)
+	- 106. You can also promote the process of self-disclosure by modeling the responses you want. For instance, if you want to find out someone’s first name, you are most likely to get it by saying, “By the way, my name’s ____________. What’s yours?”
+		- <Conversationally Speaking>(Alan Garner)
+	- 107. Self-disclosure is typically symmetrical, meaning that people normally self-disclose at about the same rate. Outside of counseling sessions, it’s rare for one partner to reveal much more than the other.
+		- <Conversationally Speaking>(Alan Garner)
+	- 108. It’s unrealistic to expect strangers to care about you. People only care about those with whom they are involved. And self-disclosure plays a vital role in helping to get them involved.
+		- <Conversationally Speaking>(Alan Garner)
+	- 109. If you find that your relationships often die before they really get going, it may well be that you aren’t telling others enough about who you are.
+		- <Conversationally Speaking>(Alan Garner)
+	- 110. To take advantage of free information, all you do is make a comment or ask a question about it. As usual, open-ended questions will do the best job of promoting an in-depth response.
+		- <Conversationally Speaking>(Alan Garner)
+	- 111. others will almost always be giving you plenty of free information, data beyond that which you requested or expected. If you take advantage of this free information by making statements or asking questions related to it, you’ll find plenty of opportunities for channeling your conversations in interesting directions.
+		- <Conversationally Speaking>(Alan Garner)
+	- 112. In the emotionally charged atmosphere of arguments, it’s easy to misinterpret messages and so active listening is especially valuable. Tell the other person, “So we’ll be certain we understand each other, let’s do something new. After each time you speak, I’ll tell you what I heard you say before replying. If I haven’t gotten what you said right, you’ll try again until I do. And you do the same for me. OK?”
+		- <Conversationally Speaking>(Alan Garner)
+	- 113. GETTING OTHERS TO PARAPHRASE YOUR REMARKS If you want to be certain that someone understands your messages, ask her to use active listening by saying, “I just want you to listen and tell me what you hear me say. Don’t give me your opinion or try to solve my problem. I just want to know that you understand me.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 114. If you’ve drawn no conclusion, you might simply want to state what you have observed and then ask the other person for an explanation. For instance: “Ever since I met you last month, you’ve only wanted to get together for lunch—never for dinner or a show. I’m curious to know why that is.” “When I mentioned skiing in Vermont just now, a little grin came over your face. I’d love to know what you were thinking.”
+		- <Conversationally Speaking>(Alan Garner)
+	- 115. Nonverbal messages are often even more difficult than verbal messages to interpret correctly. This is because the same nonverbal expression (such as a smile or crossed arms) can be indicative of several widely differing emotions. For this reason, it is often helpful to check out your interpretations through this three-step process: 1. Tell the other person what you saw her do and heard her say that leads you to your conclusion. 2. Tell her what meaning you have tentatively attached to her actions. 3. Ask her if your conclusion is correct.
+		- <Conversationally Speaking>(Alan Garner)
+	- 116. Many people ignore or lessen the intensity of the emotions they hear when they use active listening. It’s as though they think feelings that they don’t acknowledge will go away. Exactly the opposite is correct. Failing to acknowledge the validity and intensity of the emotions of others tends to increase their intensity, while demonstrating understanding by active listening tends to have a cathartic effect.
+		- <Conversationally Speaking>(Alan Garner)
+	- 117. Parroting responses like these give the illusion of understanding. Real active listening involves stating your conclusions as to the meaning behind what the other person has said.
+		- <Conversationally Speaking>(Alan Garner)
+	- 118. COMMON MISTAKES IN ACTIVE LISTENING Parroting Many men and women new to active listening find themselves merely rewording the remarks of others.
+		- <Conversationally Speaking>(Alan Garner)
+	- 119. Active listening encourages you to set aside this troublesome self-talk, to get involved with what the others are relating, and to experience deeply what they are feeling.
+		- <Conversationally Speaking>(Alan Garner)
+	- 120. their thoughts and feelings will help them to feel comfortable and to self-disclose more and in greater depth than they otherwise might. Active listening also helps you solve the age-old problem of not having anything to say.
+		- <Conversationally Speaking>(Alan Garner)
+	- 121. Active listening is an excellent way of encouraging others to talk to you. The interest you show will frequently lead people to expand upon their comments.
+		- <Conversationally Speaking>(Alan Garner)
+	- 122. the active listening response, would probably have quite another result. Being encouraged to express fully and freely their emotional reactions helps others to become more relaxed and calm around you. Having their problems understood and reflected—but left with them—shows them that you have faith in their ability to arrive at their own solutions. Also, being heard, understood and accepted without criticism by you will inevitably lead others to feel more positive about themselves, warmer toward you, and more interested in hearing what you have to say.
+		- <Conversationally Speaking>(Alan Garner)
+	- 123. The third response, the active listening response, would probably have quite another result. Being encouraged to express fully and freely their emotional reactions helps others to become more relaxed and calm around you. Having their problems understood and reflected—but left with them—shows them that you have faith in their ability to arrive at their own solutions. Also, being heard, understood and accepted without criticism by you will inevitably lead others to feel more positive about themselves, warmer toward you, and more interested in hearing what you have to say.
+		- <Conversationally Speaking>(Alan Garner)
+	- 124. When you employ active listening, concentrate on reflecting the feelings others express, the content, or both, depending upon what you think you may have misunderstood and what you consider most important. To arrive at your statement, silently ask yourself: “What is he feeling?” “What message is she trying to convey?”
+		- <Conversationally Speaking>(Alan Garner)
+	- 125. 2. When an important or emotionally charged message is being sent. Senders will often cue you to the fact that they are saying something particularly significant by: a. directly referring to it as worthy of notice (“The first thing you need to do is. . . .” “It’s vital for you to understand that. . . .”) b. repeating a message several times. c. placing a point first or last. d. pausing or waiting for eye contact before speaking. e. preceding the message with “ahhh” f. speaking more loudly or softly than usual. g. speaking more slowly than usual.
+		- <Conversationally Speaking>(Alan Garner)
+	- 126. 2. When an important or emotionally charged message is being sent. Senders will often cue you to the fact that they are saying something particularly significant
+		- <Conversationally Speaking>(Alan Garner)
+	- 127. Active listening is especially useful in two general situations: 1. When you are not certain you understand what the other person means.
+		- <Conversationally Speaking>(Alan Garner)
+	- 128. Active listening, then, is telling the sender what his message means to you. It enables the sender to know that you are listening while enabling you to have your impression either confirmed or clarified.
+		- <Conversationally Speaking>(Alan Garner)
+	- 129. This is why active listening is so important. Instead of assuming that your impressions are correct and responding accordingly, with this skill you will be able to make certain that you have decoded accurately.
+		- <Conversationally Speaking>(Alan Garner)
+	- 130. if you look a man in the eye and respond positively, he is likely to feel gratified. Now, if he has skillfully followed his compliment with a question, all you need do is smile, thank him, and answer. If he hasn’t, you can smile, thank him—and perhaps even tell him how you feel about the compliment.
+		- <Conversationally Speaking>(Alan Garner)
+	- 131. if you look a man in the eye and respond positively, he is likely to feel gratified. Now, if he has skillfully followed his compliment with a question, all you need do is smile, thank him, and answer. If he hasn’t, you can smile, thank him—and perhaps even tell him how you feel about the compliment. Here
+		- <Conversationally Speaking>(Alan Garner)
+	- 132. Indirect Positives: In this type of compliment, your words or actions signal admiration, although that admiration is not expressed directly. For example, when you ask a woman for advice, you are indirectly telling her that you value her judgment.
+		- <Conversationally Speaking>(Alan Garner)
+	- 133. Praise delivered publicly in this manner is even more believable and even more valuable than praise delivered privately.
+		- <Conversationally Speaking>(Alan Garner)
+	- 134. Third-Person Positives. These are compliments intended to ultimately reach someone other than the person you are addressing. You can deliver a third person positive by telling it to someone within earshot of the person to whom it is intended.
+		- <Conversationally Speaking>(Alan Garner)
+	- 135. 5. Don’t return the same compliment to others that they have expresed to you.
+		- <Conversationally Speaking>(Alan Garner)
+	- 136. 4. Don’t always be positive; be negative about inconsequential matters. The comments of completely positive people are seldom accorded much credence. For example:
+		- <Conversationally Speaking>(Alan Garner)
+	- 137. Offer positives only when you don’t want anything. If you tell a coworker how intelligent and creative you find him and then ask for $5 until payday, it’s unlikely your praise will be prized.
+		- <Conversationally Speaking>(Alan Garner)
+	- 138. Phrase your compliments conservatively at first. Sudden, lavish expressions of appreciation will surely arouse suspicion. Along these lines, one study suggests that it is best to refer to new acquaintances by name only occasionally.
+		- <Conversationally Speaking>(Alan Garner)
+	- 139. Start by paying only one compliment every few days to each of your friends and then slowly increase the frequency with which you praise them.
+		- <Conversationally Speaking>(Alan Garner)
+	- 140. Being specific, mentioning the other person’s name, and smiling will certainly help in this regard.
+		- <Conversationally Speaking>(Alan Garner)
+	- 141. Still, it’s not enough to be honest and sincere. If your compliments are to be effective (and affective), the other person has to believe that they are honest and sincere.
+		- <Conversationally Speaking>(Alan Garner)
+	- 142. If someone never acts the way you wish, you can praise the behavior of others who do act in the desired fashion.
+		- <Conversationally Speaking>(Alan Garner)
+	- 143. 2. Say the person’s name: It has been recognized since Plato and Socrates that most people consider their name to be the most beautiful sound in the world and that they pay more attention to sentences in which it appears. In addition, using a person’s name is yet another way of showing that each compliment you pay is tailored uniquely to fit that person alone.
+		- <Conversationally Speaking>(Alan Garner)
+	- 144. 1. Be specific: Your positive statements will be stronger and more believable if you tell others exactly what you like and make it evident that each remark applies uniquely to the person you are addressing and not just to anyone.
+		- <Conversationally Speaking>(Alan Garner)
+	- 145. The most common way to express admiration is to deliver a direct positive. This type of compliment tells people in a straightforward manner what it is you appreciate about their behavior, appearance, and possessions.
+		- <Conversationally Speaking>(Alan Garner)
+	- 146. Evidence shows that complimenting others makes it more likely that you will be seen as sympathetic, understanding, and even attractive.
+		- <Conversationally Speaking>(Alan Garner)
+	- 147. Not only does it make sense to deliver honest positives in order to encourage others to continue acting the way you want them to act, but it also makes sense simply because it makes it more likely they will feel good about you.
+		- <Conversationally Speaking>(Alan Garner)
+	- 148. According to behavioral learning theory, the way others act toward you is determined in large part by how you respond. Actions which you reward will tend to increase in frequency, while actions you ignore will tend to decrease.
+		- <Conversationally Speaking>(Alan Garner)
+	- 149. Ignoring behavior that you like and punishing behavior that you don’t like is a poor way of helping others learn how you want to be treated.
+		- <Conversationally Speaking>(Alan Garner)
+	- 150. When someone voices an opinion that you disagree with and you want to explore your differences, voice your disagreement after—not before—asking him his reasons for feeling as he does.
+		- <Conversationally Speaking>(Alan Garner)
+	- 151. Leading questions are the most closed-ended possible, in that they only invite agreement.
+		- <Conversationally Speaking>(Alan Garner)
+	- 152. It’s usually best to start with simple questions about topics others are likely to be interested in and familiar with.
+		- <Conversationally Speaking>(Alan Garner)
+	- 153. When a new client walks in the door, I don’t ask him what he has in mind. That’s too hard a question to start out with. He’d just become nervous and withdrawn. And if I pressed him, he’d probably withdraw all the way out the door. Instead, I ask what type of place he’s living in right now. That puts him at ease, gets him feeling comfortable around me. After a while, either he or I will shift the conversation around to what he’s got in mind.
+		- <Conversationally Speaking>(Alan Garner)
+	- 154. First, her inquiry was too broad in scope. Asking questions is like turning faucets in that the more open they are, the more response you get—up to a point. Very open-ended questions like Midge’s (as well as “What’s new?” “What have you been up to lately?” and “Tell me about yourself.”) would require so much effort and time to answer that most people give up without even trying.
+		- <Conversationally Speaking>(Alan Garner)
+	- 155. Second, strive to maintain dual perspective. Having dual perspective means thinking not just in terms of what you want to say and hear but also in terms of the other person’s interests. The worst bores of all are oblivious to the wants and needs of others.
+		- <Conversationally Speaking>(Alan Garner)
+	- 156. First, only ask questions when you genuinely want to hear what the other person has to say. No matter how skillful you are, if you just go through the motions, others will eventually sense that you’re merely trying to trick them into liking you.
+		- <Conversationally Speaking>(Alan Garner)
+	- 157. First, only ask questions when you genuinely want to hear what the other person has to say.
+		- <Conversationally Speaking>(Alan Garner)
+	- 158. Closed-Ended Both Open-Ended Are? What? How? Do? Why? Who? In what way? When? Where? Which?
+		- <Conversationally Speaking>(Alan Garner)
+	- 159. Open-Ended Are? What? How? Do? Why? Who? In what way?
+		- <Conversationally Speaking>(Alan Garner)
+	- 160. You have to follow up your closed-ended questions with open-ended ones if you want to keep your conversations going and allow them to achieve greater interest and depth.
+		- <Conversationally Speaking>(Alan Garner)

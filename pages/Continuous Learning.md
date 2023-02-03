@@ -1,0 +1,4 @@
+- Resources
+	- [[Books - How to Decide]]
+- Actions
+	- [[Methodology for continuous learning]]

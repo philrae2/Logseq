@@ -1,0 +1,45 @@
+---
+title: Article: Seven Product Backlog Mistakes to Avoid
+---
+
+- **tags:** #[[Product Backlog]] #[[Project Management]]
+- **author:** [[Roman Pichler]]
+- **status:**
+- **link:** [Seven Product Backlog Mistakes to Avoid | Roman Pichler (instapaper.com)](https://www.instapaper.com/read/1451635737)
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Seven Product Backlog Mistakes to Avoid
+		- The product backlog is too big
+			- Strive to keep your backlog as concise as possible whenever the product faces uncertainty and change; be it market, business, or technology related.
+				- Group related items into themes
+				- Keep lower-priority items coarse-grained
+				- Focus on the backlog of a specific product goal
+					- Decline and remove items that do not serve the product goal
+		- The product backlog is too detailed
+			- An overly detailed product backlog makes it hard to see the wood for the trees: There is simply too much information
+				- This makes it difficult to prioritize and  update
+				- It may contain speculative or wrong items
+		- The product backlog is not appropriately refined
+			- If you want the product not to be overly detailed, ensure that its high-priority items are ready. The high priority items should be
+				- Sufficiently clear and understood by the development team
+				- Can be completed in a spring according to the Definition of Done
+				- They are tested
+		- The product backlog is a wishlist
+			- These types of product backlogs exist because there is a lack of strategic alignment and focus
+				- There is no product goal that guides the decision if an item should be added to the backlog or not
+			- Lack of empowerment
+				- Makes it difficult for the product owner to have a hard time declining the stakeholders requests and to feel obliged to accommodate them.
+			- To prevent the product backlog from becoming a wish list:
+				- select a product goal and align your product with a strategic plan like a product roadmap
+				- Have the courage to say no. Decline any ideas and requests that are not aligned with the product goal
+		- The product backlog is not effectively prioritized
+			- Ensure each item is serves a specific product goal
+			- Select a small set of practical prioritization factors
+				- risk, cots-benefit, and dependencies
+				- Initially prioritize high risk items to the top to help accelerate learning
+				- Then move the items that have the greatest value per resource at the top
+		- The product backlog is not shared
+		- The product backlog lacks strategic alignment
+			- Connect the product backlog to an actionable product roadmap that states the value the product should create in form of product goals for the next nine to twelve months
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FzStbovFP92.png?alt=media&token=8e8713cc-45c2-4730-87db-2095e1ffdf03)
+				- In the picture above, a goal-oriented, outcome-based product roadmap directs the product backlog. This is done by copying the next product goal from the roadmap into the backlog. The goal then helps determine the items that should be included in the product backlog, that is, only those that help meet it.

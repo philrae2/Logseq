@@ -1,0 +1,128 @@
+---
+title: Book: Influence
+---
+
+- Author:: [[Robert Cialdini]]
+- Tags:: #manipulation #psychology #influence #[[automatic behaviors]] #[[📥inbox]]
+- Status::  #review
+- Type:: #Books #[[Reference Notes]]
+- Notes:
+	- When making [[decisions]] or [[answering]] or [[denying]] questions and [[request]] use as many [[perspectives]] and think in a [[multidisciplinary]] way.
+		- Avoid [[Decision Making]] based only on one data point
+	- There is [[automatic behaviors]] we exhibit in which we don't think deeply about our responses.
+		- Examples:
+			- We may be taught to associate price with quality.
+			- People tend to comply to a request if you provide a reason.
+				- People are more receptive if you supply "[[because]]" to your ask.
+		- Automatic and stereotyped behaviors is prevalent in human behaviors because it is the most efficient behavior in most cases and some cases, necessary.
+		- The world is full of information and stimulus and similar to [[system 1 thinking]] we can't be intentional in our thinking to process all this information.
+			- [Information overload]([[information overload]]) necessitates that we take automated behaviors as shortcuts
+			- We will increasingly rely on our automatic behaviors to process information as the world becomes increasingly information and stimulus overloaded
+	- [[Anchor Bias]] #manipulation
+		- Anchor bias is also termed [[perceptual bias]] in which an initial anchor can [[influence]] your judgment and behavior of new information.
+			- For example when seeing someone beautiful first, then again exposed to someone less attractive, our perception of the less attractive person becomes accentuated by the initial perception
+		- Examples of [[anchoring]] or perceptual bias:
+			- Salespeople showing you the most expensive things first so you think less expensive items are that much less expensive
+			- Or realtors showing you terrible overinflated houses so the nicer less inflated property is better in comparison
+	- [[Reciprocation]] bias
+		- A learned behavior in which we return the action that was dealt to us.
+		- We accept the feeling of future indebtedness and [[obligation]] from receiving someones actions given to us
+		- Reciprocation is deeply ingrained in most societies and are taught to their members
+		- Exploiting the reciprocation bias can gain a response of "yes" to a request that surely would have been refused, if not for the creating the feeling of indebtedness by doing someone a [favor]([[favors]])
+		- Reciprocation is so powerful it can overcome the factor of being disliked or liked. Even if someone dislikes you, if you can implant the feeling of reciprocity, you can extract compliance to your request #manipulation [[favors]]
+		- The reciprocation rule is easily exploitable due to the obligation to receive mentality where we do not often enough refuse a gift, and in doing so, we incur unsolicited debts
+			- This unsolicited gift can also produce unequal exchange, in which the returning favor may be unequal for those who wish to exploit the rule
+			- People dislike the state of mental indebtedness and will find ways to remove this mental burden, and will do so at a cost in obliging unequal exchanges and trades
+		- The feeling of [[shame]] and societal pressures fuels the reciprocation rule
+		- The reciprocation rule can also be invoke through [[concession]] or [[compromise]]
+			- If someone makes a compromise or concedes a point to us, we feel obligated to respond in kind
+				- This concession makes the requestee feel responsible for the terms of the contract and more likely to live up to that contract
+				- The concession made also makes the "victim" feel mores satisfied with the arrangement
+			- Example: Ask for a large initial request and when refused or denied, then concede for a smaller request. This concession to a smaller request can influence the reciprocation rule
+		- How to say no to [[Reciprocation]] or [[concession]]
+			- If the reciprocation rule was triggered with no ill-intent feel free to say yes and participate
+			- If the reciprocation or [[concession]] is used for [[exploitation]] feel free to say no or exploit the given situation yourself
+	- [Commitment]([[commitment]]) and [[consistency]]
+		- We have a deep belief of appearing consistent and committed to what we have already done.
+			- When we make choices we have have personal and interpersonal influences and pressure to behave consistently with that commitment. #[[Decision Making]]
+			- We are committed and consistent due to social views that it is personal and intellectual strength to be and do so.
+		- Consistency allows [[automaticity]] of thinking
+			- Once we have made our choice we don't have to think hard about the issue anymore
+			- [Automatic thinking]([[automatic thinking]]) also allows us to hide and ignore the unpleasant [[consequences]] of our choices without thinking about them
+				- It also allows people to hide from "hurtful" truths and voluntarily live in a [[delusion]] by committing to a choice and not having to expend the emotional energy confronting the pros, cons, and consequences of weighing out the options
+		- Giving our [[commitment]] to a cause primes us for [[automaticity]] for [[consistency]]
+			- Commitment to our feelings can easily be exploited by contrast and comparison
+				- For example if a salesperson asks how you are doing today and say you are fine and good, they can contrast your situation for a donation with someone else in a less fortunate circumstance
+					- Is this commitment or another [[automatic thinking]]/action of social expectations for [[kindness]]?
+			- Be careful in giving or agreeing to seemingly trivial requests, which primes us to automatically agree to larger scale requests or even other requests only remotely related to the original trivial ask.
+		- The actions and deeds of people are the best measures of a person's true beliefs and feelings.
+		- Someone's perceptions of you can also [[influence]] your behavior to conform to that perception (I'm assuming a positive view for this automatic behavior to work)
+		- Even the act of writing a commitment will help [[influence]] our behaviors toward that belief whether we believed in that commitment or not
+		- Making a [[commitment]] [[public]] adds external forces to reinforce the written commitment
+			- We are most truest to our decisions if we have bound ourselves to them publicly
+		- The more [[effort]] we expend to make a [[commitment]] the great it's ability to [[influence]] our attitudes.
+		- Quote: Persons who go through a great deal of trouble or pain to attain something tend to value it more highly than persons who attain the same thing with a minimum of effort.
+		- We accept inner [[responsibility]] for a behavior when we think we have chosen to perform it in the absence of strong outside pressure and influence (like prizes, rewards, or negative feedback)
+			- Strong [[rewards]] or [[threats]] may compel us to complete a task, but we will not take inner responsibility nor commitment to them
+		- [[Z: Our atomic behaviors are helpful, but we need to know when to think critically]]
+			- We need to be able to sort out decisions that need analytical and [[Critical Thinking]] apart from those that don't need as much time or can be deferred or delayed [[Decision Making]] [[Article: Decision Matrix]]
+	- Liking - Chapter 5
+		- We are more easily persuaded and influenced by messages when coming directly or indirectly from friends
+		- The more good looking you are the more you enjoy social advantages such as likeability and perceptions you are smarter, kinder, and a good person
+		- [[Similarity]]
+			- We can also exploit the [[likeability]] by being similar to our target message
+			- We like people who are similar to us
+		- [[Compliments]]
+			- Giving complements can make other people like us
+		- Gaining [[familiarity]] with something or someone through repeated contact and interaction doesn't necessarily cause greater liking #desegregation #cooperation
+			- Continued exposure to a person or object under stressful, unpleasant conditions like conflict or competition leads to less liking
+				- The education environment causes a competitive environment that fosters [[jealousy]] and [[rivalry]]
+				- School does not lead to students understanding each other
+			- An environment that fosters cooperation creates likeability
+			- How can we increases cooperation within our business environments and reduce [[competition]] and [[rivalry]]
+				- Is [[competition]] and [[rivalry]] necessarily bad in a business environment
+					- Competition prevents information sharing and cooperative experimentation and innovation
+			- [[Conditioning]] and [[Association]]
+				- There is a natural human tendency to dislike a person who brings unpleasant news even if that person did not cause the bad news.
+					- Conversely, we like people if they tell us good news.
+				- Attractive models are associated with products for the products to inherit positive associations from the models
+				- Associations between products, events, attractive models, celebrities and mascots also work to influence our perception of each linked items
+				- Our personal associations with people, events, places and especially sports team, places our identity on that association. WE are trying to prove our superiority to ourselves but also to every else.
+					- According to the association principle if we can surround ourselves with success tat we are connected with, even if superficial (like sports team, place of residence, or car),  our public prestige will rise.
+					- We purposely manipulate our visibility of our connections with winners and losers in order to make ourselves look good to anyone who could view these connections.
+					- People who have a sense of strong personal accomplishment, are less likely to employ associations to bolster their self-image.
+				- How to say no to [[Association]] bias
+					- Be aware of the tactic and separate the product from the association
+	- [[Authority]] - Chapter 6
+		- We can be influenced by authority to act against our own moral principles or values #[[Milgram Expirement]] [[Wilson, Nicaragua, Concord California]]
+		- [[Q: What instances in our business environment do we defer to authority without questioning their validity]]
+		- [[Religion]] and religious instruction also counts as authority for people to defer their moral and values to
+		- When we defer to authority, our obedience frequently takes place with little or no conscious deliberation
+			- [[Obedience]] to recognized authority provides an easy [[mental [[shortcut]]]] for our brains to arrive at an answer
+			- Deferment to authority gives us the advantage of receiving rewards and avoiding punishments
+			- In giving [[obedience]] we also agree that the [[authority]] is smarter and wiser than we are
+		- We can misconstrue size and importance. We may respect someone more if they are taller or bigger
+		- [[Clothing]] can also mislead us to attribute a false sense of authority to people
+		- How to resist authority bias
+			- Ask yourself it the individual truly is an expert at their field
+			- Ask yourself how truthful the authority figure is at the current moment and situation
+		- [[Trust]] bias
+			- People may influence you by first trying to earn your trust and portray the attitude they are for your best interest when they truly aren't
+	- [[Scarcity]] - Chapter 7
+		- Opportunities may seem more valuable to us when their availability is limited. [[potential loss]]
+		- People maybe more [[motivated]] by the thought of losing something than by the [[gain]] of something of [[equal]] value.
+		- The [[potential loss]] motivator can also be invoked through [[deadlines]]
+			- When we are faced with limited [[time]], our brain can make inadvertently make poor decisions by taking an action too fast
+			- [[Slow]] down actions and [[Decision Making]] to allow [[System 2 thinking]] to take effect
+		- [[personal reactance theory]] - developed by [[Jack Brehm]]
+			- Whenever free choice is limited or threatened, the need to retain our freedoms makes us desire them (as well as the good and services associated with them) significantly more than previously.
+			- The development of [[autonomy]] brings about the concept of [[freedom]]
+		- [[Censorship]] can also increase desirability of an opportunity or object as it triggers scarcity of [[information]]
+		- Scarcity can also influence as to find information more persuasive if we think we can't get it elsewhere.
+		- A newly scarce opportunity or item, is more [[valuable]] to us than even one that is constantly scarce.
+			- [[[[Political]] turmoil]] and [[violence]] can arise where there is a period of improving economic and [[social improvement]] followed by a short, sharp reversal in those conditions.
+			- Newly scarce items or opportunities, that become scarce through [[social ]] means such as [[competition]] are most desirable compared to any other non-social cause of scarcity
+		- [[Scarcity]] like [[deadlines]] can hinder our ability to [[think]]
+		- Scarcity does not increase the [[joy]] of experiencing the scarce opportunity or object rather [[possessing]] it
+		- Be aware of the arousal of panicky, feverish reactions as they are signals of bad environment of bad [[Decision Making]]
+			- We need to [[calm]] ourselves and regain a [[rational]] perspective.

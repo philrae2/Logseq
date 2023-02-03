@@ -1,0 +1,255 @@
+---
+title: Center for Applied Rationality - CFAR
+---
+
+- tags: #[[📥inbox]] #productivity #[[automatic behaviors]]
+- related links: [CFAR handbook](https://drive.google.com/file/d/1UZYBtOJ3QZ7FTI_4eKjVzBSNUqC_Uba3/view)
+- Handbook
+	- Types of knowledge
+		- [[Tacit Learning]] is like the knowledge that you use to ride a bike—it's complex, experiential, intuitive, and hard to put into words.
+		- [[Explicit knowledge]] is concrete and clear and transferable and objectively verifiable. How you ride a bike is tacit knowledge, but the fact that you can ride a bike is explicit knowledge. While explicit knowledge is useful and critical to humanity's progress, tacit knowledge gives us the ability to generate hypotheses that serve as motivation that leads to explicit knowledge.
+	- Stay curious
+		- Don't be fooled by surface explanations as they kill your curiosity. Use [[First Principles Thinking]] and remain curious and not readily accept surface explanations. Ask basic child-like questions like how, why, or what to truly understand the basics and fundamentals of an idea.
+		- ^^Be present in the moment and current activity.^^
+			- This includes having your mind in the "room" and your background thoughts focused on the content. If we are trying to engage on the activity while also visiting websites, answering e-mails, and text then we'll remain in our ordinary mental space. This continues to reinforce the same habits and patterns.
+			- TApproach every information with fresh eyes to counter dismissing information that may seem familiar even though it may offer new insights.
+	- Types of problems
+		- technical vs adaptive
+			- a [[technical problem]] is where the path to a solution is known and the difficulty you face lies in the execution of the solution.
+			- an [[adaptive problem]] requires experimentation, novel strategies, or new ways of thinking and being.
+			- [[q: What are the correct forms for problem solving?]] For different problem types? Is there a correct approach and what is a bad approach?
+	- **Analyzing the worth of something** - [[value]] analysis #[[opportunity cost]] #[[decision making]] #[[q: how can we make better decisions #[[qq]]]]
+		- We can have multiple currencies to establish the worth of something. Often that currency is money to provide us an understandable unit of valuation. Another could be our time to compare two things. We can also use pleasure, sleep, attention,aesthetics or knowledge as units of value.
+			- For example, when considering your options for buying a microwave, the cost is an obvious factor. We can also consider reliability, power, and time. If a microwave can cook faster over the years that time savings could add up.
+				- Sometimes the real cost isn't only the price, also consider the repeated costs.
+			- [[arbitrage]] - is the economics term of taking advantage of different values in different places. Buy cheap sell high mentality. We can use this to trade-off values in our lives. If I sacrifice leisure time in exchange for self-improvement and career development, I am hoping that it translates to more money and promotion in the future
+				- Identify all relevant currencies, and note which are being spent faster or are more valuable. What can you compromise now, to gain something else or more in the future?
+				- Break down our problems and our solutions to their currencies, assess the arbitrage, and see if they align with our goals. Be aware of the value trades offs and opportunity costs of your decisions. If they don't kindly ignore them and move on.
+				- ^^We can also reaffirm our values and assess our activities. Don't waste your time on stupid people so you can feel right. Ignore them or say you're probably right and move on. ^^
+				- ^^Proper arbitrage isn't win-lose, it's win-win.^^
+				- [[Professional application]]: Regularly assess of your job, career, salary, project, team role, etc.
+		- Diminishing returns of analysis strategies
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FqWY9GscW3w.png?alt=media&token=011f7344-3c62-4176-8336-1bb7756bbe1b)
+			- Consider the diminishing returns of pursuing any strategies (time, money, resources etc.) Consider the [[Pareto principle]], that 80% of the results come only from 20% of the effort.
+- Inner Simulator
+	- When we notice that our friend is angry by the way they enter the room or when we instinctually move to catch a falling pen we are using our [[inner simulator]]. The inner simulator relies on [[system 1 thinking]] and is automatic. We don't have to think about catching a falling pen because our inner simulator knows how a falling object behaves or what facial expressions correspond to what feelings.
+		- The inner simulator is very good at activities where it has amassed a vast amount of experiential data but is mislead by framing effects. The inner sim is most useful when we put in concrete and specific examples, and less so with vague input.
+			- Ask clarifying questions and specificity to gain usefulness from our inner simulator. Asking questions also keeps our inner sim engaged. Make the situation concrete for your inner simulator to be useful. For example, if your friend is describing an event or situation, ask them to avoid vagueness and provide specific examples to describe the situation clearly.
+		- [[Murphyjitsu]] -  an Inner Sim algorithm
+			- Murphy's Law states that "Anything that can go wrong will go wrong." We can use the following algorithm to help us prepare for Murphy's Law. Remember we can use this as a mental exercise as a [[premortem]] exercise.
+				- 1. Select a goal.  A habit you want to install, or a plan you'd like to execute or a project you want to complete.
+				- 2. Outline your plan. Be sure to list next actions, next steps, and specific deadlines or benchmarks. It's import tat you can visualize yourself moving through your plan, rather than having something vague like work out more.
+				- 3. Assess your progress.
+				- 4. Pre-hindsight. No matter the outcome of  your goals, construct a plausible narrative for what kept you from succeeding. Remember to look at both internal and external factors.
+				- 5. Bulletproofing. What actions can you take to prevent these hypothetical failure models? Visualize taking those preemptive actions and then ask your inner sim "What comes next?" Have you successfully defused the danger?
+				- 6. Iterate steps
+				- Inner Simulator—Further Resources #[[📥inbox]]
+					- Kahneman, D. & Tversky, A. (1982). The simulation heuristic. In D. Kahneman, P. Slovic, & A. Tversky (eds.) Judgment under uncertainty: Heuristics and biases (pp. 201-208).
+						- Kahneman and Tversky (1982) proposed that people often use a simulation heuristic to make judgments. Mental simulation of a scenario is used to make predictions by imagining a situation and then running the simulation to see what happens next, and it is also to give explanations for events by mentally changing prior events and seeing if the outcomes changes.
+					- Szpunar, K.K. (2010). Episodic future thought: An emerging concept. Perspectives on Psychological Science, 5, 142-162. http://goo.gl/g0NNI
+						- Research on mental simulation has found that imagining future or hypothetical events draws on much of the same neural circuitry that is used in memory. The ease with which a simulated scenario is generated often seems to be used as a cue to the likelihood of that scenario
+					- Oettingen, Gabrielle (2014). Rethinking Positive Thinking.
+						- “Mental contrasting,” sometimes referred to as gain-pain movies, is a speciﬁc algorithm for making optimism and drive more accurate and robust in the face of adversity. In her book Rethinking Positive Thinking, Dr. Gabrielle Oettingen outlines the steps of mental contrasting, along with the underlying justiﬁcation and examples of results.
+					- Gendlin, Eugene (1982). Focusing. Second edition, Bantam Books. http://en.wikipedia.org/wiki/Focusing
+						- “Focusing” is a practice of introspection systematized by psychotherapist Eugene Gendlin which seeks to build a pathway of communication and feedback between a person’s “felt sense” of what is going on (an internal awareness which is often diﬃcult to articulate) and their verbal explanations. It can be understood as a method of querying one’s inner simulator (and related parts of System 1). Gendlin’s (1982) book Focusing provides a guide to this
+						  technique, which can be used either individually or with others (in therapy or other debugging conversations).
+					- Mitchell, D., Russo, J., & Pennington, N. (1989). Back to the future: Temporal perspective in the explanation of events. Journal of Behavioral Decision Making, 2, 25-38. http://goo.gl/GYW6hg
+					  
+					  Klein, G. (2007).  Performing a project premortem. Harvard Business Review, 85, 18-19. http://hbr.org/2007/09/performing-a-project-premortem/ar/1
+					  
+					  Klein, Gary (2004). The Power of Intuition: How to Use Your Gut Feelings to Make Better Decisions at Work.
+						-
+- Trigger-Action Planning #[[automatic behaviors]]
+  id:: f40a2bfb-0bea-4f95-808e-0d93076c981b
+	- System 1 Thinking is capable of seemingly "multi-tasking" but is actually chaining simple if-then actions without a heavy cognitive load, since the behavior is mostly automatic. For example, feeling our phone vibrate, we automatically pick up and check our phone.
+	- We can examine our behaviors for these trigger-action steps and utilize them for creating automatic behaviors. The more simply we can break down or analyze a behavior pattern the easier we can implement or exploit it.
+		- For example, breaking down and preventing distracted behavior. If we ask ourselves, what was the precursor before we get distracted and decide to do something else, apart from our wanted task, we can re-wire for preventing distracted behavior. We can re-create our distracted behaviors to re-loop back to the task at hand.
+			- Remember to keep your plans and next steps as specific and precise as possible. Instead of saying, when I go enter the building I'll take the stairs up and skip the elevator, you can create the trigger based on the feeling of opening the metal handle of the door and then look at the stairs. By simplifying the "skipping the elevator and taking the stairs" to looking at the stairs, we great simplify and lessen the willpower involvement in the rewiring of the behavior.
+	- Steps to create a trigger-action plan
+		- Choose a goal (a desired outcome or behavior)
+		- Identify a trigger (something that will happen naturally)
+		- Decide on an action that you want to occur after the trigger
+		- Rehearse the causal link (e.g. with deliberate visualization)
+		- __Examples__
+			- **Goal:** Eat more healthy food
+			  **TAP:** Grab handle of shopping cart -> Ask myself whether this is a “healthy” shopping trip, or a regular one
+			- **Goal:** Do a better job of showing my friends that I care about them
+			  **TAP:** Notice that something made me think of a particular friend -> Write it down right away on my list of possible birthday gifts
+			- **Goal:** Remember to bring a book from home
+			  **TAP:** Drop my keys into the bowl by the door -> Pause and think get the book and put it with my keys.
+	- Trigger action planning to improve noticing
+		- System 1 thinking is poor at taking notice of long term consequences of our behavior. Our system 1 thinking seems to not be able to comprehend that the long-term effect of overeating is dangerous to our health. Your brain has seen, from experience, that overeating hasn't cause us immediate dangers after the fact. Our system 1 thinking is slow to absorb long-term consequences.
+			- However we can tap to our System 1 thinking for noticing our environment. Ask questions
+				- Do I notice this dynamic when it occurs, or only after the fact? Do I notice it every time, or only sometimes?
+				- What observations or sensations or feelings do I experience around this dynamic?
+				- Can I trace the chain of causality that leads to me being dissatisﬁed or unhappy? Do I know what the ﬁrst domino is?
+				- Are there internal or external pressures that are contributing to the problem, or inﬂuencing my thinking and decisionmaking around it?
+				- Are my “wants” meaningfully diﬀerent at diﬀerent times in this dynamic? Are mood and perspective relevant factors?
+				- Are there times when I successfully subvert this dynamic? When I manage to avoid or patch the problem?
+					- These questions also helps us take notice of timepoints of our behavior we want to alter.
+					- Ask yourself five minutes before the event to see if you can alter anything here.
+					- Second, what is the stimuli driving this behavior?
+					- Third, notice when you commit your dispreferred behavior. If you catch yourself in the middle of a downward slide, even if you don't do anything about it at that moment, it makes you more likely to pick on the dynamic in the future and better equipped and prepared to stop or modify your consequent behavior.
+		- Tips for TAPS
+			- The best places to use taps are in weak links. Weak links —are places that will help us prevent problems before they arise and if we can't prevent them, help us quickly recover.
+				- We can also look for high leverage places where we'll have the opportunity to extract high value with little effort (e.g., changing food buying habits, and removing the temptation of willpower and saying no to cookies already in the house)
+			- __looking for the right trigger__
+				- Use triggers that are concrete, specific, and preferable noticeable. An example would be audible or sensory triggers like a microwave beeping as a replacement for "at dinnertime". When I hear the microwave beep I will do X.
+				- Choose triggers that are close and relevant to the behavior we're trying to change (for instance, a toilet flush is closer to the ideal prompt for flossing than a phone alarm, though phone alarms are highly reliable)
+				- Internal triggers like specific thoughts and feelings can be just as good as external ones
+			- __selecting the right actions__
+				- Choose actions that are simple and atomic. If we want to do something complicated then we would have to slowly build up a chain of TAPs
+				- Whenever possible the actions should be an option rather than a mandate. Ask yourself, once the trigger is set-off, "If you would still like to take action X"
+				- Choose actions that we are capable of doing with little effort
+				- Think concretely and focus on relevance—choose actions that are actually useful, not ones that train the wrong skill or promote the wrong behavior
+			- __Making TAPs stick__
+				- Add new TAPs one or two at a time, rather than creating a long and complex multi-chain TAP
+				- Make incremental changes to the modified behaviors and stick close to the current/natural trigger-action patterns
+				- Mentally rehearse and practice each new TAP (practice ten times in your mind with your eyes closed and going through a complete imaginary run-through each time)
+				- Write down all of your intended TAPS in one place, and check the list at the end of the week
+- [[Goal Factoring]]
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F3HGui3ogYo.png?alt=media&token=d938fb2e-dd6e-4ca6-b549-9ce558fcae9d)
+	- Goal factoring is reframing the choices of A or B, or A&B. Instead of simply comparing one choice to another, goal factoring asks if there is a third solution—that there may be a way to get everything we want and achieve all of the good with none of the bad.
+		- For instance, can we achieve the benefits of grading without investing so much time? Is there an alternative?
+	- The Goal Factoring algorithm
+		- __1. Choose an action__
+			- Something you already do, or are considering starting
+			- Something that happens frequently, or is costly in other ways
+			- Something that seems like it could be optimized, or that you aren’t really sure why you’re doing in the ﬁrst place
+		- __2. Prepare to accept all worlds__
+			- Try to release any hesitation you might have about achieving victory without doing the action itself. Remember that if you do encounter hesitation, it can be used to uncover an unacknowledged hidden goal of the action, which you can address separately.
+			- Remind yourself that you are interested in the true best answer, whatever it may happen to be.
+			- Remember that you are not committing yourself to doing something that “feels wrong.” If all of the answers you come up with feel wrong, you simply won’t do any of them—don’t let that stop you from running the search properly in the ﬁrst place.
+		- __3. Factor the action out into goals__
+			- Remember that there is a diﬀerence between wanting to do/be X, and wanting to appear to do/be X, and write down the one you actually want.
+			- Don’t forget about goals pertaining to things like social standing, interpersonal connection, and your own sense of self.
+			- Query your System 1 (e.g. with a button test-(are you missing other actions that this action does if it was only a one-step process like a button)) to conﬁrm that you haven’t missed anything important.
+		- __4. Brainstorm possible replacement actions__
+			- Focus on your goals one at a time (i.e. don’t expect yourself to come up with a complete strategy in one step).
+			- After you have ﬁnished brainstorming for all goals, look for ways to combine them, whether through a single streamlined plan or through a combination of lots of little plans.
+		- __5. Reality check__
+			- Vividly imagine instituting your new plan. Are you satisﬁed? Do you notice unmet goals that need to be addressed?
+			- Run the [[Murphyjitsu]] algorithm or some other similar process. Do you expect you will actually follow your new plan? Which parts of it seem unpleasant, aversive, duty-ﬂavored, or otherwise hard to motivate yourself to do? What revisions can you put into place to improve the odds of success?
+	- When we try to [[optimize]] a process or devise a [[goal]], our solution should be multifunctional, not only coming from one aspect of our lives but many. For instance, we may save a penny here and there in grocery shopping, but will spend large amounts of money on unneeded software or games. Our goal of saving money should encompass our lives holistically to gain the greatest benefits.
+	- Can we use [[Goal Factoring]] from many different approach to complete a whole solution (multidisciplinary, multifaceted solution)
+- [[Focusing technique]]
+	- see book instead  - nothing to note
+- [[Bucket Errors]]
+	- Humans don't simply experience reality. We [[interpret]] it.
+		- Our interpretations can be categorized and placed into buckets that updates our stance and views. How we divide, create, and organize those buckets can effectively or ineffectively affect our views. If we have too few buckets we may incorrectly update our views. For instance, if we suffer from low [[self-worth]] [[self-esteem]] we maybe incorrectly bucketing experiences into a bucket we shouldn't and rather should create a new bucket. If we do something embarrassing or make a mistake, this shouldn't be bucketed in the same bucket as our self-perception, it should be in a mistakes bucket or embarrassing events bucket. When we correctly bucket new information and interpretation of reality, we can create a justified realistic outlook. On the other hand, if we have too many buckets, experiences that combined, should correctly affect our views are too separated we will miss a necessary feedback loop.
+			- Finding the right amount of experiential buckets
+				- When we notice that we are flinching away from new information ask ourselves what would be bad about taking it in? What would be the consequences of just believing X?
+				- When we start to make connections between two items e.g., "If A is true, then B will be true too", pause for a moment and reflect on how strongly A and B are correlated. Is A actually a strong indicator of B?
+				- When you have a piece of information that feels like you are compelled to take an action. Take pause and note that you can consider the information and decouple from the possible subsequent action, we have the freedom not to "follow-up". Use ((18e156e8-cd49-4a3d-8e55-773e5db4232a)) framework to think things through.
+				- Notice when your distress feels like it originates in something like a need for consistency. For instance, if you don't want to take the action of apologizing, because you don't internally feel regret, be willing to question whether an apology actually requires contrition, or whether you can say yes to one without necessarily saying yes to the other.
+	- Another way to view bucket errors are through [[question substitution]], which is that humans often swap out a hard question for an easier to answer one, without actually noticing that this is what they're doing. When we start swapping out questions we may introduce heuristics and biases.
+		- example: Did my partner do something wrong? --> Am I mad at my partner about anything?
+		  What's my best next move in this situation? --> What can be accomplished with the tools I have readily available?
+		- The question we substituted is relevant to the original question but it isn't the same question. There will be instances where the answer to the substitute question is not a good answer to the original question and is instead leading you astray.
+	- Recognition of bucket errors or question substitution is helpful in making sure we are interpreting reality correctly and not harming our perceptions.
+- Disagreements - Double Crux
+	- A crux is an underlying, justifying belief that supports and upholds the overall conclusion.
+		- Example: Socially liberal activists argue for gun control because they believe gun violence is a high priority for anyone wishing to save lives, that gun control laws tend to reduce gun violence and gun deaths, and those laws do not curtail guaranteed rights and freedom in any meaningful or concerning way.
+	- Disagreements revolved around the output of models. Each person involved in a disagreement has
+		- 1) certain set of base assumptions about the world
+		- 2) a certain toolkit of analyses, algorithms, and perspectives that they bring to bear on those assumptions
+		- 3) a number of conclusions that emerge from the combination of the two
+			- Disagreements that feel frustrating and unproductive are focused solely on the outputs of models. It's better to understand the models that participants are employing to drive their perspective of the discussion. We can employ [[Double Loop Learning]] to understand people's stances. However, gaining understanding of each other's perspective only works if are open to changing our mind. Barriers may be participants are under time pressure, the issue may not be important, relationship dynamics may be strained, etc.
+			- In every discussion go in with the  [[Good Faith Principle]] that everyone is inherently good. Yes, there maybe a minority of bad actors but if you choose to employ GFP as a general rule, you'll have a good discussion the majority of the time.
+			- Productive Discussions
+				- The goal of a discussion isn't necessarily the complete resolution of the argument rather sharing the same shared model of the world, agreement to the same if-then statements.  To get there we need to find the double crux, the belief that is both a crux for participants.
+					- We should discuss the underlying motivations, cruxes or models, that inform our beliefs about the conversation. We are looking for the why of the disagreement.
+				- Double Crux Algorithm
+					- __Find a disagreement with another person__
+						- a case where you believe one thing and they believe another
+						- a case where you and the other person have difference confidences (e.g. you think X is 60% likely to be true, and they think it's 90% true)
+					- __Operationalize the disagreement__
+						- Define the terms to avoid getting lost in semantic confusions that miss the real point
+						- find specific test cases - instead of (e.g.) discussing whether you should be more outgoing, instead evaluate whether you should said hello to Steve in the office yesterday morning
+						- Whenever possible, try to think in actions rather than beliefs--it's easier to evaluate arguments like "we should do X before Y" than it is to converge on "Y is better than X"
+					- __Seek double cruxes__
+						- Seek your own cruxes independently, and compare with those of the other person to find overlap
+						- Seek cruxes collaboratively, by making claims ("I believe that X will happen because Y") and focusing on [[Falsifiability]] ("It would take A, B, or C to make me stop X")
+					- __Resonate__
+						- Spend time inhabiting both sides of the double crux, to confirm that you've found the core of the disagreement
+						- Imagine the resolution as an if-then statement, and use your inner sim and other checks to see if there are any unspoken hesitations about the truth of that statement
+					- __Repeat!__
+		- Double Crux is a tool and tools have specific uses, don't use tools for everything. Learn when they are best to employ.
+- Systematization
+	- When systematizing  we pay a large up front cost, but save ourselves from repeated future costs. We can lock in the best or most efficient version of a process, and then future training and ingraining reinforces the process.
+	- The process of systematization forces us to examine our goals and leads us to great insight into what we're doing.
+	- Not all processes should be systematized: If we value improvisation and exploration or if a process is infrequent and too small to gain a benefit in systematization.
+	- When we look for systems to automate, look for processes that frees up attention.
+	- **Qualities of a good attention-saving system**
+		- __Effortless__ -  Avoid systems that require ongoing discipline or continuous decision-making and instead look for places where a single burst of willpower or effort can create savings down the line.
+		- __Reliable__ We want our systems to be as fool proof as possible, with dependable reminders and hard-to-miss objective checks. When we have this system set up we can give our emotional mind a rest and able to let go of things once they're in the system.
+		- __Invisible__ If we set up a reminder in our calendar to take out the trash on Thursday, well see that reminder every time we see the calendar, it takes our attention every time we see it also clutters the tasks and things that matter. Whenever possible it's best to make parts of the system invisible.
+	- **Advice for getting started**
+		- __Set external reminders__. If you want to give a note to a colleague at work, you can fold the paper over the top of your laptop in your bag so that you remember when you get there (and no sooner)
+		- __Establish a routine__
+		- __Shape others' expectations regarding communication__. Replying quickly to email trains others to expect that they can reach you quickly by email, which makes it costly to respond slowly in the future.
+		- __Eliminate unneeded communication.__ Use filters to delete unneeded emails or unsubcribe.
+		- __Use checklists__ If something is important or  complex but infrequent, write down what you do as you do it, so that you have something to refer to it in the future (instead of using your attention to remember how it's done.)
+		- __Outsource__.
+		- __Use inboxes__ When an idea comes to mind in a conversation, jot it down in a pocket notebook or send yourself a quick text.
+		- __Triage.__ If you simply choose not to do a task in question, would anything bad happen? If not, just don't do it.
+	- Create systems to reflect on your systems. Most systems don't work as effectively as we want the first time, they may need iteration and improvement.
+- Taste & Shaping
+	- Motivation often speaks the more immediate and emotional language of System 1 and this effects the progress of of our [[goals]]. Many of our more ambitious goals like earning a post grad degree require a large number of difficult, arbitrary and thankless steps composed of System 1 influenced decisions that are emotional. While we may want too earn a post grad degree, we have to fight through the more "unwanted" small individual steps like studying, spending money, or doing something we don't like.
+		- We need to align the emotional feelings attached too these small steps to align with the "want" feeling of our goals.
+	- We can alter our training behavior through rewards. [[proactive]] [[q: How to be proactive]]
+		- [[temporal discounting]] [[hyperbolic discount]] The length of the delay between a behavior and its reward has a disproportionately large effect--if you double the size or  intensity of the reward, but also make the delay twice as long, the overall impact is behavior drops. Similarly, if we decrease the delay, with a smaller reward, we can still see an increase of the behavior.
+		- If we frame "unwanted" behaviors like feedback seeking even if it leads to finding mistakes as always good then we won't be dissuaded to do them.
+		- For our irrational behaviors of straying away from confrontation and problem solving, if we can associate them with good feelings we can be more proactive in those activities.
+			- Even if progress is slow or smaller than what we wanted, positive reinforcements should still be given for small progress. We waste time when we berate ourselves for not doing enough even though we are in the right direction.
+		- **Resources**
+			- Operant conditioning is the process by which people come to associate be- haviors with the pleasures or pains that they produce, and to engage in behavioral patterns that lead to more pleasant consequences (while avoiding those that result in pain). Associations are formed most strongly when the pleasure or pain immediately follows the behavior.
+				- http://en.wikipedia.org/wiki/Operant conditioning
+			- Complex behaviors can be learned through operant conditioning through a gradual step-by-step process known as “shaping.” Pleasant results are structured to provide positive reinforcement for behaviors which represent a small step in the direction of the desired behavior, beginning with behaviors that already occur, so that the individual is led towards the desired behavior by a hill-climbing algorithm.
+				- http://en.wikipedia.org/wiki/Shaping (psychology) An engaging take on how the techniques of operant conditioning which are used to train animals can also be applied to people: Pryor, Karen (1999). Don’t Shoot the Dog.
+			- Stanford psychologist BJ Fogg oﬀers has developed a simpliﬁed, systematic approach to behavior change. His free tutorial (which you can sign up to re- ceive by email at his website) provides extremely useful practice at developing a new habit, as well as a clear explanation of the process. He emphasizes making the new behavior extremely simple and quick to do, having a clear trigger for the behavior, and celebrating each time that you complete the behavior in order to reinforce the new habit. http://tinyhabits.com/
+			- Adam Grant and Jihae Shin of the University of Pennsylvania oﬀer an overview of contemporary research on work motivation, or the psychological processes that direct, energize, and maintain action toward a job, task, role, or project. They describe in depth ﬁve core theories that purport to explain work moti- vation, and explore controversies and unanswered questions for each before discussing new and promising areas of study. Grant, A. M., & Shin, J. (2011) Work motivation: Directing, energizing, and maintaining eﬀort (and research). Oxford handbook of motivation. Oxford University Press. https://goo.gl/Pi7tiR
+- Comfort Zone Expansion #antifragile
+	- The experience of comfort is a non-experience; it is the state that lacks paint or discomfort, a lack of negative emotions like fear or anxiety or despair or defensiveness.
+		- When we are comfortable it means we are in an environment of past experiences. We are doing things that we know how to do. However comfort keeps us fragile, we don't want any deviations in our environment. But our comfort also prevents us from learning.
+			- The more we stay in our comfort zone the more we train our brains and emotions to enjoy the comfort and dislike the unknown and the volatile.
+				- In order to maximize our growth we need to step out of our comfort zone.
+				- Our comfort zone makes us to make safe and prefer known solutions. We are averse to unproven innovations and risks.
+			- To gain new experiences we can create low-risk experiments that expose us to the potential for growth without incurring too much harm and destabilization.
+- Resolve Cycle Technique
+	- The resolve cycle technique can be helpful in combatting [[procrastination]].
+		- **Set up a timer for five minutes**
+		- __Step 0. Choose a thing that you would like to solve.__
+			- This problem can be anything, large or small. It doesn't matter.
+			- We often assume our seemingly large problem as unsolvable in a short amount period, and skip over short or simple solutions. Give yourself permission to succeed—worst case, you'll spend a few minutes getting a clearer sense of the possibility space.
+			- If the question itself is a source of difficulty, we can try reframing the problem or question.
+				- What's concretely different about the universe where I've already solved this problem? What things would I be able to see or measure?
+				- How would I become the sort of person for whom this problem isn't hard, or never even come up?
+				- How would I solve this problem if I were person X? How would I advise person X to solve this problem if it were theirs?
+				- Why do I want to solve this problem? What's it going to unlock?
+				- What do all my ideas and efforts so far have in common? What axes am I not moving on?
+				- How have I felt during my previous attempts to solve the problem? Should I be harder on myself or gentler? More frantic, or more measured? Is this a problem that calls for curiosity and exploration or for more determination and drive?
+		- __Step 1. Try to solve the problem—in five minutes. __
+			- Don't just make a plan; try to completely solve it. If there are any steps left to future you, try to make sure they're effortless and very hard to mess up (e.g. you solved the problem by ordering something on Amazon, and it's not hard to open a box once it arrives.)
+		- __Step 2. Spend five minutes brainstorming five-minute next actions.__
+			- If you didn't solve your problem in Step 1, that's okay. Now that you have come up against some of the obstacles, use your second resolve cycle to make a list of things that you could do to make progress, each one itself doable in five minutes or less.
+		- __Step 3. Do the most promising thing on your list__
+	- [[self-efficacy]] is the belief that one is capable of achieving a goal or accomplishing a task. Self-efficacy has been strongly correlated to several key attributes that makes [[success]] more likely (Albert Bandura, Locke 2003):
+		- willingness to take on new challenges
+		- persistence in the face of difficulty
+		- tendency to assume that one directs and shape's one future rather than simply reacting to events as they arise.
+- Hamming Questions
+	- Questions to ask yourself to increase motivation, positive shifts to better strategies, and a clearer sense of where your deepest priorities lie.
+		- What are the most important problems in my life?
+		- What's the limiting factor on my growth and progress?
+			- What's the key resource I have the least of, or of the key bottleneck that's preventing me from bringing resources to bear?
+		- What do I feel I'm not allowed to care about or that I generally don't think about because it feels too big or impossible?
+		- If my life were a novel, what would be the obvious next step?
+			- Where is the plot dragging, and what do I need to do to move the story forward?
+		- What sorts of goals am I already pursuing, but in a bad/convoluted/inefficient/distorted way?
+		- Which problems in my life are the largest order of magnitude?
+			- What changes could I make that would result in 100x or 1000x increase in either personal satisfaction or positive impact on the world?
+		- If I say "Everything in my life is fine, and I'm on track to achieve all of my goals," what feels untrue about that? What catches in my throat, that makes it hard to say that sentence out loud?"
+		- What feels most alive to me right now? Alternatively what feels most endangered?
+	- The Hamming Questions doesn't necessarily mean we give up on our interesting problems because they don't have a clear purpose or goal. They maybe questions of interests that are intrinsically motivating. If we do this we are pitting willpower to only focus on goal oriented work over our motivation.
+	-

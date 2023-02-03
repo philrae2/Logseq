@@ -1,0 +1,6 @@
+tags:: template
+alias:: template
+
+- [[Problem Solving Algorithm]]
+  query-table:: false
+- [[roam/templates]]

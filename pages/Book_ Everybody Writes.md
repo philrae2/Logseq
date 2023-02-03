@@ -1,0 +1,80 @@
+---
+title: Book: Everybody Writes
+---
+
+- Author:: [[Ann Hadley]]
+- Tags:: #writing #Books
+- Status:: #reading #[[📥inbox]]
+- Notes:
+	- Our writing conveys messages to people and influence their perception of us. #messaging
+	  collapsed:: true
+		- We can convey that we are smart or our writing can make us look stupid.
+		- "We then have to choose our words well, and write with economy and style and honest empathy for our reader." #perception
+		- How can we employ writing to increase our [status role]([[status roles]])
+	- [[Z: Writing can meet people's need to be understood and heard. ]]
+		- Writing well requires developing skills of intuitive psychology t o get inside their heads to allow us to communicate a message of listening and understanding their needs and wants
+	- On Writing Well:
+		- Brevity and clarity matter more than ever:
+			- There is a lot of noise clamoring of people's attention
+			- So it is important to write clearly and succinctly
+				- To communicate with respect of people's time, without meandering
+		- What matters most isn't storytelling, what matters is telling a true story well
+			- Write quality content that is giving your audience (specific) clear utility and is full of insights.
+				- To write well means we are aware of the audience's needs and wants and delivering something to them
+				- Utility mean we clearly help our customers do something that matters to them
+				- We can inspire our audience
+					- Based either on data or creatively inspired
+					- It is innovative, well-written, and feels like content crafted from you and your identity you plan to convey
+				- Empathy
+					- We are relentlessly focused on our audience when we are communicating
+					- We view the entire communication process through their lens, we understand their frame work and values
+		- Regard publishing as a privilege
+			- Having a mindset that of writing as a blessing given to us by our audience allows us to create great content with the inherently quality of addressing their needs first, beyond yours
+			- We need to deliver to our audience that is enjoyable, useful, and usable
+		- Write with brevity
+			- Make sure your writing is easily understood
+			- Write, rewrite, edit.
+		- Place the most important words and ideas at the beginning of each sentence
+			- Remove modifiers and qualifiers
+			- The first words of every sentence should invite the reader to keep going
+		- Outline for Writing
+			- Goal
+				- What is your goal and what are you trying to achieve
+				- Every piece of writing should align with your mission, purpose or the business goal
+				- Make sure you care about what your writing about
+			- Reframe:
+				- Reframe the idea to relate it to  your readers.
+					- Why does it matter to them?
+					- What will they takeaway from reading your writing?
+				- What value are you offering them?
+			- Seek out the data examples
+				- Seek out credible sources that support your idea
+					- Are there specific examples, data, real-world stories, relevant anecdotes, experiences
+					- quote: "The writer who uses herself as a source and resource has the greatest chance of connecting with the largest audience."
+			- Organize
+				- Structure your writing and information to best communicate your message.
+				- Outline the structure or general architecture to suite your story
+			- Write to one person
+				- Connect to the reader to the issue you're writing about
+				- Place your reader up front of the story - have the reader be able to place themselves and relate to what you're writing
+			- Produce the First Ugly Draft
+				- Don't worry about grammar, spelling, or complete sentences and readability.
+			- Walk Away
+				- Place distance between the first draft and the econd edit.
+			- Rewrite
+				- Shape the initial draft to something your audience would want to read.
+				- Take the perspective of your audience.
+			- Have someone edit
+			- Have one final look for readability
+			- Publish your writing but not without answering one more reader question: what now?
+	- Spend a lot of time about what you want to communicate
+		- Figure out what you want to say before thinking about how you will write it about it
+		- Know the purpose or mission or objective of every piece of content
+		- Thinking about what you're going to write helps you find the key point
+			- The key point should be contained in one sentence.
+			- Why am I creating this?
+				- What is my objective?
+			- What is the key take on the subject or issues?
+				- What's my point of view.
+			- So what? Because?
+	- Organize your writing

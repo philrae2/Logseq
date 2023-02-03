@@ -1,0 +1,325 @@
+---
+title: Books - A Guide to the Business Analysis Body of Knowledge
+---
+
+- **tags:**
+- **author:**
+- **status:**
+- **link:** https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/
+- #[[Literature Notes]]
+	- [[We can use the six core concepts of business analysis to to consider the quality and completeness of the work being done.]]
+	- [[If one of the six core concepts of business analysis change then we need to revaluate the core concepts and their relationships to the value it delivers to the project/program.]]
+	- [[Requirements points to the need and the design on the solution.]]
+	- ((114708a6-6a25-4648-8762-9451b3426b3e))
+	- [[Collaborate with other stakeholders to identify and mitigate risks.]]
+	- [[Ensure that the design of the solution fulfills the need and requirement]]
+	- [[The business analysis should align with the goals of the change, mitigate risks, guide activities and deliverables, and leverage techniques and methodologies that historically been proven to work.]]
+	- [[What exactly is a plan business analysis approach? What are examples?]]
+- #[[Reference Notes]]
+	- Introduction
+		- The six knowledge areas of the __BABOK® Guide __ (Business Analysis Planning and Monitoring, Elicitation and Collaboration, Requirements Life Cycle Management, Strategy Analysis, Requirements Analysis and Design Definition (RADD), and Solution Evaluation) describe the practice of business analysis as it is applied within the boundaries of a project or throughout enterprise evolution and continuous improvement. The following image shows how three of the knowledge areas support the delivery of business value before, during, and after the life cycle of a project.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Fx0FYh5w1ZS.png?alt=media&token=9bce125d-564e-40e9-8270-e62b5c328511)
+		- What is business analyst?
+			- Business analysis is the practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to stakeholders. Business analysis enables an enterprise to articulate needs and the rationale for change, and to design and describe solutions that can deliver value.
+	- 2. Business Analysis Key Concepts
+		- 2.1 The Business Analysis Core Concept Model
+			- The six core concepts in the __BACCM__ are: Change, Need, Solution, Stakeholder, Value, and Context. Each core concept is an idea fundamental to the practice of business analysis, and all the concepts are equal and necessary. Each core concept is defined by the other five core concepts and cannot be fully understood until all the concepts are understood. No single concept holds greater importance or significance over any other concept. These concepts are instrumental to understanding the type of information elicited, analyzed, or managed in business analysis tasks.
+			- The __BACCM__ can be used to:
+				- describe the profession and domain of business analysis,
+				- communicate about business analysis with a common terminology,
+				- evaluate the relationships of key concepts in business analysis,
+				- perform better business analysis by holistically evaluating the relationships among these six concepts, and \evaluate the impact of these concepts and relationships at any point during a work effort in order to establish both a foundation and a path forward
+			- Change
+				- The act of transformation in response to a need.
+				- Change works to improve the performance of an enterprise. These improvements are deliberate and controlled through business analysis activities.
+			- Need
+				- A problem or opportunity to be addressed.
+				- Needs can cause changes by motivating stakeholders to act. Changes can also cause needs by eroding or enhancing the value delivered by existing solutions.
+			- Solution
+				- A specific way of satisfying one or more needs in a context.
+				- A solution satisfies a need by resolving a problem faced by stakeholders or enabling stakeholders to take advantage of an opportunity.
+			- Stakeholder
+				- A group or individual with a relationship to the change, the need, or the solution.
+				- Stakeholders are often defined in terms of interest in, impact on, and influence over the change. Stakeholders are grouped based on their relationship to the needs, changes, and solutions.
+			- Value
+				- The worth, importance, or usefulness of something to a stakeholder within a context.
+				- Value can be seen as potential or realized returns, gains, and improvements. It is also possible to have a decrease in value in the form of losses, risks, and costs.
+				- Value can be tangible or intangible. Tangible value is directly measurable. Tangible value often has a significant monetary component. Intangible value is measured indirectly. Intangible value often has a significant motivational component, such as a company's reputation or employee morale.
+				- In some cases, value can be assessed in absolute terms, but in many cases is assessed in relative terms: one solution option is more valuable than another from the perspective of a given set of stakeholders.
+			- Context
+				- The circumstances that influence, are influenced by, and provide understanding of the change.
+			- Changes occur within a context. The context is everything relevant to the change that is within the environment. Context may include attitudes, behaviours, beliefs, competitors, culture, demographics, goals, governments, infrastructure, languages, losses, processes, products, projects, sales, seasons, terminology, technology, weather, and any other element meeting the definition.
+			- ^^The core concepts can be used by business analysts to consider the quality and completeness of the work being done.^^ Within each knowledge area description there are examples of how the core concepts may be used and/or applied during the tasks within the knowledge area. While planning or performing a task or technique, business analysts can consider how each core concept is addressed by asking questions such as:
+			  id:: ea12bef3-bec4-4f34-aff0-127126189a96
+				- What are the kinds of changes we are doing?
+				  id:: 72ebf65a-0efc-4154-af0a-0e135dd3c334
+				- What are the needs we are trying to satisfy?
+				  id:: d252be48-bddb-45f6-b751-97b3560dfbab
+				- What are the solutions we are creating or changing?
+				  id:: 07af6d19-690b-4dca-b5eb-58d47553962e
+				- Who are the stakeholders involved?
+				  id:: 33e5ed4a-89aa-4c58-82b9-06a69a0f1fa5
+				- What do stakeholders consider to be of value?
+				  id:: 2dc61e52-642e-4191-95fd-fc57877c159b
+				- What are the contexts that we and the solution are in?
+				  id:: 56af4e2e-ffe5-4b29-9213-6ed209686bbb
+			- If any of the core concepts experience a change, it should cause us to re-evaluate these core concepts and their relationships to value delivery.
+			  id:: d1f28d39-d410-47b8-85d4-186374f0234c
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FKHLniWABvV.png?alt=media&token=911bff31-6d09-4988-89c7-334ef959508e)
+		- 2.2 Key Terms
+			- Business Analysis Information
+				- Business analysis information refers to the broad and d verse sets of information that business analysts analyze, transform, and report. It is information of any kind—at any level of detail—that is used as an input to, or is an output of, business analysis work. Examples of business analysis information include elicitation results, requirements, designs, solution options, solution scope, and change strategy.It is essential to expand the object of many business analysis activities from'requirements' to 'information' to ensure that all inputs and outputs of business analysis are subject to the tasks and activities described in the __BABOK® Guide__. For example, when performing 'Plan Business Analysis Information Management' it includes all the examples listed above. If the __BABOK® Guide __described 'Plan Requirements Management', it would exclude important outputs like elicitation results, solution options, and change strategy.
+			- Design
+				- A design is a usable representation of a solution. Design focuses on understanding how value might be realized by a solution if it is built. The nature of the representation may be a document (or set of documents) and can vary widely depending on the circumstances. For more information, see [Requirements and Designs](https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/2-business-analysis-key-concepts/2-2-key-terms/#scroll-bookmark-49).
+			- Enterprise
+				- An enterprise is a system of one or more organizations and the solutions they use to pursue a shared set of common goals. These solutions (also referred to as organizational capabilities) can be processes, tools or information. For the purpose of business analysis, enterprise boundaries can be defined relative to the change and need not be constrained by the boundaries of a legal entity, organization, or organizational unit. An enterprise may include any number of business, government, or any other type of organization.
+			- Organization
+				- An autonomous group of people under the management of a single individual or board, that works towards common goals and objectives. Organizations often have a clearly defined boundary and operate on a continuous basis, as opposed to an initiative or project team, which may be disbanded once its objectives are achieved.
+			- Plan
+				- A plan is a proposal for doing or achieving something. Plans describe a set of events, the dependencies among the events, the expected sequence, the schedule, the results or outcomes, the materials and resources needed, and the stakeholders involved.
+			- Requirement
+				- A requirement is a usable representation of a need. Requirements focus on understanding what kind of value could be delivered if a requirement is fulfilled. The nature of the representation may be a document (or set of documents), but can vary widely depending on the circumstances. For more information, see [Requirements and Designs](https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/2-business-analysis-key-concepts/2-2-key-terms/#scroll-bookmark-49).
+				  id:: 114708a6-6a25-4648-8762-9451b3426b3e
+			- Risk
+				- Risk is the effect of uncertainty on the value of a change, a solution, or the enterprise. Business analysts collaborate with other stakeholders to identify, assess, and prioritize risks, and to deal with those risks by altering the likelihood of the conditions or events that lead to the uncertainty: mitigating the consequences, removing the source of the risk, avoiding the risk altogether by deciding not to start or continue with an activity that leads to the risk, sharing the risk with other parties, or accepting or even increasing the risk to deal with an opportunity.
+				  id:: 749b5d3b-10dc-4bc8-876d-6758ea809af2
+		- 2.3 Requirements Schema
+			- **Business requirements**: statements of goals, objectives, and outcomes that describe why a change has been initiated. They can apply to the whole of an enterprise, a business area, or a specific initiative.
+			- **Stakeholder requirements**: describe the needs of stakeholders that must be met in order to achieve the business requirements. They may serve as a bridge between business and solution requirements.
+			- **Solution requirements**: describe the capabilities and qualities of a solution that meets the stakeholder requirements. They provide the appropriate level of detail to allow for the development and implementation of the solution. Solution requirements can be divided into two sub-categories:
+				- **functional requirements**: describe the capabilities that a solution must have in terms of the behaviour and information that the solution will manage, and
+				- **non-functional requirements or quality  of service  requirements**: do not relate directly to the behaviour of functionality of the solution, but rather describe conditions under which a solution must remain effective or qualities that a solution must have.
+			- **Transition requirements**: describe the capabilities that the solution must have and the conditions the solution must meet to facilitate transition from the current state to the future state, but which are not needed once the change is complete. They are differentiated from other requirements types because they are of a temporary nature. Transition requirements address topics such as data conversion, training, and business continuity.
+		- 2.4 Stakeholders
+			- business analyst
+				- The business analyst is inherently a stakeholder in all business analysis activities. The __BABOK® Guide __presumes that the business analyst is responsible and accountable for the execution of these activities. In some cases the business analyst may also be responsible for performing activities that fall under another stakeholder role.
+			- customer
+				- A customer uses or may use products or services produced by the enterprise and may have contractual or moral rights that the enterprise is obliged to meet.
+			- domain subject matter expert
+				- A domain subject matter expert is any individual with in-depth knowledge of a topic relevant to the business need or solution scope. This role is often filled by people who may be end users or people who have in-depth knowledge of the solution such as managers, process owners, legal staff, consultants, and others.
+			- end user
+				- End users are stakeholders who directly interact with the solution. End users can include all participants in a business process, or who use the product or solution.
+			- implementation subject matter expert
+				- An implementation subject matter expert is any stakeholder who has specialized knowledge regarding the implementation of one or more solution components.
+				- While it is not possible to define a listing of implementation subject matter expert roles that are appropriate for all initiatives, some of the most common roles are: project librarian, change manager, configuration manager, solution architect, developer, database administrator, information architect, usability analyst, trainer, and organizational change consultant.
+			- operational support
+				- Operational support is responsible for the day-to-day management and maintenance of a system or product.
+				- While it is not possible to define a listing of operational support roles that are appropriate for all initiatives, some of the most common roles are: operations analyst, product analyst, help desk, and release manager.
+			- project manager
+				- Project managers are responsible for managing the work required to deliver a solution that meets a business need, and for ensuring that the project's objectives are met while balancing the project factors including scope, budget, schedule, resources, quality, and risk.
+				- While it is not possible to completely define a listing of project management roles that are appropriate for all initiatives, some of the most common roles are: project lead, technical lead, product manager, and team leader.
+			- regulator
+				- Regulators are responsible for the definition and enforcement of standards. Standards can be imposed on the solution by regulators through legislation, corporate governance standards, audit standards, or standards defined by organizational centers of competency. Alternate roles are government, regulatory bodies, and auditor.
+			- sponsor
+				- Sponsors are responsible for initiating the effort to define a business need and develop a solution that meets that need. They authorize the work to be performed, and control the budget and scope for the initiative. Alternate roles are executive and project sponsor.
+			- supplier
+				- A supplier is a stakeholder outside the boundary of a given organization or organizational unit. Suppliers provide products or services to the organization and may have contractual or moral rights and obligations that must be considered. Alternate roles are providers, vendors, and consultants.
+			- tester
+				- Testers are responsible for determining how to verify that the solution meets the requirements defined by the business analyst, as well as conducting the verification process. Testers also seek to ensure that the solution meets applicable quality standards, and that the risk of defects or failures is understood and minimized. An alternate role is quality assurance analyst.
+		- 2.5 Requirements and Designs
+			- BAs are also responsible, at some level, of the definition of design.
+			- Requirements are focused on the need; designs are focused on the solution. The distinction between requirements and designs is not always clear but the same techniques are used to elicit, model, and analyze both. 
+			  id:: b524c612-8a96-44e6-99d9-72aa5772ce31
+				- A requirement leads to a design which in turn may drive the discovery and analysis of more requirements. The shift in focus is often subtle.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FjzerTSI93S.png?alt=media&token=eefeebb0-3603-4025-a666-99242c67c837)
+			- Stakeholders may present a need or a solution to an assumed need. A business analyst uses activities found in Elicitation and Collaboration (p. 53), Strategy Analysis (p. 99), Requirements Analysis and Design Definition (p. 133), and Solution Evaluation (p. 163) to transform that request into a requirement or design. 
+			  id:: d9b8694e-74c8-4bad-b67d-693c1b6425de
+			- Regardless of the focus of the stakeholder, the importance of the role of the business analyst lies in continuously asking the question ‘why?’. For example, “Why is either the requirement or design necessary to provide value to an enterprise and to facilitate the realization of an enterprise’s goals and objectives?”
+			  id:: 2255acc2-5230-4d1f-b466-5e7b8efd0455
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F8Xjp0bXlYn.png?alt=media&token=bb56667b-cc8c-48a5-86b9-79e86e8ee2a7)
+			-
+	- 3. Business Analysis Planning and Monitoring
+		- Introduction
+			- The Business Analysis Planning and Monitoring knowledge area tasks organize and coordinate the efforts of business analysts and stakeholders. These tasks produce outputs that are used as key guidelines for the other tasks throughout the __BABOK® Guide__.
+			- The Business Analysis Planning and Monitoring knowledge area includes the following tasks:
+				- **Plan Business Analysis  Approach**: describes the planning of business analysis work from creation or selection of a methodology to planning the individual activities, tasks, and deliverables.
+				- **Plan Stakeholder Engagement**: describes understanding which stakeholders are relevant to the change, what business analysts need from them, what they need from business analysts, and the best way to collaborate.
+				- **Plan Business Analysis Governance**: defines the components of business analysis that are used to support the governance function of the organization. It helps ensure that decisions are made properly and consistently, and follows a process that ensures decision makers have the information they need. Examples of this include requirements management, business analysis risk management, and allocation of business analysis resources.
+				- **Plan Business Analysis  Information Management**: defines how information developed by business analysts (including requirements and designs) is captured, stored, and integrated with other information for long-term use.
+				- **Identify  Business Analysis  Performance Improvements**: describes managing and monitoring how business analysis work is performed to ensure that commitments are met and continuous learning and improvement opportunities are realized.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FC4BvUnEPCZ.png?alt=media&token=370fef3c-2734-470f-987b-b05298a65a09)
+			- Categorizations of Activities
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FI7m58AAmZH.png?alt=media&token=3743f3bf-c916-4bf6-96de-5c94b84ff6d3)
+				- Input, Tasks, Output
+		- 3.1 Plan Business Analysis Approach
+			- The purpose of Plan Business Analysis Approach is to define an appropriate method to conduct business analysis activities.
+			  id:: 24294d02-4518-452c-ae8c-00a9f672de62
+			- Business analysis approaches describe the overall method that will be followed when performing business analysis work on a given initiative, how and when tasks will be performed, and the deliverables that will be performed.
+			  id:: a8b81102-61fc-47bb-905f-504a571d6608
+			- The business analysis approach should:
+			  id:: c859df94-d2b0-43c0-9bd7-cfb83888e54a
+				- align to the overall goals of the change,
+				  id:: b2263445-cd80-407c-8aa9-5ab45588562b
+				- coordinate the business analysis tasks with the activities and deliverables of the overall change,
+				  id:: 1cc84e1e-66d4-4086-99dd-a63e71a7317a
+				- include tasks to manage any risks that could reduce the quality of business analysis deliverables or impede task efficiency, and
+				  id:: acc30755-2aba-41de-9369-7b1320c2faba
+				- leverage approaches and select techniques and tools that have historically worked well.
+				  id:: e85803b7-94e5-4a87-add7-805b9af3a1a4
+			- 3.1.3 Inputs
+				- **Needs**:  the business analysis approach is shaped by the problem or opportunity faced by the organization. It is necessary to consider what is known about the need at the time of planning, while acknowledging that understanding evolves throughout business analysis activities.
+				- Figure 3.1.1: Plan Business Analysis Approach Input/Output Diagram
+					- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FVzM2Glkh34.png?alt=media&token=db6f1430-11de-4a2e-9eeb-cd8e47c8d2e9)
+			- 3.1.4 Elements
+				- Planning Approach
+					- Many planning methods fit somewhere along a continuum between predictive and adaptive approaches.
+					- Predictive approaches focus on minimizing upfront uncertainty and ensuring that the solution is defined before implementation begins in order to maximize control and minimize risk. These approaches are often preferred in situations where requirements can effectively be defined ahead of implementation, the risk of an incorrect implementation is unacceptably high, or when engaging stakeholders presents significant challenges.
+					- Adaptive approaches focus on rapid delivery of business value in short iterations in return for acceptance of a higher degree of uncertainty regarding the overall delivery of the solution. These approaches tend to be preferred when taking an exploratory approach to finding the best solution or for incremental improvement of an existing solution.
+					- Different approaches may be used within the same initiative. Among other factors, the business analyst may consider the organization’s standards, tolerance for uncertainty, and previous experience with different approaches when planning for business analysis activities.
+					- Regardless of the approach, planning is an essential task to ensure value is delivered to an enterprise. Planning typically occurs more than once on a given initiative as plans are updated to address changing business conditions and newly raised issues. The business analysis approach should describe how plans will be altered if changes are required.
+				- Formality and Level of Detail of Business Analysis Deliverables
+					- Predictive approaches typically call for formal documentation and representations. Business analysis information may be captured in a formal document or set of representations following standardized templates. Information is captured at various levels of detail. The specific content and format of business analysis information can vary depending on the organizational methodologies, processes, and templates in use.
+					- Adaptive approaches favour defining requirements and designs through team interaction and gathering feedback on a working solution. Mandatory requirements representations are often limited to a prioritized requirements list. Additional business analysis documentation may be created at the discretion of the team, and generally consists of models developed to enhance the team’s understanding of a specific problem. Formal documentation is often produced after the solution is implemented to facilitate knowledge transfer.
+					- Other considerations that may affect the approach include:
+						- the change is complex and high risk,
+						- the organization is in, or interacts with, heavily regulated industries,
+						- contracts or agreements necessitate formality,
+						- stakeholders are geographically distributed,
+						- resources are outsourced,
+						- staff turnover is high and/or team members may be inexperienced,
+						- requirements must be formally signed off, and
+						- business analysis information must be maintained long-term or handed over for use on future initiatives.
+					- Figure 3.1.2: Formality and Level of Detail of Business Analysis Deliverables
+						- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FrG4PBfk8VO.png?alt=media&token=61ed3aa4-ad7a-42b1-9bd0-b746c9f82cd8)
+				- Business Analysis Activities
+					- A business analysis approach provides a description of the types of activities that the business analyst will perform. Frequently the organization’s adopted methodologies influence the activities that are selected.
+					- ^^Integrating business analysis activities in the business analysis approach includes:^^
+						- identifying the activities required to complete each deliverable and then breaking each activity into tasks,
+						- dividing the work into iterations, identifying the deliverables for each iteration, and then identifying the associated activities and tasks, or
+						- using a previous similar initiative as an outline and applying the detailed tasks and activities unique to the current initiative.
+				- Timing of Business Analysis Work
+					- Business analysts determine when the business analysis tasks need to be performed and if the level of business analysis effort will need to vary over time. This type of planning includes determining whether the business analysis tasks performed within the other knowledge areas will be performed primarily in specific phases or iteratively over the course of the initiative.
+					- The timing of business analysis activities can also be affected by:
+						- the availability of resources,
+						- priority and/or urgency of the initiative,
+						- other concurrent initiatives, or
+						- constraints such as contract terms or regulatory deadlines.
+				- Complexity and Risk
+					- The complexity and size of the change and the overall risk of the effort to the organization are considered when determining the business analysis approach. As complexity and risk increase or decrease, the nature and scope of business analysis work can be altered and reflected in the approach.
+					- The approach may also be altered based on the number of stakeholders or business analysis resources involved in the initiative. As the number of stakeholders increases, the approach may be adjusted to include additional process steps to better manage the business analysis work.
+					- Other factors that can impact complexity include:
+						- size of the change,
+						- number of business areas or systems affected,
+						- geographic and cultural considerations,
+						- technological complexities, and
+						- any risks that could impede the business analysis effort.
+					- Factors that can impact the risk level of a business analysis effort include:
+						- experience level of the business analyst,
+						- extent of domain knowledge held by the business analyst,
+						- level of experience stakeholders have in communicating their needs,
+						- stakeholder attitudes about the change and business analysis in general,
+						- amount of time allocated by stakeholders to the business analysis activities,
+						- any pre-selected framework, methodology, tools, and/or techniques imposed by organizational policies and practices, and
+						- cultural norms of the organization.
+				- Acceptance
+					- The business analysis approach is reviewed and agreed upon by key stakeholders. In some organizations, the business analysis process may be more structured and require key stakeholders to sign off on the approach to ensure all business analysis activities have been identified, estimates are realistic, and the proposed roles and responsibilities are correct. Any issues raised by stakeholders when reviewing the approach are documented by the business analyst and resolutions are sought. Stakeholders also play a role in reviewing and accepting changes to the approach as alterations are made to accommodate changing conditions across the initiative.
+			- 3.1.5 Guidelines and Tools
+				- **Business Analysis  Performance Assessment**: provides results of previous assessments that should be reviewed and incorporated into all planning approaches.
+				- **Business Policies**: define the limits within which decisions must be made. They may be described by regulations, contracts, agreements, deals, warranties, certifications, or other legal obligations. These policies can influence the business analysis approach.
+				- **Expert Judgment**: used to determine the optimal business analysis approach. Expertise may be provided from a wide range of sources including stakeholders on the initiative, organizational Centres of Excellence, consultants, or associations and industry groups. Prior experiences of the business analyst and other stakeholders should be considered when selecting or modifying an approach.
+				- **Methodologies and Frameworks**:  shape the approach that will be used by providing methods, techniques, procedures, working concepts, and rules. They may need to be tailored to better meet the needs of the specific business challenge.
+				- **Stakeholder Engagement Approach**: understanding the stakeholders and their concerns and interests may influence decisions made when determining the business analysis approach.
+			- 3.1.6 Techniques
+				- **Brainstorming**: used to identify possible business analysis activities, techniques, risks and other relevant items to help build the business analysis approach.
+				- **Business Cases**: used to understand whether elements of the problem or opportunity are especially time-sensitive, high-value, or whether there is any particular uncertainty around elements of the possible need or solution.
+				- **Document Analysis**: used to review existing organizational assets that might assist in planning the approach.
+				- **Estimation**: used to determine how long it may take to perform business analysis activities.
+				- **Financial Analysis**: used to assess how different approaches (and the supported delivery options) affect the value delivered.
+				- **Functional Decomposition**: used to break down complex business analysis processes or approaches into more feasible components.
+				- **Interviews**: used to help build the plan with an individual or small group.
+				- **Item Tracking**: used to track any issues raised during planning activities with stakeholders. Can also track risk related items raised during discussions when building the approach.
+				- **Lessons Learned**: used to identify an enterprise’s previous experience (both successes and challenges) with planning business analysis approach.
+				- **Process Modelling**: used to define and document the business analysis approach.
+				- **Reviews**: used to validate the selected business analysis approach with stakeholders.
+				- **Risk Analysis and Management**: used to assess risks in order to select the proper business analysis approach.
+				- **Scope Modelling**: used to determine the boundaries of the solution as an input to planning and to estimating.
+				- **Survey or Questionnaire**: used to identify possible business analysis activities, techniques, risks and other relevant items to help build the business analysis approach.
+				- **Workshops**: used to help build the plan in a team setting.
+			- 3.1.7 Stakeholders
+				- **Domain Subject Matter Expert:** can be a source of risk when their involvement is required and availability is lacking. The approach taken may depend on availability and level of their involvement with the initiative.
+				- **Project Manager**:  determines that the approach is realistic for the overall schedule and timelines. The business analysis approach must be compatible with other activities.
+				- **Regulator**:  may be needed to provide approval for aspects of the business analysis approach or decisions made in tailoring the process, especially in organizations where the business analysis process is audited.
+				- **Sponsor**:  can provide needs and objectives for the approach and ensures that organizational policies are followed. The selected approach may depend on availability and involvement with the initiative.
+			- 3.1.8 Outputs
+				- **Business Analysis  Approach:** identifies the business analysis approach and activities that will be performed across an initiative including who will perform the activities, the timing and sequencing of the work, the deliverables that will be produced and the business analysis techniques that may be utilized. The remaining outputs of the Business Analysis Planning and Monitoring knowledge area may be integrated into an overall approach or be independent based upon methodology, organization, and perspective.
+		- 3.2 Plan Stakeholder Engagement
+			- The purpose of Plan Stakeholder Engagement is to plan an approach for establishing and maintaining effective working relationships with the stakeholders.
+			- Description
+				- Plan Stakeholder Engagement involves conducting a thorough stakeholder analysis to identify all of the involved stakeholders and analyze their characteristics. The results of the analysis are then utilized to define the best collaboration and communication approaches for the initiative and to appropriately plan for stakeholder risks.
+				- When planning for stakeholder engagement, the degree of complexity can increase disproportionately as the number of stakeholders involved in the business analysis activities increases. This is important because new or different techniques for the management of stakeholders may be required when the engagement moves from collaborating with a few stakeholders into dozens, hundreds, or even thousands of people.
+			- 3.2.3 Inputs
+				- **Needs:** understanding the business need and the parts of the enterprise that it affects helps in the identification of stakeholders. The need may evolve as stakeholder analysis is performed.
+				- **Business Analysis Approach:** incorporating the overall business analysis approach into the stakeholder analysis, collaboration, and communication approaches is necessary to ensure consistency across the approaches.
+				- Figure 3.2.1: Plan Stakeholder Engagement Input/Output Diagram
+					- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FqhGxdhQFuA.png?alt=media&token=67ef1ab6-9e58-471f-9e4d-331fcceffe50)
+				-
+			- 3.2.4 Elements
+				- 1   Perform Stakeholder Analysis
+					- Stakeholder analysis involves identifying the stakeholders (who will be directly or indirectly impacted by the change) and their characteristics, as well as analyzing the information once collected. Stakeholder analysis is performed repeatedly as business analysis activities continue.
+					- A thorough and detailed stakeholder list ensures that stakeholders are not overlooked. Understanding who the stakeholders are, the impact of proposed changes on them, and the influence they may have on the change is vital to understanding what needs, wants, and expectations must be satisfied by a solution. If stakeholders are not identified, the business analyst may miss uncovering critical needs. Stakeholder needs uncovered late will often require a revision to business analysis tasks that are either in progress or are completed. This can result in increased costs and decreased stakeholder satisfaction.
+					- How business analysts perform stakeholder analysis can vary between projects, methodologies, and organizations. A company’s organizational chart and business processes can serve as an initial source for identifying internal stakeholders. The sponsor may also identify stakeholders. Stakeholders outside the organization may be identified and can be uncovered by understanding any existing contracts that may be in place, anticipated vendors that may have a role based on existing relationships with the organization, as well as regulatory and governing bodies that may influence the work. Shareholders, customers, and suppliers are also considered when searching for external stakeholders.
+				- Roles
+					- Business analysts identify stakeholder roles in order to understand where and how the stakeholders will contribute to the initiative. It is important that the business analyst is aware of the various roles a stakeholder is responsible for within the organization.
+				- Attitudes
+					- Stakeholder attitudes can positively or negatively impact a change. Business analysts identify stakeholder attitudes in order to fully understand what may impact a stakeholder’s actions and behaviours. Knowing how a stakeholder perceives the initiative allows an opportunity for the business analyst to specifically plan their collaboration and engagement with that stakeholder.
+					- Business analysts analyze stakeholder attitudes about:
+						- business goals, objectives of the initiative, and any proposed solutions,
+						- business analysis in general,
+						- the level of interest in the change,
+						- the sponsor,
+						- team members and other stakeholders, and
+						- collaboration and a team-based approach.
+					- Stakeholders with positive attitudes may be strong champions and great contributors. Other stakeholders may not see value in the work, may misunderstand the value being provided, or may be concerned about the effect the change will have on them. Stakeholders who are expected to serve in key roles and participate heavily in business analysis activities, but who view a change negatively, may require collaboration approaches that increase their cooperation.
+				- Decision Making Authority
+					- Business analysts identify the authority level a stakeholder possesses over business analysis activities, deliverables, and changes to business analysis work.****
+					- Understanding authority levels upfront eliminates confusion during the business analysis effort and ensures the business analyst collaborates with the proper stakeholders when looking for a decision to be made or seeking approvals.
+				- Level of Power or Influence
+					- Understanding the nature of influence and the influence structures and channels within an organization can prove invaluable when seeking to build relationships and trust. Understanding the influence and attitude each stakeholder may have can help develop strategies for obtaining buy-in and collaboration. Business analysts evaluate how much influence is needed to implement a change compared to the amount of influence the key stakeholders can bring. If there is a mismatch between the influence required and the amount of influence the stakeholder has or is perceived to have, business analysts develop risk plans, responses and other strategies that might be needed to obtain the required level of support.
+				- .2   Define Stakeholder Collaboration
+					- Ensuring effective collaboration with stakeholders is essential for maintaining their engagement in business analysis activities. Collaboration can be a spontaneous event. However, much collaboration is deliberate and planned, with specific activities and outcomes determined ahead of time during planning activities.
+					- The business analyst may plan different collaboration approaches for internal and external stakeholders, and approaches may differ by business analysis activity. The objective is to select the approaches that work best to meet the needs of each stakeholder group and ensure their interest and involvement is maintained across the initiative. Some considerations when planning collaboration include:
+						- timing and frequency of collaboration,
+						- location,
+						- available tools such as wikis and online communities,
+						- delivery method such as in-person or virtual, and
+						- preferences of the stakeholders.
+					- Planning considerations can be documented in the form of a stakeholder collaboration plan. As factors change, plans can be revisited, and adjustments and adaptations can be made to ensure ongoing engagement of stakeholders.
+				- .3   Stakeholder Communication Needs
+					- The business analyst evaluates:
+						- what needs to be communicated,
+						- what is the appropriate delivery method (written or verbal),
+						- who the appropriate audience is,
+						- when communication should occur,
+						- frequency of communication,
+						- geographic location of stakeholders who will receive communications,
+						- level of detail appropriate for the communication and stakeholder, and
+						- level of formality of communications.
+					- Communication considerations can be documented in the form of a stakeholder communication plan. Business analysts build and review communication plans with stakeholders to ensure their communication requirements and expectations are met.
+			- 3.2.5 Guidelines and Tools
+				- **Business Analysis Performance Assessment:** provides results of previous assessments that should be reviewed and incorporated.
+				- **Change Strategy:** used for improved assessment of stakeholder impact and the development of more effective stakeholder engagement strategies.
+				- **Current State Description:** provides the context within which the work needs to be completed. This information will lead to more effective stakeholder analysis and better understanding of the impact of the desired change.
+			- 3.2.6 Techniques
+				- **Brainstorming:** used to produce the stakeholder list and identify stakeholder roles and responsibilities.
+				- **Business Rules Analysis:** used to identify stakeholders who were the source of the business rules.
+				- **Document Analysis:** used to review existing organizational assets that might assist in planning stakeholder engagement.
+				- **Interviews:** used to interact with specific stakeholders to gain more information or knowledge about stakeholder groups.
+				- **Lessons Learned:** used to identify an enterprise’s previous experience (both successes and challenges) with planning stakeholder engagement.
+				- **Mind Mapping:** used to identify potential stakeholders and help understand the relationships between them.
+				- **Organizational Modelling:** used to determine if the organizational units or people listed have any unique needs and interests that should be considered. Organizational models describe the roles and functions in the organization and the ways in which stakeholders interact which can help to identify stakeholders who will be affected by a change.
+				- **Process Modelling:** used to categorize stakeholders by the systems that support their business processes.
+				- **Risk Analysis and Management:** used to identify risks to the initiative resulting from stakeholder attitudes or the inability of key stakeholders to participate in the initiative.
+				- **Scope Modelling:** used to develop scope models to show stakeholders that fall outside the scope of the solution but still interact with it in some way.
+				- **Stakeholder List, Map, or Personas:** used to depict the relationship of stakeholders to the solution and to one another.
+				- **Survey or Questionnaire:** used to identify shared characteristics of a stakeholder group.
+				- **Workshops:** used to interact with groups of stakeholders to gain more information about stakeholder groups.
+			- 3.2.7 Stakeholders
+				- **Customers**: a source of external stakeholders.
+				- **Domain Subject Matter Expert**: may help to identify stakeholders and may themselves be identified to fulfill one or more roles on the initiative.
+				- **End User**: a source of internal stakeholders.
+				- **Project Manager**: may be able to identify and recommend stakeholders. Responsibility for stakeholder identification and management may be shared with the business analyst.
+				- **Regulator**: may require that specific stakeholder representatives or groups be involved in the business analysis activities.
+				- **Sponsor**: may request that specific stakeholders be involved in the business analysis activities.
+				- **Supplier**: a source of external stakeholders.
+			- 3.2.8 Outputs
+				- **Stakeholder Engagement Approach**: contains a list of the stakeholders, their characteristics which were analyzed, and a listing of roles and responsibilities for the change. It also identifies the collaboration and communication approaches the business analyst will utilize during the initiative.

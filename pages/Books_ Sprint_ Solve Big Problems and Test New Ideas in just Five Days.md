@@ -1,0 +1,63 @@
+---
+title: Books: Sprint: Solve Big Problems and Test New Ideas in just Five Days
+---
+
+- Author:: [[Jake Knapp]]
+- Tags:: #productivity #[[process improvement]] #agile
+- Status:: #[[📥inbox]] #reading
+- Related Notes:: [[The Agile Mindset]]
+- Notes:
+	- The author is trying to sell creating [[sprints]] for big problems. #agile
+		- Are sprints a good [[Decision Making]] model?
+			- Does the sprint process remove the necessity of using a decision making model?
+	- **Steps for a five day sprint**
+		- Monday - Map out the problem and pick a focus
+			- Allow for more experts to join Monday in your [[sprint team]] to help define the problem
+				- Ask [[how might we]] type questions
+					- How might we improve the on-boarding process
+			- [[Z: Create maps that are customer centric]]
+				- Have the actors on the left
+				- The "end" on the right
+				- Keep the map simple (no more than 20 steps)
+				- Ask for help to make sure the map is correct
+				- [[Z: Solve the surface first]]
+					- Answer and work on the surface level or higher level issues before investing too much time on unneeded details of the deeper issues
+					- [[prioritize]] your problems first
+				- Generate [[sprint]] questions
+					- [[Z: Form questions and answers that will expose assumptions and biases]]
+						- Example: Q: To reach new customers, what has to be true? A:  Will Customers trust our expertise?
+					- What question do we want to answer in this sprint?
+					- What has to be true to meet our end goal?
+					- What might the future look like, what has to happen to accommodate our [[vision]] of the [[future]].
+				- [[When working on a project, do so with the end in mind]]
+					- Define what the end product should be and ask your team questions based on what the end vision is
+						- Example: "More patients enrolled in clinical trials"
+					- Set [[long-term goals ]] #[[goal setting]]
+					- Apply [[Decision Making]] models
+					- [[P: Applying mental models to decision making]]
+			- Find a target for your sprint from your notes/maps
+				- Who is the most critical customer and what is the critical moment for their experience
+		- Tuesday - Create possible solutions
+		- Wednesday - Turn ideas into testable solutions. Decide on the best solution.
+		- Thursday - Create a testable hypothesis
+		- Friday - Test your hypothesis
+	- Use sprints for big value creation problems
+		- Invest your resources and time in solving a problem that will create the most value
+	- Convincing [product owners]([[product owner]]) of [[agile]]
+		- Create buy-in with the [[product owner]] by asking what big problem should be solved
+		- Emphasize the amount of progress achieved in just a week.
+			- A real prototype (though limited in scope) will be developed by the end of the sprint
+		- It is an experiment and a short term comittment
+		- Explain the benefits and tradeoffs
+			- Show the meetings and priorities that will be missed due to the sprint
+		- Be honest on the [[scope]] of the sprint
+			- Instead of doing ok on many things, the sprint members will deliver one excellent thing
+	- Limit the size of the [[sprint team]] to around seven
+		- Possible group members to choose for a [[sprints]]
+			- Decider (product owner)
+			- Finance
+			- Marketing
+			- customer
+			- tech/logistics
+			- design
+			- troublemakers - people who would make noise if they were not included

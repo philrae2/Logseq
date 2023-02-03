@@ -1,0 +1,40 @@
+- Considerations
+  collapsed:: true
+	- Use Systems Thinking to Create a Map of the Problem Space
+		- Peripheral
+			- Related Projects
+				- Analysis Projects to support justification or guide our project
+				- Technology Changes
+				- Other products in development or developed
+			- Guidances
+			- Organizational change
+			- Workflows
+			- Resource Performance
+				- Contractor
+				- FTE
+		- Upstream
+			- Leadership prioritizations - competing prioritizations
+			- Funding sources - one year project or need for continuous funding
+			- Technology Changes
+			- Workflows
+			- Higher Level Organizations
+			- Regulatory Changes
+		- Downstream
+			- Platforms and other IT solutions
+			- Affected business and technology partners
+- Control Documents
+  collapsed:: true
+	- [[Decision Matrix]] - Create an Eisenhower matrix to list all variables or considerations
+	- Risk and Issue Tracker
+		- Have early alarm signals that help identify telltale signs that your project is in trouble
+	- Product Vision - Have a clear understanding of foundational idea where you want to be. Not all the details have to be in place, you may not even have planning documents, but the main foundational ideas has to be in place. The less capable the team the more documentation and processes needs to happen.
+- Prioritizations of Actions
+	- Fully Understand the Problem
+		- Create maps, value trees, flowcharts, and diagrams
+		- Understand the customer values
+	- What can you do by yourself?
+	- What has to be done now?
+	- Find the critical path
+- Resources
+	- [Wardley Maps](https://miro.com/blog/wardley-maps-whiteboard-canvas/)
+	- [[Bulletproof Problem Solving]]

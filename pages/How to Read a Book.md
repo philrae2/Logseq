@@ -1,0 +1,85 @@
+---
+title: How to Read a Book
+---
+
+- Course
+	- Metadata
+		- Author:: [[Shane Parrish]]
+		- Tags:: #learning #knowledge #reading #[[Critical Thinking]]
+		- Status:: #reading #[[📥inbox]]
+		- Source::
+- Ethos of reading
+	- You’re better off putting a lot of energy into a few amazing books than a little energy into many.
+		- Brings deeper understanding than knowing shallow knowledge.
+	- Some books demand to be read in their entirety. Most don’t. It’s your job to decide.
+		- It's okay to stop reading a book. Be selective about what you really want to go deeper into knowledge you are truly passionate about.
+	- [[Active engagement is key to reading for understanding]].
+		- Exactly how is less important.
+	- Always be skeptical. It’s okay (even good) to disagree with what you’re reading. #question #validate
+	- Great leaps in understanding come from imagined conversation between authors
+- [[Z: Choose your book reading competitively]]
+  collapsed:: true
+	- Your time is limited, there is an opportunity cost.
+	- Focus your attention only on amazing books.
+	- Are books the best medium to consume your information?
+	- [[Z: Find out the most topics you're most interested in.]]
+		- Pursue topics that are most curious to you.
+		- What books are alignment with your goals.
+	- It's easier to filter out bad books than it is to find a great book.
+	- Filter your list of books:
+		- by the person who recommending the book.
+		- by age (if the book has been time tested)
+- Scan read your books to decide if you should read the whole books
+  collapsed:: true
+	- Decide if you can read only parts of the book
+	- Create a map of the book
+		- Identify the concept
+			- First Read(very quick skim) 5-10 minutes
+				- The goal of the quick skim is to understand what and how the book would teach you.
+			- Superficially read (30 minutes)
+				- Read the introduction in full, read subtitles, 1st and last paragraphs of chapters, read the summary at the end
+		- [[Z: Understand the book's argument]]
+			- Try to figure out the high overview of the book
+				- What is the author trying to prove
+				- How does the author shape the his argument
+				- Do you agree with the presented idea in principle
+				- What are the author's bias
+				- What do you already know about the topic?
+				- What don't you understand of the argument or topic presented.
+		- Identify the Areas of Focus
+			- Skip and skim sections that you already know or doesn't interest you
+- [[Z: Read your book analytically]]
+	- **It's more important to absorb more information than to read more books. **
+		- [[Z: Engage with what you read]]
+			- Be [[skeptical]] with what you read
+				- Have a [[dialogue]] with what the author is arguing for.
+				- The better the writer the more you should be skeptical because it can be easy to be lulled into their narrative and writing and dropping your questioning mind.
+			- Seek out [[biases]], yours and the authors
+			- Read for information and question conclusions
+			- Constantly ask questions with what you already know and if it conflicts
+			- Take notes when moved: #[[Note taking]]
+				- Write down questions
+				- What are your doubts
+				- What are connections to ideas you already know
+				- Create an outline of the argument being presented
+		- [[Z: Analyze What You've Read]]
+			- Create a written piece on what you've learned #teach to understand
+				- The Feynman Technique #[[📥inbox]]
+					- Explain the idea to yourself in writing to test your understanding, memory and explanation.
+			- Do I agree with what the author stated?
+				- Are conclusion accurate?
+				- Are the conclusions biased?
+				- Is there something missing?
+				- Do the facts support the conclusion?
+	- Take a step away from the Book
+		- Taking a break from the book will help make [[connections]] with existing ideas
+	- After taking a break, pick up the book and reflect on the book
+		- Do I see the book the same way?
+		- What connections are new to me?
+		- Can I explain the big ideas simply?
+- Read more than one source on a subject on concepts that you want to understand deeply [[Syntopical Reading]]
+	- Read the books at the same time
+	- Time Invested in syntopical reading is exponential
+		- Generates deep understanding
+		- Considered multiple opinions and perspective
+		- Recognize when narrative is covering up for faulty logic or covering facts

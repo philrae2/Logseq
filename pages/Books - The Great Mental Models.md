@@ -1,0 +1,287 @@
+---
+title: Books - The Great Mental Models
+---
+
+- Author:: [[Shane Parrish]]
+- Tags:: [[Mental Models]] [[Critical Thinking]]
+- Status:: #reading #[[📥inbox]]
+- Source::
+- Notes
+	- Q: You only think you know, as a matter of fact. And most of your actions are based on incomplete knowledge and you really don't know what it is all about, or what the purpose of the world is, or know a great deal of other things. It is possible to live and not know. - Richard Feynman
+	- [[Problem Solving]]
+		- Thinking better isn't about being a genius. It is about the using the right tools and [frameworks]([[Framework]]) and processes to uncover reality and discovering the real truth.
+		- Simple problems won't need as many diverse perspectives to reveal solutions.
+		- The more complex the problem we are solving, the more mental models (lenses) at our disposal the more possible solutions are for our discovery.
+		- ^^Solve problems in a [multidisciplinary](#Multidisciplinary) way by employing various mental models^^. Attack the problem through various viewpoints / angles
+	- [[Mental Models]]
+		- A framework that interprets how something works 
+		  id:: 2185f475-b744-4cfb-9da9-6dbcfeeb1f90
+		- [[Why mental models are important.]]
+			- They can shape how we think, understand, and form our beliefs.
+			- They are largely subconscious but they affect how we infer causality, match patterns, and draw analogies.
+			- They influence how we think and reason.
+		- [[Why utilize mental models?]]
+			- Mental models can help us minimize risk by introducing us to the varied perspectives to view a problem.
+			- Mental models can reveal the forces at play and helps understand the possible consequences.
+			- ^^The more varied perspectives and views we can employ from mental models the more solutions will present themselves. ^^
+		- You need a lattice of mental models to hang your knowledge on to make them usable by allowing a framework to connect your knowledge
+	- [[understanding]]
+		- ^^The quality of our [[understanding]] is dependent on how true our interpretation of reality and facts are.^^
+		- The further away our [[knowledge]] is from truth, the less we truly understand.
+		- To improve our understanding we always have to update and refresh our [[knowledge]]
+		- ^^[[Testing]] our knowledge and understanding also improves them^^
+			- We need to be proactive in learning and attaining feedback of our models to improve them
+			- ((c7e56f36-c769-43f4-9264-3448cbe91427))
+		- Failures to update our [knowledge]([[knowledge]])
+			- Not having the right perspective or vantage point
+				- **We have a hard time seeing the system we are in**
+				- We must be open to other [perspectives](perspective) to be able to see our own
+				- We can increase our [[knowledge]] and come closer to the truth of reality by gaining [insights]([[Insight]]) from others
+			- [[Ego]]-induced denial
+				- We are too invested in our opinions of ourselves to value the opinions of others to updated our beliefs of reality.
+					- This mindset can lead to [ignorance]([[ignorance]])
+				- We are too afraid of sharing our ideas, that they may lead to [failure]([[failure]])
+				- We are afraid to learn and admit that we don't know enough
+				- We are too [passive](#Passive) thinking and that things just happened to us, instead of being aware and proactive to prevent negative forces from affecting our lives
+				- Without [reflection](#Reflection) we can't learn
+			- Distance from the consequences of our decisions
+				- We are less likely to update our current view the farther away we are from the consequences of our decisions
+	- Using Mental Models
+		- Use mental models intentionaly
+		- You may not pick the right ones all the time, so reflect and record on your application experiences
+	- [[Abstraction]]
+		- Abstractions helps us learn and navigate the complexities of our reality.
+			- For example when we read the news, we are consuming an abstraction of that story through the author.
+			- **The process of abstraction will necessary lead to loss of specific and relevant details**
+				- **We must be aware and question the validity of the abstraction we are consuming**
+			- We have to be aware that the abstraction may not reflect the [[reality]]
+			- We shouldn't mistake the abstraction as reflecting the real thing
+	- Q: What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others. - Aristotle [[Tragedy of the common]]
+	  id:: 4cbe727a-ecae-4318-82c5-0bee69fcfcfd
+		- When there is a commonly [[shared]] [[resource]], every user [[benefits]] from its use, but share the costs of its [[abuse]] with everyone. Therefore there is a very weak [[feedback]] from the condition of the resource to the decisions of the resource users. The [[consequence]] is [[overuse]] of the resource, until it becomes unavailable to anyone.
+		- Three ways to avoid the tragedy of the commons
+			- [[Educate]] and exhort people to see the consequences of unrestrained use of the commons
+			- [[Privatize]] the commons. Divide it up so that each person reaps the consequences of his or her own actions
+			- [[Regulate]] the commons.
+	- How to use maps or models as accurately as possible
+		- Reality is the ultimate update
+			- **We should updates our maps/models based on our experiences**
+				- Create [feedback loops]([[feedback loop]]) to gather information to update your models/maps
+				  id:: c7e56f36-c769-43f4-9264-3448cbe91427
+			- We should be aware that a map is created and stuck in time without updates.
+				- We can either update the map to keep ti relevant or possibly reject the map if it no longer serves its purpose
+		- Consider the cartographer
+			- Maps and models are built with biases, values, standards, and limitations of their creators
+			- Ask yourself what the creator was trying to achieve, what was their motivation
+		- Maps can [[influence]] territories
+			- Faith in a model can influence decision makers to conform reality into the model
+			- Maps are necessarily flawed due to a reduction of reality
+	- [[Circle of Competence]] #knowledge
+		- **Be humble and be aware of what you know and what you don't know**
+			- ((db7c3f82-e9c0-400c-a561-d91bcb8c5077))
+		- Be aware of how much knowledge there is a field
+		- There is no shortcut to understanding and circle of competence
+			- Building a circle of competence takes years of experience (making mistakes, practicing activities and testing methods of practice and thoughts) #[[career capital]]
+		- ^^You should update your circle of competence regularly^^
+			- take on different projects from different fields to build a valuable and unique skill set
+		- Three key practices to maintaining and building your circle of competence
+			- Curiosity and a desire to learn
+				- Learning on your own (experience and reflection) is slow
+				- **Learning from others is much more productive**
+			- [[Monitoring ]]
+				- You need to monitor the areas which you have or want a circle of competence.
+				- We can have an [[overconfidence]] problem due to a lack of honest [[self-reporting]]
+					- [Ego]([[Ego]]) is a powerful enemy to better understanding of reality
+				- [[P: Keep a journal chronicling your decisions and evaluate their outcomes based on what you were trying to achieve]] #feedback
+					- Keep track of what went wrong
+					- What went well
+					- What can I improve
+					- Monitoring uncovers patterns in your [decision making]([[Decision Making]])
+			- [[feedback]]
+				- **Solicit external feedback from others**
+					- Show your work for comments
+					- When asking for feedback form questions to probe the limits of their circle of competence
+				- ^^It is difficult to maintain a circle of confidence without feedback from others^^
+	- The problems of [incentives](Incentive)
+		- When receiving advice from someone be aware of their motivations and incentives fueling their advice
+	- [[Falsifiability]] or refutiability
+		- The capacity for a statement, theory or hypothesis to be contradicted by evidence. For example, the statement "All swans are white" is falsifiable because one can observe that black swans exist."
+		- Applying falsifiability to theories helps us test which theories are more robust.
+		- If they can't ever be proven false because we have no way to test, then the best we can do is guess at the probability of them being true.
+	- [[First Principles Thinking]] #[[Decision Making]]
+	  id:: f37350c7-6275-4f17-9918-5e70a0c4d1e5
+		- A first principle is an irreducible foundational [[proposition]] or [[assumption]] that stands alone. We cannot deduce a first principle from any other proposition or assumption.
+			- Example: A chef is operating in first principles when they [[understand]] the flavor profiles and combinations at a [[fundamental]] level they don't need a recipe. On the other hand, a cook would be lost without a recipe.
+		- Q: How to implement First Principles Thinking into our workflow?
+			- What would that look like?
+		- A tool help clarify complicated problems by studying the underlying facts or ideas from any assumptions based on them and then building something better from the remaining essentials.
+			- First Principles reasoning helps us remove [[assumption]]s and conventions to expose only the essentials.
+				- ^^Don't make any assumptions.^^
+					- Ask yourself what has been proven true.
+				- For example Elon Musk wanted to buy a rocket, but it was priced at $65 million.
+					- Using First Principles Thinking, Elon broke down the pricing of the materials to build a rocket and created a company that would buy the raw materials to build the rocket himself.
+					- He found out the price was cheaper if he built the rocket himself. [link](https://jamesclear.com/first-principles)
+		- First principles thinking teaches us to break down the complex into simpler pieces in order to test our assumptions for us to reconstruct our knowledge of it.  #blck:red
+			- This leads us to question and challenge the status quo.
+			- Much of [[knowledge]] is based on [[authority]] figures and our deferment of our thinking to theirs. We believe something is [[true]] because an authority figure said so.
+				- Changing people's minds and to acknowledge the [[change]] in the environment is difficult when the information is in [[conflict]] with the very processes and information that caused so much [[success]].
+				- We need to learn to [[deconstruct]] information and its [[context]], [[test [[assumption]]s]], and [[reconstruct]] it so we are not trapped by other's truths and authority.
+		- Establishing First Principles Thinking
+			- [[Socratic Thinking]] to cut through the [[Dogma]] and [[Shared Beliefs]]
+			  id:: 39fe96a2-4072-4e95-9974-127c2fc0c63e
+				- 1. Clarifying your thinking and explaining the origins of your ideas.
+					- Why do I think this?
+					- What exactly do I think?
+				- 2. Challenging assumptions
+					- How do I know this is true?
+					- What if I thought the opposite?
+				- 3. Look for evidence.
+					- How can I back this up?
+					- What are the sources?
+				- 4. Considering alternative perspectives.
+					- What might others think?
+					- How do I know I am correct?
+				- 5. Examine the consequences and implications.
+					- What if I am wrong?
+					- What are the consequences if I am?
+				- 6. Questioning the original questions.
+					- Why did I think that?
+					- Was I correct?
+					- What conclusions can I draw from the reasoning process?
+			- [[The Five Whys]] #[[Decision Making]]
+			  id:: 8f0a32cd-2fef-4509-82fc-195b902e44c5
+				- The goal of asking why questions it arrive on a "what" or "how".
+				- The questions are asked to systematically break down a statement or concept so we can discern between assumption and reliable knowledge.
+				- The goal is to achieve a falsifiable statement or fact.
+			- If we seek to improve something we need to know why it is successful or not.
+				- We need to be aware of what principles, methodologies, and processes we employ to make sure we understand them and avoid blindly following the map maker.
+					- The creators' rationales for their tools may not align with our own goals.
+		- Employing [[First Principles Thinking into your [[Daily Life]]]]
+			- We need to stop letting others, especially [[authority figure]]s and [[expert]]s in our lives, to set the [[boundaries]] of our environment.  #blck:yellow
+				- When we let other people (listen to them, [[defer]] to them) what is possible or what is the best way to do something, we [[outsource]] our [[thinking]] to someone else.
+			- We need to be aware that [[[[improvement]] is not enough, we need to move beyond the shadows of the people who create the things we are iteratively improving to creating something better]] when we see the possibilities for something greater.
+				- Be [[proactive]] and shed your [[fear]]s of [[failure]] and [[criticism]]s to move beyond [[copying]] existing processes, systems, and tools. Be [[innovative]] and [[experiment]] to create your own [[framework]]s and [[mental model]]s
+			- [[Analogies]] are useful and beneficial to understanding and communicate complex problems, but using them has a cost.
+				- Analogies [[limit]] our beliefs about what's possible and bounds us to the [[constraint]]s of the whatever analogy we are using, and allows people to argue without ever exposing our (faulty) thinking. #[[Group [[Bounded Awareness]]]]
+				- Analogies makes as the same as other people who see the problem the same way. We become blind to other possibilities when we let others [[frame]] the question or problem.
+				- First-principles thinking clears the clutter of what we’ve told ourselves and allows us to rebuild from the ground up. Sure, it’s a lot of work, but that’s why so few people are willing to do it. It’s also why the rewards for filling the chasm between possible and incremental improvement tend to be non-linear.
+	- [[Thought Experiments]]
+		- A tool to investigate the nature of things through imagination
+		- Steps for running a thought expirement
+			- Ask a question
+			- Conduct background reserch
+			- Construct hypothesis
+			- Test with (thought) expirements
+			- Analyze outcomes and draw conclusion
+			- Compare to hypothesis and adjust accordingly (new question, etc)
+		- Used by [[Albert Einstein]] to form his second major theory of general theory of relativity
+			- Thought experiments allowed him to imagine physical impossibilities
+		- Thought experiments tell you the limits of what you know and the lmits of what you should attempt.
+		- In order to improve our decision-making and increase our chances of success, we must be willing to probe all of the possibilities we can think of. [[Decision Making]]
+	- [[Second-Order Thinking]]
+		- The thinking farther ahead of the consequences from the original decision and thinking holistically.
+		- [[q: How do we implement second-order thinking in work?]] #[[🤔 Index-Questions]]
+		- It goes beyond the immediate actions, but secondary, tertiary consequences of the original action.
+		- Second-order thinking is useful at the following types of situations:
+			- Prioritizing long-term interests over immediate gains
+				- Example: Forgoing the taste of ice cream for our long-term health
+				- [[q: What does Second-order thinking look like in business?]] #[[🤔 Index-Questions]]
+				- Second-Order Thinking requires the passage of time and multiple interactions to see its results.
+					- Multiple interactions with people results in developing trust
+						- q: How can we use Second-Order Thinking to improve our relationships by building [trust](#Trust), [confidence](#Confidence) and [credibility](#Credibility) #[[🤔 Index-Questions]]
+				- Maximizing benefits takes time
+				- Second-Order Thinking may require suffering through immediate/short-term pain to realize long term [[happiness]] and success.
+					- This is helpful to not throw away solutions that at first glance may be painful, but in the long run lead to [[success]].
+			- Constructing effective arguments #communication
+				- Second-Order Thinking helps with anticipating future problems and averting challenges down the road
+				- Arguments are more [persuasive]([[Persuasion]]) and [[effective]] when we consider and verify the second-order effects
+			- Second-Order Thinking should be limited to evaluating the most like consequences and effects
+				- Avoid the [[Slippery Slope]] argument
+	- [[Probabilistic Thinking]]
+		- Estimating using mathematical or logical tools, the likelihood of any specific outcome happening
+		- Probability theory is useful in our world lacking perfect information
+		- [[Bayes's Theorem]]
+			- When we learn something new, this information should be interpreted in the context of what we already know about that subject.
+				- Based on the definition, this seems to be an unconscious and automatic process
+		- [[Conditional Probability]]
+			- The probability of an event occurring given that a previous event occured
+				- O: Conditional Probability is less obvious that Baye's Theorem, and worth incorporating into decision making process
+		- [[Fat-tail curves]]
+		  id:: c41c822c-8255-4504-be13-5b20c5010638
+			- Are similar to [[normal-curve distribution]] ([[bell curve]]) but there is a more likelihood of events at the tails happening.
+			  id:: dde90456-18fb-47d7-9dac-0b5c5cecd295
+			- For example: Stock markets can have rise and failures
+			  id:: 37d95b60-ed95-4479-babb-b66f7f1abc4c
+				- ![Image for post](https://miro.medium.com/max/2560/0*znHLS0tuFbfQgD8W.png)
+				  id:: ce29fe44-87f2-4351-bc0e-7bbc7923c73e
+				- Also the extremes at the end can be exponential. Height of a man vs wealth gap
+				  id:: 430fe80f-1647-4aa4-bf08-45f7cc2b448d
+				- Terrorist attack = fat tail vs Slipping, falling and cracking your head = normal curve
+				  id:: 41d50b4f-5fdb-42d8-89ca-d959fc4a68a9
+			- Categorize the situation if it is a normal vs fat tail and properly prepare given the circumstances
+			  id:: 4f69a7c0-da69-4f69-8aac-29374618eb33
+		- [Antifragile](#antifragile)
+			- The quality of something to thrive and benefit under stressors and unpredictability
+			- For antifragile situations, like the stock market, it's best to prepare for the possibilities of the outcomes rather than predict them.
+			- How can we use antifragile?
+				- We can seek out positive opportunities ([[upside optionality]]), rather than being complacent which guarantees nothing will happen.
+					- For example going to a party, you may meet someone, the worst thing is nothing or you can stay home and guarantee that you won't meet anyone
+				- We can also prepare for antifragile events by failing properly.
+					- Never take a risk that will completely destroy you.
+					- Develop personal [[resilience]] to learn from your [failures]([[failure]]) #learning
+		- For [probabilistic thinking]([[Probabilistic Thinking]]) consider the quality, relevancy and timeliness of the information you are basing your decisions on.
+	- [[causation]] vs [[correlation]]
+		- Know if factors are merely correlated (low correlation factor, related) or a causal variable
+		- Trying to invert claims can help determine with true causation or just correlation
+			- Does alcohol consumption lead to worse academic outcomes for kids or does poor academic outcome leads to alcoholism in parents
+		- [[Regression to the Mean]]
+			- The phenomena where outliers (worst or best), eventually appear to move to the middle without an intervening variable. The worst will appear to get better and the best appear to get worst.
+			- For example, depressed children given candy improve significantly over a 3-month period.
+				- It is a mistake to think that candy was a causal factor since, the most depressed children will have improved at some point with any intervention, and the least depressed will also get worse
+				- Creating a control group can help differentiate whether a factor is a true causal variable
+	- [[Inversion]]
+		- As a thinking tool, we approach the problem the opposite end of the natural starting point
+		- Is this similar to the concept of "start with the end in mind"?
+		- Allows to see reality from multiple angles
+		- Two approaches for Inversion
+			- Start with the assumption that the question/problem is true or false, then show what else have to be true for that end to come about
+			- Instead of thinking about your goal, think of the things you want to avoid and see what options are left
+		- Example: Marketing cigarettes to women in the 1920s when smoking was perceived to be a manly habit.
+			- Inversion led to the solution, by asking what would society have or changed to promote women smoking (Bernays)
+				- Promote the concept smoking as a diet, slimming aid through doctors and medical professionals
+				- Add cigarettes to the desert menu in restaurants
+				- Add cigarette holders to new homes being built
+				- Create cigarette holders as household items
+				- Cigarette smoking as a symbol of women's independence
+		- Steps for Inversion
+			- Identify the problem
+			- Define your objective
+			- Identify the forces that support change towards your objective
+			- Use inversion to identify the forces that impede change towards the objective (remove obstacles)
+			  id:: d7d54e64-3f0b-4b39-8998-6bc5039683c5
+			- Strategize the solution that may involve augmenting supporting changes and reduction of the impeding factors
+			  id:: b95406ad-3a74-4826-b44f-d4d9e0f07055
+	- [[Occam's Razor]]
+		- The simpler explanations for a phenomena are more likely to be true over complex ones
+			- Don't waste time disproving complex scenarios when you can be more confident in basing decisions on the explanations with the least amount of moving parts
+			  id:: dd2b913b-85b1-49d9-b1e1-2a975e39674c
+			- We should prefer the simplest explation
+				- They are easier to falsify
+				- Simpler solutions are easier to understand
+		- If all else is equal, meaning that two competing models are equally capable of explaining a phenomena, it is more likely the simple solution suffices
+		- Choosing the simple solution increases efficiency--it preserves our resources and time
+		  id:: fce26e89-01a5-444e-a99a-763ac4e31194
+		- Some things are just complex and we must deal with them as they are
+			- Do not introduce artificial simplicity
+			- An explanation is no longer irreducibly simple if it can no longer explain fully or provide a full understanding
+	- [[Hanlon's Razor]]
+		- We should not attribute to malice that which can be more easily explained by stupidity
+		- A reminder that people make mistakes
+		- The "[[Fallacy of Conjunction]]"
+			- We're deeply effected by vivid, available evidence, to a degree that we're willing to make judgments that violate simple logic. 
+			  id:: 5d4ce41b-4b0b-41ad-9609-af8faa3aa105
+			- When we see something we don't like happen and which seems wrong, we assume it's intentional, but it's more likely that it's completely unintentional
+		- When we assume has malicious intents towards us, we take actions to defend ourselves.
+			- We become blind to the opportunities to take advantage  in this defensive state.
+			- We fail to see the bigger picture
+-

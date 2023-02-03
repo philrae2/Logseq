@@ -1,0 +1,67 @@
+---
+title: Article: Career Moats 101
+---
+
+- **tags:**  #[[Career Development]] #[[Career Moat]]
+- **author:**
+- **status:** #[[📥inbox]]
+- **link:** [Career Moats 101 - Commonplace - The Commoncog Blog](https://commoncog.com/blog/career-moats-101/)
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- A ^^**career moat**^^ is an individual’s ability to maintain competitive advantages over your competition (say, in the job market) in order to protect your long term prospects, your employability, and your ability to generate sufficient financial returns to support the life you want to live. Just like a medieval castle, the moat serves to protect those inside the fortress and their riches from outsiders.
+	- In a sentence, then, a career moat is worth building because it buys you time when your job or career is threatened by an emerging industry change.
+	- What Does a Career Moat Look Like?
+		- It looks like this: you aren't that worried about finding work. You know that if you are ever laid off, you may easily find another job, because you possess ‘career capital’ — that is, skills that are relatively rare, and are in sufficient demand to guarantee a base level of compensation to support you and yours.
+		- To put this another way, __job security is tied to your ability to get your next job, not keep your current one.__
+		- The ‘moat’ in ‘career moat’ comes from the safety this knowledge buys you.
+	- As Cal Newport [puts it](https://commoncog.com/blog/so-good-they-cant-ignore-you/#2adoptthecraftsmanmindset), if you focus your efforts on gaining rare & valuable skills in the first part of your career, you may choose to trade it for autonomy or purpose later.
+	- What Does a Career Moat Consist Of?
+		- Career moats come in many forms. ^^One way you can build a career moat is to be the ‘best’ in a specific, valuable field.^^
+			- Cal Newport further extends this idea in his book __[So Good They Can't Ignore You](https://commoncog.com/blog/so-good-they-cant-ignore-you/)__; he gives the example of television writers, standup artists, and musicians as careers paths where moats are built by being the best in their respective skill markets.
+		- ^^The other way of thinking about career moats is that you have a rare and valuable __combination__ of skills.^^ I examined this path in detail in my blog post __[If You Want a Great Career, Go After Rare & Valuable Skills](https://commoncog.com/blog/if-you-want-a-great-career-go-after-rare-valuable-skills/)__. I gave three examples in that post (but not exhaustive list):
+			- A skillset can be rare and valuable if the **path** to your unique combination of valuable skills is **opaque**. I gave an example of my friend in the telecommunications industry — his role requires him to be proficient in a broad set of rather unique skills, thus pushing up the lucrativeness of his specific job. (He has, to date, been poached twice).
+			- A skillset can also be rare and valuable if the skillset is **unattractive but valuable**. The rareness then comes from the majority of people being repulsed by the demands of the job. I wrote that COBOL programmers have such a career moat — many old banking systems are written in COBOL; not many new programmers know COBOL, therefore old-school COBOL programmers are sufficiently protected by this scarcity. This also happens to be my current career moat — as I documented in [this post](https://commoncog.com/blog/building-career-moats-a-confession/), my rare and valuable skillset is engineering management in uncomfortable, third-world countries. __(Which is valuable at the moment only because of the existing startup dynamics of South East Asia).__
+			- Last, but not least, a skillset can be rare and valuable if you specialise in it **__before__ it becomes clear that it is valuable**. I gave the example of my friend who has staked out a position in AR/VR (Augmented Reality/Virtual Reality) user interface design; her bet is that AR and VR will become important computing interfaces in the near future, and she intends to be one of the leading practitioners by the time this happens. Such designers also exist in other fields — I am reminded of [Jeffrey Zeldman,](https://en.wikipedia.org/wiki/Jeffrey_Zeldman) who made a name pushing web design standards back in the day, and [Jakob Nielsen](https://en.wikipedia.org/wiki/Jakob_Nielsen_%28usability_consultant%29), who made a name pushing web usability research. Both of them established themselves before it was clear that their fields were important and valuable domains.
+		- **When evaluating a potential career move, this framework suggests that you ask:**
+		  id:: 2c596eb9-38f9-4c73-976c-9f753d9e1793
+			- Will this career move teach me skills that are rare and valuable?
+				- What skills are those, and how do I know that I will learn them?
+			- Is this skillset rare because the path to acquire it is opaque?
+			- Is it rare because it isn't yet clear that it is valuable? (Could an impending change cause it to grow in value over the next decade?)
+			- Is it rare because it is unsexy and painful despite being valuable?
+			- What are successful examples of people who have rare and valuable skills?
+			- If my goal is to be amongst the best in a skill tree, how confident am I that such a move will move me further along my chosen skill tree?
+			  id:: d9de93cf-dbbc-47fb-9a10-43bc266cbdf0
+	- How Does One Build a Career Moat?
+		- The day-to-day reality of building a career moat is the same as building expertise in any field. These are relatively well-known approaches:
+			- Pursue [rigorous, informed trial and error](https://commoncog.com/blog/the-superiority-of-trial-error/). Trial and error dominates in situations where a body of knowledge does not exist, such as in business and in life. This is [because it lets reality be the teacher](https://commoncog.com/blog/chinese-businessmen-let-reality-be-the-teacher/).
+			- Build the capacity for [doing Deep Work](https://commoncog.com/blog/deep-work/) in your life.
+			- Screw motivation, [build habits](https://commoncog.com/blog/the-power-of-habit/). I recommend Stanford professor BJ Fogg's [Tiny Habits course](https://commoncog.com/blog/a-review-of-bj-foggs-tiny-habits/).
+			- When pursuing trial and error, remain in the game. Practice [basic financial hygiene](https://commoncog.com/blog/is-the-fire-movement-a-good-idea/).
+			- Practice dominates because success is determined by tacit knowledge, what the Ancient Greeks called __technê__. (This is a truism — if success can be determined via explicit knowledge, we can all become successful through reading alone). Self-help is [better understood through the lens of technê](https://commoncog.com/blog/how-to-read-self-help/), which then leads to [certain surprising implications about reading self-help](https://commoncog.com/blog/surprising-implications-of-self-help-as-art/).
+			- Beware writers who [propose to teach you mental models without being practitioners themselves](https://commoncog.com/blog/the-mental-model-fallacy/). (I call this the ‘Mental Model Fallacy’).
+			- Understand [how humans learn](https://commoncog.com/blog/teaching-tech-together/). Know that [you can't teach what they aren't ready to learn](https://commoncog.com/blog/you-cant-teach-what-they-arent-ready-to-know/).
+			- When pursuing deliberate practice, recognise the [difficulty of creating a DP-inspired training program](https://commoncog.com/blog/the-problems-with-deliberate-practice/). Recognise the differences between [naive practice, purposeful practice, and deliberate practice](https://commoncog.com/blog/peak-book-summary/). Pursue purposeful practice in domains where no established pedagogy exists.
+			- When reading self help, judge the advice according to [believability](https://commoncog.com/blog/believability/) and [usefulness](https://commoncog.com/blog/optimise-for-usefulness/). Keep in mind the [hierarchy of practical evidence](https://commoncog.com/blog/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/). Evaluate advice according to [the domain the author inhabits](https://commoncog.com/blog/the-dangers-of-treating-ideas-from-finance-as-generalised-self-help/).
+			- Heed the [academic literature around burnout](https://commoncog.com/blog/nuanced-take-on-preventing-burnout/).
+			- [Read books](https://commoncog.com/blog/reading-as-the-root-of-career-planning/) to establish context for industry changes. Categorise non-fiction books [according to these three categories](https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/); read quicker using [these tips](https://commoncog.com/blog/the-ultimate-guide-to-reading-a-book-a-week-for-your-career/).
+			- If you are in a field that rewards the pursuit of side projects, use the techniques outlined in Amy Hoy's __[Just F*cking Ship](https://commoncog.com/blog/just-f-cking-ship/)__ to maintain a steady cadence of releases.
+			- Treat career moves as [bets](https://commoncog.com/blog/time-allocation-as-capital-allocation/). When starting speculative projects, evaluate sub-tasks by [information rate](https://commoncog.com/blog/a-better-way-to-allocate-career-time/).
+			- Respect the human tendency to generate narratives, and [use that to learn skills](https://commoncog.com/blog/paying-attention-to-stories-for-skill-extraction/) from more experienced people. When dealing with organisational politics, [beware the simple story](https://commoncog.com/blog/organisational-politics-beware-the-simple-story/). Ask questions [the right way](https://commoncog.com/blog/how-to-ask-questions/), so you create a narrative of competence to present to your boss and colleagues.
+	- Strategic Inflection Points
+		- How do you evaluate emerging career threats?
+		- In his 1995 book __[Only The Paranoid Survive](https://commoncog.com/blog/only-the-paranoid-survive/)__, Andy Grove wrote that it is the individual's responsibility to look out for ‘strategic inflection points’ — events that can kill businesses and careers — and to prepare for them well in advance.
+		- ![Diagram of the strategic inflection curve](https://commoncog.com/blog/content/images/2018/05/Paper.Commonplace.3.png)
+		- Grove lays out a framework for thinking about strategic inflection points in his book, drawn from his experience running Intel, which I summarised in [this post](https://commoncog.com/blog/only-the-paranoid-survive/). In a nutshell:
+			- Don't fall for the trap of the bad first version when evaluating an emerging technology. Everyone laughed at the internet in the decade that it first emerged ... until it changed their careers, or disrupted their industries. This sounds trite and obvious in retrospect, but ask yourself: are you laughing at emerging technologies right now? Are you laughing at virtual reality, or augmented reality, or blockchain applications? If so, how do you know that you are right?
+			- Analyse the coming change by running through potential changes to the following relationships in your industry: does this emerging change affect the relationship between your company and its suppliers? Its customers? Its competitors? Its position with regard to new entrants? Does it affect the relationship between your company's product/service with its complementors or its substitutes?
+			- ![6 factors that affect a business](https://commoncog.com/blog/content/images/2018/05/6factors_opt.png)
+				- Store the observations you have of these six factors at the back of your head, and keep an eye on emerging developments as you go about your career. Update your observations whenever new developments occur.
+		- I find Grove's approach to be far superior to other alternatives. You don't have to make accurate predictions of the future — you merely have to constantly update your knowledge of coming changes in a systematic, consistent way.
+- [[roam/comments]]
+	- [[October 12th, 2021]]
+		- [[philipr@posteo.net]]
+			- ((2c596eb9-38f9-4c73-976c-9f753d9e1793))
+				- I think the evaluation of career moves is different when working for a government Agency as the moves are often reversible and the skill sets can be very specific and rare that it no longer becomes transferrable.
+			- ((d9de93cf-dbbc-47fb-9a10-43bc266cbdf0))
+				- What do I want to be the best at?

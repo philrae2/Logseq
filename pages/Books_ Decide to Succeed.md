@@ -1,0 +1,103 @@
+---
+title: Books: Decide to Succeed
+---
+
+- Metadata:
+  author: [Hans Læssøe](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Hans+L%C3%A6ss%C3%B8e&text=Hans+L%C3%A6ss%C3%B8e&sort=relevancerank&search-alias=books)
+  tags: #[[Decision Making]], #[[📥inbox]]
+- Notes:
+	- [[Decision Making]]
+		- Business and organizational decisions covers two elements:
+			- What will we do?
+			- ^^How do we do it?^^
+				- focus [[decision risk management]] on [[how]] to [[implement]] the decision
+		- [[decision risk management]] is a matter of systematically and effectively addressing [[uncertainty]], [[risk]], and [[opportunity]]
+			- As human beings we are [[biased]] to report a better-looking [[outcome]] by underestimating risks and uncertainty
+		- ^^Even though we only deal with about 10% of decisions that require consequential explicit consideration, even small decisions will be worth spending a few minutes asking^^ #[[problem statement]] #[[Define the problem]] #[[P - How to define a problem]]
+			- ^^what do we want to [[achieve]]?^^
+			  id:: af19ae4d-8d2d-493d-aa04-c37fc0ad8028
+			- ^^[[how]] will we do that or have it done?^^
+			  id:: af2aab9a-9072-4608-a7b7-f27f3605cb31
+			- ^^what may block or obstruct--is it [[viable]]?^^
+			  id:: 51dc91dc-8f9b-43df-8aac-1857fc4c8fcf
+	- [[targeting]]
+		- Before thinking about managing and [[risk managing]] a [[decision]] implementation--you need to define what your aim, purpose, is?
+			- **The more precise the target--the less risk of running astray, delivering the wrong thing, or nothing at all**
+			- ^^Have SMART targets^^
+				- **specific** - precise in what we want to achieve that is clear and easy to understand
+					- "improving customer service" is not specific and not helpful
+				- **measurable** - use clear defined metrics to measure to assess if the final outcome was a [[success]]
+				- **attractive **- the target must be describe in away that makes it attractive in order to drive enthusiasm and buy-in from the stakeholders
+				- **realistic **- the target is adjusted in connection with planning of the implementation and execution
+					- targets that are impossible will not gain much traction and actual performance may be worse that it could have been
+					- target which are a walk in the park will not gain attention that it needs and planning must compensate
+				- timed - we have to know when we finished and when to make the "after action review"
+				- example: "By end of next year, we wish to simplify processing of (whatever) by reducing needed number of steps from the current 8 to 5, and speed this up from the current throughput time of 3 weeks to 2 weeks and thereby free up resources for other tasks."
+				- ensure you know the target well enough to make the right [[decisions]]
+					- targets must be defined as SMART to be effective and directionally helpful for those working with the implementation/execution of the decision
+	- [[changing]] [[decisions]] and [[target]]s
+		- changing the target or [[scope]] leads to a new decision
+			- make sure to compensate by changing the planning, resource requirements, risk exposure, and update the decision document
+- Chapter 3 - Identification
+	- to [[ensure]] an adequately valid and realistic [[plan]], we need to build processes to address [[uncertainties]] of the plan.
+		- ^^[[identify]] all assumptions and [[define]] these in terms of [[ranges]] rather than single figure estimates ^^
+			- ((95606eba-d560-4287-be02-ed612ef884a4))
+				- ((0a966615-175c-45fc-8f26-9c2d73abbc74))
+				- ((4052b886-5d6c-47a4-8042-daecacd73462))
+					- ((4081bdb4-12c0-4e80-9fee-40a33d213a42))
+				- ((e91f5a00-0f8d-4cfb-815e-38ac4b046a14))
+				- ((e8ec06b0-6e5d-4390-a05f-a1ca94864e40))
+					- ((5b67ec82-a225-420c-afb0-9e858d861e8d))
+				- ((0aa00eac-c525-49eb-9a76-cb07867fe8ef))
+				- ((e5971590-2d70-4cfe-a62c-3498abd4ef80))
+				- ((9c369ee2-1b19-485d-8ba6-119a84668d8d))
+		- [[risk]]s and [[opportunities]] i.e., issues/events/developments which are not planned for need to be defined for both likelihood within a defined time frame and potential consequence range if it occurs
+			- the important consideration for identification is never rule anything out.
+	- conduct [[stakeholder analysis]] - anyone affected or interested in the outcome of the decisions
+		- create a map of stakeholders and consider the [[affect]]s and how they may [[support]] your project
+	- Create an [[assumption]]s document of the following:
+		- [[resource]] [[availability]] when you need them
+		- cost and timing of collaboration with [[external]] partners
+		- inter-project dependencies
+		- dependencies to other projects/initiatives/ and or operations and other decisions
+		- time allocated to each sub-task activity
+		- constraints your project maybe subject to
+		- (think of other [[assumption]]s that may be relevant to your project)
+- [[change management]]
+	- **address change management in your projects. Involve those who have to change due to the project in a timely manner. These are the people themselves and not the managers.**
+	- Risks and opportunities of change management
+		- purpose and value of the initiative is not understood nor accepted by those it affects
+		- training is neither adequate nor timely
+		- involved staff (end users) come up with ideas that significantly support the benefit of the project and are low-hanging fruits which were not seen earlier
+- keep in mind the [[upstream]] and [[downstream]] processes your project is [[interacting]] with
+	- ask the people affected for risks and opportunities
+- Consider [[PESTEL]] analysis
+	- political - issues related to political and regulatory changes
+	- environmental - risks and issues related to the environment
+	- societal
+	- technological
+	- economic
+	- legislative
+	- Consider also:
+	- market
+- ^^Think broadly - talk to people across organizations to leverage their [[Insight]]s^^
+	- look diligently at areas from where [[risk]]s and [[opportunities]] may emerge
+- Chapter - Analysis
+	- Once [[assumption]]s and [[risk]]s are identified outcomes need to be defined  in terms of ranges
+	- **There are two generic ways of gathering insights to assess uncertainty, a risk, or an opportunity**
+		- 1. We have relevant data available to make a fact-based analysis to inform our decision document
+		- 2. We do not have data to make a fact-based analysis to inform our decision document, so we need to rely on the quantitative assessment of subject matter experts
+		- **Avoid the "third" way of: we have no data, and hence we rely on qualitative assessments made by subject matter experts.**
+			- This approach is vague and inaccurate, that it does not constitute as a methodology
+			- ^^When we do have to  rely on [[subject matter expert]]s, know that their opinions are [[bias]]ed^^ #[[B: Judgment in Managerial Decision Making]] #[[Article: How not to be stupid]]
+			  id:: 20db5293-6dee-4beb-a1ee-4c8e0ec36655
+				- **If using opinions from SMEs consider getting a 3 point estimate of low, expected, and high**
+				- ^^**Options to lessen human biases:**^^
+					- 1. Use more than one expert
+					- 2. Rationale and challenge
+						- Ask for the assessment
+						- Ask for a narrative description of how the person got to that number
+						- Play the Devil's advocate and challenge the assessment. Challenge the range or ask for range of the outcome if not given.
+						- Discuss with and probe the expert to provide a well-reasoned assessment.
+					- 3. Wisdom of crowds
+						- crowd source the question and average the answers

@@ -1,0 +1,11 @@
+---
+title: Work Ideas
+---
+
+- Related: [[Work Projects]]
+- Work [[strategy]]
+	- ((f5f69899-ca1e-4b2e-857e-f4587e8697c7))
+- Project Management
+	- Consider [[antifragile]] development processes. How to make our business processes more antifragile.
+	- The more you add uncertainty into the project the more cost and time you add. (interdependencies, more teams, more oversight)
+	- The project is only as strong as its weakest link. Identify the weak parts or uncertain parts of the chain and create redundancy.

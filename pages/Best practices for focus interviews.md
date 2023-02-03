@@ -1,0 +1,9 @@
+- Pre-Interview Process
+	- Use the interview responses to test initial hypothesis
+	- Have an objective for holding the focus interviews
+	- Use the interviews as an opportunity to build allies for the engagement team
+	- Build the questionnaire around extracting the data/information needed to answer the primary question for the work stream and build the model
+	- Include ranking questions so that comparisons can be made between interviewees. Focus on collecting data for comparisons
+	- Order the questionnaire so that critical questions are asked before the time limit is reached
+- Post-Interview Process
+	- It is important to distribute the feedback in the form of summaries as quickly as possible to the rest of the team. Feedback from focus interviews is only effective if circulated immediately and shared by everyone to build a more complete picture of the organization.

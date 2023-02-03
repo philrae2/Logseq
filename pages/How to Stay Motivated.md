@@ -1,0 +1,6 @@
+- Thoughts
+	- ((3cd0330b-1653-4bfb-b473-631351122bb0))
+	- It’s more important to become good at something rare and valuable, and then invest the career capital this generates into the type of traits that make a job great.
+- Resources
+	- [[Books: So Good They Can't Fire You]]
+-

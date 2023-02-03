@@ -1,0 +1,82 @@
+---
+title: 📝Templates and Tags
+---
+
+- Meetings
+	- **tags:**
+	- **Questions **
+	- **Discussion**
+	- **Agreements Made**
+	- **Follow-up**
+	- **Next-steps**
+- [[Decision Journal]]
+- Color Blocks
+	- #blck:yellow
+	- #blck:grey
+	- #blck:blue
+	- #blck:green
+	- #blck:red
+- Articles
+	- Metadata
+		- Author::
+		  Tags::
+		  Status::
+		  Source::
+	- Full Text
+- Books
+	- Metadata
+		- Author::
+		- Tags::
+		- Status::
+		- Related Notes::
+		- Notes:
+- Presentation Tools
+	- [[Amazon Six-Pager]]
+	  id:: e56b910a-3d5d-4e9f-8b69-f3230c1774a3
+- [[🚧 Projects]]
+	- #[[Work Projects]]
+	- Keywords: 
+	  Areas:
+- Video
+	- Metadata
+		- Related Notes::
+		- Tags::
+		- Author::
+		- Source::
+- My-Zettelkasten
+	- Tags::
+	- Related Notes::
+	- Notes:
+- Tagging
+	- Daily
+		- [[Daily Review]]
+			- Ask someone else’s opinion before offering my own.
+			- [[Deliberate Practice]]
+				- Seek perfection and high standards
+				- Improve my writing
+				- Improve my thinking
+			- Reflect on how my emotions impacted my work (attitude, interactions with others,
+			    communication) at the end of the day.
+		- [[Daily Preview]]
+	- [[Weekly Review]]
+	- [[OBI]]
+		- #[[COR certification]]
+		- #[[Integrity Team]]
+		- #[[OBI Projects]]
+			- #[[Orange Book Project]]
+		- #[[OGD team]]
+		- #[[OM Implementation Team]]
+		- #[[Orange Book Implementation]]
+	- Status
+		- #toRead
+		- #[[📥inbox]]
+		- #SecondReview
+	- Types of Notes
+		- #[[Reference Notes]]
+		- #seedling
+		- #permanentNotes
+		- #[[Literature Notes]]
+	- Tags - Objects
+		- #elevating-others
+		- #innovativeThinking
+		- #seekingHappiness

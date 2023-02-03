@@ -1,0 +1,47 @@
+---
+title: Course: Argument Diagramming
+---
+
+- tags: #[[Critical Thinking]] #Courses
+- #[[Reference Notes]]
+	- Unit 1 - Course Introductions
+		- What is an Argument Diagram?
+			- The process of argument diagramming starts when we identify a text that we want to understand. This contains the Argument.
+				- The argument is something that we want to understand or evaluate.
+			- An [[argument]] is comprised of the conclusion and the premises that support it.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F4tjN-LTym7.png?alt=media&token=6cfae99f-c17d-4653-961b-b9c6da0de2ad)
+			- Generally the argument is surrounded by text to give context around it, explains important concepts, and describes how the premises are supposed to support the conclusion.
+				- One way to understand and evaluate the argument is to disentangle the argument from the text around it.
+					- We can use indicator words to help us determine which are the conclusion, premises and the argument itself.
+					- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Fbkerlz8eeV.png?alt=media&token=12d63bd1-28d9-4aa4-b708-9000cd854693)
+			-
+		- Argument Evaluation
+			- Assessing if the argument is good or bad.
+			- We determine if the premises are true and whether the premises support the conclusion
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F8G6CH7OOp-.png?alt=media&token=e83b378a-4ee4-4b59-abd7-1863a58e1064)
+			- We investigate the text, using indicators to determine which statements are premises and which is the conclusion, and how they work together. We can then represent the argument as a diagram, which is essentially a representation of our understanding of the argument in the text. Once we have the diagram, we can identify the questions we need to ask in order to evaluate the argument. The answers to those questions allow us to say whether the argument is good or bad.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FOzFs6gexqc.png?alt=media&token=8deb0482-6769-4f95-935a-d1cb5cab6f48)
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FlxRs-uobDB.png?alt=media&token=9935359b-c8d6-443a-aa37-c93564bee567)
+		- Examples:
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FQ-X-Tn4OIo.png?alt=media&token=e8510235-2920-47a4-8c40-c4eedc271de9)
+				- The support arguments support the same conclusion
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FPHkUndF2EF.png?alt=media&token=a620659e-9726-4fde-9987-c12d53a3aa58)
+				- This diagram is noticeably different from the diagrams above. Why? Recall that we noted above that Alexis was given 3 different reasons to believe her conclusion. That is, if one of the reasons were taken away—if, for instance, Char had bought Alexis’ ticket for her—she would still have good reasons to believe that she shouldn’t go out.
+				- Here, however, the two reasons that Dr. Jordan gave for her conclusion must work together to support the conclusion. In other words, if we took away the fact that “__All combinations of citric acid and water are electrolytes,__” then the fact that lemons contain this combination would not be a reason to believe that lemons contain electrolytes.
+		- Module 2: Statements and Conditional Statements
+			- A [[statement]] is a sentence that can either be true or false.
+				- example: __I received an A on the final paper in my introductory philosophy course.__
+			- A [[conditional statement]] is a statement that usually takes the form of if, then and is composed of an [[antecedent]] and [[consequent]]
+				- example: If you receive an A on the final paper, then you receive an A in the class.
+				- One thing to keep in mind about conditional statements is that they are not always presented in the “If [antecedent], then [consequent]" format. Often the “then” is omitted; sometimes it’s presented in a “[consequent], if [antecedent]” format; and sometimes it’s presented in a “[antecedent], only if [consequent]” format.
+					- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FitWvBKe_ut.png?alt=media&token=ba774e15-082a-420f-93c3-a7aadc113f90)
+			- [[argument]]: a set of statements, one of which is the conclusion, and the others are premises, where the premises are supposed to provide support the conclusion
+				- In other words, the conclusion asserted to be true on the basis of the premises; the premises are, ideally, reasons to believe that the conclusion is true.
+				- An argument can be good or bad based on
+					- 1. How well the premises support the conclusion and
+					- 2. the truth-value of the premises
+				- A [[premise]] of the argument is a statement the author contends supports another statement.
+				- The [[conclusion]] of an argument is a statement the author contends is supported by all the other statements.
+				- [[Syntax]]: The rules for the formation of grammatical sentences in a language
+				- [[Semantics]]: The meaning, or an interpretation of the meaning, of a word, sign, sentence, etc.
+		- Module 3: Understanding and Representing Argument Structure

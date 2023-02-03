@@ -1,0 +1,70 @@
+---
+title: Books: Work Rules!
+---
+
+- author:: [[Laszlo Buck]]
+  tags:: [[SecondReview]]
+- Takeaways:
+	- Employ [[Systems Thinking]] when writing takeaways
+	- How do you leverage the information that autonomous employees are better employees as a worker that doesn't have a formal leadership position?
+		- We can foster employee confidence in their decision making skills and enable them to "own" the results of their decisions and projects
+		- What needs to happen for an high-freedom work environment to replace a top-down, managerial emphasized workplace
+			- A place where employees are comfortable with sharing what they are working on (tech talks) and challenge current status quo to improve the system
+			- Leadership cares more about the work relationships and work environment, than the output of the company
+				- If the work environment is designed to create amazing output, it will do so
+			- Brilliance should work free from the scrutiny of the eyes from leadership
+				- Employees with vision given the freedom to act as founders who care about the health of the organization and own their decisions
+					- Acting like founder is acting like a leader, and not just following, whether it is written in your job description or not
+- Notes:
+	- The predominant management environment is command-oriented and low-freedom because it is profitable, requires less effort, and most managers fear or are ignorant of the alternatives.
+	- Most talented people are increasingly wanting to be in a high-freedom work environment.
+	- Building a high-freedom environment can be difficult because employees are dependent on their managers and want to please them. We focus on pleasing our manager, meaning it can be difficult to have a frank and honest discussion with them.
+		- Google removed a lot of command-oriented powers from managers like whom to hire or fire, performance rating, bonuses and raises
+			- Managers are left to "serve" the team by clearing roadblocks and inspiring them
+		- Employee performance improves when programs that empower employees (removing decision making authority from managers and giving it to third-party individuals or teams), providing learning opportunities that were outside what people needed to do their jobs, increased their reliance on teamwork (by giving autonomy and allowing them to self-organize).
+		- [[culture]] can be studied in three ways:
+			- by looking at artifacts such as physical space and behaviors
+				- these artifacts are the most visible, and usually what most people interpret the culture as
+			- surveying the beliefs and values espoused by the group members
+			- finding the underlying assumptions behind the espoused values
+	- Google's defining aspects of their culture: mission, transparency, and voice
+		- Make the mission concrete and not abstract. The mission should constantly promote improvements.
+			- Example: Become the market leader, once achieved is no longer the mission
+			- The mission should unite most of the workforce
+			- Make the mission broad enough (if it makes sense) to promote continual experimentation and innovation
+				- a traditional mission of creating value for customers or growing profits would never have led Google to create Street View
+				- Google's mission statement is "to organize the world's information and make it universally accessible and useful"
+			- We  want our work to matter and have meaning. If we view our work as a calling, we are more likely to be happier
+				- ((48b456e0-5deb-41b7-a07a-2ab0e0e7d91f))
+				- ((5746def2-3dfa-4d47-9f64-181698a2224e))
+				- ((e78131f9-6b83-4827-9e6c-3290fc819d77))
+		- Have greater [[transparency]] at work
+			- At Google a new hire has access to almost all of their code base. They [[trust]] their employees to keep the information confidential
+			- Weekly all-hands meeting are held for greater transparency with 30 minutes of fielding questions
+			- information [[sharing]] allows everyone to understand the differences in [[goal]]s across different teams and groups, avoiding internal rivalry
+				- sharing information [[improve]]s [[performance]]
+			- [[openness]] demonstrates that you believe employees are trustworthy and trust their judgment
+			- giving more context to what is happening enables employees to do their jobs more effectively and contribute in ways a top-down manager couldn't anticipate
+		- voice
+			- means giving employees a real say in how the company is run
+			- giving voice is a key driver for high-quality [[decision]]s and organizational [[performance]]
+	- [[Culture]] beats [[strategy]]
+		- Culture provides the organization a continuous and automatic return in value in decision making #[[feedback loop]]
+		- give people more trust, freedom, and authority than you are comfortable with, if you are not comfortable you haven't given enough.
+			- [[comfortable]] hinders innovation, evolution and change
+	- Creating and designing effective training programs to bring a average performer to a superstar is difficult. Most training programs fail to produce sustained improvement because they are not well designed or well delivered.
+		- There is very little transfer of from knowledge to application and performance
+		- Where left with two choices to get the best quality workers: hire high performing individuals or hire average performers and attempt train them into superstars
+			- training can succeed in environments where employees are given the autonomy, support, trust and freedom to learn and apply their knowledge
+			- only hire people that are better than you, but be aware that they can also be smart and an excellent performer in a new environment and make everyone else around them successful
+- One of the first step to mass [[empowerment]] is making it safe for people to speak up.
+- ^^Make decisions based on data, not based on managers' opinions.^^
+	- If possible [[test]] your ideas on a small group or controlled environments and run experiments to gather data before launching or committing to a solution
+- The mistakes leaders make is that they manage too much. Micromanagement is mismanagement.
+	- To combat this, decisions should be made at the lowest possible level of an organization. The only questions that should rise up the org chare ones , where given the same data and information, more senior leaders would make a different decision than the rank and file.
+	- Expect little from people, get little. Expect a lot you'll get a lot.
+	- When managers give up a little [[control]] to their employees, it creates opportunity for their team to step up and solve problems while giving more time for the managers for new [[challenge]]s.
+- 7. Why everyone hates performance management and what we decided to do about it
+	- As adults in the workplace, we exhibit behaviors of self-rating and needing public grading to feel validated because our early childhood education was composed of standard tests, rankings, and evaluation. #self-worth
+	- The major problem of management systems today is that they have become substitutes for the vital act of actually managing people. Performance systems have become an end in itself rather than actually shaping performance.
+	- Goal setting does improve performance, especially public ones.

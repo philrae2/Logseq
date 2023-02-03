@@ -1,0 +1,85 @@
+---
+title: Courses: Presenting to Executives
+---
+
+- **tags:** #presenting #[[Q - How to run a meeting]]
+- **author:**
+- **status:** #inProgress
+- **link:** https://www.linkedin.com/learning/presenting-to-senior-executives/understanding-the-executive-audience?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=47935924
+- #[[Literature Notes]]
+- #[[Reference Notes]]
+	- Before presenting to senior executives
+		- Understanding the executive audience
+			- To successfully get your message across, you must understand your audience and act accordingly
+				- Executives value brevity
+				- Executives' days are is filled with decision making and problem solving.
+					- __They need to have information that they're consuming already well thought of to inform their decision making.__
+				- Stories stick.
+					- Hone your message into a persuasive, catchy one-liner that leads your audience to saying "Tell me more"
+				- Big picture focus
+					- A simple but  carefully crafted message can trigger the executive to start considering it in the context of the company's history, industry trends, working relationships, and other relevant factors.
+					- Effective messages for the executives is the 50,000 ft view.
+						- At the same time be ready to dive into relevant details if asked.
+				- Support your story and big picture with data and facts
+					- Know what numbers matter most to your audience, and be prepared to support your message with clear and credible evidence.
+		- Communicating with senior executives before your presentation
+			- Answer for the executive "Why they are at the meeting and what do they need to do?"
+			- The success of your presentation in front of the executive team relies on the messaging you sent before your actual meeting.
+			- Do you homework ahead of time.
+				- How far do they plan ahead?
+				- Do they like to pre-read material?
+				- Find someone who knows your audience.
+			- Contents of the pre-meeting communication
+				- Headline of the message
+				- Brief, even numerical preview of your content
+				- Why the information is relevant
+				- Why executive is needed and what are the expectations for them
+					- Do you expect the executives to have a discussion, make a decision, give their blessing, approve additional action, or analyze further in a group
+					- Whatever you envision for the meeting action, you need to share that in your pre-meeting email.
+		- Anticipating tough questions from senior executives
+			- Be prepared to be interrupted and never tell the C-suite to wait.
+			- Solid organizational structure and storyline make for winning presentation
+			- Avoid immediately responding with a yews or no answer, establish rapport in you response.
+				- Do this by revealing more about your research, what you've learned and the rationale for your position or your perspective. So instead of striking back with a sharp yes, no, it would be better to say something like this. "From the data analysis we did, "I would say that the answer is yes." Or, "Our research was focused on area X. "So no, we didn't look at that dataset." You still answering with a yes or no, but the examples I gave you sound more like a conversation than an interrogation. Avoid sounding mechanical. To establish a conversational pace, you need to sound relaxed and extemporaneous
+			- Avoid sounding mechanical.
+				- To establish a conversational pace, you need to sound relaxed and extemporaneous. My colleague, Dave Yewman, co-founder of elevatorspeech.com and author of the popular book "Weekend Language" talks about using magical words. That means explaining an idea or the evidence of your research, and then following up with phrases such as, so imagine this, or for example, or in our industry, this would mean, or maybe saying, what this means is that, or see it this way. All of these bridge phrases allow you to connect the concept to an example or an application of your idea in context. Magical words are conversational. They keep you from becoming mechanical. So if you consider your presentation to be practiced-speaking, then the Q and A section is impromptu-speaking. And because you're far more likely to spend your time answering questions from executives than presenting to them, it's essential that you devote the majority of your presentation on this most essential assignment.
+	- During and After Presenting to Executives
+		- Framing your message to senior executives
+			- How your organize your message should set up expectations of what  you will be sharing.
+				- Are you giving an update?
+					- Are you sharing high level research, unveiling a problem, or proposing a solution?
+				- Are you presenting to inform?
+					- Include brief preview of your main points
+					- Framed with a brief executive summary
+					- High-level overview of main points
+					- Include the "so what" for your audience
+				- Are you presenting to persuade?
+					- Share your conclusions first and then shift into gaining traction for your idea.
+					- Has a story flow - an example use case
+					- Set up problem or story
+					- Propose a solution - set up by data and stats
+			- The message set up for the executive audience has to bank on emotion first with a strong tone of facts and logic to follow.
+		- Make your presentation valuable for senior executives
+			- Executives need and want to be informed to make a decision.
+				- Determine exactly what the need is and then deliver.
+			- The core of your message should be based on logic, logic derived from evidence, from calculations on return on investment, or from statistics that guide executives to make an informed decision.
+			- Types of Information that can strengthen the presentation
+				- Identify and present the essential facts.
+					- Choose facts that are crucial set in a relevant context or important events that occurred recently or in the past.
+				- Statistics
+				- Testimonials
+				- Calculations
+					- All business contexts have standard formulas that you need to be prepared to address.
+			- Make sure that your sources are credible and reliable
+		- Engage your executive audience with relevant stories or theme
+			- Set up
+			- The problem
+			- The solution
+			- Three other engagement stories:
+				- Create a powerful narrative
+				- Be one with your audience
+					- Use language and phrases and references to concepts that are important to them. It helps associate your idea with a strategic initiative or top leadership priority.
+				- Use visual and detailed language
+					- Emotional appeal in rhetoric persuades by appealing to the audience's feelings rather than their logic.
+			- Even though you might think that the emotional appeal of your message to your executives may take a second place to the logical argument, having a story flow that is memorable will work to your advantage.
+-

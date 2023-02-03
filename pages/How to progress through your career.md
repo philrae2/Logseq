@@ -1,0 +1,4 @@
+- ((a18d1f46-af84-4e5a-b1d8-e6530bd8ec54))
+- {{embed ((3365d992-bca3-45f8-a80b-298627ca3d46))}}
+- {{embed ((630adab1-6cc8-4068-8382-eb28587b8f85))}}
+- [[Q - How do we create value at work?]] | [[Create value for your organization]]

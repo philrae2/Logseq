@@ -1,0 +1,342 @@
+- Metadata:
+- Author:: [[Donella Meadows]]
+  Tags:: #[[Critical Thinking]] #[[Systems Thinking]] #[[📥inbox]] [[book]] 
+  Status:: #reading
+  Related Notes::
+- Takeaways:
+	- __Before you charge in to make things better, pay attention to the value that is already there.__
+	- When [[problem solving]] in a system, [[actor]]s and [[element]]s or [[individual]] parts have very little effect on the system. Don't [[blame]] on individual components, but find [[feedback loop]]s in the systems to address or [[[[leverage]] points]]
+		- The exception to this is the [[owner]] of the system driving the [[rule]]s and [[defining]] the [[goal]]s
+		- The feedback loop itself is encouraged by the culture of where the system resides in.
+	- When creating new [[initiative]]s and systems, design the system for [[resilience]] by having mechanism for evolution and [[self-organization]].
+		- Create [[rule]]s for self-organization
+		- Think in systems when solving a [[complex]] [[problem]]s
+		- Build in [[feedback loop]]s to reinforce positive signals
+- Notes:
+	- What is a system?
+		- A [system]([[systems]]) is a set of things that is in an interconnected network or working together as a mechanism to produce a pattern of behavior over time.
+			- The elements are interconnected in a coherently organized way that achieves something
+			- They consist of elements, interconnections and a function or purpose
+			- Example: digestive system, organization
+		- A system maybe affected by outside forces but the response by the system is characteristic of itself, and rarely the response is simple.
+		- A system is more than the sum of its parts.
+			- Systems can [[adapt]], [[change]], [[respond]] to events, [[seek]] goals, mend injuries, and attend to their own survival in a lifelike ways, although they may contain or consist of nonliving things.
+	- The [[interconnection]]s of a system operate through [[information flow]].
+	- A [[function]] or [[purpose]] of a system is derived from its behavior however we can't assume our conjecture of that purpose is necessarily true only using it's behavior without being the system owner.
+		- A purpose isn't a purpose because someone says it is but is judged from the [[behavior]] and [[action]]s.
+		- Sometimes parts of systems creates an undesirable and unplanned functions and purposes
+		- [[Purposes]] can be nested within purposes due to systems existing within systems
+	- Importance of the parts of a system
+		- [[Element]]s or [[actor]]s have the least affect on the system when changed
+			- Blaming groups or individuals in systems is a wasted effort when the greater change can be implemented in fixing the system when we encounter unwanted results or behavior
+			- Looking for faulty elements or actors within a system, assumes that the system is perfect or near perfect where we can start to optimize individual elements or actors
+		- A change in the [[interconnections]] of a system can significantly alter the system and may make it unrecognizable
+			- Relationships within a system, between elements, define the behavior, results, and output of the system.
+		- The [[function]] or [[purpose]] of the system is often the most crucial determinant of the system's [[behavior]]
+			- Don't [[assume]] the [[goal]]s or [[purpose]] has been designed or defined correctly
+	- [[Stock]] is the foundation of any system
+		- Stock are the [[element]]s of the system you can see, feel, count, or measure at any given time. (like water in a bathtub, books in a bookstore)
+		- Stocks don't have to be physical (eg. [[feeling]]s)
+		- Stocks change over time through the actions of a [[flow]]
+			- [[Flows]] are filling and draining, purchases and sales, growth and decay, [[deposit]]s and [[withdrawal]]s
+		- A stock can be increased by decreasing the outflow rate as well as by increasing the inflow rate
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FSdBSRvqLBs.png?alt=media&token=69c32072-59bc-4c7d-88b7-96572528500c)
+		- [[Stock]]s can acts as [[delay]]s or [[buffer]]s or shock [[absorber]]s in systems
+			- [Experimentation]([[experimentation]]) and revision to [[policies]] can occur due to lag times imposed by slow changing stocks as a [[reaction]]
+		- Stock allows inflows and outflows to be decoupled and be independent and temporarily out of balance with each other.
+			- [[Reservoir]]s allows the the [[oscillation]] to be controlled, for the inflows and outflows to seemingly be decoupled
+	- If there is an observed [[consistent]] [[behavior]] throughout time by the stock, then it is likely that behavior operates through a [[feedback loop]]
+		- A feedback loop is formed when changes in a stock affect the flows into or out of that same stock.
+			- A feedback loop can occur naturally and [[undesigned]] as a [[response]]
+		- [[Balancing [[feedback loop]]]]
+			- A balancing feedback loop seeks to regulate and opposes whatever direction of change is imposed on the system
+			- [[Regulating [[feedback loop]]s]] are resistant to [[change]]
+			- A [[delay]] in a balancing feedback loop makes a system likely to [[oscillate]] (ex. inventory ordering)
+		- [[Reinforcing [[feedback loop]]]]
+			- A feedback loop that generates input to a stock the more that is already present (similarly less input the less stock present)
+			- A reinforcing feedback loop [[enhance]]s whatever direction of change is imposed on it #[[amplify]]
+			- Reinforcing feedback loops are [[self-[[enhancing]]]] which leads to [[exponential]] [[grow]]th or collapse over time.
+	- [[Systems Thinking]]
+		- To think in systems think of how not only A affects B, but how B affects A
+			- Be aware of seemingly one way relationships, and try to find the impact or importance of the reverse relationship and what that means for context.
+		- ^^[[Systems Thinking]] helps us not to look for people to blame but what systems are in place to create the current environment^^
+		- Be aware that systems can exist inside other systems, so stocks interact with each other
+			- Can we rationalize people, we know that people are not rational and make decisions based on emotions, but can we add some degree of rationality by viewing people through a systems lens
+		- The information delivered by a [[feedback loop]] can only affect [[future]] behavior
+			- The delivery time isn't fast enough to impact to [[correct]] the current feedback
+			- There will always be [[delay]]s in [[responding]]
+		- A [mental model]([[Mental Models]]) has to include all the important system flows to understand and predict the system's [[behavior ]]
+			- A framework that interprets how something works  is a mental model
+			- Be aware that some feedback loops within a system is more [[dominant]] than others, that affects the behavior of the system
+		- [[System Delays]]
+			- Changing delays in a system can make it much easier or much harder to manage the oscillations.
+		- [[System [[constraints]]]]
+			- Systems have constraints that will eventually affect the dominant reinforcing loop
+				- For example, oil is a natural constraint for systems that rely on oil and its derivative products
+			- When we look at [[growth]] of a system we look for [[Reinforcing [[feedback loop]]]] that are driving growth and for the [[Balancing [[feedback]] loop]] that [constrain]([[constraints]]) it
+		- [[Resources]]
+			- [[[[Nonrenewable]] [[resources]]]] are [[stock]] limited.
+				- The entire stock is available at once and maybe extracted at any time but limited to the technology and capital of the extraction method
+				- The faster the rate of stock extraction, the shorter the lifetime of the resource
+			- [[[[Renewable]] [[resources]]]] are flow limited.
+				- The systems with renewable resources can support [[extraction]] or harvest indefinitely, but only at a finite flow rate equal to their regeneration rate.
+			- Outcomes of renewable resources to [[adjustment]]
+				- overshoot and adjustment to a sustainable equilibrium
+				- overshoot beyond that equilibrium followed by oscillation around it
+				- overshoot followed by collapse of the resource and the industry dependent on the resource
+		- [[Managing [[systems]] ]]
+			- Recognize and identify what structures contain which latent behaviors and what conditions release those behaviors
+				- Then, rearrange the structures and conditions to reduce destructive behavior and promote beneficial ones
+	- Systems and Us - Why Systems Work so well
+		- [[resilience]] is a measure of the system's ability to [[survive]] and [[persist]] within a [[[[variable]] environment]].
+			- Q: How can we [[measure]] the resilience of a system? What [[qualities]] portray resilience?
+			- ^^The existence of a variety of feedback loops to [[restore ]] or [[rebuild]] a system even through a large perturbation creates resilience^^
+			- ^^A [[higher level of resilience]] occurs when [[feedback loops]] can [[learn]], [[create]], [[design]] and [[evolve]] more complex restorative structures. ^^
+				- L: An environment that wishes to remain [[competitive]] should always evolve it's feedback loops and processes for greater complexity to attain [[improvements]]
+				- [[P: One of the ways to build on your [[competitive advantage]] is to build [[resiliency]] and [[self-organization]] into your system and workflow processes]]
+				- A system that is [[static]] doesn't mean it is resilience. A [[dynamic]] system can be [[resilient]]
+					- Because resilience may not be obviously working within a system, people  may unknowingly [[sacrifice]] [[resilience]] for [[stability]] or for [[productivity]] or for some other [[immediate]]ly recognizable system property
+			- The ability for a system to make its own structure more [[complex]] is called [[self-organization]], e.g. [[growth]]
+				- Like [[resilience]] self-organization will often be sacrificed or deprioritized for purposes of [[short-term]] productivity and stability. This suppresses evolution and growth for the sake of processes and status quo.
+				- On the other hand, [[uncontrolled]] [[growth]] can be [[cancerous]] and dangerous to the system
+					- Changing systems and implementing systems  new processes that are [[ill-informed]] and [[unplanned]] should be [[avoided]]
+				- Self-organization produces heterogeneity and unpredictability in the resulting new structures and processes. These results requires freedom and experimentation, which may not be valued by or even seen as threatening by organizations. Consequently, because of these beliefs, work systems may restrict these creative powers.
+			- Systems are structured and organized within [[hierarchies]].
+				- For a system to be fully optimized and functioning there needs to be a balance between central [[control]] and subsystem's[[freedom]]s and [[autonomy]]
+				- **Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hierarchy is to serve the purposes of the lower layers.**
+			- **Everything we think we know about the world is a model.**
+				- Our models usually have a strong congruence with the world. However, it  falls far short of representing the world fully. That is why we make mistakes. The [[mental models]] we employ fail to take into account the complications of the real worl--at least the ways we can see from a systems perspective.
+					- We can't navigate well in an [[interconnected]], [[feedback]]-dominated world unless we prioritize and look for [[long-term]] behaviors and structures over the [[short-term]].  We must also be aware of false [[boundaries]] and [[bounded rationality]] and take into account limiting factors, nonlinearities and delays.
+						- We are likely to mistreat, misdesign, or misread systems if we don't correctly assess the systems propertites of [[resilience]],[[self-organization]], and [[hierarchy]].
+				- We fool ourselves or systems fool us by [[seeing the world]] as a series of discrete [[events]].  Like the tip of an iceberg rising above water, events are the most visible aspect of a larger complex---but not always the most important.
+					- We are less likely to be [[surprised]] if we can see [[event]]s accumulate into dynamic [[pattern]]s of [[behavior]].
+						- The behavior of a system is its [[performance]] over time--its [[growth]], [[stagnation]], [[decline]], [[oscillation]], [[randomness]], or [[evolution]].
+						- When we [[think]] in systems, the first thing we should do is look for [[historical data]], time graphs, the [[history]] of the system.
+							- For example, the variance of the river is increasing with higher floodwaters during rain and and lower flows during droughts. The Dow has been treading up for two years. Discoveries of oil are becoming less frequent.
+							- [[[[long-term]] behavior]] provides to the underlying system [[structure]].
+								- **Knowing the structure provides us [[understanding]] to [[what]] is happening and [[why]].**
+								- The [[structure]] of a system is its interlocking stocks, flows, and feedback loops.
+						- Systems thinking goes back and forth constantly between structure (diagrams of stocks, flows, and feedback) and behavior (time graphs).
+						- [[event]]s only analysis does not give us any ability to [[predict]] the [[future]] or [[change]] the behavior of the system. We need to see and understand the event-behavior- structure framework of system's behaviors and conduct deeper analysis beyond events only.
+						- Behavior-based models are good at predicting the [[near-term performance]] of a system because they look at the flows of a stock, but are bad at predicting [[[[long-term]] behavior]] or [[long-term performance]] and terrible at telling one how to improve performance because the underlying structure is still not understood.  #[[[[short-term]] performance]]
+							- We are not skilled at seeing historical clue to find the [[structure]]s from which [[behavior]] and [[event]]s flow.
+					- Types of [[relationships]]
+						- Linear
+						- [[Non-linear]]
+							- Non-linear relationships are important because they change the relative strengths of [[feedback loop]]s and are a source of system [[complexity]]
+					- Non-existent [[boundaries]]
+						- Systems don't have boundaries, even though our diagrams may artificially imply that they do.
+							- The greatest [[complexities]] lie in boundaries and interconnections.
+						- Layers of complexities
+							- Systems [[surprise]] us because our minds like to think about [[single cause]]s neatly producing [[single effect]]s. We like to think about one or at most a few things at a time. But we live in a world in which many [[cause]]s come together to produce many [[effect]]s.
+							- [[Limiting factor]]
+								- At any given time, the [[input]] that is the most important to a system it he one that is most [[limiting]].
+								- [[Insight]] comes not only from recognizing which [[factor]] is limiting, but from seeing [[[[growth]] itself depletes or enhances limits]] and therefore [[change]]s what is limiting.
+								- Any [[physical]] entity with multiple [[input]]s and [[output]]s is surrounded by [[layer]]s of [[limit]]s.
+								- There will always be limits to [[growth]] they can be self-imposed, or system imposed.
+							- When there are long [[delay]]s in [[feedback loop]], [[foresight]] is essential. To act only when a [[problem]] becomes [[obvious]] is to miss an important opportunity to [[solve]] the problem.
+							- [[bounded rationality]] means that people make  [[decision]]s based on the [[imperfect [[information]]]] they have, but our knowledge becomes more imperfect especially about the more distant parts of the systems.
+								- Our [[Decision Making]] is flawed, we are not rational optimizers, rather we are [[satisficer]]s, attempting to meet (satisfy) our needs well enough (sufficiently) before moving on the the next decision.
+									- We don't often [[foresee]] or choose to [[ignore]] the [[impact]]s of our [[action]]s on the whole [[system]]. Instead of finding a [[long-term]] [[optimum]], we limit ourselves to a [[choice]] we can live with for now, and only [[change]] when we are [[forced ]]to.
+										- We pay too much [[attention]] to recent events and under-value the [[lesson]]s from [[history]] and the [[past]]
+										- The [[bounded rationality]] of each actor in a system may not lead to [[decision]]s that further the welfare of the system as whole.
+	- System [[trap]]s and [[opportunities]]
+		- The world is [[nonlinear]]
+			- Delays, nonlinearities, lack of firm [[boundaries]] and other properties of systems will [[surprise]] us, but they are properties that we should not try to change.
+				- Trying to make our [[environment]] nonlinear for our [[convenience]] is not a good idea, even if feasible.
+				- Be less surprised by the system means acknowledging its properties and appreciate its [[complexity]]
+		- Some system structures [[promote]] problematic behavior, systems that promote this behavior are called [[archetype]]s
+			- Behaviors they promote are [[addiction]], [[drift to low [[near-term performance]]]], and [[escalation]]
+			- Awareness of [[archetypal problem]]s is not enough, the structures need to be changed.
+				- Do not [[blame]], [[discipline]], fire, twisting [[policy]], hoping for a more favorable sequence of driving events, tinkering at the margins will not fix structural [[problem]]s
+					- System traps can be escaped by [[alter]]ing the [[structure]] or [[avoiding]] them.
+						- [[Reformulate]] [[goal]]s, weakening, strenghtening, or altering [[feedback loop]]s, by adding new feedback loops.
+						- The most [[effective]] way of dealing with [[[[policy]] resistance]] is to align the various goals of the subsystems, usually by providing an overarching goal that allows all actors to break out of their [[bounded rationality]]
+							- Every actor of the system or subsystems are working towards a common goal.
+							- Examples: [[war]] time or recovery after [[natural disaster]]
+				- Q: What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others. - Aristotle [[Tragedy of the common]]
+					- When there is a commonly [[shared]] [[resource]], every user [[benefits]] from its use, but share the costs of its [[abuse]] with everyone. Therefore there is a very weak [[feedback]] from the condition of the resource to the decisions of the resource users. The [[consequence]] is [[overuse]] of the resource, until it becomes unavailable to anyone.
+					- Three ways to avoid the tragedy of the commons
+						- [[Educate]] and exhort people to see the consequences of unrestrained use of the commons
+						- [[Privatize]] the commons. Divide it up so that each person reaps the consequences of his or her own actions
+						- [[Regulate]] the commons.
+				- [[Drift to low performance]]
+					- Systems that [[resistant]] to [[policy]] and keep getting worse.
+						- The balancing [[feedback loop]] that should keep the system state at an acceptable level is overwhelmed by a reinforcing feed back loop heading downhill.
+							- The lower [[perceive]]d the [[system state]], the lower the desired state. The lower the desired state, the less [[discrepancy]], and the less [[corrective]] action, and therefore the lower the system state.
+								- Drift to [[lower performance]] is a gradual process, that eludes [[corrective]] actions, compared to as if these changes were [[acute]]. Because it drifts down slowly, everyone is lulled into lower and lower expectations, lower effort, and lower performance.
+									- People who are working in an environment for a long time, may not be aware of the [[Drift to low performance]] in their work environment. How do we reinvigorate workers to notice that processes can be improved and innovative thinking
+					- [[antidote]]s to drift to low performance
+						- Keep [[performance]] [[standard]]s absolute
+						- Let high performance enhance the existing standards
+				- [[escalation]]
+					- A [[Reinforcing [[feedback loop]]]] that comes from [[competing]] actors trying to get ahead of each other. The [[goal]] of one part of system or actor is not [[absolute]], but instead is relative to the state of another part of the system or another actor.
+					- Like other system behaviors or traps, it is not necessarily a bad thing.
+					- One way out of the escalation trap is [[unilateral disarmament]] - deliberate reduction of your own system state to induce reductions in your state. Refuse to [[compete]]
+					- Another method option to escape escalation is negotiate disarmament.
+				- [[[[competitive ]]exclusion principle]] or [[success to the successful]]
+					- Where the winner of a system gains favorable [[advantage]]s that enables them to win more
+					- [[diversification]] can be  a way out of [[competing]] against stronger players
+					- Policies that level the playing field, like antitrust laws, tax rates, can help equalize and remove advantages of players
+					- [[Shifting the the burden to the intervenor]] - [[addiction]], [[dependence]]
+						- The structure is manipulated by an actor adjusting the feedback loop, either altering the in-flows or outflow. The actor has a goal and compares it with a [[perception]] of the state of the system. The actor can [[manipulate]] the perception of the system to match their goals.
+							- Example: Using [[government [[subsidy]]]] to hide the fact that you are in a failing business or using drugs to [[manipulate]] your perception of [[reality]].
+							- The [[intervention]]s employed are [[temporary]] because they don't address the [[root cause]] of the problem and will stop when the intervention stops
+							- Interventions can be good such as vaccines to maintain the system
+						- [[Shifting the the burden to the intervenor]] arises when a [[solution]] to a systemic problem reduces (or [[disguise]]s) the [[symptom]]s, but does nothing to [[solve]] the underlying problem
+							- the intervention is accidentally designed to correct the problem and reduces the self-maintaining capacity of the system to erode or atrophy.
+								- beware of [[symptom]]-[[relieving]] or [[signal]]-denying policies or practices that don't really [[address]] the problem.
+					- When creating [[policy]] or [[rules]] in the system, make sure to design it to promote the spirit of the law not the letter. Avoid [[rule beating]] or inadvertently reward/promote unwanted behavior.
+						- Example: Unnecessary spending at the end of the year to make sure there isn't a budget reduction
+						- [[rule beating]] produces the [[appearance]] of following the rules. Rule beating is usually a [[response]] of the [[lower level]]s in [[hierarchy]] to over [[rigid]], [[deleterious]], [[unworkable]], or [[ill-defined]] rules from [[leadership]] and [[management]].
+				- The most powerful way to [[influence]] the [[system]] is through its [[purpose]] or [[goal]]s.
+					- The goal sets the [[direction]] of the system, [[define]]s [[discrepancies]] that require action, [[indicate]]s [[compliance]], [[failure]] or [[success]] toward which [[Balancing [[feedback loop]]]]s work.
+						- A badly [[defined]] goal or purpose fails to [[measure]] or reflect the real [[health]] of the system.
+						- [[Specify]] [[indicator]]s and [[goal]]s that reflect the real state or [[welfare]] or [[health]] of the system
+	- Creating [[change]] in systems and in our [[philosophy]]
+		- [[[[leverage]] points]] places to [[intervene]] in as sytem
+			- Although people know intuitively know where to find leverage points, we often push the [[change]] in the wrong [[direction]]
+			- Leverage points are not [[intuitive]] or if they are we use them backwards, systematically worsening whatever [[problems]] we are trying to [[solve]]
+		- [[Change]] in actors or [[parameter]]s in the system has less affect on the system than [[changing]] the system itself
+			- [[parameter]]s can become [[[[leverage]] points]] when they go into ranges that start a big [[difference]] in the following [[factor]]s:
+				- system [[goal]]s can become leverage points
+				- [[buffer]]s: [[stock]]s that are big are more stable than small ones
+				- [[stock]] and [[flow]] structures: if the stock and flow are built incorrectly, the result will be sub-optimal or useless
+				- [[delay]]s in the system through [[feedback loop]]s are critical [[determinant]]s of system [[behavior]]
+					- they are a common [[cause]] to [[oscillation]]s
+					- a [[delay]] in [[feedback]] process is critical relative to [[rates of change]] in stocks that the feedback loop is trying to [[control]]
+						- [[delay]]s that are too short cause [[overreaction]]s
+						- delays that are too long cause damped, sustained, or exploding oscillations, depending on how much too long.
+					- delays are not easily [[changeable]] compared to slowing down the [[[[change]] rate]]s #[[[[growth]] rate]]s
+					- [[Balancing [[feedback loop]]]]s - the strength of the feedbacks relative to the impacts they are trying to [[correct]]
+						- They are [[self-correcting]]
+						- Example: thermostat loop
+						- Any balancing feedback loop needs a [[goal]] (the thermostat setting), a [[monitoring]] and [[signaling]] device to detect [[deviation]] from the goal (the thermostat) and a response mechanism (the furnace and/or AC, fans, pumps, pipes, fuel, etc.)
+						- We may be tempted to accidently remove a balancing feedback loop because it may be rarely used if at all triggered
+						- The strength of a [[Balancing [[feedback loop]]]] - its ability to keep its appointed stock at or near goal--depends on the combination of:
+							- all its [[parameter]] and [[link]]s:
+							- the accuracy and speed of [[monitoring]]
+							- the speed and power of its [[response]]
+							- the directness and size of corrective flows
+					- [[Reinforcing [[feedback loop]]]] is self-reinforcing
+						- The more it works the more it gains power to work some more, driving system behavior in one direction.
+							- Example: [[pandemic]]s, population growth
+						- They are sources of [[growth]], explosion, [[erosion]], and [[collapse]] of the system
+						- Reducing the [[gain]] around a reinforcing loop--slowing down the [[growth]]--is usually a more powerful [[leverage]] than  strengthening [[Balancing [[feedback loop]]]]s, and preferable than letting the reinforcing loop run.
+					- [[information flow]]s --the [[structure]] of who does and does not have [[access]] to [[information]]
+						- [[missing]] information flows is one of the most common [[cause]]s of [[system [[malfunction]]]]
+							- adding information flow is a powerful [[intervention]] and usually easier and cheaper than rebuilding physical infrastructure
+								- Use compelling feedback loops to correct the behavior.
+									- For example if water levels of a drinking water supply decreases, then increase the price of water extraction to match the decreasing levels
+									- Missing information flows can cause extinction of fishes that are overfished
+								- There is [[systematic]] [[tendency]] for people to [[avoid]] [[accountability]] for their [[decision]]s explaining why are so many missing [[feedback loop]]s--and why this kind of [[[[leverage]] point]] is popular with the [[masses]] and unpopular with the [[powers]] that be
+					- [[rule]]s --[[incentive]]s, [[punishment]]s, [[constraint]]s
+						- The rules of the system define its [[scope]], its [[boundaries]], its degrees of [[freedom]].
+						- Rules equate to real [[power]], power is power over the rules of the system
+						- Rules are high [[[[leverage]] point]]s
+						- If you want to [[understand]] the deepest [[malfunction]]s of systems, pay [[attention]] to the rules and to who has [[power]] over them
+					- [[self-organization]] - the power to add, change, or [[evolve]] the system [[structure]]
+						- Living and some social systems are capable of changing themselves by creating new whole structures and behaviors. In [[biological]] systems its called [[evolution]]. In human economies it's called technical [[advance]] or [[social [[revolution]]]]. In systems vernacular it's called [[self-organization]].
+							- DNA variety is the source for evolution , while [[libraries]] and [[universities]] train [[student]]s as the source for technological potential to drive social and technological systems
+							- Unfortunately, people lack [[appreciation]] of [[cultural]] diversity for evolutionary potential, due to the belief in the utter [[superiority]] of their own [[culture]]
+								- Insistence on a single culture shuts down [[learning]] and reduces [[resilience]]
+								- [[Experimentation]] and [[innovation]] are important factors to promote to allow resilience
+									- Encouraging [[variability]] and [[experimentation]] and [[diversity]] means losing [[control]]
+						- It is the strongest form of system [[resilience]]
+						- Relies on rules for self-organization
+					- [[goal]]s - the [[purpose]] or [[function]] of the system
+						- the goal of a [[system]] supersedes [[self-organization]], [[rules]], and other elements of the system as the goal and the system [[owner]] drives the system's [[behavior]]
+						- goals are important [[[[leverage]] points]] in systems
+					- [[paradigm]]s - the [[mind-set]] out of which the system --it's [[goal]]s, [[structure]], [[rule]]s, [[delay]], [[parameter]]s--arises
+						- the [[[[shared]] [[idea]]]] in the minds of  [[society]], the [[unstated]], constitute the society's [[paradigm]] or deepest set of [[belief]]s about how the world works
+						- paradigms are the [[source]]s of systems, from sources, from [[shared]] social   [[agreement]]s about the nature of [[reality]], come system [[goal]]s and [[information flow]]s, [[feedback]]s, [[stock]]s, [[flow]]s, and everything else about systems.
+						- [[paradigm]] [[shift]]s or [[change]] can be difficult to change, but it does not have to be expensive or physically impossible to change paradigms.
+							- A single mind can shift [[frames]] or [[viewpoint]]s within seconds
+								- [[society]] are another matter, they [[resist]] [[challenge]]s to their paradigms harder than they resist anything else
+						- To [[change]] paradigms we can build a [[model]] of the system to take us outside the system and forces us to see it as a whole.
+							- [[transcending]] [[paradigm]]s
+								- Stay away from [[adoption]] of paradigms and  remain flexible to realize there is no paradigm that is [[true]] and your [[world view]] is tremendously limited in understanding
+								- [[[[leverage]] point]]s are not easily accessible, even if we know where they are and which [[direction]] to push on them.
+									- We have to work hard at it, rigorously analyzing a system or casting off our paradigms and [[admit]]ting to yourself into the [[humility]] of not [[knowing]]
+		- Living in a World of Systems
+			- [[social]] systems are [[external]] manifestations of [[cultural]] thinking, [[pattern]]s and human [[need]]s, [[emotion]]s, [[strength]]s, and [[weakness]]es. Changing them is not simple.
+			- We can never fully [[understand]] or [[control]] systems.
+				- Systems can be [[designed]] or redesigned
+				- Before [[disturbing]] or [[changing]] a system, first [[observe]] its  [[behavior]]s. By observing we focus on [[fact]]s and not [[theories]]
+					- [[Watching]] what really happens, instead of listening to people's theories of what happens, can expose many careless causal hypothesis
+			- [[expose]] your [[mental model]]s to the light of day
+				- Draw [[structural]] diagrams and then write equations to draw out our [[assumption]]s and to express them with rigor. Our [[model]]s have to be [[complete]] and [[consistent]]
+					- The [[clearer]] our [[thinking]] the faster we see and [[admit]] our [[inconsistencies]] and [[correct]] our [[mistake]]s, and the more [[flexible]] we become.
+					- Remember that everything that you and everyone else [[know]]s are only [[model]]s. Share your model to critiqued and seek out [[feedback]] and [[challenge]] from others. Consider all [[hypotheses]] and [[ explanation]]s viable until you can clearly rule them out.
+			- [[honor]], [[respect]], and [[distribute]] information
+				- [[[[decision]] maker]]s can't respond to information they don't have, or respond accurately to information that is inaccurate, and can't respond in a timely way to information that is late.
+				- [[information]] is [[power]]
+			- use [[language]] with care and enrich it with system concepts
+				- our [[information]] streams are composed of [[language]]
+					- honoring language means avoiding language [[pollution]], making the [[clean]]est possible use we can of language.
+						- we can expand our language so we can talk about [[complexity]] and make it consistent with our enlarged understanding of systems
+					- Q: Language can serve as a medium through which we create a new understanding and new realities as we being to talk about them. Our perspectives on the world depend on the interaction of our nervous system and our language--both act as filter through which we perceive our world ([[reality]])
+						- the [[language]] and [[information]] systems of an organization are not an objective means of describing an outside reality--they structure the [[perception]]s and actions of its members.
+						- Q: A society that talk incessantly about "productivity" but that hardly "understands", much less uses, the word "resilience" is going to become productive and not resilient.  A society that talks about a "Peacekeeper" missile or "collateral damage," a "Final Solution" or "ethnic cleansing," is speaking what Wendell Berry calls "tyrannesse."
+						- Be aware of your [[language]] that it is clear and not meaningless or destructive of [[meaning]]
+							- Respecting language is keeping it concrete, meaningful, and truthful as possible
+							- Be [[intentional]], aware, and careful of the [[language]] and [[words]] you choose in your [[communication]]. Take time to craft e-mails and place more [[importance]] in [[writing]].
+								- **Be purposeful in feeling empathy and understanding of the person we are communicating with when writing. You are having a conversation.**
+								- The extra minutes we take to craft our [[communication]], conveys the importance we place on the information we are sharing and the maintenance of our [[relationships]].
+			- pay [[attention]] to what is [[important]], not just what is [[quantifiable]]
+				- our [[culture]], obsessed with numbers, has given us the idea that what we can [[measure]] is more [[important]] than what we can't measure.
+					- we make [[quantity]] more important than [[quality]]
+						- If we place greatest important on quantity and measurable feedback, on how we [[motivate]], [[rate]], [[reward]] ourselves, then quantity will be the result our organization and system.
+							- We can end up [[blind]] to issues because we can't [[quantify]] them (ex. [[prejudice]]) and give us [[faulty]] [[model]]sQ: If something is ugly say, so. If it is tacky, inappropriate, out of proportion, unsustainable, morally degrading, ecologically impoverishing, or humanly demeaning, don't let it pass. Don't be stopped by the "if you can't define it and measure it, I don't have to pay attention to it" ploy.
+								- Q: If something is ugly say, so. If it is tacky, inappropriate, out of proportion, unsustainable, morally degrading, ecologically impoverishing, or humanly demeaning, don't let it pass. Don't be stopped by the "if you can't define it and measure it, I don't have to pay attention to it" ploy. 
+								  
+								  No one can define or measure justice, democracy, security, freedom, truth, or love. No one can define or measure any value. But if no one speaks up for them, if systems aren't designed to produce them, if we don't speak about them and point toward their presence or absence, they will cease to exist.
+						- Assess if [[quality]] should be the center of [[attention]] rather than quantified data, be a quality detector
+			- make [[feedback]] [[policies]] for feedback systems
+				- It's easier and more [[effective]] to design policies that change depending on the state of the system. The best policies, especially for environments with great [[uncertainty]], are the one that contain [[meta-[[feedback loop]]s ]], loops that alter, correct and expand loops. These are policies that design [[learning]] into the [[management]] process
+			- go for the [[good]] of the [[whole]]
+				- [[hierarchies]] exist to [[serve]] the bottom layers, not the top. Don't [[maximize]] parts of systems or subsystems while ignoring the whole. Aim to [[enhance]] total system properties, such as growth, stability, diversity, resilience, and sustainability--whether they are easily [[measure]]d or not.
+			- [[listen]] to the [[wisdom]] of the system
+				- [[aid]] and [[encourage]] the forces and structures that help the system run itself.
+			- locate [[responsibility]] in the system
+				- in [[analysis]] look for the ways  the system [[creates]] it own [[behavior]]
+					- pay attention to [[trigger]] events and outside [[influence]]s that bring one kind of behavior over another
+					- ''[[intrinsic [[responsibility]]]] means the system is designed to send feedback about the consequences of decision making directly and quickly and compellingly to the decision makers
+						- example: designing a system for all towns or companies that emit wastewater into a stream to place their intake pipes downstream from their outflow pipe. It could mean that neither insurance companies nor public funds should pay for medical costs resulting from smoking or from accidents in which a motorcycle rider didn't wear a helmet or a car rider didn't fasten the seat belt.
+						- Our culture has placed little importance on looking for [[responsibility]] within systems that generates actions and behaviors and designs those system poorly. The behaviors and actions generated by the system and their consequences is hardly felt
+			- stay [[humble]] -- stay a constant [[learner]]
+				- When you don't know something, this is the best time to [[learn]], don't put on unjustified [[confidence]] and don't be paralyzed with [[fear]] and [[indecision]]
+					- the way to learn is by [[experimenting]] through [[trial and error]] and through making [[mistake]]s
+					- in complex [[system]]s it is not appropriate to charge forward with undeviating [[directive]]s. Stay the course is only appropriate if you're sure on the course you're on
+					- don't [[delude]] yourself to thinking you have [[control]] in situations where you have none, this is a recipe for making avoidable [[mistake]]s and not [[learning]] from them
+						- take small steps, constant [[monitoring]] and a willingness to [[change]] course for optimal learning
+						- [[error]] embracing is the condition for learning. It means seeking and using--and sharing--[[information]] about what went wrong with what you expected or hoped would go right.
+			- Celebrate [[complexity]]
+				- the human mind has an [[attraction]] to [[simplicity]], for straight lines, whole numbers over fractions, and understandable to obscure
+					- and we can also encourage [[self-organization]], [[disorder]], [[variety]], and [[diversity]]
+			- expand [[[[time]] horizon]]s
+				- the longer operant time horizon the better the chances for [[survival]] of the system
+					- we experience now the [[consequence]]s of [[action]]s set in motion yesterday and decades ago and centuries ago.
+					- we need to be [[aware]] and [[watching]] both the [[short-term]] and [[long-term]] -- the whole system
+			- defy the disciplines
+				- go beyond your own disciplinary knowledge and see the whole system as a whole
+					- be aware of the other discipline's own biases and knowledge gaps when assuming their perspective
+					- every discipline has to be willing to be taught, to learn, to admit  their own ignorance
+			- expand the [[boundary]] of [[caring]]
+				- all systems are [[interconnected]]
+			- don't [[erode]] [[goodness]]
+				- Q: Examples of bad human behavior are held up, magnified by the media, affirmed by the culture, as typical. The far more numerous examples of human goodness are barely noticed. They are not news. they are exceptions. 
+				  
+				  So expectations are lowered. The gap between desired behavior and actual behavior narrows. Few actions are taken to affirm and instill ideas. 
+				  
+				  Q: Regarding humanity, truly he is, for all his wealth and power, poor in spirit.
+				- We know what to do about [[Drift to low performance]]. Don't weigh the [[bad news]] more heavily than the good. And keep [[standard]]s absolute
+- Questions:
+	- Questions for testing the value of a model
+		- Are the driving factors likely to unfold this way?
+		- If they did, would the system react this way?
+		- What are the driving factors?
+		- Model utility depends no on whether is driving scenarios are realistic (because no one can know at present), but on whether the response is a realistic pattern of behavior.
+	- Question: Is systems thinking against the principle of breaking complex problems down to simpler problems or questions?
+		- Systems thinking allows us to solve systems based problems
+		- [[Q: How can we employ systems thinking in our [[Decision Making]] processes]]
