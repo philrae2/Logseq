@@ -283,6 +283,7 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			  	5. Test see whether those solutions meet standards to continue developing them as  
 			  	products. ([View Highlight]
 	- Module 5 - Seeking Solutions
+	  collapsed:: true
 		- What is the Value Prop Box? #card
 		  collapsed:: true
 			- ![image.png](../assets/image_1675054789364_0.png)
@@ -324,8 +325,9 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- ((00433273-1367-418f-986a-b58f9361464b))
 - Images
   id:: 63d69a58-789d-4e83-81b0-5403e46e4073
-	- ![image.png](../assets/image_1675222102220_0.png)
 	-
+	- ![image.png](../assets/image_1675402250035_0.png)
+	- ![image.png](../assets/image_1675402332771_0.png)
 	-
 - Highlights first synced by [[Readwise]] [[2023-01-24]]
   collapsed:: true
