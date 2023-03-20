@@ -62,7 +62,6 @@ title: Books - User Story Mapping
 				- What would make it really cool?
 				- What about when things go wrong?
 	- Chapter 2 - Plan to Build Less
-	  collapsed:: true
 		- Map for a product release across multiple teams to visualize dependencies.
 		- Anatomy of a Big map
 			- ![image.png](../assets/image_1650832719871_0.png)

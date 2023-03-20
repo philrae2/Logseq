@@ -1,0 +1,13 @@
+title:: “Sweat the Details” and Other Commandments for Mapping Out a Career in Product (highlights)
+author:: [[firstround.com]]
+full-title:: "“Sweat the Details” and Other Commandments for Mapping Out a Career in Product"
+media:: #articles
+url:: https://review.firstround.com/sweat-the-details-and-other-commandments-for-mapping-out-a-career-in-product?utm_source=Firstround.com+Library&utm_campaign=c6b2f53140-jiaona_zhang_2&utm_medium=email&utm_term=0_d9bb43e05b-c6b2f53140-80319369
+
+- Highlights first synced by [[Readwise]] [[2023-03-12]]
+	- Currently the VP of Product at **Webflow**, Jiaona Zhang—or JZ as she prefers to be called—has watched early career and senior PMs alike slip into a “solutioning” mindset too quickly, rather than sitting with the problem at hand ([View Highlight](https://read.readwise.io/read/01gva1s0wdc3h5fe68fcaqzrgh))
+	- “A lot of times people want to jump straight to a solution,” Zhang says. “‘Wouldn't it be great if we built X or our users could do Y?’ And that is a huge mistake.” ([View Highlight](https://read.readwise.io/read/01gva1s859d3h07t4sqg9ps5he))
+	- The problem with leap-frogging to a resolution, Zhang says, is that this skips over what she feels is the most important part of the product-building process: understanding **the problem** for your users and identifying **the opportunity** for your business. ([View Highlight](https://read.readwise.io/read/01gva1ssjm7t8q4awbmxc8de3v))
+	- **Understanding:** The first skill is all about deciphering what to build, Zhang says. “You do that by deeply understanding your user’s problems and also really defining what business success looks like in the context of your particular company.” ([View Highlight](https://read.readwise.io/read/01gva1vzv622zses53qy47mgzv))
+	- **Collaborating:** The second (and a huge chunk of what a PM’s day-to-day looks like) is working with a team to build a solution. “As part of that, you are working with a lot of partners to effectively get whatever it is you’ve built to market. There are so many great products out there, but without that go-to-market motion, they aren’t successful.” ([View Highlight](https://read.readwise.io/read/01gva1w50dpszmsxk4ew49y8bh))
+	- **Iterating:** Finally it's closing that loop. Almost no product is perfect the first time around. You must learn to iterate and not be too precious about your ideas. “You have to learn from user feedback, the data you see and use all those inputs to improve your product,” she says. ([View Highlight](https://read.readwise.io/read/01gva1wk48fahk9bt2z0agrveh))

@@ -11,7 +11,6 @@ alias:: [[Books: Working Backwards]]
 	  collapsed:: true
 		- Jeff Bezos described Amazon in this way: "Our culture is four things: customer obsession instead of competitor obsession instead of competitor obsession; willingness to think long term, with a longer investment horizon that most of our peers; eagerness to invent, which of course goes hand in hand with failure; and then finally, taking professional pride in operational excellence."
 	- Chapter 1 - Building Blocks Leadership Principles and Mechanisms
-	  collapsed:: true
 		- Be obsessive about customer focus and set high standards.
 		- Underpromise and overdeliver to ensure that customer expectations were exceeded.
 		- Chase perfection. Have relentlessly "unreasonably high standards"
@@ -29,8 +28,10 @@ alias:: [[Books: Working Backwards]]
 			- Invent and simplify
 				- Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are extremely aware, look for new ideas from everywhere, and are not limited by "not invented here." As we do new things, we accept that we may be understood for long periods of time.
 			- Are right, a lot.
+			  id:: 63b8e32d-98e0-4bb7-8295-0157adcd16f3
 				- Leaders have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm beliefs.
 			- Learn and Be curious.
+			  id:: 63b8e32d-8c40-4257-8d37-6f04dae28393
 				- Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 			- Hire and Develop the best
 				- Leaders raise the performance bar with every hire and promotion. They recognized exceptional talent and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.

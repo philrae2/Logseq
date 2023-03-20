@@ -75,7 +75,7 @@ title: Books - How to Lead When You're Not In Charge
 			  id:: ed84b45a-e476-4ae6-843d-52c0d2799270
 		- When we let our ambitions run wild, we start looking for external solutions and will tend to blame and defer responsibility to others because we haven't fulfilled our ambitions.
 			- We grow resentful and critical towards others who are in charge because we are looking for our own authority.
-			- Don't fast track your learning of skills by circumventing leadership above you. Let God take the driver's seat. #blck:yellow
+			- Don't fast track your learning of skills by circumventing leadership above you. Let God take the driver's seat.
 	- On the other hand, don't wait for a specific job title or authority (waiting on God to provide).
 		- God doesn't want us to sit back. He wants us to engage, doing the work he has given us where we are, with whatever title or role has currently assigned. #blck:yellow
 	- **Good leadership is:** #blck:red

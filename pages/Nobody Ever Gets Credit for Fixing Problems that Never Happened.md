@@ -1,11 +1,10 @@
 media:: [[article]] 
 tags:: [[process improvements]]
 status:: reading, napkin.one
-link:: https://readwise.io/reader/document_raw_content/7618006
+link:: https://readwise.io/reader/document_raw_content/7618006; ((63b8e316-d3c4-48b4-8e8e-4c0aa1e55436))
 
 - Reference Notes
 	- Introduction
-	  collapsed:: true
 		- Despite vast expenditures, and notwithstanding dramatic successes in few successes in a few companies, few efforts to implement such programs actually product significant results.
 		- You can't buy a turnkey (complete or ready to use product) six-sigma quality program. It must be developed from within.
 		- Process improvement programs like Six-Sigma and their successful deployment in organizations is dependent on how the introduction of a new improvement program interacts with the physical, economic, social and psychological structures in which implementation takes place.
@@ -15,12 +14,10 @@ link:: https://readwise.io/reader/document_raw_content/7618006
 			- the amount of time spent working
 			- capability of the process used to do that work
 		- The performance of any process can be increased by dedicating additional effort to either work or improvement.
-		  collapsed:: true
 			- ![image.png](../assets/image_1668123987323_0.png)
-			- Time spent on improving the capability of a process typically yields the more enduring change. This is because increasing time spent working is only effective at that time (obvious). Time spent on improvements increase the flow of investments. However time spent on improvements does not immediately improve performance, it takes time uncover the root causes of process problems and then to discover, test, and implement solutions, shown in the diagram as a delay between improvement activities and the resulting change in process capability.
-			- No improvements in capability lasts forever. Processes go out of control without regular attention, designs become obsolete, and procedures become outdated. Capability goes down without regular maintenance.
+			- **Time spent on improving the capability of a process typically yields the more enduring change.** This is because increasing time spent working is only effective at that time (obvious). Time spent on improvements increase the flow of investments. **However time spent on improvements does not immediately improve performance, it takes time uncover the root causes of process problems and then to discover, test, and implement solutions,** shown in the diagram as a delay between improvement activities and the resulting change in process capability.
+			- **No improvements in capability lasts forever. Processes go out of control without regular attention, designs become obsolete, and procedures become outdated. Capability goes down without regular maintenance.**
 		- Work harder loop to increase capability
-		  collapsed:: true
 			- ![image.png](../assets/image_1668125104200_0.png)
 		- Work smarter loop
 			- ![image.png](../assets/image_1668132022999_0.png)
