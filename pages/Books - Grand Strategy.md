@@ -10,9 +10,7 @@ tags:: Strategy #📥inbox
 	- [[Consider the dimension of time and scale when adopting a frame or methodology for problem solving.]]
 - #[[Reference Notes]]
 	- Chapter 1 - Crossing the Hellespont
-	  collapsed:: true
 		- [[Philip Tetlock]]'s book researched the types of people who were good at predicting and forecasting the future. The differentiator was found in the style of thinking by people. The better forecasters were people who were self-proclaimed foxes - people who knew a lot of different things rather than people who knew a lot of one thing.
-		  collapsed:: true
 		  id:: 62aa1979-afd0-4926-a6bc-558c84f71fa1
 			- ((6266039a-1cd4-4c6b-b0c9-ab802c560c25))
 			- In contrast the poor forecasters brushed aside criticism, aggressively deploying big explanations they displayed a bristly impatience with those who do not get it.
@@ -25,11 +23,8 @@ tags:: Strategy #📥inbox
 			- Similarly, the actions we take now we have to strategically act for the consequences of the now but also the future consequences.
 			  id:: 62aa1979-8b08-402c-81aa-8922cd907cff
 	- Chapter 2 - The Long Walls
-	  collapsed:: true
 		- To nurture strategic thinking we need to foster and nurture a healthy relationship of learning both the general and the particular—between the universal and local knowledge. #[[strategic thinking]]
-		  collapsed:: true
 			- However history alone and reading is sufficient for strategic thinking, we also need to train and practice. Training is being able to draw upon principles extending across time and space, so that you'll have a sense of what's worked before and what hasn't.
-			  collapsed:: true
 				- We then apply this knowledge to the situation at hand as a result of scale and a plan is the result. The result is born and informed from the past, linked to the present, for achieving some future goal.
 				- The engagement of the plan of course won't in many ways remain faithful to the plan as the execution is influenced by external factors—the known unknowns and the unknown unknowns.
 				- The solution is to improvise, based on history and from those who have gone before.

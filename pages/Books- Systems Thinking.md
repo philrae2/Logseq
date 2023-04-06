@@ -76,11 +76,14 @@
 			- When we look at [[growth]] of a system we look for [[Reinforcing [[feedback loop]]]] that are driving growth and for the [[Balancing [[feedback]] loop]] that [constrain]([[constraints]]) it
 		- [[Resources]]
 			- [[[[Nonrenewable]] [[resources]]]] are [[stock]] limited.
+			  collapsed:: true
 				- The entire stock is available at once and maybe extracted at any time but limited to the technology and capital of the extraction method
 				- The faster the rate of stock extraction, the shorter the lifetime of the resource
 			- [[[[Renewable]] [[resources]]]] are flow limited.
+			  collapsed:: true
 				- The systems with renewable resources can support [[extraction]] or harvest indefinitely, but only at a finite flow rate equal to their regeneration rate.
-			- Outcomes of renewable resources to [[adjustment]]
+			- Outcomes of renewable resources to [[adjustment]] 
+			  collapsed:: true
 				- overshoot and adjustment to a sustainable equilibrium
 				- overshoot beyond that equilibrium followed by oscillation around it
 				- overshoot followed by collapse of the resource and the industry dependent on the resource

@@ -6,13 +6,11 @@ title: Books: Creating Great Choices
   author: [[Roger Martin]] [[Jennifer Riel]]
 - [[integrative thinking]] may help mitigate our natural biases
 - Chapter 1 - [[integrative thinking]]
-  collapsed:: true
 	- Integration is an approach to problem solving where we try to integrate the best characteristics of seemingly opposing solutions or choices. It is creating a new superior answer rather than choose between suboptimal choices.
 		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F5FKadZmyX0.png?alt=media&token=28c93afa-8dba-4d60-95d2-fd64f0f54c7d)
 		- When faced with a tough decision, we choose one of the options in front of us instead of creating an answer that solves the problem in a new, more successful way.
 			- ^^We analyze options rather than generate new possibilities.^^
 - Chapter 2 - How we choose
-  collapsed:: true
 	- Quote: Every decision you make...everything you know and everything you do is on the basis of models of one sort of another. You never have the choice of let's model or not; its only a question of which model. And most of the time, the models that you're operating from are the ones that you're not even aware you're using. #[[mental  model]]s
 		- Usually these mental models are wrong or incomplete.^^ That is the nature of models, they leave things out.^^
 		- Our mental models are also sticky.
@@ -40,8 +38,7 @@ title: Books: Creating Great Choices
 		- An effective decision maker works to achieve deep conceptual understanding and isn't overly impressed by speed. [[Peter Drucker]]
 			- They disregard conventional wisdom about [[consensus]]and instead create [[disagreement]] and [[dissention]].
 			- A right decision demands adequate disagreement. (?) Because we want to overcome our internal biases and heuristics we employ in an individual decision-making process.
-- collapsed:: true
-  3. A New Way to Think
+- 3. A New Way to Think
 	- One failing of our existing decision-making process is that they tend to be conclusion oriented. We argue for the right answer, but we have little incentive to question our inferences and note the gaps in our logic.
 		- Instead we should make our processes explicit and transparent to others.
 	- [[metacognition]] is a critical foundation of successful decision making. To create great choices, we need processes that force us to have clear and explicit thinking (don't lie to ourselves)
@@ -63,8 +60,7 @@ title: Books: Creating Great Choices
 		- **Give yourself time to think.*
 	- A new way to think
 		- > You will be a better integrative thinker through metacognition, empathy, and creativity. And you will be better at metacognition, empathy, and creativity through integrative thinking.
-- collapsed:: true
-  4. A methodology [[Integrative Thinking]]
+- 4. A methodology [[Integrative Thinking]]
 	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F_TboSLG-MC.png?alt=media&token=bf43bde1-c76f-43a4-86b1-4c1ae1e320eb)
 	- Articulate the models
 		- Sketch each of the opposing models to enough resolution that an observer could understand the essence of each model. A few sentences should be able to explain what each model would do in practice
@@ -97,7 +93,7 @@ title: Books: Creating Great Choices
 		- Two models that are opposites are more easily understood with less resources and time compared to investing understanding in many models.
 		- > Only when we engage in the constraining consideration of opposites—each of which has value but cannot be adopted at the same time—that we can gain helpful insights.
 		- When in a state of consideration, rather than evaluation (thinking about what each model is, rather than evaluating whether each model is good or bad), provides us the time and space to challenge assumptions and provoke new thinking.
-		- When we push the two models or options to opposite extremes, we eliminate compromise, a solution that contains the two extremes. [[integrative thinking]] isn't about doing "both" but rather finding an answer that takes the best of both to produce outcomes that are preferable to existing ones. #blck:grey
+		- When we push the two models or options to opposite extremes, we eliminate compromise, a solution that contains the two extremes. [[integrative thinking]] isn't about doing "both" but rather finding an answer that takes the best of both to produce outcomes that are preferable to existing ones.
 			- Compromises are less helpful in creating a better answer because the effects of the different models are meshed together and it becomes hard to fully understand each model individually.
 			- Be specific in framing the problem to come up with well defined extreme models. The opposing models should be extremely distinct ways to go about solving our specific problem.
 	- Sketch the models
