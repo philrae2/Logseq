@@ -1,4 +1,5 @@
 title:: Essay Writing Guide By Jordan B. Peterson
+tags:: writing
 
 - Notes:
 	- Notetaking

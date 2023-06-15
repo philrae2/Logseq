@@ -22,7 +22,7 @@ title: Books: Zero to One
 	  id:: f2120e5b-9fa1-485e-a10e-ec119c157d88
 - 4. The ideology of competition
 	- Creative monopoly means new products that benefit everybody and sustainable profits for the creator. Competition means no profits for anybody, no meaningful differentiation, and a struggle for survival. Competition is ingrained from the very start of our lives in grade school and continuing to our adult careers.
-	- People become obsessed with competition. Inside our workplaces, people lose sight of what matters and focus on their rivals instead. Rivalry causes us to overemphasize old opportunities and copy what has worked in the past.
+	- People become obsessed with competition. Inside our workplaces, people lose sight of what matters and focus on their rivals instead. Rivalry causes us to overemphasize old opportunities and copy what has worked in the past. #[[Career Development]]
 	  id:: cd912bee-d319-4fc5-a9ab-6c7ca6e43470
 - 5. Last Move Advantage
 	- Characteristics of a monopoly

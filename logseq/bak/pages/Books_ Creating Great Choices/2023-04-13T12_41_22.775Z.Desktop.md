@@ -1,0 +1,226 @@
+---
+title: Books: Creating Great Choices
+---
+
+- tags: #[[📥inbox]], #[[Critical Thinking]] #[[integrative thinking]]
+  author: [[Roger Martin]] [[Jennifer Riel]]
+- [[integrative thinking]] may help mitigate our natural biases
+- Chapter 1 - [[integrative thinking]]
+  collapsed:: true
+	- Integration is an approach to problem solving where we try to integrate the best characteristics of seemingly opposing solutions or choices. It is creating a new superior answer rather than choose between suboptimal choices.
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F5FKadZmyX0.png?alt=media&token=28c93afa-8dba-4d60-95d2-fd64f0f54c7d)
+		- When faced with a tough decision, we choose one of the options in front of us instead of creating an answer that solves the problem in a new, more successful way.
+			- ^^We analyze options rather than generate new possibilities.^^
+- Chapter 2 - How we choose
+  collapsed:: true
+	- Quote: Every decision you make...everything you know and everything you do is on the basis of models of one sort of another. You never have the choice of let's model or not; its only a question of which model. And most of the time, the models that you're operating from are the ones that you're not even aware you're using. #[[mental  model]]s
+		- Usually these mental models are wrong or incomplete.^^ That is the nature of models, they leave things out.^^
+		- Our mental models are also sticky.
+			- We naturally seek out information that fits with our existing model, rather than look to disconfirm.
+				- ((306836e8-b06e-46a0-8434-0335604197b6))
+					- Contrary evidence can also cause us to hold more tightly to our existing views. #[[backfire]] effect
+	- Our models are simplistic
+		- our minds seek [[efficiency]] so we tend to short-circuit the reasoning process and rely on overly simplistic models of the world.
+			- We look for and use information that is readily available, easy to recall, and easy to understand as the foundation of our models, and we rarely dig deeper into the real reasons for our beliefs.
+		- There is a correct level of effective simplicity in our models. When our models are oversimplified, models lose their [[predictive]] and explanatory power. They fail.
+		- Our oversimplified models can also cause us to be [[overconfident]] in our [[understanding]] of the world.
+			- People ten to overestimate their [[reasoning]] ability just as they overestimate their [[leadership]] skills.
+	- Our models are unhelpfully singular (we feel like our model is the single right answer)
+		- Models are constructed in a specific context, but often they are over extended for multiple contexts, becoming less fit for the purpose as they are used further from their original application.
+		- Because the world is complex and models are simple, there should be multiple models to describe the same thing and consider different aspects.
+		- ^^The schooling system has taught us to look for the one right answer rather than exploring and creating [[option]]s and [[solution]]s. ^^
+	- Decision making in organizations
+		- Allow a process to question and challenge expertise of others
+		- We should design a process that brings diversity to tackle the problem rather than breaking the problem into small parts that can be tackled by individual experts and then reassembled in the end.
+			- Develop processes that create options and divergence of options. Prevent the least worst options or group decision too quickly
+	- Creating better choices
+		- We need a way of thinking through and creating choices that mitigate, rather than amplifies, the effects of our deeply held mental models and biases.
+			- Explicitly consider opposing solutions, exploring deeply divergent possibilities for solving the problem.
+			- Challenge that there is only one solution to the problem.
+		- An effective decision maker works to achieve deep conceptual understanding and isn't overly impressed by speed. [[Peter Drucker]]
+			- They disregard conventional wisdom about [[consensus]]and instead create [[disagreement]] and [[dissention]].
+			- A right decision demands adequate disagreement. (?) Because we want to overcome our internal biases and heuristics we employ in an individual decision-making process.
+- collapsed:: true
+  3. A New Way to Think
+	- One failing of our existing decision-making process is that they tend to be conclusion oriented. We argue for the right answer, but we have little incentive to question our inferences and note the gaps in our logic.
+		- Instead we should make our processes explicit and transparent to others.
+	- [[metacognition]] is a critical foundation of successful decision making. To create great choices, we need processes that force us to have clear and explicit thinking (don't lie to ourselves)
+	- To create great choices we need to develop [[empathy]] that is purposeful and directed to understanding others' way of thinking and experiences, even if we disagree with them.
+		- Observe - watch their lives
+		- Engage - talk to them
+		- Experience their way of life, thought
+		- The more we are open and empathetic to others, the more likely they will be curious and open to you.
+			- A lack of empathy tends to lead to narrow and single-minded solutions.
+	- Being [[creative]] is about cultivating [[self-efficacy]]: believing you can be creative and giving yourself permission to try
+	- Generating new ideas
+		- Start with a problem to be solved
+			- Clearly define the problem that needs solving to help stir creativity
+		- Don't start with a blank slate. Use existing models to connect the dots and cross-pollinate ideas from other disciplines to combine and recombine thoughts and ideas to generate a creative option
+		- Learn the value of bad ideas
+			- ^^The most important rule of idea generation is to defer judgment.^^
+		- Build to think.
+			- ^^Abstraction isn't conducive to generating new ideas. We can learn faster and ideate faster if we build a quick prototype and model.^^
+		- **Give yourself time to think.*
+	- A new way to think
+		- > You will be a better integrative thinker through metacognition, empathy, and creativity. And you will be better at metacognition, empathy, and creativity through integrative thinking.
+- collapsed:: true
+  4. A methodology [[Integrative Thinking]]
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F_TboSLG-MC.png?alt=media&token=bf43bde1-c76f-43a4-86b1-4c1ae1e320eb)
+	- Articulate the models
+		- Sketch each of the opposing models to enough resolution that an observer could understand the essence of each model. A few sentences should be able to explain what each model would do in practice
+			- A model helps everyone in the team make sure we all agree on the definition of the problem
+			- Understand the benefits and outcomes of each model produces
+	- Examine the models
+		- Integrative thinking leverages the tension between models to create something new.
+		- After articulating each model, the next step is to look at the models together, explicitly holding them in tension via series of exploratory questions.
+			- How are the models similar and different?
+			- What you consider most valuable part of each model.
+			- What are the benefits of each model.
+	- Explore the possibilities
+		- After the models are defined and examined, we seek to integrate them into a new, superior way.
+			- How can we create a new model using one building block (that we like) from each opposing model, while throwing away the rest of the model (what we don'tlike)?
+			- Under what conditions could a more intense version of one model generate one vital benefit of the other?
+			- How might the problem be broken apart in a new way so that each model could be applied in whole to distinct parts of the problem?
+	- Assess the prototypes
+		- The final stage of the integrative process is to test your prototype solutions in order to discard or improve them.
+		- One way to test is to share ideas is to people as clearly and concretely as possible
+		- Design tests that will help you see how well each possibility would work in practice and how effectively each possibility would solve your problem
+	- Understanding opposing models—even those that make us deeply uncomfortable—is what the first stage of integrative thinking process is all about.
+		- The problem with opposing models is that sometimes only one of the models feels like the right answer.
+		- It's not bad, but actually good to uncover and create [[disagreement]]s to prevent [[groupthink]]. Minority views make us think harder
+		- Outsiders can often highlight embedded assumptions and mental models that experts in group cannot see. Don't assume and place expert opinions on a pedestal that they can no longer be questionable.
+	- Identify the Problem
+		- Frame and articulate the problem and ask your self is it worth solving? A problem is worth solving if the solution matters.
+	- Identify two extreme and opposing models
+		- Two opposing models allow for disagreements, tension, and challenge us to creatively think through each model or option.
+			- We can use disagreement to help us understand the real issue and potential issues.
+		- Two models that are opposites are more easily understood with less resources and time compared to investing understanding in many models.
+		- > Only when we engage in the constraining consideration of opposites—each of which has value but cannot be adopted at the same time—that we can gain helpful insights.
+		- When in a state of consideration, rather than evaluation (thinking about what each model is, rather than evaluating whether each model is good or bad), provides us the time and space to challenge assumptions and provoke new thinking.
+		- When we push the two models or options to opposite extremes, we eliminate compromise, a solution that contains the two extremes. [[integrative thinking]] isn't about doing "both" but rather finding an answer that takes the best of both to produce outcomes that are preferable to existing ones. #blck:grey
+			- Compromises are less helpful in creating a better answer because the effects of the different models are meshed together and it becomes hard to fully understand each model individually.
+			- Be specific in framing the problem to come up with well defined extreme models. The opposing models should be extremely distinct ways to go about solving our specific problem.
+	- Sketch the models
+		- Describe each of the models in enough detail that an observer can quickly understand the essence of each one. Use bullet points, sentences, or pictures.
+	- Define how the models work
+		- Uncover all the positives of each models and focus only on the positive , ignoring the negatives
+			- Citing negatives can easily shut down consideration of a given model; if a particular drawback seems insurmountable, it is hard to continue tot take that model seriously and to understand what might be valuable if the drawback to be overcome
+			- To create a new answer, it's essential to understand the virtues, or what's best of each model
+			- Focusing on the positives enables a more productive group process
+		- Don't consider the negatives early, but later in the process
+		- When exploring the benefits of the models, you work in sequence and attempt to fully understand the model without evaluation and judgment. We attempt to forget, for a moment the existence of other models. In this step, you do all you can to avoid judging or evaluation. The task isn't to determine which model is best; rather, it's capture what a model offers that is worth having and how those valuable outcomes are produced.
+	- Think of the key players
+		- Who matters to the decision?
+		- Who has to support the new answer?
+		- Who is the most affected by the choice?
+- Templates:
+  collapsed:: true
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FbvKNM2UK_y.png?alt=media&token=32183fd2-a85a-4157-bdad-f375286d2c57)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FGSVu7E8dIo.png?alt=media&token=8038ac9a-7add-44bd-976d-88d5807ad60b)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F2GkLBL9VD8.png?alt=media&token=e252a24a-8437-4b23-a801-12fcd5ffdcc0)
+- collapsed:: true
+  6. Examining Models
+	- Ask questions about the benefits we most value: What are the real points of tension between the models in general, and between the benefits we most value?
+		- How are the most value benefits produced, and how might we attain these outcomes in a different way?
+		- **Examine the Points of Tension**
+			- The opposing, seemingly mutually exclusive points
+			- What do we notice is similar in the models?
+			- What do we notice is different between the models?
+			- What do we value most from the two models?
+		- **Our Assumptions**
+			- Examine our underlying ideas and principles that we think are true but may not always hold. ^^Question our assumptions^^.
+				- Question the needs, asks, and requests of our customers. Do they really need it? Does their request make sense?
+		- **Examine the Cause and effect**
+			- What are the forces that drive the most important outcomes, the benefits we most value?
+			- Understanding causation has predictive power; if you can see the causal forces in action, you can better predict outcomes when those forces are present. #blck:yellow
+			- **Draw out your causal models of the identified critical benefit. **Example: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FCxj9NiNHcR.png?alt=media&token=236a51d0-a9c7-4950-bf0a-e1837d9b7fad)
+			-
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Fs8cpk4uhBY.png?alt=media&token=822d1e1f-be92-41d0-8e1a-525cd291c3e3)
+	- Pros/Pros List ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Ff7dybf0eP4.png?alt=media&token=d915d428-1457-415b-9639-91177faf9b9d)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FPpJkGBMtuH.png?alt=media&token=f54b27c7-d55f-4c12-b305-eead32b07346)
+	- The next steps of examining the models, after determining what benefits you most value, is to ask new questions about tensions, assumptions, and cause and effect relationships. Your goal is to disrupt your current thinking about opposing models. #blck:grey
+	- Taking a step back
+		- Returning to the problem allows:
+			- Ground the rest of the discussion in the problem space looking for a specific solution to specific problem, instead of general solutions
+			- Provide an opportunity to reframe the problem based on new thinking. Often the reframing is a refinement of the original problem. Example. __How might we make TIFF more sustainable__ to __How might we use inclusivity to get the buzz that will make us sustainable__?
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FweXTqF8jhr.png?alt=media&token=3cf98d6d-44f3-4084-b35e-a8ee0c48cf29)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F6zyppEKBBO.png?alt=media&token=899ec1e4-085b-430d-8cd0-17d81f8ed98f)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Ff4T5iyRZqE.png?alt=media&token=ff2c256d-da59-4bc6-9475-71f755e8285e)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F1rX37K3ZvB.png?alt=media&token=5233d7db-eccf-40ae-8f2c-64aad36cc83d)
+	- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Ff71-spkM6m.png?alt=media&token=f0aeab26-3207-4c1a-ba24-8d7e81bf59e6)
+- collapsed:: true
+  7. Generating Possibilities
+	- **Hidden gems** - finding the benefit of a model
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Fi0kSjJaZAq.png?alt=media&token=980f8d9f-643f-4eba-8400-bdbaf106985e)
+	- **doubling down** - increase your bet on your favored model, extending or intensifying the model you like the most, in such a way that you get one important benefit from the opposing model
+		- Causality is key. To find a leverage point and integrate between the two models, we need to identify a model we truly love but that is missing one critical element.  (The element is what prevents us from simply choosing this model outright)
+		- Once we understand our favored model and identified the one important missing benefit from the opposing mode, we need to understand how the single benefit is produced in its current context and how it can be reproduced under different conditions, in an extended version of our favored model.
+			- Causal modeling can be a key tool to generate answers to this approach.
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FkBF7_8b_Mq.png?alt=media&token=bb95b82a-56a0-48a1-af20-bdd4d92a2672)
+		- The double down integration is best used when you have initial conditions that favor it—when you truly favor one model over another but value one vital benefit of the other.
+	- **Decomposition**
+		- Seek to break apart the problem space in a new way that lets us apply the existing opposing models separately, to discrete parts of the problem, without diminishing their impact or compromising between them.
+		- A decomposition integration rests on us knowing when and how to apply each model to its best advantage. Rather than choose model A or B to apply to the entire situation or at all times, we base a decomposition on a on applying the models together by distinguishing when and how each part can be applied to the decomposed distinct elements of the problem space.
+			- This mean breaking the the problem space apart into elements that are traditionally considered part of a whole.
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FtWdpMmIrq_.png?alt=media&token=a0213a43-7cd5-427b-a087-d1a7c4fd51dd)
+			- For a decomposition to work there must be a meaningful dividing line in the problem into distinct parts, each understood deeply. We need a new understanding of the problem, as opposed to simply trying to do both, which leads to failure attempting to balance opposing models in real-time. We want to set our aspirations higher— to create a new, great answer.
+	- **Think Creatively**
+		- Use all three pathways of hidden gems, doubling down, and decomposition to generate multiple possibilities
+		- Defer judgment early in the ideation phase. All ideas are good ideas early in the problem solving phase
+		- Build on the ideas of others.
+- collapsed:: true
+  8. Assessing the Prototypes
+	- Truly new ideas will be met with skepticism and criticism. It's a natural instinct for people to prefer the comfortable and safe choice, over unproven ideas.
+		- Proving an ideas can be deadly to innovation, because of course, new ideas are not proven in advance. If an idea is truly new, there will be no demonstrable data to prove it.
+	- We need a model to consider new ideas with the ability to predict their outcomes. We need to realize that (1) just because something can't be proven doesn't mean we can't understand it; (2) just because we don't know for sure doesn't mean we can't know anything and (3) just because we don't have data to prove an idea doesn't mean we can't find ways to generate the data we need to improve our odds of success.
+		- Any integrative solution or possibility is a choice about the future that we make in hopes that it will be better than the status quo. We can't know for sure that it will work before we try it, and we can't really know, even after it is a success, whether some other choice might have been better.
+	- Three steps to assessing prototypes #[[communicating ideas]]
+	  collapsed:: true
+		- 1. Concretely define each possibility, more comprehensively articulating how it might work
+			- To properly communicate possibilities and solutions to others make abstract ideas concrete
+				- Our ideas makes sense to us, so we don't push the boundaries and challenge connections that would make the weak ideas fail or would extend good ideas into great ones
+				- Gaps are opportunities to clarify and refine what the possibility could be. Possibilities become more richer as they are made more concrete.
+				- **To clearly understand and communicate an idea use storytelling, visualizing, and modeling **
+					- For storytelling focus on how each possibility would be experienced by real people.
+		- 2. Understand the logic of the possibilities, asking under what conditions each possibility would be a winning integrative solution
+		- 3. Design and conduct tests of each possibility, generating needed data over time.
+	- Understand the logic
+	  collapsed:: true
+		- Once we are clear about what each possibility is and what it isn't, we can shift to explicitly assessing them. For each of the possibilities, think about the different stakeholders and ask, Under what conditions would this possibility be a winning solution to the problem for this stakeholder?
+		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2FoQvAlCtelW.png?alt=media&token=eb1e9fcf-dd8f-4b74-99bb-07d332523654)
+	- Design and Conduct Tests
+		- The next step is to determine to what extent the conditions you've identified exist now or could be made to exist in the future.
+		- Use falsifiability: instead of trying to prove your possibility will work, your tests should focus on trying to make the possibility fail
+			- You can do this by looking for weaknesses in your possibilities (where your conditions don't hold)
+				- ^^These tests should focus on falsifying, on looking for ways to prove that the conditions you've identified don't exist, and pushing to avoid the confirmation bias trap. ^^
+	- collapsed:: true
+	  9. A way of Being in the World
+		- [[Transparency]] builds trust
+		- Modes of Learning
+			- [[Single Loop Learning]]
+				- Is myopic because it narrowly focuses on the proximate antecedent, the action we took, while ignoring a more potent causal force: our thinking, including the reasons, rational and emotional, that we did what we did. In the face of a negative experience (or positive one), we rarely go back to examine our thinking, let alone to probe the stance that informed our thoughts, to see how they may have contributed to the outcome.
+				- Single-loop learning is suboptimal in situations that produce success but is disastrous in the face of failure. The single-loop mode tends to leave us stuck, confused, and floundering
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F9_V0MGbIpK.png?alt=media&token=0a93aa5c-d272-4b85-b00f-0a09c56c1f0a)
+			- [[Double Loop Learning]]
+				- requires that we take a step back to reflect on the reasoning that produced our action, exploring the thinking that helped produce the outcome. Once you get to why then real thinking can occur.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2Fcvcb9-xPVD.png?alt=media&token=25cd9b88-2dea-4311-bce9-11cf88e5f4d8)
+			- Your [[stance]] or [[mindset]]
+				- We need to think about our own thinking and explicitly link our stance to our outcomes. It means that we need to ask, What did I think that led me to take this action? And what stance would produce that thinking? To what extent is my stance helpful to me in producing the outcomes I desire? If it is unhelpful, how might I go about shifting my stance?
+				- It is important to understand our stance. Ask what you think and why you think it.
+				- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FReligion%2F5WghYhhfox.png?alt=media&token=bbbbf1d1-11c8-4c4f-921e-77f1a0c28339)
+				- An [[Integrative Thinking Stance]]
+					- The world is...
+						- 1. Complex, so we understand it through simplified models. These models are constructions and (at least a little bit) wrong.
+						- 2. Understood in different ways by different people. These opposing ways of seeing the world represent an opportunity for us to improve our models.
+						- 3. Full of opportunity to improve our models over time, as long as we are open to the idea that a new answer is possible.
+					- __Therefore, my job is to__ ..
+						- 4. Get clearer about my own thinking, opening it to inquiry so that I can better understand my own model of the world.
+						- 5. Genuinely inquire into opposing views of the world to understand and leverage those opposing models.
+						- 6. Patiently search for answers that resolve the tension between opposing ideas and create new value for the world.
+					- In integrative thinking, we are never truly finished with our models. Every model we hold, no matter how much we value it, is still only a model. And that model is flawed.
+						- Rather than accepting orthodoxy , in integrative thinking we question the premises of that orthodoxy and push to understand the way in which it's imperfect.
+						- Our own models are limited, but it can be hard to understand how they are limited and to improve them, without seeking to understand opposing views of the world.
+							- > "You don't want to sit around with consensus and all agree. That's the biggest waste of time in the world."
+						- Integrative thinking is fostered by a belief that better answers are possible, even if they are not immediately evident.
+					- Failure and being wrong are great opportunities to correct your models and stances.
+					- Be genuinely curious about other opposing views to understand and leverage those opposing views. Engaging in the complexity of holding multiple, possibly opposing views allows us to create great  choices.

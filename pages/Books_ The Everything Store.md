@@ -6,8 +6,11 @@ title: Books: The Everything Store
 - tags: #[[📥inbox]]
 - related tags: [[Books - Working Backwards]] + [[Jeff Bezos]] + [[Amazon.com]]
 - #[[Literature Notes]]
+  id:: 64435250-87ed-4423-9441-3a995d576979
 	- [[Find smart people to work, create, and build things together]]
 	- [[You have to care about the details if you want to build a great solution]]
+	- [[Don't copy other people's solutions]]
+	- [[Carefully consider between the priorities of your customer and internal stakeholders in your organization.]]
 - Takeways
 	- Jeff Bezos is often lauded for his great decision-making skills but he actually made a lot of mistakes and failures, often costly, that could have been preventable if he listened to the people around him. Did the lessons learned from those experiences been acquired without that experience through listening to others around him or research or theorizing?
 	  id:: 9e81370a-6659-458d-91eb-18bf22d65607
@@ -19,7 +22,7 @@ title: Books: The Everything Store
 	  id:: dfef921e-88f6-499e-93ab-09f421eb4bce
 	- #mission Amazon's corporate mission "is to raise the bar across industries, and around the world, for what it means to be customer focused."
 	  id:: 437e0140-d66e-43a1-be75-a69ca613165d
-	- #simplicity #simplify Jeff Bezos will take a red pen to press releases, product descriptions, speeches, and shareholder letters, crossing out anything tat does not speak simply and positively to customers.
+	- #simplicity #simplify Jeff Bezos will take a red pen to press releases, product descriptions, speeches, and shareholder letters, crossing out anything that does not speak simply and positively to customers.
 	  id:: 2676949f-1133-4fda-9284-e21a9b70a147
 	- A plaque in Amazon's headquarters reads "There is so much stuff that has yet to be invented. There's so much new that's going to happen. People don't have any idea how impactful the Internet is going to be and that this is still Day 1 in such a big way.
 	- Jeff believes Amazon is successful because they are
@@ -43,8 +46,8 @@ title: Books: The Everything Store
 		- Amazon also made mistakes in hiring new executive manager Galli from Black and Decker who inflamed Amazon employees
 - Chapter 4 - Milliravi
 	- Amazon had a very customer centric framework
+		- Amazon Marketplace upset everyone because it created lower priced used goods exposure in the pages of the new suppliers' page. Jeff didn't care because he was focused on giving the customer as much choice as possible even if it made his suppliers irate
 	- After the dot.com bust, Jeff Bezos had to cool down his growth centric mindset and growth ideas, that were obviously failures (buying all kinds of toys instead of only buying the toys that were the most popular)
-	- Amazon Marketplace upset everyone because it created lower priced used goods exposure in the pages of the new suppliers' page. Jeff didn't care because he was focused on giving the customer as much choice as possible even if it made his suppliers irate
 	- The editorial team that brought personalization and recommendations to customers home page was replaced a computer algorithm based on data and statistics
 - Chapter 5
 	- Jeff Bezos amassed wealth do accomplish his dreams of going into space. This goal started all the way back to his childhood and high school where he had his valedictorian speech which lofty goals
@@ -58,6 +61,7 @@ title: Books: The Everything Store
 		- Amazon fired middle managers, Jeff wanted independent teams who were entrepreneurial saying that autonomous working units are good, things to manage working units are bad.
 			- However, this is most useful for software development where the process to develop a solution was chaotic. Independent teams may not be needed for processes that have little variability and is repetitive.
 	- #processes Amazon determined that their fulfillment centers were using a process used in warehouses and distribution centers that solved large orders, and not the small custom orders Amazon dealt with. Amazon decided that they have to reinvent the process and build a custom solution tailored specifically to their problem
+	  id:: 64435250-1e15-47be-90b2-d2a34fb6f87a
 	- #PowerPoint #communication Jeff Bezos believed that PowerPoint concealed lazy thinking. Jeff Holden said that, "PowerPoint is a very imprecise communication mechanism, it is fantastically easy to hide between bullet points. You are never forced to express your thoughts completely"
 	- In solving the problems of adding a new category to the Amazon store like toys or jewelry, Jeff would choose people who didn't have any experience on
 		- Jewelry was difficult to solve for Amazon and was only modestly successful. Jeff had thought his vision for lower prices for everything was generalizable to everything but it was not. Amazon would turn its attention to apparel and other categories in the future

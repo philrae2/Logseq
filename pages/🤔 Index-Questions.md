@@ -1,7 +1,3 @@
----
-title: 🤔 Index-Questions
----
-
 - Top Questions
 	- ((ee15e7cc-27aa-46b3-a10f-62ad3d4acdaf))
 	  id:: 62dc5cc7-3803-489d-a9ce-8d07528bacfa

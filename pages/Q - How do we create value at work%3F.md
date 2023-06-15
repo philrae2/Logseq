@@ -1,5 +1,5 @@
 title:: Q - How do we create value at work?
-tags:: innovation, value
+tags:: innovation, value, [[Professional Development]]
 
 - Inbox - Related Notes
 	- ((63a28de0-c42d-4748-9555-304a3906b0c1))

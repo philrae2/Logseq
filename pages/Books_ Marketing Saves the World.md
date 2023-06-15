@@ -4,13 +4,14 @@ supermemo:: inProgress
 
 - **author:** Bill Matassoni
 - **status:** #SecondReview
-- **link:**
+- **link:** [[Marketing Saves the World (highlights)]]
 - #[[Literature Notes]]
 	- [[Market yourself as someone who creates value and excellence by identifying new dimensions of value]]
 	- [[Make better decisions by finding new dimensions of framing and viewing a situation]]
 		- [[To see new dimensions or frames of a situation we must change twice]]
 	- [[Demand excellence from yourself through better thinking and judgment]]
 	- [[To build success provide not only knowledge and skills but also leadership and ownership]]
+	  id:: 6443524d-a591-42d8-8ffb-0093b296013a
 	- [[Consider convenience as a new dimension of advantage]]
 	- [[Consider emotional involvement, reputation, authenticity and trust, in the product or service as a prime competitive advantage]]
 	- [[If you want to own an idea you may have to give it away]]
@@ -29,9 +30,9 @@ supermemo:: inProgress
 		  id:: 6138eedb-0ae7-421c-bcbf-af65c7dc78f4
 		- What I learned from the experience is ^^you need to look for new dimensions and that often those dimensions can be very different from what currently sells your product.^^ But what I didn’t learn then was new dimensions require more than just a new business model. ^^They require you to change your identity.^^
 		  id:: b4637816-bf90-4ab7-8600-fbfb22bfc1e2
-		- **First, the market-space is malleable. You can change it dramatically by reconceiving its dimensions. Sure, consulting is about process and results, but it can be about other things too—other things that not only differentiate and put you at the top of the pack, but put you into a whole new pack. 
+		- First, the market-space is malleable. You can change it dramatically by reconceiving its dimensions. Sure, consulting is about process and results, but it can be about other things too—other things that not only differentiate and put you at the top of the pack, but put you into a whole new pack.
 		  id:: aa36be36-4473-4bef-97b1-fe43b1400339
-			- Good marketers think hard and creatively about what those dimensions might be and how they can use them to bend the space and to bend it to their advantage.**
+			- Good marketers think hard and creatively about what those dimensions might be and how they can use them to bend the space and to bend it to their advantage.
 			- You don't have to share the pie but rather if you can find or create a new value stream you can enlarge the piece of the pie.
 		- **“Don’t aspire to be the best or the biggest; aspire to be unique.”**
 		  id:: affacfca-ad3d-4e3d-8c28-31bffc8839a2
@@ -43,7 +44,7 @@ supermemo:: inProgress
 	- Think of a matrix for people with high blood pressure. The horizontal, or x-axis, is unaware/aware. The vertical, or y-axis, is not treat and treat. Treatment needed to be a bigger part of our message both to reinforce and regain the right behavior. To get people to stay on treatment, we added a third dimension: emotion and love of family.
 	- ^^You can bring emotion into any concept, product or service, even if it’s bug spray. The real challenge is to combine thinking and feeling.^^
 	- **McKinsey, at least the senior partners who hired me, wanted me to succeed. The leaders were tough, demanding, widely capable men who had very high standards of performance.** ((f26f19c8-b86c-44e9-92f9-42fdd138916f))
-	- First, I got my personal strategy roughly right. Don’t hang around headquarters and lecture the partners about marketing—what little I knew. Pick a few of them to work with and make good things, new things, happen. I went out and embraced McKinsey and it hugged me back.
+	- **First, I got my personal strategy roughly right. Don’t hang around headquarters and lecture the partners about marketing—what little I knew. Pick a few of them to work with and make good things, new things, happen. I went out and embraced McKinsey and it hugged me back.**
 		- Note: create value for a few select leaders rather than dilute your output and value by trying to impress everyone
 	- ^^I saw my role from the outside in, as a good marketer should, and tried to keep my partners honest about the quality of their thinking.^^ I remember once Fred insisted that McKinsey had developed the idea of purchasing power parity. The next morning, I placed a couple of articles on his desk that proved him wrong.
 	  id:: 9090cc10-8228-437c-9f17-c2964cf7fbeb
@@ -52,9 +53,10 @@ supermemo:: inProgress
 		- Note: **understand your problem space deeply**
 		  id:: 7c35d905-7d6d-44f6-b679-5c5feb462b4b
 	- ^^You should start by saying that when someone here is deciding to accept a speaking engagement, he should first ask himself if he has anything worthwhile to say.^^
-	- What, after all, do consultants offer? Three things: people, skills and knowledge. McKinsey did not offer solve-the-problem methodologies as our competitors did. Instead, our editorials on issues that mattered to senior management positioned us as leaders, not consultants.
+	  id:: 6443524d-3fc9-4ebe-8b84-04658375de88
+	- What, after all, do consultants offer? Three things: people, skills and knowledge. **McKinsey did not offer solve-the-problem methodologies as our competitors did. Instead, our editorials on issues that mattered to senior management positioned us as leaders, not consultants.**
 	  id:: 4e2ddeaa-5449-4244-94c1-4891cb9385cf
-		- Note:offer leadership not just your knowledge or skill sets
+		- Note: offer leadership not just your knowledge or skill sets
 		  id:: 60c80cf3-1c33-425a-9640-2249e67a2fec
 	- Second, **to actually change the perspective and position of your firm, whether you consult or make soda pop, you probably need to do three or four things that somehow add up to a coordinated and sustained effort**. 
 	  id:: 62077f8b-426a-49db-bbfe-80d6d2a842c0
@@ -94,7 +96,7 @@ supermemo:: inProgress
 	- **McKinsey had a culture of contribution. It was committed to measuring the soft stuff. For example, the members of the personnel committees would regularly stop by to see me to talk about the value of an idea or article. Was it new, did it attract clients, did it yield real insight and suggest new strategic options? It wasn’t easy, but they cared. They cared about mentoring as well and asked pointed questions. They cared about the quality of our relationships with clients’ senior management. The committees would personally visit client CEOs and ask questions about how many people from outside the local McKinsey office were brought in to the work because of the relevance of their experience or knowledge. By the mid-’80s, during Ron Daniel’s fourth term as managing partner, revenues were a secondary factor—honest.**
 	- Trust was a dimension we also explored. Carl championed an idea that BCG’s defining logic was insight, impact and trust. Trust is the opposite of playing hardball, but George and I thought they might go together. Sort of “me and Julio down by the school yard.”** Could you trust your consultant to push you hard yet respect your organization and its top management? McKinsey was trusted. Bain was not because of bad press about some of its clients where they were perceived to have pushed people around or replaced them. But trust is a tricky dimension.** I once asked Ron Daniel if McKinsey served the company or the CEO. Ron didn’t really answer and did not want to get into the issue. We serve both, he said. But we had positioned ourselves as a leadership factory. The answer seemed clear to me and gave BCG the chance to claim it served the company, not just someone’s career. Fine, but which position on the trust dimension gets you clients?
 	  id:: cc664140-67f3-4d0a-a442-fc7279c4d0c3
-	- Don’t Let People Raise Obstacles to Change Unless They Also Propose Solutions #[[skin in the game]]
+	- Don’t Let People Raise Obstacles to Change Unless They Also Propose Solutions #[[skin in the game]] [[Q - How do we create value at work?]]
 	  id:: e016ed53-f564-4987-bac3-c7c08f1a73be
 		- Nobody, as far as I am concerned, should be allowed to bring up a problem facing a turnaround without also offering options for bypassing the problem. Naysayers are a drag on and sometimes the death of successful turnarounds. That’s why some people who started out with us are not at this dinner party. Many companies concentrate on finding the right people. It is just as important, sometimes more so, to get rid of the wrong ones.
 		  id:: 2306b6f5-3b6f-46c4-b232-0d8a9b13d9c9

@@ -12,6 +12,7 @@ tags:: Strategy #📥inbox
 	- Chapter 1 - Crossing the Hellespont
 		- [[Philip Tetlock]]'s book researched the types of people who were good at predicting and forecasting the future. The differentiator was found in the style of thinking by people. The better forecasters were people who were self-proclaimed foxes - people who knew a lot of different things rather than people who knew a lot of one thing.
 		  id:: 62aa1979-afd0-4926-a6bc-558c84f71fa1
+		  collapsed:: true
 			- ((6266039a-1cd4-4c6b-b0c9-ab802c560c25))
 			- In contrast the poor forecasters brushed aside criticism, aggressively deploying big explanations they displayed a bristly impatience with those who do not get it.
 			- He proposed that self-critical thinkers are better at figuring out the contradictory dynamics of involving situations, more circumspect about their forecasting prowess, more accurate in recalling mistakes, less prone to rationalize those mistake, more likely to update their beliefs in a timely manner.
@@ -36,7 +37,6 @@ tags:: Strategy #📥inbox
 			- > Why, then, did the Americans invest so much in Vietnam when, in comparison with the whole of their interests at the time, so little was at stake there? Thucydidean resemblances, I think, suggest an answer. Megara might look like a trifle, Pericles told the Athenians in 432 B.C.E., but if they yielded on that small matter “you will instantly have to meet some greater demand.” “Without the United States,” John F. Kennedy warned a Texas audience on the morning of November 22, 1963, “South Viet-Nam would collapse overnight,” and American alliances everywhere were equally vulnerable. There was no choice, Pericles insisted, but to “resist our enemies in any way and in every way.” For, as Kennedy added: “We are still the keystone in the arch of freedom.”
 				- However distant they may be in time and space, statements like these perch precariously across scale. For if credibility is always in doubt, then capabilities must become infinite or bluffs must become routine. Neither approach is sustainable: that’s why walls exist in the first place. They buffer what’s important from what’s not. When one’s own imprecisions pull walls down—as Pericles and Kennedy did when they dismissed the possibility of giving anything up—then fears become images, images become projections, and projections as they expand blur into indistinctiveness.
 	- Chapter 3 - Teachers and Tethers
-	  collapsed:: true
 		- Master Sun advises, generals should act expediently in accordance with what is advantageous. Wise leaders should seek out opportunities that puts them in positions of strength and the problem at its weakest. They'll sail with the winds, not against them. They'll skirt swamps, not slog through them. They'll avoid battles until they're sure they can win them.
 		- When making decisions consider how costly the affects of the decision is and the actions taken, not only in the present but the costs for the future as well.
 			- > "War is a matter of vital importance to the State", Sun Tzu warns, not to be embarked upon "without due reflection."

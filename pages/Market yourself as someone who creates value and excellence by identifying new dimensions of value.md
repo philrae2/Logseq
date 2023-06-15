@@ -11,6 +11,7 @@ tags:: #[[Literature Notes]], career development, problem solving, Career Moat
 			- ((aa36be36-4473-4bef-97b1-fe43b1400339))
 			- ((affacfca-ad3d-4e3d-8c28-31bffc8839a2))
 - **Note:**
-	- Ignore authority, titles, and authority. Respect only excellence and quality. Therefore also market yourself as someone who delivers on both.
+	- Ignore heiarchy, titles, and authority. Respect only excellence and quality. Therefore also market yourself as someone who delivers on both.
+	  id:: 6443525f-6fa6-4d3e-88d7-7a2380d111e1
 - **Related Notes:**
 - **Projects:**

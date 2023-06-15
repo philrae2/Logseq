@@ -2,7 +2,6 @@
 	- [[q: How to listen]]
 - Notes
 	- How do you make feel people heard?
-	  collapsed:: true
 		- By listening and then actively acknowledging what they say or even better what their actual thoughts are.
 		- When people have a feeling or thought they want to be heard. But if you don't make them feel heard or listened to they will feel resentment.
 		- Acknowledge what they said.
@@ -25,19 +24,19 @@
 	  Second, ask the person to express what their feelings and thoughts are. Really be present with the person you’re listening to. Put away any distractions. Make it your entire intention to listen fully to understand, not to talk/respond right away.
 	  
 	  Third, acknowledge what they said by …
-	- If they are trying to give you feedback (or are simply getting angry at you), then ...
-	  
-	  Confirm that you heard it correctly by saying, **"I think I heard you say …" **Summarize what they said or wrote. Then say, **"Is that right?" **If they say, **"Yes,"** you are done. 
-	  
-	  If they say, **"Not quite,"** ask them to repeat it until you can summarize it correctly. 
-	  
-	  Once you have correctly summarized what they said, you can even go deeper by asking,** "Is there more?"  **
-	  
-	  You can keep going deeper and deeper by repeating this process until the person says “No, that’s it.”  If you allow the person to go all the way down to the core issue, they usually have an ah-ha moment that almost resolves the issue on its own.
-	  
-	  If you want to go to the advanced level when repeating back, also describe to them the feeling they are experiencing. Do this by feeling the emotions yourself and expressing the thoughts in your head if you were in their situation. Go big here. Exaggerate the thoughts. Use swear words. Remember that they fear you will get angry if they say what they really think (and then become vindictive). So they have toned down their thought when saying it. If you tone it down, even more, they will not feel heard. But, by contrast, if you amp it up, they will likely say, "Well, it's not that extreme." But they will feel heard. And they will be safe seeing that even though you thought they were saying the amped-up version, you didn't get angry.
-	  
-	  Example:
+		- If they are trying to give you feedback (or are simply getting angry at you), then ...
+		  
+		  Confirm that you heard it correctly by saying, **"I think I heard you say …" **Summarize what they said or wrote. Then say, **"Is that right?" **If they say, **"Yes,"** you are done. 
+		  
+		  If they say, **"Not quite,"** ask them to repeat it until you can summarize it correctly. 
+		  
+		  Once you have correctly summarized what they said, you can even go deeper by asking,** "Is there more?"  **
+		  
+		  You can keep going deeper and deeper by repeating this process until the person says “No, that’s it.”  If you allow the person to go all the way down to the core issue, they usually have an ah-ha moment that almost resolves the issue on its own.
+		  
+		  If you want to go to the advanced level when repeating back, also describe to them the feeling they are experiencing. Do this by feeling the emotions yourself and expressing the thoughts in your head if you were in their situation. Go big here. Exaggerate the thoughts. Use swear words. Remember that they fear you will get angry if they say what they really think (and then become vindictive). So they have toned down their thought when saying it. If you tone it down, even more, they will not feel heard. But, by contrast, if you amp it up, they will likely say, "Well, it's not that extreme." But they will feel heard. And they will be safe seeing that even though you thought they were saying the amped-up version, you didn't get angry.
+		  
+		  Example:
 	- What was said or written:
 	- *"I wish that you wouldn't act in anger."**
 	  

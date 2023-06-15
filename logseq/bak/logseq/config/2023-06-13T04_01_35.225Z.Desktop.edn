@@ -92,7 +92,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts {:editor/up "shift+ctrl+up"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["Templates" "🏠Home" "📅 Resonance Calendar" "🤔 Index-Questions"]
+ :favorites ["🏠Home" "Templates" "📅 Resonance Calendar" "🤔 Index-Questions" "☑️ Guides - Templates and Checklists" "roam/templates"]
  :ui/show-brackets? false
  :publishing/all-pages-public? true
  :feature/enable-journals? true

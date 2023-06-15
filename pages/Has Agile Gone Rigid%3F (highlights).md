@@ -1,0 +1,22 @@
+title:: Has Agile Gone Rigid? (highlights)
+author:: [[Palantir]]
+full-title:: "Has Agile Gone Rigid?"
+media:: #articles
+url:: https://blog.palantir.com/how-we-do-agile-2-70032b3bffd?source=userActivityShare-f877a10626da-1671651719
+
+- Highlights first synced by [[Readwise]] [[2023-05-16]]
+	- By focusing on delivering value early and often, rather than following a strict plan (only to realize too late that the team is behind schedule and the software as planned misses the mark), organizations could react and adjust earlier and thus be more “nimble” or “agile”. ([View Highlight](https://read.readwise.io/read/01h0jnxp1da4dg7q7v5qch2xwx))
+	- Then we started “doing Agile” (specifically Scrum). We started working in two-week iterations, focusing on fewer things, but things that actually mattered. Through daily stand-ups, we became more attuned to what others were working on, and blockers were raised and removed. When a sprint demo neared, we pushed ourselves that little bit extra, focusing on actually finishing (and deploying to production) what we were working on. We talked about the concept of “waste” and the entire team realized that a feature that was not in production was delivering no value. ([View Highlight](https://read.readwise.io/read/01h0jp27y12n458e7agtscn1rk))
+	- I believe that the Agile practices described in [Henrik’s book](https://www.crisp.se/bocker-och-produkter/scrum-and-xp-from-the-trenches) worked well because:
+	  
+	  •   We had a strong **product owner** who was enthusiastic about the product and spent a lot of time thinking about and planning what to build next, and why. (Notably, the product owner did not prescribe **how** to build it.)
+	  •   In planning, the team took a small subset of this plan and **focused** narrowly on it. By having the entire team in the planning meeting, and the team committing to trying to finish something in an iteration, we felt real **ownership**.
+	  •   Inevitably, when you start talking about blockers and report what you are working on each day, many **problems flowed to the surface**. Instead of blaming Agile (“before we did Agile, we never had these problems!”), these issues were **dealt with by a compassionate** Scrum Master (Henrik in the beginning, but other people as they grew into the role).
+	  •   We had a **few small teams** that were all located in the same building, in a fairly small company. The teams also consisted (mostly) of **skilled and motivated** people.
+	  •   We **focused on technical skills**, such as learning about [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) (and testing in general). Reading [Working Effectively with Legacy Code](https://www.pearson.com/us/higher-education/program/Feathers-Working-Effectively-with-Legacy-Code/PGM254740.html) was life changing for me in this period.
+	  •   By having daily stand-ups, we went from not really knowing what the person next to you was working on, to pairing with that person. By having **boards on the wall**, not only the team, but other members of the **entire company could see what was going on.** ([View Highlight](https://read.readwise.io/read/01h0jp922v099exdp1r4ezzjb5))
+	- And so on. However, a great team can always achieve better results through an increased focus on the few things that are important, by focusing on finishing things before starting new things, and by continuously introspecting and adapting. In my opinion, a team that does the above is Agile, whether they want to call themselves that or not. ([View Highlight](https://read.readwise.io/read/01h0jty4aah0303jkw5wx3ej4m))
+	- On the flip side, for a team that is not high functioning and not motivated, no Agile practices in the world will help, especially not if forced upon them.
+	  
+	  •   Sprint planning, stand-ups, and retrospectives only work for a team that’s engaged. When the team is just going through the motions — they’re not listening to one another, they’re not bringing ideas for improvement, there are a lot of blank stares in the room, etc. — meetings are a further waste of their time.
+	  •   If there’s no clear backlog or strong product owner with a relentless focus on what to build next, the backlog will just be a mishmash of random things that might need to get done. This essentially degrades back to “fix all bugs” scenario mentioned above and team members will often find themselves demotivated as a result. ([View Highlight](https://read.readwise.io/read/01h0jtzazs8jwqv566erqm5fct))

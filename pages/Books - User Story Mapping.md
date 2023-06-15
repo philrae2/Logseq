@@ -2,7 +2,7 @@
 title: Books - User Story Mapping
 ---
 
-- **tags:**
+- tags::  agile, user stories
 - **author:** [[Jeff Patton]]
 - **status:** #[[📥inbox]]
 - **link:** [User Story Mapping: Discover the Whole Story, Build the Right Product 1, Patton, Jeff, Economy, Peter, Economy, Peter, eBook - Amazon.com](https://www.amazon.com/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS/ref=sr_1_1?crid=33IMFE007DJD5&dchild=1&keywords=user+story+mapping&qid=1632446148&sprefix=user+stor%2Caps%2C162&sr=8-1)

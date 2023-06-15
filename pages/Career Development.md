@@ -1,0 +1,27 @@
+- Related Questions:
+	- [[Professional Development]]
+	- [[Q - How do we create value at work?]]
+- How do you define your role in 5 years
+	- How do you define success?
+- What is your brand?
+	- Data Driven
+		- 2.  A mental attribute DiBello calls ‘cognitive agility’, which is the ability to update one’s mental models quickly when presented with disconfirming evidence. ([View Highlight](https://read.readwise.io/read/01h2sannec0f55v763dfv3qgnx))
+		- ((d78e9a81-a180-46a8-84ad-e1ffac81cea9))
+	- How do you want to be seen professionally?
+		- What values are you creating that makes you a valuable resource?
+			- Identify what is valuable for your company. What are the problems and goals of senior leadership.
+		- ((6443525f-6fa6-4d3e-88d7-7a2380d111e1))
+		- [[Market yourself as someone who creates value and excellence by identifying new dimensions of value]]
+	- ((6443524d-a591-42d8-8ffb-0093b296013a))
+- Application
+	- What unique space can you carve in your environment that only you can fill?
+		- ((aa36be36-4473-4bef-97b1-fe43b1400339))
+	- Affecting sustainable change
+		- {{embed ((62077f8b-426a-49db-bbfe-80d6d2a842c0))}}
+	- Consider the emotional aspect of conducting change
+	- Can you inject data-based decision making and refine the decisions within OBI?
+	- Own the problem, not only the solution. Truly understand the problem space.
+- Related Notes
+	- {{embed ((64435263-5457-478f-a212-2a96743d5b1c))}}
+- Related Questions
+	- [[Q - How do we create value at work?]]

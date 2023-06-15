@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["15 minute interview" "Templates" "☑️ Guides - Templates and Checklists" "🏠Home" "📅 Resonance Calendar" "🤔 Index-Questions" "roam/templates"]
+ :favorites ["🏠Home" "🤔 Index-Questions" "📅 Resonance Calendar" "☑️ Guides - Templates and Checklists" "Templates" "roam/templates"]
  :ui/show-brackets? false
  :publishing/all-pages-public? true
  :feature/enable-journals? true

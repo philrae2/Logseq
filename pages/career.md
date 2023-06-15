@@ -1,3 +1,4 @@
+- [[Career Development]]
 - [[quality work]]
 	- [[Q - How do we create value at work?]]
 	- [[q - how do we build success?]]
@@ -6,3 +7,4 @@
 	- [[How to progress through your career]]
 	- [[How to Stay Motivated]]
 - [[q: How to stay passionate about work and not chase promotions, titles, and money]]
+- Tags

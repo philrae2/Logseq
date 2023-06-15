@@ -4,18 +4,15 @@ author:: [[Carolyn Dewar]]
 - #[[Reference Notes]]
 	- Introduction
 		- Six responsibilities of CEOs
-		  collapsed:: true
-			- ![f0008-01.jpg](../assets/f0008-01_1654644403359_0.jpg){:height 507, :width 736}
+			- ![f0008-01.jpg](../assets/f0008-01_1654644403359_0.jpg){:height 409, :width 591}
 			- Despite every CEO's different approaches, every CEO tended  to all six responsibilities and the best CEOs kept all six plate spinning at all times, even if the external and internal environment meant that some needed to be spun faster or slower than others.
 			- The CEO role is the intersection of all [[contradictions]].
 				- Balancing delivery of short-term results versus investing in long-term performance. Taking time to gather facts and do analyses versus moving fast to capture opportunities.
 	- # Direction-Setting Mindset
-	  collapsed:: true
 		- The best CEOs shape the future of their organization, looking out for opportunities to seize rather than guarding themselves from failure. They embrace uncertainty instead of minimizing uncertainty.
 		  collapsed:: true
 			- Because minimizing uncertainty is less likely to net success, successful CEOs tend to take bold approaches.
 		- ## Chapter 1 - Vision Practice
-		  collapsed:: true
 			- MasterCard CEO, Ajay Banga, redefined winning for his company not by fighting for the 15% of electronic purchases but by fighting for the 85% cash transactions. He sought for MasterCard to convert those cash transactions to credit and debit purchases.
 			- Netflix had a bold vision in 2002, not to become the dominant player of DVDs but a distribution platform for film producers and studios. At that time Netflix was only in the business of renting out DVDs through the mail.
 			- ### To find and define vision:
@@ -86,6 +83,5 @@ author:: [[Carolyn Dewar]]
 	- # Organization Alignment Mindset - Treat the Soft Stuff as the Hard Stuff
 		- "Culture eats strategy for breakfast" - Peter Drucker
 		- The best CEOs expects the same quality from their "soft" part of the business as their "hard" stuff.
-		  collapsed:: true
 			- You have to fix both sides of the business as CEO. The easy part is technical; the difficult part is people.
 		- ## Chapter 4 - Culture Practice - Find the One Thing

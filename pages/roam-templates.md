@@ -9,6 +9,7 @@ title: roam/templates
 	- **Quote(s):**
 	- **Note:**
 	- **Related Notes:**
+	- **Counterpoints:**
 	- **Projects:**
 - Book Template
   template:: Book Template
@@ -32,6 +33,7 @@ title: roam/templates
 		- Notes
 		- #[[Literature Notes]]
 - Decision Journal
+  collapsed:: true
 	- Resources:
 		- [[Mental Models]]
 		- [question intake, Online Whiteboard for Visual Collaboration (miro.com)](https://miro.com/app/board/o9J_lV0xg9E=/)
@@ -42,6 +44,7 @@ title: roam/templates
 	- Time:
 	- Decision:
 	- Mental/Physical states
+	  collapsed:: true
 		- Energized
 		- Focused
 		- Relaxed
@@ -73,6 +76,7 @@ title: roam/templates
 	- Review Date (6 months after decision date):
 	- What happened and what I learned:
 - Daily Journal
+  collapsed:: true
 	- Check [[🚧 Projects]]
 	- Make sure you create value.
 	- [[The One Thing]]

@@ -1,1 +1,1 @@
-alias:: [[🤔 Index-Questions]]
+-

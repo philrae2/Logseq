@@ -1,4 +1,5 @@
 media:: podcast
+tags:: innovation
 url:: https://a16z.simplecast.com/episodes/innovation-scaling-amazon-rerun-QB5AhdUd
 
 - Notes

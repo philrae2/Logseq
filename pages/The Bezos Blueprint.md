@@ -4,34 +4,36 @@ tags:: [[Career Development]], [[Amazon Six-Pager]], [[memo]]
 id:: 63a28b66-d2c4-4a20-9b2e-ada9ee71c9b7
 
 - Application
-  collapsed:: true
 	- How to apply the knowledge for career development. #[[Career Development]]
 	  id:: 63a683ba-37d9-4bb5-a2ec-7a1a7c341896
+	  collapsed:: true
+		- The most important habit to learn from Jeff Bezos is to prioritize learning.
+			- ((64435265-afb6-4d57-a3bb-02f5e2652873))
 		- [[You should have high standards when reviewing contractor's work.]]
 		- [[You should always prioritize the customer voice when working on projects.]]
 		- ((6b5d41b9-6e9d-4309-99c3-e270915a1c89))
-		  collapsed:: true
 			- Identify value by solving customer's problems and plainly communicating what problem you are solving and what value your solution will create.
+		- [[Get to know your audience before you write by asking yourself three questions]]
 		- [[Improve your communication through simplification]]
+	- #[[Decision Making]]
+		- Keep things simple to make smart decisions.
 - Related Notes
 	- [[Simplify complex situations with a more understandable everyday analogue]]
 	- [[Q - How do we create value at work?]]
 	  id:: 63adecd6-cdc0-42e4-9096-071a7ebd13e4
 - #[[Literature Notes]]
-  collapsed:: true
 	- {{embed ((63bcff2c-88f4-4211-ade9-ef8d7a17a696))}}
 - #[[Reference Notes]]
-  collapsed:: true
 	- Part I: Set the Foundation
 	  id:: 63a28d6f-6d3c-40db-9d95-30b9b218dca4
-	  collapsed:: true
 		- According to Ann Hiatt, who worked three feet from Jeff Bezos for several years, “The greatest gift in my life has been sitting next to the smartest CEOs in the world and learning step-by-step how they think, act, motivate, and make decisions.” **Hiatt says the most important habit she learned from her former boss is to prioritize learning**. She says Bezos walked into the office each morning with three newspapers tucked under his arm. Once he was finished reading them, he moved on to articles and briefing documents
 		- “Smart people are a dime a dozen and often don’t amount to much. **What counts is being creative and imaginative.** That’s what makes someone a true innovator."
 		  id:: 6b5d41b9-6e9d-4309-99c3-e270915a1c89
 			- (How do we express creativity and imagination to foster innovation at work?)
 		- Bezos shares traits with Isaacson’s other subjects: a **passionate [[Curiosity]] , a fervent imagination, and a childlike sense of wonder**. According to Isaacson, Bezos also has a **“personal passion” for writing**, narrative, and storytelling. Bezos connects a deep interest in communication and a love of the humanities to his enthusiasm for technology and instinct for business. **“That trifecta—humanities, technology, business—is what has made him one of our era’s most successful and influential innovators.”**
+		  id:: 64435265-afb6-4d57-a3bb-02f5e2652873
 			- (How do we express curiosity and wonder at work? One way to express curiosity is to question decisions and plans handed down to you. Question the assumptions and uncover them.)
-		- 1: Simple Is the New Superpower
+		- 1: Simple Is the New Superpower #[[q - How to write better]], #[[communication]]
 		  id:: 63a28d72-9e67-41ee-be33-165d27cc2ebc
 			- Jeff Bezos isn’t Ernest Hemingway, but his mission is not to write the next great American novel. **Both writers, however, share something in common: Although their topics are complex, their writing is simple and accessible to most readers. Simplicity matters.** According to a study in the Harvard Business Review, “Simplicity increases what scientists call the brain’s processing fluency. Short sentences, familiar words, and clean syntax ensure that the reader doesn’t have to exert too much brainpower to understand your meaning.
 			- **If you want to be successful in business (in life, actually), you have to create more than you consume. Your goal should be to create value for everyone you interact with.** Any business that doesn’t create value for those it touches, even if it appears successful on the surface, isn’t long for this world. It’s on the way out
@@ -40,14 +42,12 @@ id:: 63a28b66-d2c4-4a20-9b2e-ada9ee71c9b7
 			- If you care about being thought credible and intelligent, **do not use complex language where simpler language will do**,” writes Kahneman in his groundbreaking book Thinking, Fast and Slow. Persuasive speakers, says Kahneman, do everything they can to reduce “cognitive strain.” Anything that requires mental effort adds to the load that people carry in their heads while reading or listening. **Every unfamiliar word, every unknown acronym, every convoluted sentence, every new idea—all add to the load.** If you keep adding weights to the load, your reader or listener will drop everything and give up. Kahneman says that “cognitive ease” offers a more pleasing experience, and when people are pleased, they’re more likely to support your idea.
 				- (Simplify your presentations and cut out complexity.)
 			- Jobs wanted to build a personal computer that was so easy to use out of the box it could ship with no instructional manual. “That was the number one goal,” Elliot recalls. But the mouse—a device to control the computer—was so foreign to people, the Mac team realized that an instruction manual had to accompany the product
-			  collapsed:: true
 				- During a meeting with Elliot, Jobs, and some marketing folks, someone in the room suggested that the manual should be simple enough for a twelfth grader to read it, understand it, and learn to work the computer from the text alone. “Fine,” Jobs said grudgingly. “Jay, go to a high school and find a twelfth grader to write the manual.” Jobs wasn’t joking. Elliot visited high schools in nearby Cupertino and held contests to find a good writer. They found a student writer and brought him to a secret facility where the twelfth grader could sit with the Macintosh, play with it, and figure it out.
 				- The Macintosh was the first personal computer simple enough for the average person to use, accompanied by a thin manual written for anyone with a high-school-level education. It contained simple sentences, such as: “You’re about to learn a new way to use a computer.” “This chapter teaches you what you need to know to use your Macintosh—how to create documents (the name for anything you create on Macintosh), make changes to them, and put them away.” “The finder is like a central hallway in the Macintosh house.” “Part of Steve’s genius was that he looked for the right people to help keep everything simple—from design to content,” says Elliot. **Great communicators don’t start with what they know; they start with what the audience knows.**
 			- **Investors needed to know—in simple language—what problem the product solves, why it matters** that the company is “cloud-native,” and what makes the company different from the scores of security platforms in the cloud universe.
 			  id:: 63a29107-e1e1-4ad7-be4b-80553c0ce715
 				- The company had a good story. We just had to cut the fat and get to the meat before cognitive overload set in. Since the company had a simple-to-use cloud application (simple for experts), we focused on the fact that IT professionals in large organizations used the platform to troubleshoot problems in less than fifteen minutes
 			- Buffett is still writing letters at the age of ninety. His experience gives him a perspective few people have. **According to Buffett, the secret to clear and simple writing is to picture your audience.** “I’ve always had the image that I’m talking to my sisters, Doris and Bertie,” Buffett says. “Berkshire is pretty much their whole investment. They’re smart, but they’re not active in the business, so they’re not reading about it every day. I pretend they’ve been away for a year and I’m reporting to them on their investment.”
-			  collapsed:: true
 				- Buffett begins drafting his letters with the salutation “Dear Doris and Bertie.” Just before he’s ready to publish, he replaces their names with a formal greeting: “To the shareholders of Berkshire Hathaway.” Buffett’s letters are accessible, readable, and entertaining. By picturing his audience, Buffett puts himself in their shoes, speaking to them in language they’ll easily comprehend. As Buffett sat down to draft his 2018 letter, he imagined that his sisters were thinking about selling their shares. His job was to convince them to hold on. Read Buffett’s 2018 letter and you’ll see how he made complex financial information accessible to Doris and Bertie. The letter made headlines for its now-famous “focus on the forest” metaphor.
 				- If you’re working on a complex topic, take a page from Warren Buffett’s approach to writing his famous financial letters. **Get to know your audience before you write by asking yourself three questions.**
 					- Who is your target audience?
@@ -58,7 +58,6 @@ id:: 63a28b66-d2c4-4a20-9b2e-ada9ee71c9b7
 			- **Simplicity is an act of selection, not compression.** You’ve heard of speakers who are “in the weeds,” meaning they’re getting far too granular and detailed. As a speaker, you can avoid falling into the weeds if you’ve done the hard work of removing the weeds ahead of your presentation.
 			- **“If there’s one reason we have done better than our peers in the internet space, it is because we have focused like a laser on customer experience,” Bezos once said.** From Day One, Bezos understood a fundamental rule of human behavior—people will align around shared goals, visions, and priorities when they are expressed simply, concisely, and consistently.
 			- **Smart leaders keep things simple because simple things lead to smart decisions.** “If you have a competence nobody else has, a hip-pocket skill, you become more valuable,” says Indra Nooyi, the former CEO of PepsiCo who currently sits on Amazon’s board of directors. Nooyi also identifies her “hip-pocket skill” as the ability to make the complex simple.
-			  collapsed:: true
 				- According to Nooyi, **“If you want to be a leader and you cannot communicate effectively, forget it.** In the digital world, people think texting and tweeting is communicating. It’s not. You’ve got to be able to stand in front of employees and get them to go places they never thought they could get to. **You need to have enormous communication capabilities. You cannot over-invest in communication skills.”**
 			- **The billionaire founder of a private investment firm once told me the biggest weakness he sees among business graduates applying at his firm is a failure to translate their work and ideas into plain English.** “Their presentations are comprehensive and highly technical, and utterly incomprehensible and entirely unmemorable."
 			  id:: 63a37b68-3a40-4f3f-834d-75dfd106a9f9
@@ -68,12 +67,10 @@ id:: 63a28b66-d2c4-4a20-9b2e-ada9ee71c9b7
 			- **The key to Lincoln’s success was his uncanny ability to break down the most complex case or issue into its simplest elements,” writes historian Doris Kearns Goodwin.** Although Lincoln’s arguments were logical and profound, they were easy to follow. How? “He aimed for intimate conversations with jurors, as if conversing with friends.” Goodwin quotes one of Lincoln’s peers, Henry Clay Whitney, who observed that “Lincoln’s language was composed of plain Anglo-Saxon words"
 			  id:: 63a37e72-f7ac-4c46-9758-b302d73d260b
 		- 2: A Modern Spin on Ancient Words
-		  collapsed:: true
 			- Writing is a skill, which means you can improve with regular practice. Seinfeld has created systems to help him write, techniques that business professionals can also use to elevate their writing skills. First, Seinfeld approaches the craft like an athlete trains for a sport. He puts in the reps and writes every day, even if the ideas don’t turn into comedy gold. “No one starts out great,” he says. “The ones who are great put a tremendous number of hours into it. It’s a game of tonnage
 			  【Note】 Figure out how you can incorporate writing into your workflow
 		- 3: Writing That Dazzles, Shines, and Sparkles [[z - How to improve business writing]]
 		  id:: 63a28d75-a3e9-4d92-bf41-a196a1d755c6
-		  collapsed:: true
 			- BEGIN SENTENCES WITH SUBJECTS AND VERBS
 				- The subject of a sentence is the person or thing that performs the action (verb). Think of subjects and verbs as the locomotive of a train, pulling along the rest of the railcars. A good writer starts with the strongest element of the sentence and lets everything else branch to the right.
 				- Roy Peter Clark offers the following example: “A writer composes a sentence with subject and verb at the beginning, followed by other subordinate elements, creating what scholars call a right-branching sentence.” In the preceding sentence, Clark starts with the subject and the verb closely connected: writer composes. Try to avoid a long separation between the subject and verb. Here’s a weak version of Clark’s sentence: A writer who wants to be really good at the craft should compose a sentence with a subject and verb at the beginning.
@@ -101,7 +98,7 @@ id:: 63a28b66-d2c4-4a20-9b2e-ada9ee71c9b7
 				- In the last example, Bezos relied on a grammatical device called parallel construction: using the same pattern to express two or more ideas, which gives the ideas the same level of importance. For example, Bezos wrote that improvements are “increasing,” “speeding,” and “reducing.” In the next sentence, Bezos wrote, “We are proud of our low prices, our reliable delivery, and our in-stock position on even obscure and hard-to-find items.” The nonparallel form of the sentence would read: “We are proud of Amazon’s lowest prices, the fact that customers get their products delivered reliably, and find most of their items to be in stock when they want them.” Parallel construction adds power and cuts words.
 				- Parallel construction makes a sentence smoother. For instance, I like running, golfing, and reading. I can also say that I like to run, to golf, and to read. It’s not parallel to say that I like running, to play golf, and buying books to read. A parallel message is satisfying to read and pleasing to hear. In many cases, the same text can be read or spoken with equal effect.
 			- Keep in mind that when it comes to building your writing, speaking, and presenting skills, you’re never done learning. Microsoft CEO Satya Nadella says you’ll meet two types of people in the business world: know-it-alls and learn-it-alls. The know-it-alls don’t last very long in the digital economy, where the pace of change is unlike anything we’ve seen in human history. In this environment, the learn-it-alls are the ones who shine. They adapt, grow, and thrive no matter what changes come their way. The great thing about writing is—while there’s a lot to learn—there are a lot of teachers eager to guide us.
-		- 4: The Logline: Your Big Idea
+		- 4: The Logline: Your Big Idea #[[q: how to present]]
 			- The fact is that CEOs, bosses, managers, clients, investors, and stakeholders are usually impatient. They may not cut you off after ten minutes, but rest assured they’re giving you no more than ten minutes of their full attention. They’re asking themselves a version of the same question Grove pointedly asked Christensen: **What does it mean to me?**
 			- It turns out that the secret to catching a person’s attention is not to cut through the noise but to boost the signal. In the last thirty years, cognitive psychologists have reached fascinating conclusions about how people learn new concepts. For example, **studies of effective teachers find that the best instructors organize information around big ideas. If you think about creating content in a hierarchical structure, the big idea opens your memo or presentation while details support your big idea**
 			- **Great TED speakers select one big idea they can express in bite-size messages. Brevity doesn’t come from compressing a mountain of information into a short amount of time. Instead, brevity happens when you start with one big idea and carefully select the stories, examples, and data that support your big idea.**
