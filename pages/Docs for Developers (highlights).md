@@ -2,9 +2,9 @@ title:: Docs for Developers (highlights)
 author:: [[Jared Bhatti]]
 full-title:: "Docs for Developers"
 media:: #books
+status:: #📥inbox
 
 - Notes
-  collapsed:: true
 	- How to write effective documentation?
 		- Understand your your users
 			- Have empathy for your users. You have to understand what your users wants from the software and where they need help along the way.
@@ -13,7 +13,6 @@ media:: #books
 	- You can understand your users better through user research.
 		-
 - Highlights first synced by [[Readwise]] [[2023-01-17]]
-  collapsed:: true
 	- I’ve often joked that “Good developers copy; great developers paste.” To understand why, you have to dig into the workflow used by most software engineers when faced with a problem. Our usual workflow looks like this:
 	  
 	  1.  1.
@@ -37,7 +36,6 @@ media:: #books
 	- You might have heard the often-misquoted saying that *good code documents itself*. It’s true that good naming, types, design, and patterns make code easier to understand. But projects with sufficient complexity and scale (that is, most projects worth building) need human-readable documentation to help others quickly understand what you’re building and how to use it. ([View Highlight](https://read.readwise.io/read/01gpz11dbe90jxtnyenajejr3d))
 	- 1. Understanding your audience ([View Highlight](https://read.readwise.io/read/01gpz134hvjm8x3665g5wykkec))
 - New highlights added [[2023-01-17]] at 11:51 PM
-  collapsed:: true
 	- So it begs the question, why is documentation often deprioritized or missing altogether?
 	  
 	  It’s not because we’re not invested in it, nor is it because we aren’t good writers. It’s because many of us don’t know how to do it. It’s because we, as developers, rarely understand that in addition to the developer loop, there’s an equally important “writer loop.” ([View Highlight](https://read.readwise.io/read/01gq1h29aja3pv8khcgc6hw9g5))
@@ -66,7 +64,6 @@ media:: #books
 	  
 	  The goals of Corg.ly and Corg.ly users are different, but they can still align in a single documentation set. You probably have a goal for your users as well. Identifying how different goals can both differ and overlap helps you gain empathy and meet needs effectively. ([View Highlight](https://read.readwise.io/read/01gq1jdbhbnmgydp0jye8rthb9))
 - New highlights added [[2023-01-18]] at 1:51 AM
-  collapsed:: true
 	- Not every user is the same, and you can’t meet every user’s needs. Prioritize the users who are most important for your product or business.
 	  
 	  For example, if your software will primarily be used by developers, then focus on understanding *developers’* needs—as opposed to those of a product manager who may be evaluating your software for an engineering team. Consider what kind of developer your user is: an application developer using an API needs different things than a site reliability engineer (SRE) focused on security and reliability. ([View Highlight](https://read.readwise.io/read/01gq1kw5ybj03brhfqpkz2nfk1))
@@ -410,7 +407,6 @@ media:: #books
 	    
 	  •   Coordinate writing, organizing, and publishing your documentation with other stakeholders ([View Highlight](https://read.readwise.io/read/01gq1nx8fpc720bfhndw4vgenn))
 - New highlights added [[2023-01-18]] at 2:51 PM
-  collapsed:: true
 	- Creating a documentation plan is often straightforward, but easily overlooked. If you start writing documentation before creating a plan, you might miss critical information your users need or overlook problems they are trying to solve. Without a plan, it’s difficult to think about your user journeys holistically ([View Highlight](https://read.readwise.io/read/01gq3593bzcdtfs09n4jc2d30n))
 	- To build your documentation plan, answer the following questions which will help you focus on the right information for your users. You already gathered some of this information in your user research (see Chapter [1](https://readwise.io/reader/document_raw_content/27434535#None)), but it’s useful to restate it at the top of your documentation plan to help you focus and keep the right information in scope.
 	  
@@ -597,7 +593,6 @@ media:: #books
 	  
 	  Most people read in the same way: skimming titles and headings until they find the content that answers their question. In fact, based on the time readers spend on a page, they can read at most 28% of the words on a page (and that’s if they’re a very fast reader)[1](https://readwise.io/reader/document_raw_content/27434535#Fn1). This is true both for readers visually skimming through the document and for those using screen readers (tools that render content as speech or braille). ([View Highlight](https://read.readwise.io/read/01gq367j745nzyjpsemd8vpfs0))
 - New highlights added [[2023-01-18]] at 4:51 PM
-  collapsed:: true
 	- Completing your outline
 	  
 	  Review the outline for the document and consider your readers. Ask yourself the following questions:
@@ -640,7 +635,6 @@ media:: #books
 	  
 	  Don’t get hung up on trying to write a document correctly and in order the first time through. Like code, writing is an iterative process. Write what you know, see what’s missing, research it, and write the new things you know. ([View Highlight](https://read.readwise.io/read/01gq3cgrh5ffzfey67hmsdry56))
 - New highlights added [[2023-01-18]] at 10:51 PM
-  collapsed:: true
 	- Write out of sequence
 	  
 	  You don’t have to write the first thing first. Sometimes, the first thing that people read—the introduction—is the last thing you write. Good introductions describe a document’s major themes, what readers will gain from reading the document, and why it matters. These topics aren’t always clear until you’re finished writing the steps or conceptual details that make up the body of the document. ([View Highlight](https://read.readwise.io/read/01gq40r654q4g9afhdnvht2jz9))
@@ -766,7 +760,6 @@ media:: #books
 	- In addition to requesting specific feedback from your review, it’s important to specify how you’d like to receive your feedback. Do you prefer to receive marked up paper, inline comments, or sidebar notes in a shared document? In peer reviews, the goal is to reduce friction, so your reviewer can comment efficiently and you can incorporate feedback easily. ([View Highlight](https://read.readwise.io/read/01gq428p97ehnqbt6mk9vye83g))
 	- For a first draft review, you probably want a reviewer on your team who is familiar with the product or procedure you’re documenting, similar to how Karthik reviews Charlotte’s work. As you get closer to publication, you may want additional reviews from people who are more like your target audience, to make sure you’ve written what they need to understand ([View Highlight](https://read.readwise.io/read/01gq429gs8zmxznshf0v5mq24j))
 - New highlights added [[2023-01-18]] at 11:51 PM
-  collapsed:: true
 	- Technical reviews are a specific type of peer review to add or confirm details from a technical expert on a particular topic. Technical reviews are particularly important when you’re documenting an integration of two or more technologies, where you might be an expert on one but not the other. ([View Highlight](https://read.readwise.io/read/01gq42wv9vvrktxr7pmcv6cjjf))
 	- Receiving and integrating feedback
 	  
@@ -862,7 +855,6 @@ media:: #books
 	  You should assign a single, final approver who is responsible for allowing or halting a documentation release. This approver should be listed in the publishing timeline, and they should have final say in the amount of content and its level of quality before you launch. No document is ever going to be perfect, but no released document should be harmful. Be sure you have a responsible party for that decision. ([View Highlight](https://read.readwise.io/read/01gq45qrb3byhd46mbhysyf262))
 	- If your organization wouldn’t release code without a peer review and some automated testing, you shouldn’t release your documents that way, either. The simplest way to ensure parity would be to use your code review process for documentation. If it’s going to be part of your codebase, it certainly needs to pass all the integration tests that your code does. If you have a culture of peer review or QA, your docs should be held to the same standard. ([View Highlight](https://read.readwise.io/read/01gq45qgr0zw3a15tb2kr2x5y8))
 - New highlights added [[2023-01-19]] at 12:51 AM
-  collapsed:: true
 	- Planning for the future
 	  
 	  Your documents are living documents, just like your code. You need to have some plans for what will happen to them ([View Highlight](https://read.readwise.io/read/01gq45y21artq7mp8ecxt02bax))
@@ -870,7 +862,6 @@ media:: #books
 	  
 	  Documentation is one of the primary ways you communicate with your users, and users expect to be able to communicate back. Collecting user feedback can help you learn where your product and documentation succeed and where you need to make improvements. It also helps you validate (or correct) all the assumptions you’ve made about your users in your initial user assessment (see Chapter [1](https://readwise.io/reader/document_raw_content/27434535#None)) ([View Highlight](https://read.readwise.io/read/01gq45ysznc381ydrgw0vdy9mh))
 - New highlights added [[2023-01-19]] at 1:56 PM
-  collapsed:: true
 	- Collect document sentiment
 	  
 	  *Document sentiment* is how readers feel about your documentation. You can discover and measure document sentiment through a simple survey or by using embedded code on a page that prompts a user to indicate by clicking a simple yes or no whether the page was helpful (Figure [8-1](https://readwise.io/reader/document_raw_content/27434535#Fig1)).
@@ -882,7 +873,6 @@ media:: #books
 	  A document sentiment tool on a Google page ([View Highlight](https://read.readwise.io/read/01gq58mz1zaqwq8x0m2zzzy5bc))
 	- There are significant limitations to measuring sentiment. You need to collect a large number of responses from a yes/no sentiment survey in order for data to be useful. The more responses you get, the more confident you can be that the data actually represents your users. You also have to wait after making changes before collecting more responses to measure whether changes had an effect. ([View Highlight](https://read.readwise.io/read/01gq58nqdvxrpb80y523q00awh))
 - New highlights added [[2023-01-19]] at 10:49 PM
-  collapsed:: true
 	- Create user surveys
 	  
 	  Customer surveys let you ask users specific questions about your product and documentation in an automated way that’s easy to aggregate. You can embed shorter surveys in your documentation, either as a link or as a popup. Longer surveys can be emailed to your customers. ([View Highlight](https://read.readwise.io/read/01gq6k8090bmc2rn3ak1qftvtw))
@@ -944,7 +934,6 @@ media:: #books
 	  
 	  Triaging feedback for documentation is no different from triaging code or product issues. If you already have a system for managing issues, you should apply that system to managing your user feedback as well. ([View Highlight](https://read.readwise.io/read/01gq6kd68rsxx2v1h99b8fqbsy))
 - New highlights added [[2023-01-19]] at 11:51 PM
-  collapsed:: true
 	- Step one: Is the issue valid?
 	  
 	  It’s important to take a “trust but verify” approach when evaluating user feedback issues. Users have good intentions when submitting feedback, but sometimes their feedback isn’t relevant to documentation, or the issue they’re describing has already been fixed.
@@ -1103,7 +1092,6 @@ media:: #books
 	  
 	  Document consistency means that the structure of your content, the concepts that you introduce, and your word choice are the same throughout your documentation. At a holistic level, consistent documentation has consistent titles, headers, paragraph structures, and lists. The content uses patterns that a reader can easily follow and use to skim documentation and quickly find what they need. ([View Highlight](https://read.readwise.io/read/01gq6r67mdtmjk46vgzhabk7j1))
 - New highlights added [[2023-01-20]] at 12:51 AM
-  collapsed:: true
 	- How functional and structural quality relate
 	  
 	  Ideally, your documentation should have both high structural quality and high functional quality. However, functional quality is more important. A well-structured, well-written document that doesn’t accomplish its goal is a poor piece of documentation. A document with structural issues that still accomplishes its goal is a good document.
@@ -1287,7 +1275,6 @@ media:: #books
 	    
 	  •   Are there any missing steps (content gaps) that need to be added? ([View Highlight](https://read.readwise.io/read/01gq6vn5k8gt9b7net09931739))
 - New highlights added [[2023-01-20]] at 2:50 AM
-  collapsed:: true
 	- Migrate to your new information architecture
 	  
 	  Once you’re happy with your information architecture and you’ve gotten enough user feedback and validation, it’s time to migrate to your new organizational structure. As you move the pages around, use this validation checklist as an auditing mechanism:
@@ -1337,7 +1324,6 @@ media:: #books
 	  
 	  Documentation often seems like a task that everyone is responsible for—and therefore *no one* is responsible for. Make responsibility clear with explicit assignments to owners who are responsible for responding to documentation issues, reviewing documentation changes, and updating documentation when needed. Clear, unambiguous responsibility helps prevent documentation from going out of date. ([View Highlight](https://read.readwise.io/read/01gq6vsnzn922g6axjhr45v9rh))
 - New highlights added [[2023-01-20]] at 3:45 PM
-  collapsed:: true
 	- Content freshness checks
 	  
 	  With a large enough documentation set, some documents eventually become stale and out of date. One way to avoid staleness is to show the “last modified” dates for your content on the rendered page. Last modified dates denote the last time that the document was reviewed or updated. If your documentation is stored in a source code repository, you can pull this information directly from your repo. Otherwise you can embed metadata in the document to store this information.

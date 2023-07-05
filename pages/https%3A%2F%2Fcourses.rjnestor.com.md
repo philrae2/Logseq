@@ -1,3 +1,3 @@
-title:: https://courses.rjnestor.com
+tags:: PKM, course
 
 -

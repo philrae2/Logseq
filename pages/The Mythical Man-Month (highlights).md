@@ -2,19 +2,20 @@ title:: The Mythical Man-Month (highlights)
 author:: [[Brooks, Jr. Frederick P.]]
 full-title:: "The Mythical Man-Month"
 media:: #books
+status:: #📥inbox
+tags:: #[[Project teamwork software]]
 
 - Highlights first synced by [[Readwise]] [[2023-01-15]]
-	- Chapter 1: The Tar Pit ([View Highlight](https://read.readwise.io/read/01gpmsd2ern34qfjkhz96vhdax))
 	- Chapter 1: The Tar ([View Highlight](https://read.readwise.io/read/01gpmsdmn2yn10zc2a20ce9qt4))
 	- In the upper left of [Fig. 1.1](https://readwise.io/reader/document_raw_content/26202268#filepos18361) is a program. It is complete in itself, ready to be run by the author on the system on which it was developed. That is the thing commonly produced in garages, and that is the object the individual programmer uses in estimating productivity.
 	  
-	  ![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/26202268/id6-00004.jpg)
+	  ![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/26202268/id6-00004.jpg){:height 548, :width 607}
 	  
 	  Fig. 1.1 Evolution of the programming systems product
 	  
 	  There are two ways a program can be converted into a more useful, but more costly, object. These two ways are represented by the boundaries in the diagram.
 	  
-	  Moving down across the horizontal boundary, a program becomes a programming product. This is a program that can be run, tested, repaired, and extended by anybody. It is usable in many operating environments, for many sets of data. To become a generally usable programming product, a program must be written in a generalized fashion. In particular the range and form of inputs must be generalized as much as the basic algorithm will reasonably allow. Then the program must be thoroughly tested, so that it can be depended upon. This means that a substantial bank of test cases, exploring the input range and probing its boundaries, must be prepared, run, and recorded. Finally, promotion of a program to a programming product requires its thorough documentation, so that anyone may use it, fix it, and extend it. As a rule of thumb, I estimate that a programming product costs at least three times as much as a debugged program with the same function.
+	  Moving down across the horizontal boundary, a program becomes a **programming product. This is a program that can be run, tested, repaired, and extended by anybody. It is usable in many operating environments, for many sets of data. To become a generally usable programming product, a program must be written in a generalized fashion. In particular the range and form of inputs must be generalized as much as the basic algorithm will reasonably allow. Then the program must be thoroughly tested, so that it can be depended upon. This means that a substantial bank of test cases, exploring the input range and probing its boundaries, must be prepared, run, and recorded. Finally, promotion of a program to a programming product requires its thorough documentation, so that anyone may use it, fix it, and extend it. As a rule of thumb, I estimate that a programming product costs at least three times as much as a debugged program with the same function.**
 	  
 	  Moving across the vertical boundary, a program becomes a component in a programming system. This is a collection of interacting programs, coordinated in function and disciplined in format, so that the assemblage constitutes an entire facility for large tasks.
 	  

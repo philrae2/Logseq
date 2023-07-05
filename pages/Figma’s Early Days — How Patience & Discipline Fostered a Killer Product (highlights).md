@@ -1,0 +1,14 @@
+title:: Figma’s Early Days — How Patience & Discipline Fostered a Killer Product (highlights)
+author:: [[Sean Whitney]]
+full-title:: "Figma’s Early Days — How Patience & Discipline Fostered a Killer Product"
+media:: #articles
+status:: #📥inbox 
+url:: https://medium.com/craft-ventures/conversation-series-figmas-early-team-how-patience-discipline-fostered-a-killer-product-1c78584eaff2
+
+- Highlights first synced by [[Readwise]] [[2023\-07\-03]]
+	- Transformational products are often R&D\-intensive platforms that address a variety of users and solve a wide array of problems. For founding teams building these types of products, it’s important to grasp the complexity of the problem you are trying to solve and maintain patience as you build a vertically integrated platform. Investors must also maintain patience and encourage founders to swing for the fences. ([View Highlight](https://read.readwise.io/read/01gkwxvqm4hkdx5yh04w6zeckp))
+	- Leadership was adamant that the product and pricing tiers be feature\-complete before charging the customer. Product obsession and patience were ingrained in the culture from the top down — including investors. ([View Highlight](https://read.readwise.io/read/01gkwxwnkryqst8a9aazdsvnaf))
+	- Every functional area of Figma was data obsessed, and data\-driven decision making was ingrained into the culture of the company. I quickly learned that to have an impact, I would need to learn SQL: overseeing the self\-serve funnel meant I had to have a complete understanding of how users were moving through the funnel.
+	  
+	  We cut users in every way you could imagine: role, job title, geo, operating system, source, generation, etc. The Finance team spent countless hours custom building our ARR reporting structure on top of Stripe’s APIs, with the help of engineers. Product & Growth followed a rigorous experimentation framework to introduce new features and improve our funnel. We bent and twisted Salesforce to handle the product data used to educate sales reps. Our Growth Product team spent an entire year examining, re\-engineering and implementing our free tier to coincide with the launch of FigJam. Just about every decision was backed up by hours of data analysis. (Huge props to the Data team!) ([View Highlight](https://read.readwise.io/read/01gkwxzts3tnqtjeaaxcvhfbyw))
+	- Having the discipline to understand your customer data and to invest in accurate reporting is what powers the GTM flywheel, drives efficiency in a sales org, and educates product decisions. As an investor examining PLG companies, I look for teams that deeply understand their customers, have highly organized their data, and are set up for success in their GTM motion. These are the critical ingredients that frequently give investors confidence in a founding team. ([View Highlight](https://read.readwise.io/read/01gkwy5qmexq5b95fvd5vgxqkj))

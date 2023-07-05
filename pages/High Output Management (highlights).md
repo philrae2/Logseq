@@ -2,7 +2,7 @@ title:: High Output Management (highlights)
 author:: [[Andrew S. Grove]]
 full-title:: "High Output Management"
 media:: #books
-tags:: #management
+tags:: #management, #📥inbox
 
 - Takeaways
   id:: 643ec68c-5623-4b5b-80b2-e54116181d42
@@ -102,6 +102,7 @@ tags:: #management
 		- Use your calendar actively and fill in the holes between time-critical events with non-time-critical
 		- Learn to say "no" so you don't run out of capacity
 	- #Meetings [[Meeting Management]]
+	  collapsed:: true
 		- There are two types of meetings
 			- Process-oriented meeting - where information and knowledge is exchanged. These types of meetings happen on a regularly scheduled basis.
 				- One on one meetings should center on the subordinate.

@@ -2,6 +2,7 @@
 title: How to Read a Book
 ---
 
+	-
 - Course
 	- Metadata
 		- Author:: [[Shane Parrish]]

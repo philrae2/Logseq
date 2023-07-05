@@ -1,4 +1,4 @@
-tags:: [[SecondReview]] , [[Work Ideas]], productivity
+tags:: [[SecondReview]] , [[Work Ideas]], productivity, designing processes
 
 - #[[Literature Notes]]
 	- [[Planning ahead is a characteristic of those who create excellent work]]
@@ -22,9 +22,8 @@ tags:: [[SecondReview]] , [[Work Ideas]], productivity
 	- Focus: How Mise-en-Place Works
 		- “You’ll see,” he continues. **“By being organized, you will be more efficient. By being more efficient, you will have more time in your day. By having more time in your day, you will be more relaxed in your day; you will be able to accomplish the task at hand in a clear, concise, fluid motion.”** LiPuma promises them that by the time they leave his kitchen, they’ll be smooth and calm, like him.
 		- Without learning how to work, and work clean—meaning to do that work with economy of time, space, motion, and thought—they can’t cook professionally
-		- Chef Keller posts a plaque beneath a clock in his kitchen that reads “Sense of Urgency.” He teaches his cooks how to tie and untie plastic bags and how to open and close refrigerator doors. He works toward a perfect method for everything. That level of control—one that workers in another industry might resent and deride as micromanagement—is welcomed by the cooks at The French Laundry because they want to learn from Keller. The atmosphere of mutual striving delivers what they want: not only the ultimate manifestation of cuisine, their chosen vocation, but the ultimate manifestation of themselves as professionals and as people.
+		- **Chef Keller posts a plaque beneath a clock in his kitchen that reads “Sense of Urgency.” He teaches his cooks how to tie and untie plastic bags and how to open and close refrigerator doors. He works toward a perfect method for everything.** That level of control—one that workers in another industry might resent and deride as micromanagement—is welcomed by the cooks at The French Laundry because they want to learn from Keller. The atmosphere of mutual striving delivers what they want: not only the ultimate manifestation of cuisine, their chosen vocation, but the ultimate manifestation of themselves as professionals and as people.
 	- Chaos: How We Work without Mise-en-Place
-	  collapsed:: true
 		- “And everything that follows from that,” Keller replied. **For Thomas Keller, working clean isn’t just about cleanliness, or order, or minimalism. It is about practicing values. What are your standards? What habits make you successful? How strongly are you willing to hold on to your regimen of good habits in a world that will tempt you to ditch them, often without any immediate consequence? How much are you willing to keep your own focus despite the chaos around you?**
 		  id:: 62cad74a-5185-4ed6-afb3-7565ebad835c
 		- **Mise-en-place comprises three central values: preparation, process, and presence**. When practiced by great chefs, these three mundane words become profound. They have formed the core of the conscious chef’s work since the time of the tenzo, and they still drive the lives of contemporary chefs. The by-product of these values may indeed be wealth or productivity, but the true goal is excellence.
@@ -40,26 +39,25 @@ tags:: [[SecondReview]] , [[Work Ideas]], productivity
 			- Ordering those actions in sequence
 		- What he knew was going to happen—he could greet chaos, embrace it. His mastery of the expected would enable him to better deal with the unexpected. You plan what you can so you can deal with what you can’t.
 		- **Planning is primary for chefs in another way: It takes longer to plan and prepare than it does to cook**. As a result, the mind-set of a chef toward both his personal planning and the planning of his entire kitchen is different from yours or mine. Because planning is “first thought,” chefs invest much more time in the action of planning.
+		  id:: 648b7a16-00bf-4011-a4bb-86ef1f8ee833
 		- Here’s an exercise for habitual overplanners. We’re going to find your Meeze Point: the optimal number of Actions you can put on your daily list before you begin to overload yourself, an Action being either an appointment or a task. This will become your normal daily work threshold. Begun as a 1-day-per-week exercise, finding your Meeze Point can ease you out of the overplanning habit
 		- **Plan complex, multistep projects as chefs do: with the end in mind**.
+		  id:: 648b7a16-3b06-4509-b4de-7a1665d1971f
 			- Just as some chefs begin a dish by drawing a plate, for your own projects, first envision the moment of delivery, then plan backward from it.
 			  id:: 62cad74a-e16c-4257-9ce1-704f86e1ec2f
 			- What resources will you need to make it look, read, feel, or sound perfect? What time will you need? Have you accounted for possible delays, holidays, disruptions? Have you given yourself time to inspect and correct? What other things will you have to give up in order to deliver?
 			  id:: 62cad74a-7d3a-4eac-9e9d-d6d9f6a7e4c2
 		- Indeed, chefs and cooks spend their careers rehearsing and refining their “moves,” and they regard good moves in other cooks as basketball players might revere the hook shot of Kareem Abdul-Jabbar.
 	- Arranging Spaces, Perfecting Movements
-	  collapsed:: true
 		- Our offices may not have the physical demands of the professional kitchen, nor quite the degree of repetitive motion, nor the moment-to-moment need to save and shave time. But we all feel the psychological and physiological results of disorganization; we’ve all lost minutes, even hours, of our time looking for tools or resources, or re-creating lost work. Our keyboards and screens require all manner of repetitive, automatized movements; and we all suffer from time wasted by failing to apply our mental capacity to our daily movements, and to the execution of complex processes, which are also movements on a macro level. A project that ends up sidetracking managers and workers for days or weeks or longer is just one big, bad wasted move to be looked at with the same skeptical eye.
 		- **In the office world, we not only devalue space and motion, we hardly think about them at all. Mise-en-place encourages us to look at the human, physical side of work—even virtual, digital work—and to apply those same concepts of eliminating resistance to higher orders of motion and process.**
 		- **Cleaning as you go, not waiting to clean, separated true chefs and cooks from everyone else**. If Samantha cleaned her cutting board and station as she made messes or mistakes, her environment would always be optimal for success and her system would remain intact. If she waited to clean and let things accumulate, she’d lose her attention to detail in a restaurant where the details mattered. You can’t tend to the details if you can’t see them. If she waited to clean, she’d also make cleaning harder and more time-consuming with every passing minute, as the detritus of her workday began to ossify into a culinary archaeology that she would have to excavate herself. New cooks make more messes than seasoned ones, so cleaning wasn’t only doubly difficult for Sam, it was doubly important.
 		  id:: 62cad74a-2b8b-49d7-a7cf-de8398e1f1cf
 	- Cleaning As You Go
 	  id:: 62cad74a-3ff8-4377-9dca-7e51b440407a
-	  collapsed:: true
 		- This holistic view of cleaning—that it should be integrated into every moment of a chef’s work, and that cooks clean not just for one but for all—creates the foundation for excellence in the professional kitchen.
 		  id:: 62cad74a-5a56-4a3c-b120-43cb2bf42e09
 	- Making First Moves
-	  collapsed:: true
 		- **The present has incalculably more value than the future. An action taken now has immeasurably more impact than a step taken later because the reactions to that action have more time to perpetuate.**
 		  id:: 62cad74a-10d5-4b81-8b6e-e2593a82cf4e
 			- Furthermore, because our mind state has a huge effect on how we perceive time, acting in the present releases psychological pressure and opens up more time. Starting is, in effect, a shortcut. To mash metaphors: A stitch in time causes a wrinkle in time.

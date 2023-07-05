@@ -2,6 +2,7 @@ title:: HBR Guide to Persuasive Presentations (highlights)
 author:: [[Nancy Duarte]]
 full-title:: "HBR Guide to Persuasive Presentations"
 media:: #book
+status:: #📥inbox 
 url:: https://readwise.io/reader/document_raw_content/26202161
 
 - Highlights first synced by [[Readwise]] [[2023-01-12]]

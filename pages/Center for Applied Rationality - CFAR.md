@@ -2,8 +2,8 @@
 title: Center for Applied Rationality - CFAR
 ---
 
-- tags: #[[📥inbox]] #productivity #[[automatic behaviors]]
-- related links: [CFAR handbook](https://drive.google.com/file/d/1UZYBtOJ3QZ7FTI_4eKjVzBSNUqC_Uba3/view)
+- tags: #[[📥inbox]] #productivity #[[automatic behaviors]] #[[Critical Thinking]] #[[Problem Solving]]
+- Source Link: [CFAR handbook](https://drive.google.com/file/d/1UZYBtOJ3QZ7FTI_4eKjVzBSNUqC_Uba3/view)
 - Handbook
 	- Types of knowledge
 		- [[Tacit Learning]] is like the knowledge that you use to ride a bike—it's complex, experiential, intuitive, and hard to put into words.
@@ -12,7 +12,7 @@ title: Center for Applied Rationality - CFAR
 		- Don't be fooled by surface explanations as they kill your curiosity. Use [[First Principles Thinking]] and remain curious and not readily accept surface explanations. Ask basic child-like questions like how, why, or what to truly understand the basics and fundamentals of an idea.
 		- ^^Be present in the moment and current activity.^^
 			- This includes having your mind in the "room" and your background thoughts focused on the content. If we are trying to engage on the activity while also visiting websites, answering e-mails, and text then we'll remain in our ordinary mental space. This continues to reinforce the same habits and patterns.
-			- TApproach every information with fresh eyes to counter dismissing information that may seem familiar even though it may offer new insights.
+			- Approach every information with fresh eyes to counter dismissing information that may seem familiar even though it may offer new insights.
 	- Types of problems
 		- technical vs adaptive
 			- a [[technical problem]] is where the path to a solution is known and the difficulty you face lies in the execution of the solution.
@@ -20,6 +20,7 @@ title: Center for Applied Rationality - CFAR
 			- [[q: What are the correct forms for problem solving?]] For different problem types? Is there a correct approach and what is a bad approach?
 	- **Analyzing the worth of something** - [[value]] analysis #[[opportunity cost]] #[[decision making]] #[[q: how can we make better decisions #[[qq]]]]
 		- We can have multiple currencies to establish the worth of something. Often that currency is money to provide us an understandable unit of valuation. Another could be our time to compare two things. We can also use pleasure, sleep, attention,aesthetics or knowledge as units of value.
+		  id:: 648b7a2a-c4c5-4cf1-b09c-2c010375216b
 			- For example, when considering your options for buying a microwave, the cost is an obvious factor. We can also consider reliability, power, and time. If a microwave can cook faster over the years that time savings could add up.
 				- Sometimes the real cost isn't only the price, also consider the repeated costs.
 			- [[arbitrage]] - is the economics term of taking advantage of different values in different places. Buy cheap sell high mentality. We can use this to trade-off values in our lives. If I sacrifice leisure time in exchange for self-improvement and career development, I am hoping that it translates to more money and promotion in the future

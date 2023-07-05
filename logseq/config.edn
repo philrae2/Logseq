@@ -137,7 +137,17 @@
             [(> ?d ?start)]
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
-    :collapsed? false}]}
+    :collapsed? false}
+   
+   {:title "💡 FLEETING"
+ :query (and (property type fleeting) (not (property template)) (not (task done)))
+ :collapsed? true
+ :breadcrumb-show? false
+ :result-transform (fn [result]
+                     (sort-by (fn [h]
+                                (get-in h [:block/properties :date])) > result))}
+   
+   ]}
 
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
@@ -178,6 +188,7 @@
  :feature/enable-journals? true
  :default-home {}
  :journal/page-title-format "yyyy-MM-dd"
+ :editor/preferred-pasting-file? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

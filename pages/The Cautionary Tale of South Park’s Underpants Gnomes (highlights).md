@@ -2,6 +2,7 @@ title:: The Cautionary Tale of South Park’s Underpants Gnomes (highlights)
 author:: [[Steve Kamb]]
 full-title:: "The Cautionary Tale of South Park’s Underpants Gnomes"
 media:: #articles
+status:: #📥inbox 
 url:: https://observer.com/2016/01/the-cautionary-tale-of-south-parks-underpants-gnomes/
 
 - Highlights first synced by [[Readwise]] [[2023-04-24]]

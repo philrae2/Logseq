@@ -2,6 +2,7 @@ title:: Succeeding as a Management Consultant (highlights)
 author:: [[Kris Safarova]]
 full-title:: "Succeeding as a Management Consultant"
 media:: #books
+status:: #📥inbox 
 
 
 ![](https://m.media-amazon.com/images/I/61+K0H4FzoL._SY160.jpg)

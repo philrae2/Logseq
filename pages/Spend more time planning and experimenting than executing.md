@@ -1,0 +1,6 @@
+- Be wary when you find yourself shortchanging the planning phase or experimentation phase prior to a project start. You don't want the project execution to be a costly experiment. Instead, spend more resources planning and running small scale experiments to gather data. The data from conducting trial runs and planning will help you execute with confidence and experience.
+- > ((648b7a16-00bf-4011-a4bb-86ef1f8ee833))[^1]
+- {{embed ((648b7a16-3b06-4509-b4de-7a1665d1971f))}}
+- [^1]: [[Books - Work Clean]] .
+- -----
+-

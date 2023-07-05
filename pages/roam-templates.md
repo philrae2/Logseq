@@ -1,10 +1,9 @@
----
-title: roam/templates
----
-
+- {{query (property template) }}
+  collapsed:: true
 - **Literature Notes:** 
   template:: Literature Note
   template-including-parent:: false
+  collapsed:: true
 	- tags:: #[[Literature Notes]]
 	- **Quote(s):**
 	- **Note:**
@@ -18,10 +17,48 @@ title: roam/templates
   author:: 
   status:: 
   link::
+  collapsed:: true
 	- How can
 	- #[[Literature Notes]]
 	- #[[Reference Notes]]
+- TODO **Note goes here**
+  date::
+  tags::
+  type:: [[fleeting]]
+  template:: fleeting note
+- LATER [[]]
+  date::
+  tags::
+  areas:: [[🍀 Digital Garden]], [[🗃 Zettelkasten]]
+  type:: [[permanent]]
+  status:: draft
+  template:: Permanent Note
+- insert reference here
+  date::
+  tags::
+  type:: [[reference]]
+  template:: resource
+- Zettel
+  template:: permanent note - content
+  template-including-parent:: false
+	- Zettel goes here.
+	- > source[^1]
+	- [^1]: Source goes here.
+	- -----
+	- - parent
+	- -----
+	- - I think this note relates to this other note.
+- project
+  template:: project
+  template-including-parent:: false
+	- priority::
+	  status::
+	  goal::
+	  due date::
+	- tasks:
+-
 - Premortem
+  collapsed:: true
 	- ((b738201b-1cf9-46ab-8498-080c6c79e046))
 	- ((4e20701d-4441-4e60-9c4f-2abd43904756))
 	- ((d90e8b79-15ac-470d-b999-37c104c67594))
@@ -85,6 +122,7 @@ title: roam/templates
 		- Seek perfection and high standards
 	- [[Daily Review]]
 - Monday Vision
+  collapsed:: true
 	- Check [[🚧 Projects]]
 	- Make sure you create value.
 	- [[The One Thing]]
