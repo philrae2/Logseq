@@ -23,7 +23,6 @@ title: 🏠Home
 id:: 1b9486a5-4f42-4f29-8d01-afecb3f20a02
 - [[Resources]]
 	- Courses
-	  collapsed:: true
 		- [[App Academy]]
 		- [[Code Academy - Learn JavaScript]]
 		- [[Launch School]]
@@ -31,6 +30,7 @@ id:: 1b9486a5-4f42-4f29-8d01-afecb3f20a02
 		- [[Roam Project Management]]
 		- [Decision By Design](https://fscourses.com/courses/enrolled/1003796)
 		- [[https://courses.rjnestor.com/]]
+		- [[Prosci Change Management]]
 	- Reading Material
 	  collapsed:: true
 		- [[books]]
