@@ -25,6 +25,8 @@ id:: 1b9486a5-4f42-4f29-8d01-afecb3f20a02
 	- Courses
 		- [[App Academy]]
 		- [[Code Academy - Learn JavaScript]]
+		- [[DigitalProductManagement-StudyGuide (highlights)]]
+		- [[Digital Product Management - Post Test]]
 		- [[Launch School]]
 		- [[Linked Learning]]
 		- [[Roam Project Management]]
@@ -155,7 +157,6 @@ id:: 1b9486a5-4f42-4f29-8d01-afecb3f20a02
 	- [[books]]
 	- [[☑️ Guides - Templates and Checklists]]
 	- Courses
-	  collapsed:: true
 		- Leadership
 			- [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit)
 				- [[Mochary Method Content]]

@@ -8,51 +8,50 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 - Questions
   id:: 63d69a58-d2bf-4273-9bb9-42c13f18dae2
 	- Module 1 - Intro to Digital Product Management
-	  collapsed:: true
 		- What is a digital product? #card
-		  card-last-interval:: 33.64
-		  card-repeats:: 4
-		  card-ease-factor:: 2.9
-		  card-next-schedule:: 2023-04-15T12:42:41.272Z
-		  card-last-reviewed:: 2023-03-12T21:42:41.272Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 3
+		  card-next-schedule:: 2023-07-11T02:35:16.637Z
+		  card-last-reviewed:: 2023-07-07T02:35:16.637Z
 		  card-last-score:: 5
 			- ((63d0b6c0-900d-4612-adce-85afce3e2bbf))
 			- ((cff16e28-61d2-4642-838d-9cac3d84f756))
 		- What are the two foundational concepts of Digital Product Management? #card
-		  card-last-interval:: 8.32
-		  card-repeats:: 3
-		  card-ease-factor:: 2.08
-		  card-next-schedule:: 2023-03-21T04:38:04.753Z
-		  card-last-reviewed:: 2023-03-12T21:38:04.753Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 1.94
+		  card-next-schedule:: 2023-07-13T20:28:45.113Z
+		  card-last-reviewed:: 2023-07-09T20:28:45.113Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- Digital Product Management is formed by two fundamental concept of the **iterative validation process** and the activities of the **Product-Market Fit**
 				- ((63d34335-5a5f-4d2f-b6fc-eb35417c75c5))
 				- **What is the Validation cycle** #card
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.42
-				  card-next-schedule:: 2023-03-19T02:39:38.526Z
-				  card-last-reviewed:: 2023-03-15T02:39:38.526Z
+				  card-last-interval:: 10.08
+				  card-repeats:: 3
+				  card-ease-factor:: 2.52
+				  card-next-schedule:: 2023-07-16T03:33:47.345Z
+				  card-last-reviewed:: 2023-07-06T02:33:47.345Z
 				  card-last-score:: 5
 					- When creating a hypothesis, you are already thinking about what and how you are measuring, including the targets that indicate whether your hypothesis is correct.
 					- The Build Measure Learn cycle forms the validation cycle. Where the hypothesis informs what we test by building an increment of a product then we measure the data to validate the hypothesis or importantly learn from the data to form another hypothesis.
 				- **Product-Market Fit** is composed of these 3 criteria: #card
-				  card-last-interval:: 4.14
+				  card-last-interval:: 4
 				  card-repeats:: 2
-				  card-ease-factor:: 2.32
-				  card-next-schedule:: 2023-03-21T07:28:59.640Z
-				  card-last-reviewed:: 2023-03-17T04:28:59.641Z
+				  card-ease-factor:: 2.18
+				  card-next-schedule:: 2023-07-11T02:33:55.891Z
+				  card-last-reviewed:: 2023-07-07T02:33:55.892Z
 				  card-last-score:: 3
 					- Validation step - where we find out if our product solves a real problem for real customers?
 					- Viable - does the product provide net value to our business that we should offer it?
 					- Feasible - Can we build the product given the organization's constraints
 		- What is your primary job as a digital product manager? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 1.94
-		  card-next-schedule:: 2023-03-19T02:38:45.947Z
-		  card-last-reviewed:: 2023-03-15T02:38:45.947Z
+		  card-last-interval:: 7.2
+		  card-repeats:: 3
+		  card-ease-factor:: 1.8
+		  card-next-schedule:: 2023-07-13T06:32:45.987Z
+		  card-last-reviewed:: 2023-07-06T02:32:45.987Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- ((63d34335-bb90-45dd-978d-649114be6212))
@@ -64,25 +63,25 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 		  card-last-interval:: -1
 		  card-repeats:: 1
 		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-03-15T04:00:00.000Z
-		  card-last-reviewed:: 2023-03-15T02:37:59.220Z
+		  card-next-schedule:: 2023-07-10T04:00:00.000Z
+		  card-last-reviewed:: 2023-07-09T20:27:25.560Z
 		  card-last-score:: 1
 			- ((63d34335-4611-4f71-bc07-7435ae5ca6f0))
 		- What is the innovation that drives Software as a Service companies (SaaS)? #card
-		  card-last-interval:: 33.64
-		  card-repeats:: 4
-		  card-ease-factor:: 2.9
-		  card-next-schedule:: 2023-04-15T12:42:51.479Z
-		  card-last-reviewed:: 2023-03-12T21:42:51.479Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 3
+		  card-next-schedule:: 2023-07-11T02:39:23.812Z
+		  card-last-reviewed:: 2023-07-07T02:39:23.812Z
 		  card-last-score:: 5
 		  collapsed:: true
 			- {{embed ((44e232b8-abbe-460c-b67d-60cc3d367a7f))}}
 		- What is product-led growth? #card
-		  card-last-interval:: 15.05
-		  card-repeats:: 4
-		  card-ease-factor:: 1.94
-		  card-next-schedule:: 2023-03-27T22:15:36.860Z
-		  card-last-reviewed:: 2023-03-12T21:15:36.860Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 1.8
+		  card-next-schedule:: 2023-07-13T20:26:49.820Z
+		  card-last-reviewed:: 2023-07-09T20:26:49.820Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- Product-led growth is a model that uses the quality of your product and how you treat your users as the primary drivers of growth. You acquire new customers while retaining and monetizing your current users.
@@ -90,12 +89,12 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  collapsed:: true
 		- ![image.png](../assets/image_1674622429387_0.png)
 		- What are the differences between product managers and product owners. #card
-		  card-last-interval:: 28.3
-		  card-repeats:: 4
-		  card-ease-factor:: 2.66
-		  card-next-schedule:: 2023-04-10T04:39:51.928Z
-		  card-last-reviewed:: 2023-03-12T21:39:51.929Z
-		  card-last-score:: 5
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.52
+		  card-next-schedule:: 2023-07-10T23:37:02.119Z
+		  card-last-reviewed:: 2023-07-06T23:37:02.120Z
+		  card-last-score:: 3
 		  collapsed:: true
 			- It is recommended that these two roles should be split among two people, but in some organizations one person can fulfill both roles.
 			- The product manager is responsible for the "busines" aspect of the product—customer segmentation, forecasting, or competitive analysis.
@@ -103,21 +102,21 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- These two roles can overlap in vision or product roadmap, release planning, or needs and feature definition.
 			- ((63d34335-2715-46b1-b33e-2d46edf19016))
 		- What is a key difference between product managers and project managers? #card
-		  card-last-interval:: 15.05
-		  card-repeats:: 4
-		  card-ease-factor:: 1.94
-		  card-next-schedule:: 2023-03-27T22:16:15.024Z
-		  card-last-reviewed:: 2023-03-12T21:16:15.025Z
-		  card-last-score:: 3
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.04
+		  card-next-schedule:: 2023-07-10T23:39:10.586Z
+		  card-last-reviewed:: 2023-07-06T23:39:10.586Z
+		  card-last-score:: 5
 			- Project managers only care about the successful delivery of the project and not whether the project actually benefits or enables the success of the business.
 			- Product managers need to do a lot of future planning, opportunity assessment, and prioritizing.
 		- What are 2 areas of ROI from the user experience designers? #card
 		  card-last-score:: 3
-		  card-repeats:: 3
-		  card-next-schedule:: 2023-03-22T03:30:28.071Z
-		  card-last-interval:: 9.28
-		  card-ease-factor:: 2.32
-		  card-last-reviewed:: 2023-03-12T21:30:28.072Z
+		  card-repeats:: 4
+		  card-next-schedule:: 2023-07-25T02:52:11.046Z
+		  card-last-interval:: 19.01
+		  card-ease-factor:: 2.18
+		  card-last-reviewed:: 2023-07-06T02:52:11.047Z
 			- Increase overall revenue or value creation for users because greater ease of use leads to better emotional attachment
 			- Increased customer satisfaction because customers love well-designed products that fulfills their needs and eases their pain
 	- Module 3 - Becoming Outcome Driven
@@ -126,8 +125,8 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 		  card-last-interval:: -1
 		  card-repeats:: 1
 		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-03-18T04:00:00.000Z
-		  card-last-reviewed:: 2023-03-17T04:29:57.771Z
+		  card-next-schedule:: 2023-07-10T04:00:00.000Z
+		  card-last-reviewed:: 2023-07-09T20:26:05.252Z
 		  card-last-score:: 1
 			- ((63d60832-6512-4112-97c9-74baaae7d861))
 			- ((63d60837-9278-49a7-99c4-75f15ee45813))
@@ -139,39 +138,39 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- ((63d60b3f-e794-4ed6-b69f-1c45d10171cc))
 			-
 		- What are two types of outcomes to focus as product managers? #card
-		  card-last-interval:: 9.28
-		  card-repeats:: 3
-		  card-ease-factor:: 2.32
-		  card-next-schedule:: 2023-03-22T03:33:49.577Z
-		  card-last-reviewed:: 2023-03-12T21:33:49.577Z
-		  card-last-score:: 5
+		  card-last-interval:: 19.01
+		  card-repeats:: 4
+		  card-ease-factor:: 2.18
+		  card-next-schedule:: 2023-07-25T02:52:25.433Z
+		  card-last-reviewed:: 2023-07-06T02:52:25.433Z
+		  card-last-score:: 3
 		  collapsed:: true
 			- Business outcomes to measure company goals
 			- Product outcomes to measure the actual changes in client behaviors that result from the changes made to our product
 		- What is the difference between output and an outcome. #card
-		  card-last-interval:: 10.24
-		  card-repeats:: 3
+		  card-last-interval:: -1
+		  card-repeats:: 1
 		  card-ease-factor:: 2.56
-		  card-next-schedule:: 2023-03-23T02:24:52.395Z
-		  card-last-reviewed:: 2023-03-12T21:24:52.395Z
-		  card-last-score:: 5
+		  card-next-schedule:: 2023-07-10T04:00:00.000Z
+		  card-last-reviewed:: 2023-07-09T20:26:34.177Z
+		  card-last-score:: 1
 			- Outputs are events that lead to outcomes. Outputs are not goals in themselves that would be the outcome.
 			- Outcomes are the behavior changes from our clients based on the outputs of our product.
 		- What are OKRs? #card
-		  card-last-interval:: 9.68
-		  card-repeats:: 3
-		  card-ease-factor:: 2.42
-		  card-next-schedule:: 2023-03-22T13:42:23.757Z
-		  card-last-reviewed:: 2023-03-12T21:42:23.757Z
-		  card-last-score:: 5
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.28
+		  card-next-schedule:: 2023-07-11T02:35:06.344Z
+		  card-last-reviewed:: 2023-07-07T02:35:06.345Z
+		  card-last-score:: 3
 		  collapsed:: true
 			- ![image.png](../assets/image_1674962946803_0.png)
 			- They are SMART Goals that are divided into objectives or strategic goals and key results or measurements of progress towards the goal. #card
-			  card-last-interval:: 26.21
-			  card-repeats:: 4
-			  card-ease-factor:: 2.56
-			  card-next-schedule:: 2023-04-08T02:25:38.880Z
-			  card-last-reviewed:: 2023-03-12T21:25:38.881Z
+			  card-last-interval:: 4
+			  card-repeats:: 2
+			  card-ease-factor:: 2.66
+			  card-next-schedule:: 2023-07-13T20:27:48.096Z
+			  card-last-reviewed:: 2023-07-09T20:27:48.097Z
 			  card-last-score:: 5
 			  collapsed:: true
 				- ![image.png](../assets/image_1674962872605_0.png)
@@ -179,30 +178,30 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			  id:: 63d69a58-fc2a-400a-982a-726e56a81f1b
 			- ((f548306d-dc50-45bb-9564-694c1fe0e69e))
 		- What is the purpose of OKRs? #card
-		  card-last-interval:: 9.28
-		  card-repeats:: 3
-		  card-ease-factor:: 2.32
-		  card-next-schedule:: 2023-03-22T03:40:06.816Z
-		  card-last-reviewed:: 2023-03-12T21:40:06.817Z
+		  card-last-interval:: 3.86
+		  card-repeats:: 2
+		  card-ease-factor:: 2.42
+		  card-next-schedule:: 2023-07-10T22:41:44.941Z
+		  card-last-reviewed:: 2023-07-07T02:41:44.942Z
 		  card-last-score:: 5
 		  collapsed:: true
 			- OKRs are meant to align the organization and helps you know where you are going.
 			- ((cf0f8cf4-bdc9-4f4b-9218-71e6bb901297))
 		- What is the purpose of KPIs? #card
-		  card-last-interval:: 28.3
-		  card-repeats:: 4
-		  card-ease-factor:: 2.66
-		  card-next-schedule:: 2023-04-10T04:43:28.375Z
-		  card-last-reviewed:: 2023-03-12T21:43:28.376Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.76
+		  card-next-schedule:: 2023-07-11T02:41:34.452Z
+		  card-last-reviewed:: 2023-07-07T02:41:34.453Z
 		  card-last-score:: 5
 			- ![image.png](../assets/image_1674964208614_0.png)
 			- Key performance indicators measures how fast you are traveling and if you are on course to reach your OKRs?
 		- What are the categories of KPIs? #card
-		  card-last-interval:: 9.28
-		  card-repeats:: 3
-		  card-ease-factor:: 2.32
-		  card-next-schedule:: 2023-03-22T03:24:25.800Z
-		  card-last-reviewed:: 2023-03-12T21:24:25.801Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.18
+		  card-next-schedule:: 2023-07-10T23:33:03.122Z
+		  card-last-reviewed:: 2023-07-06T23:33:03.122Z
 		  card-last-score:: 3
 			- Product - measure whether customers are using and getting value from our product. They are leading indications of success that determine whether the business will succeed in the next month, quarter, or year. Product KPIs are quicker to course correct because they are more present than the late business KPIs.
 			- Business KPIs are know as "lagging" indicators because they reflect a business result that has been a long time in the making.
@@ -236,12 +235,12 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 		  collapsed:: true
 			- What are types of opportunities #card ![image.png](../assets/image_1675041411439_0.png)
 			  id:: 63d71a81-e14a-4a78-9778-d00b655cf5bf
-			  card-last-interval:: 8.32
-			  card-repeats:: 3
-			  card-ease-factor:: 2.08
-			  card-next-schedule:: 2023-03-23T09:36:45.204Z
-			  card-last-reviewed:: 2023-03-15T02:36:45.204Z
-			  card-last-score:: 3
+			  card-last-interval:: 4
+			  card-repeats:: 2
+			  card-ease-factor:: 2.18
+			  card-next-schedule:: 2023-07-11T02:41:12.779Z
+			  card-last-reviewed:: 2023-07-07T02:41:12.780Z
+			  card-last-score:: 5
 			  collapsed:: true
 				- ((15f3fd70-3f31-4b4f-af88-6f8af6f9e32e))
 				- ((ce26151b-8397-4d31-95b0-04d54199c024))
@@ -249,31 +248,31 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 				- ((8f6ed344-58e3-4353-8944-fbdd20b79101))
 				- ((13b058fd-b47d-4bec-9308-a18abb96c722))
 		- Explain the Product-Market Fit Cycle. #card
-		  card-last-interval:: 4
+		  card-last-interval:: 3.86
 		  card-repeats:: 2
-		  card-ease-factor:: 2.56
-		  card-next-schedule:: 2023-03-19T02:39:53.863Z
-		  card-last-reviewed:: 2023-03-15T02:39:53.863Z
-		  card-last-score:: 3
+		  card-ease-factor:: 2.66
+		  card-next-schedule:: 2023-07-10T22:35:58.288Z
+		  card-last-reviewed:: 2023-07-07T02:35:58.288Z
+		  card-last-score:: 5
 		  collapsed:: true
 			- {{embed ((5c168860-a26f-41d7-a2c2-f3a2e550f84f))}}
 		- What is design thinking? #card
-		  card-last-interval:: 4
+		  card-last-interval:: 2.76
 		  card-repeats:: 2
-		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-03-19T02:39:25.016Z
-		  card-last-reviewed:: 2023-03-15T02:39:25.016Z
+		  card-ease-factor:: 2.08
+		  card-next-schedule:: 2023-07-12T14:28:34.446Z
+		  card-last-reviewed:: 2023-07-09T20:28:34.447Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- {{embed ((729a671d-5597-4dec-91e9-deb87fa1e604))}}
 			  id:: 63d8870c-8ceb-4b45-8b2d-5f0d27ebe6ec
 		- What are the five phases of design thinking? #card
-		  card-last-score:: 3
-		  card-repeats:: 2
-		  card-next-schedule:: 2023-03-21T00:26:47.008Z
-		  card-last-interval:: 3.86
+		  card-last-score:: 1
+		  card-repeats:: 1
+		  card-next-schedule:: 2023-07-10T04:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.08
-		  card-last-reviewed:: 2023-03-17T04:26:47.009Z
+		  card-last-reviewed:: 2023-07-09T20:27:07.260Z
 		  collapsed:: true
 			- The 5 Phases of Design Thinking
 			  	1. Empathize with your users.
@@ -285,26 +284,26 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	- Module 5 - Seeking Solutions
 	  collapsed:: true
 		- What is the Value Prop Box? #card
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.32
+		  card-next-schedule:: 2023-07-13T20:27:36.522Z
+		  card-last-reviewed:: 2023-07-09T20:27:36.523Z
+		  card-last-score:: 5
 		  collapsed:: true
-		  card-last-interval:: 8.88
-		  card-repeats:: 3
-		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-03-21T18:14:31.405Z
-		  card-last-reviewed:: 2023-03-12T21:14:31.406Z
-		  card-last-score:: 3
 			- ![image.png](../assets/image_1675054789364_0.png)
 			- ![image.png](../assets/image_1675221321805_0.png){:height 403, :width 686}
 			- It is a concept that connects creating valuable solutions that addresses the customers gains and pains. It is a framework to help target solutions to get what our customers jobs they want done.
 				- For the Gain Creators think how we might improve or increase the benefits of our customers' expectations. Or what solutions and options will they be surprised by?
 				- Similarly how can we reduce our customers' pains by eliminating negative emotions, costs, and risks.
 		- What is pretotyping? #card
-		  collapsed:: true
-		  card-last-interval:: 8.32
-		  card-repeats:: 3
-		  card-ease-factor:: 2.08
-		  card-next-schedule:: 2023-03-21T04:39:26.943Z
-		  card-last-reviewed:: 2023-03-12T21:39:26.944Z
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 1.94
+		  card-next-schedule:: 2023-07-10T23:35:40.466Z
+		  card-last-reviewed:: 2023-07-06T23:35:40.467Z
 		  card-last-score:: 3
+		  collapsed:: true
 			- ![image.png](../assets/image_1675221379530_0.png)
 				- Pretotyping is a concept that tries to ask from the product will it work, Can we make this work and at what costs? It is pre-testing to knowing whether our intended audience will want something before overinvested resources.
 				- Pretotyping helps you identify possibly successful concepts over faulty ideas.
@@ -314,12 +313,12 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- ![image.png](../assets/image_1675222023831_0.png)
 			- It is a visual technique to help predict and explore a user's experience with a product. It can help stakeholders understand the benefits of a solution and how it could work in practice.
 		- What is viability? #card
-		  card-last-interval:: 9.28
-		  card-repeats:: 3
-		  card-ease-factor:: 2.32
-		  card-next-schedule:: 2023-03-22T03:38:24.120Z
-		  card-last-reviewed:: 2023-03-12T21:38:24.120Z
-		  card-last-score:: 5
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.18
+		  card-next-schedule:: 2023-07-10T23:39:23.626Z
+		  card-last-reviewed:: 2023-07-06T23:39:23.626Z
+		  card-last-score:: 3
 			- Viability asks the product management team if the opportunity is economically attractive to pursue.
 			- Typical Viability questions include:
 			  • How large is the market and how much of it can we capture?
@@ -329,21 +328,21 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			  • Who do we need relationships with?
 			  • What supporting activities are required?
 		- What is market segmentation? #card
-		  card-last-interval:: 11.2
-		  card-repeats:: 3
-		  card-ease-factor:: 2.8
-		  card-next-schedule:: 2023-03-24T01:39:38.207Z
-		  card-last-reviewed:: 2023-03-12T21:39:38.208Z
+		  card-last-interval:: 4.28
+		  card-repeats:: 2
+		  card-ease-factor:: 2.9
+		  card-next-schedule:: 2023-07-11T08:39:44.061Z
+		  card-last-reviewed:: 2023-07-07T02:39:44.061Z
 		  card-last-score:: 5
 			- Is a process of breaking down your customers to unique and smaller groups so we can build targeted solutions for them.
 			- We need to prioritize which customers we want to serve and therefore we can better prioritize the functionalities we build.
 			- Market segmentation can help us build the right product for our target customer.
 		- What is a value proposition? #card
-		  card-last-interval:: 8.88
-		  card-repeats:: 3
-		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-03-21T18:14:46.641Z
-		  card-last-reviewed:: 2023-03-12T21:14:46.641Z
+		  card-last-interval:: 3.86
+		  card-repeats:: 2
+		  card-ease-factor:: 2.08
+		  card-next-schedule:: 2023-07-10T19:34:58.207Z
+		  card-last-reviewed:: 2023-07-06T23:34:58.208Z
 		  card-last-score:: 3
 			- ![image.png](../assets/image_1675222562644_0.png)
 			- **A concise statement of how you uniquely solved a problem for a specific customer segment.** It markets your solution as unique, a solution for them, and their need is known and cared about.
@@ -388,7 +387,6 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 				- Higher lifetime value because you're providing value over time, the customer will do the same for you
 			- It is recommended to model both pricing schemes to determine what is the right long-term mix for your business
 		- Types of Pricing
-		  collapsed:: true
 			- Per-user pricing
 			  collapsed:: true
 				- Relic of the past. Per user pricing is rarely how customers experience the value of your product. In B2B software some users are likely to use some functions but not others.
@@ -421,15 +419,13 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 					- Linear pricing
 						- The cost to the customer is simply usage based. This model is sometimes referred to as pay-as-you-go or consumption-based pricing.
 		- What is a Value Metric?
-		  collapsed:: true
 			- Your value metric is the thing you charge for in your product. It has 3 vital characterisitcs
 				- It aligns to your customer's needs
 				- It's easy to understand
 				- It grows with your customers use, creating win/win for both parties
 			- Value metrics should be tuned to what your target customers will pay for
 			- Value metrics are not only external they can also point inwardly to measure if your company is delivering value to your customers
-			  collapsed:: true
-				- RevRec's acceleartion
+				- RevRec's acceleration
 				- Implementation cycle time, errors, cost reduction
 				- Support cycle time or ticket reductioon
 				- Headcount reduction or re-allocation
@@ -439,7 +435,6 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- ![image.png](../assets/image_1675831554270_0.png)
 			-
 		- ![image.png](../assets/image_1675831637116_0.png)
-		  collapsed:: true
 			- Value proposition
 				- The value proposition is the clear message about your offering. It should define the product and explain its target market, the primary benefit to customers and what makes it different from competitors.
 			- Revenue Stream box captures how you will charge for your product and your value metric(s).
@@ -457,33 +452,56 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- Consider and test packaging decisions carefully - based on as much data as you gather upfront.
 	- Module 7 - Being Agile
 	  id:: 64112f0a-8a2e-4d07-827a-fd543b8800f8
+	  collapsed:: true
 		- Core Principles of Agile
-		  collapsed:: true
 			- ![image.png](../assets/image_1675832097310_0.png)
 			- Agile is software methodology focused on delivering iterative and incremental software in small slices so the development team receive frequent feedback and opportunities for inspection.
 			- Agile focuses on small, self-organizing teams.
 			- Agile enables the validation cycle.
-			  collapsed:: true
 				- ![image.png](../assets/image_1675832249760_0.png)
 				- ![image.png](../assets/image_1675832705479_0.png)
-				-
+				- Scrum
+					- ![image.png](../assets/image_1688614621054_0.png)
+					- A framework for Agile software development. It is a managerial framework and is a prescriptive model in where developers plan, update and analyze their work.
+					- In scrum you have a product vision developed through requirements which reside in the product backlog.
+				- Kanban
+					- A framework developed by Toyota in a supply chain setting. One of the key ideas of Kanban is to avoid producing surplus and minimize work in progress.
+					- Kanban also teaches an important concept that workers pull in work according to their capacity, as opposed to work being fed to them from a to-do list or conveyor belt.
+					- Nothing is is produced unless it economically benefits the customer.
+				- XP Programming
+				- Lean Software Development
 			- Definition of Done
-			  collapsed:: true
 				- An iteration is done if it is deployable or ready to be shown to the user
 			- Scrum
-			  collapsed:: true
 				- ![image.png](../assets/image_1675833010920_0.png){:height 409, :width 693}
-				-
 		- Agile Team
 			- ![image.png](../assets/image_1675833059784_0.png)
 			- The product owner is responsible for managing the product and the backlog.
 			- The scrum master is responsible for facilitating the of the developers/sprint team and serving as the coach.
 			- The scrum master and the PO should never be the same person.
 		- Dual Track Agile & Continuous Discover
+			- ![image.png](../assets/image_1675833299019_0.png)
+			- ![image.png](../assets/image_1675833674558_0.png)
 			- Traditional agile methodologies are focused on delivering an iteration at the end of each sprint on a consistent and predictable way. This process leaves out the discovery work that promotes innovation and understanding problems—which can lead to dead ends and messy solutions.
-		- User Stories
+			- The best way to solve this problem is to run agile and continuous discovery processes.
+		- Spikes
 		  collapsed:: true
+			- ![image.png](../assets/image_1675834293705_0.png)
+				- A spike allows a development team to explore (time box) a difficult or complex issue that they may not know the level of effort or how to solve it.
+		- Usability Testing
+			- Three benefits to Usability Testing
+				- Uncover problems in design
+				- Discover opportunities to improve the design
+				- Learn about the user's behavior and preference
+			- ![image.png](../assets/image_1675834459703_0.png)
+			- ![image.png](../assets/image_1675834489586_0.png){:height 406, :width 693}
+		- User Stories
+			- ![image.png](../assets/image_1675834523432_0.png)
+				- Storymaps tells the story of how the user accomplishes their goals in your product.
+				- A storymap connects your product backlog to your product vision. It helps you create coherent MVPs and future releases that your user finds valuable.
+					- The storymap helps you decide what functionalities are valuable to include in your product.
 			- ![image.png](../assets/image_1675835194469_0.png)
+				- A user story is a high-level requirement that contains sufficient detail to allow developers to product a high level estimate.
 			- User story contains 3 components
 				- ![image.png](../assets/image_1675835155991_0.png)
 				- Who they are
@@ -491,41 +509,72 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 				- Why they want to achieve that goal
 			- User stories should always include the Acceptance criteria. The acceptance criteria is how you know the user story is complete
 		- Roadmap, backlog, and sprints
-		  collapsed:: true
-			- A product roadmap is not a project plan, or a Gantt char or a promise of a specific functionality on specific dates. It is you team's strategy as a product vision. It is about your product.
+			-
+			- A product roadmap is not a project plan, or a Gantt chart or a promise of a specific functionality on specific dates. It is you team's strategy as a product vision. It is about your product.
 			- The roadmaps is all about business outcomes—the intention and aspiration. The backlog is about details of execution. Then the backlog is developed through the sprints.
-			  collapsed:: true
 				- ![image.png](../assets/image_1675835213573_0.png)
 				- ![image.png](../assets/image_1675835381624_0.png)
 			- Development teams create roadmaps in many ways
+				-
 				- ![image.png](../assets/image_1675835447131_0.png)
 				- ![image.png](../assets/image_1675835472294_0.png)
-			- The roadmap should focus on customer or user value
-			- Focus on the user segmentation, user roles, personas and problems you plan to tackle—not your features
+			- ![image.png](../assets/image_1688616145999_0.png)
+			- The roadmap should focus on customer or user value. It highlights your key focus areas.
+			- **Focus on the user segmentation, user roles, personas and problems you plan to tackle—not your features**
 		-
-- Images
-  id:: 63d69a58-789d-4e83-81b0-5403e46e4073
-	- ![image.png](../assets/image_1675833299019_0.png)
-	- ![image.png](../assets/image_1675833674558_0.png)
-	- ![image.png](../assets/image_1675834293705_0.png)
-	- ![image.png](../assets/image_1675834459703_0.png)
-	- ![image.png](../assets/image_1675834489586_0.png){:height 406, :width 693}
-	- ![image.png](../assets/image_1675834523432_0.png)
-	- ![image.png](../assets/image_1677641857117_0.png)
-	- ![image.png](../assets/image_1677641872300_0.png)
-	- ![image.png](../assets/image_1677641918768_0.png)
-	- ![image.png](../assets/image_1677642015344_0.png)
-	- ![image.png](../assets/image_1677642159461_0.png)
-	- ![image.png](../assets/image_1678657684289_0.png)
-	- ![image.png](../assets/image_1678658029579_0.png)
-	- ![image.png](../assets/image_1678658154619_0.png)
-	- ![image.png](../assets/image_1678658243856_0.png){:height 262, :width 440}
-	- ![image.png](../assets/image_1678658334267_0.png)
-	- ![image.png](../assets/image_1678850496394_0.png)
-	- ![image.png](../assets/image_1678850569755_0.png)
-	- ![image.png](../assets/image_1678850583796_0.png)
-	- ![image.png](../assets/image_1678850854795_0.png)
-	-
+	- Module 8 - Product Led Growth
+	  collapsed:: true
+		- ![image.png](../assets/image_1678657684289_0.png)
+		- Prior to product led growth marketing and sales funnels were the de facto approach to sales. The funnel mirrors the buyer's journey , or the way the way they become aware of the product and its utility, to their ultimate purchase.
+			- The term rose from the concept because only a subset of your addressable market will purchase your product. From those paying attention, to finding utility, and to the last funnel of purchasing.
+			- The marketing gets attention to your product at the top part of the panel and hands off to the sales team any leads of those paying attention and interested in your product. These are called Marketing Qualified Leads.
+		- ![image.png](../assets/image_1678658029579_0.png)
+			- Product led growth means using the quality and the users of your product as the primary drivers of growth through acquiring new customers and retaining and monetizing your existing users. The users who find value in your application and remain as paying customers are your product qualified leads.
+			- Product led companies perform better than those aren't. Additionally,
+			  collapsed:: true
+				- The customer acquisition cost are 30% less for those with a freemium model
+				- Referrals are more efficient than hiring a sales team
+				- Product led companies allow buyers to self-educate. Something they enjoy as opposed to interacting with the sales team.
+			- To attain success with product led growth:
+			  collapsed:: true
+				- Know your user - PGL demands coupling between users and your product
+					- To delight your customer you need to know them well. Hire a UX expert and practice Design Thinking
+					- Employ customer journey mapping
+						- Current state
+						- Day in the life - This type of journey maps also illustrates the current state but also provides a wider view through examination of the user's existing pain points. This type of journey maps is best used to drive innovation through addressing unmet needs.
+						- Future state
+				- Give value immediately, and definitely before you ask for payment
+				- Obsess about growth - drive monetization, retention & referral through every interaction your users have with your product
+				- Make your product fun and easy to use
+				- Design your processes and interactions around your product and its uers.
+			- Jobs to Be Done
+			  collapsed:: true
+				- ![image.png](../assets/image_1677641857117_0.png)
+				- A theory that states  ‘Customers don't buy a product as much as they ‘hire it’ to do a Job that improves their lives in a particular way.’
+				- Think through issues and problem solve through customer lens and not your business. For example a weed killing company may market their products to kill weeds, but your customers ultimately may prefer preventing weeds from growing.
+				- JTBD are uncovered through pain points: cost, under performance, feels bad, difficulties and challenges, risks, fears, etc.
+				- ![image.png](../assets/image_1677641872300_0.png)
+				- ![image.png](../assets/image_1677641918768_0.png)
+				- ![image.png](../assets/image_1677642015344_0.png)
+			- ![image.png](../assets/image_1677642159461_0.png)
+			  collapsed:: true
+				- The value prop box helps you ideate ideas to serve your customer through functional, emotional, social gain creators and alleviate pain.
+			- Product Rule 2 - Give value immediately
+			  collapsed:: true
+				- Acquire and retain users before monetizing them. You can use freemium and trial models to apply this rule to your business.
+			- Product Rule 3 - Obsess about growth
+				- ![image.png](../assets/image_1678658154619_0.png){:height 323, :width 548}
+				- One characteristics of SaaS is its iterative business model of acquiring, retaining, and monetizing customers. It should be a flywheel that speed up and never slows down.
+				- ![image.png](../assets/image_1678658243856_0.png){:height 331, :width 530}
+					- The AARRR framework is used to grow your business.
+					- ![image.png](../assets/image_1678658334267_0.png)
+						- Activation occurs prior to purchase, an example is a facebook user that is engaged enough to invite ten of their friends.
+					- ![image.png](../assets/image_1678850496394_0.png)
+						- Retention is delivering continuous values to the users for them to stick around. It is the primary part of the Customer lifecycle.
+					- ![image.png](../assets/image_1678850569755_0.png)
+					- ![image.png](../assets/image_1678850583796_0.png)
+						- For customers to refer others to your product they must know it, use it, love it, and then they will recommend it.
+					- ![image.png](../assets/image_1678850854795_0.png)
 - Highlights first synced by [[Readwise]] [[2023-01-24]]
   collapsed:: true
 	- The Practices of Digital Organizations
@@ -975,44 +1024,10 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  can change plan now and work on another opportunity and create better economic
 	  opportunity for your company. We call this: ‘Delaying decision until last responsible
 	  moment’ ([View Highlight](https://read.readwise.io/read/01grqpt4bxbmmhknrp7ay4fsvn))
-	- SCRUM - Scrum could be called the framework for Agile software development. In many
-	  people’s view, Scrum is synonymous with Agile. Scrum is, first and foremost, a managerial
-	  framework. It's about things developers do when they're not writing code. Scrum explicitly
-	  prescribes a model, according to which developers plan their work, update their plans, and
-	  analyze how things went in retrospect. The framework introduces the role of Scrum Master, a
-	  dedicated person whose task is to facilitate the process and make sure it’s being followed.
-	  More on Scrum below. ([View Highlight](https://read.readwise.io/read/01grqpthzmtrvztzkg24j7cjmr))
-	- KANBAN - The Kanban framework was invented at Toyota, whose representatives observed
-	  how supermarkets restock their goods based on what’s been picked off the shelves. This led
-	  Toyota to create a supply system where production plans would be driven by actual
-	  consumption. One of the key ideas of Kanban is to refrain from producing a surplus – and
-	  to minimize Work in Process. The Kanban system also introduces the notion of "pull" over
-	  "push," meaning that workers pull in work according to their capacity, as opposed to
-	  work being fed to them on a conveyor belt or in the form of a to-do list. Another aspect of
-	  Kanban development is that activities are always tied to customer needs and that there is
-	  ongoing communication with the customer. Nothing is produced unless it economically
-	  benefits the customer. ([View Highlight](https://read.readwise.io/read/01grqpv1c8q7k8kp0x5773vegw))
-	- XP [Extreme Programming] - Extreme programming started as an experiment at Chrysler.
-	  The idea was to take cherry-picked programming practices to the extreme and see what
-	  happens. For instance, instead of code reviews, you do ‘pair-programming’, technically
-	  reviewing code non-stop. Later, as more companies began adopting this approach, certain
-	  rigid rules started to be omitted - such as daily integration tests. Nowadays, one can see XP
-	  practices used by teams that utilize Scrum, Kanban, and other Agile methodologies to
-	  squeeze the most out of the developers' potential. XP does not simply equal pair
-	  programming. While pair programming is one the twelve practices used in XP, it’s not the only
-	  one there is. XP offers an algorithm for process management, too. Another thing to note is
-	  that ideally, all XP practices should be used together, or else they won't work ([View Highlight](https://read.readwise.io/read/01grqpw0wbkrhkfwxrq15kmbha))
-	- Lean Software Development – Lean was conceived in the '80s by adopting a "just-in-time"
-	  approach, borrowed heavily from Kanban. You’ll see many similarities between the two
-	  approaches. Like Kanban, Lean strives to reduce waste and maximize value to the
-	  customer. Waste could be building the wrong feature, waiting/multitasking/switching,
-	  wasting time doing something that will never be used or starting anew. Unlike Kanban, Lean
-	  has some prescriptions regarding engineering practices (TDD, for example). At the same
-	  time, Lean is less prescriptive on delivery time-boxes, with the team potentially being
-	  ready to deploy at any time. Some other concepts frequently associated with Lean are the
-	  Minimal Viable Product, which is the version you release as soon as you can - often even ahead
-	  of writing any documentation - failing fast, and making binding commitments (such as main
-	  architectural decisions) as late as possible. ([View Highlight](https://read.readwise.io/read/01grqpw52vpp8ncxr5nchmq68n))
+	- SCRUM - Scrum could be called the framework for Agile software development. In many people’s view, Scrum is synonymous with Agile. Scrum is, first and foremost, a managerial framework. It's about things developers do when they're not writing code. Scrum explicitly prescribes a model, according to which developers plan their work, update their plans, and analyze how things went in retrospect. The framework introduces the role of Scrum Master, a dedicated person whose task is to facilitate the process and make sure it’s being followed. More on Scrum below. ([View Highlight](https://read.readwise.io/read/01grqpthzmtrvztzkg24j7cjmr))
+	- KANBAN - The Kanban framework was invented at Toyota, whose representatives observed how supermarkets restock their goods based on what’s been picked off the shelves. This led Toyota to create a supply system where production plans would be driven by actual consumption. One of the key ideas of Kanban is to refrain from producing a surplus – and to minimize Work in Process. The Kanban system also introduces the notion of "pull" over "push," meaning that workers pull in work according to their capacity, as opposed to work being fed to them on a conveyor belt or in the form of a to-do list. Another aspect of Kanban development is that activities are always tied to customer needs and that there is ongoing communication with the customer. Nothing is produced unless it economically benefits the customer. ([View Highlight](https://read.readwise.io/read/01grqpv1c8q7k8kp0x5773vegw))
+	- XP [Extreme Programming] - Extreme programming started as an experiment at Chrysler. The idea was to take cherry-picked programming practices to the extreme and see what happens. For instance, instead of code reviews, you do ‘pair-programming’, technically reviewing code non-stop. Later, as more companies began adopting this approach, certain rigid rules started to be omitted - such as daily integration tests. Nowadays, one can see XP practices used by teams that utilize Scrum, Kanban, and other Agile methodologies to squeeze the most out of the developers' potential. XP does not simply equal pair programming. While pair programming is one the twelve practices used in XP, it’s not the only one there is. XP offers an algorithm for process management, too. Another thing to note is that ideally, all XP practices should be used together, or else they won't work ([View Highlight](https://read.readwise.io/read/01grqpw0wbkrhkfwxrq15kmbha))
+	- Lean Software Development – Lean was conceived in the '80s by adopting a "just-in-time" approach, borrowed heavily from Kanban. You’ll see many similarities between the two approaches. Like Kanban, Lean strives to reduce waste and maximize value to the customer. Waste could be building the wrong feature, waiting/multitasking/switching, wasting time doing something that will never be used or starting anew. Unlike Kanban, Lean has some prescriptions regarding engineering practices (TDD, for example). At the same time, Lean is less prescriptive on delivery time-boxes, with the team potentially being ready to deploy at any time. Some other concepts frequently associated with Lean are the Minimal Viable Product, which is the version you release as soon as you can - often even ahead of writing any documentation - failing fast, and making binding commitments (such as main architectural decisions) as late as possible. ([View Highlight](https://read.readwise.io/read/01grqpw52vpp8ncxr5nchmq68n))
 	- Definition of Done and Definition of Ready
 	  These are both a team-agreed list of criteria which must be met before:
 	  • DoR: User Stories can be accepted by the team to work on
@@ -1044,17 +1059,8 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  have another role on the team. But the SM does not run all the ceremonies – the does that.
 	  Notably, the PO and the SM should never be the same person! ([View Highlight](https://read.readwise.io/read/01grqq0p4bqh24sqnxx7v1gxzq))
 	- Dual Track Agile, Continuous Discovery and Research Spikes ([View Highlight](https://read.readwise.io/read/01grqq5akmxnk4n50j6h282rtw))
-	- Discovery and Delivery are two very different complimentary processes. Traditional agile
-	  focuses on making delivery high-quality and predictable in terms of timeframe and cost. This
-	  leaves out the discovery work that we need to do in order to innovate, understand problems –
-	  which is fundamentally messy and leads to some dead ends. The best way we’ve found to
-	  solve this is to run both kinds of processes side-by-side. ([View Highlight](https://read.readwise.io/read/01grqqgbx4ecdq0aaw1femgyrb))
-	- Discovery is all about learning and validating your hypotheses. Continuous Discovery
-	  interleaves these learning processes process side-by-side with Delivery processes. The
-	  Best Practice is for the team to have weekly touchpoints with customers where they conduct
-	  small research activities in pursuit of a desired Product Outcome. These frequent shorter
-	  duration discussions have been shown to be far more effective than infrequent, large
-	  research projects than can overwhelm your team. ([View Highlight](https://read.readwise.io/read/01grqr1xvxbvvvdrrh05g5xr8j))
+	- Discovery and Delivery are two very different complimentary processes. Traditional agile focuses on making delivery high-quality and predictable in terms of timeframe and cost. This leaves out the discovery work that we need to do in order to innovate, understand problems – which is fundamentally messy and leads to some dead ends. The best way we’ve found to solve this is to run both kinds of processes side-by-side. ([View Highlight](https://read.readwise.io/read/01grqqgbx4ecdq0aaw1femgyrb))
+	- Discovery is all about learning and validating your hypotheses. Continuous Discovery interleaves these learning processes process side-by-side with Delivery processes. The Best Practice is for the team to have weekly touchpoints with customers where they conduct small research activities in pursuit of a desired Product Outcome. These frequent shorter duration discussions have been shown to be far more effective than infrequent, large research projects than can overwhelm your team. ([View Highlight](https://read.readwise.io/read/01grqr1xvxbvvvdrrh05g5xr8j))
 	- Sometimes, the team can’t estimate how hard a technical challenge will be to solve , or how
 	  long it will take. A Research Spike allows the team to dedicate time, but ‘time-box’, or limit
 	  that time they spend on researching or prototyping a solution. Said otherwise, the team
@@ -1076,28 +1082,10 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  chances of achieving n successes in N trials. The Poisson Distribution with a 31% binomial
 	  probability shows that once you add more than 5 users to a test group, returns diminish
 	  drastically—the more users you add to a test group, the less you’ll learn. ([View Highlight](https://read.readwise.io/read/01grqr99qnkp0cmy5207nryqdw))
-	- Storymaps and User Stories
-	  A storymap is fundamentally telling the story of how a user accomplishes their goals in
-	  your product. This technique is very helpful is for anyone who has ever struggled with a
-	  backlog. Yes, backlogs for mature products can be all over the place. But, backlogs for
-	  innovations need to align to a story.
-	  A storymap serves as a bridge between product vision and product backlog. It enables
-	  coherent MVP and future releases that accomplish user goals. Stories will often emerge from
-	  building the map. It also helps create a shared understanding of the problem and solution for
-	  the team and for stakeholders.
-	  Two fundamental pieces of information must be combined to create a Story Map:
-	  Personas - Representation of a group of customers with common behaviors ([View Highlight](https://read.readwise.io/read/01grqra664x7v652d3s93n0arq))
-	- Persona Jobs / Goals - Key tasks or goals to be completed from the Customer perspective
-	  A Story Map is also useful for high level prioritization and deciding what should and
-	  should not be part of the Minimum viable product. The terms used with story mapping are
-	  here too, for example the backbone, user activity, user tasks etc. Over time this has evolved
-	  so that the bigger things are on the top and the smaller items with more detail are lower
-	  down. What you need to do first is higher than what you will need to do later on. A task is
-	  usually something that will be completed in a single session. Goals often happen in multiple
-	  sessions.
-	  Lastly, a Story Map really helps visualizing prioritization – far easier than reading through
-	  pages of user stories. This help you when roadmapping. ([View Highlight](https://read.readwise.io/read/01grqra9hwb23nzqbkbnwkyxzf))
+	- Storymaps and User Stories A storymap is fundamentally telling the story of how a user accomplishes their goals in your product. This technique is very helpful is for anyone who has ever struggled with a backlog. Yes, backlogs for mature products can be all over the place. But, backlogs for innovations need to align to a story. A storymap serves as a bridge between product vision and product backlog. It enables coherent MVP and future releases that accomplish user goals. Stories will often emerge from building the map. It also helps create a shared understanding of the problem and solution for the team and for stakeholders. Two fundamental pieces of information must be combined to create a Story Map: Personas - Representation of a group of customers with common behaviors ([View Highlight](https://read.readwise.io/read/01grqra664x7v652d3s93n0arq))
+	- Persona Jobs / Goals - Key tasks or goals to be completed from the Customer perspective A Story Map is also useful for high level prioritization and deciding what should and should not be part of the Minimum viable product. The terms used with story mapping are here too, for example the backbone, user activity, user tasks etc. Over time this has evolved so that the bigger things are on the top and the smaller items with more detail are lower down. What you need to do first is higher than what you will need to do later on. A task is usually something that will be completed in a single session. Goals often happen in multiple sessions. Lastly, a Story Map really helps visualizing prioritization – far easier than reading through pages of user stories. This help you when roadmapping. ([View Highlight](https://read.readwise.io/read/01grqra9hwb23nzqbkbnwkyxzf))
 - New highlights added [[2023-02-12]] at 1:01 PM
+  collapsed:: true
 	- A User Story is a high-level requirement that has just enough detail to allow developers to
 	  produce a high-level estimate. It is a place holder for a conversation between the PM (or
 	  customer/stakeholders) and the development team. ([View Highlight](https://read.readwise.io/read/01grqryhmp0ce40bjscyws5v93))
@@ -1146,12 +1134,13 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  The ‘Other Imperatives’ swim lane can include: Technology, Tech Debt, Compliance, Platform
 	  Capability, Vulnerabilities, and Non-functional Requirements. ([View Highlight](https://read.readwise.io/read/01grqs8azygss9kgxav1dzpsta))
 - New highlights added [[2023-02-13]] at 11:13 PM
+  collapsed:: true
 	- Product Led Growth (PLG). In short: PLG refers to a model that uses your product and your users as the primary mechanism to drive growth, through acquiring new customers, and while retaining & monetizing your existing customers. While simple in concept, this is in stark contrast to the above, well-worn model of using Marketing & Sales programs for these efforts. And, here, ‘Service’ means most or all customer-facing transactions are handled inside the product: Implementation, Onboarding, Product Support, Upsell, Renewals… Once a customer has actually used your product, and is receiving value from it, they are much more likely to purchase or renew – we call these Product-Qualified Leads (PQL). ([View Highlight](https://read.readwise.io/read/01gs71ex7kcjg2hypzqda0cwy9))
 	- Why be product-led? ([View Highlight](https://read.readwise.io/read/01gs71gfhn39j6z54m8x3cp4x8))
-	- CAC is lower for products with a freemium model – according to Profitwell, freemium CAC has increased around 30% less over the past 4 years than the CAC of companies that don’t have a free offering. ([View Highlight](https://read.readwise.io/read/01gs71gng60sxtbqawpek63vsm))
-	- PQLs offer improved Lead Quality - you don’t need an army of salespeople pursuing lower-quality leads for smaller deals. Your leads are higher-quality since your customers are already using the product. ([View Highlight](https://read.readwise.io/read/01gs71gsrbyfzgg09r9x4fexf7))
-	- Buyers love to self-educate - according to Forrester Research, they expect it. ([View Highlight](https://read.readwise.io/read/01gs71h13ee1vp0cxm2a6tpwqb))
-	- Everyone is now expecting a consumer-style user experience – Even and especially for B2B products ([View Highlight](https://read.readwise.io/read/01gs71h4dy697gg7v48d2rjvq5))
+		- CAC is lower for products with a freemium model – according to Profitwell, freemium CAC has increased around 30% less over the past 4 years than the CAC of companies that don’t have a free offering. ([View Highlight](https://read.readwise.io/read/01gs71gng60sxtbqawpek63vsm))
+		- PQLs offer improved Lead Quality - you don’t need an army of salespeople pursuing lower-quality leads for smaller deals. Your leads are higher-quality since your customers are already using the product. ([View Highlight](https://read.readwise.io/read/01gs71gsrbyfzgg09r9x4fexf7))
+		- Buyers love to self-educate - according to Forrester Research, they expect it. ([View Highlight](https://read.readwise.io/read/01gs71h13ee1vp0cxm2a6tpwqb))
+		- Everyone is now expecting a consumer-style user experience – Even and especially for B2B products ([View Highlight](https://read.readwise.io/read/01gs71h4dy697gg7v48d2rjvq5))
 	- Product-led Growth: Five Rules
 	  We have codified a simple set of rules you should follow to become Product-Led and reap its benefits:
 	  1. Know thy user – PLG demands an unprecedented coupling between your users and your product
@@ -1164,27 +1153,15 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	- Day in the life: These journey maps also illustrate what people do, think, and feel today. But they take a wider view by examining everything that customers or prospects do (within a specific area of focus), whether that involves your company or not. Because these maps highlight existing pain points in peoples’ lives, they’re best suited for driving innovation through addressing unmet needs. ([View Highlight](https://read.readwise.io/read/01gs71nwphfqegmqw29b3sv8pf))
 	- Future state: These journey maps illustrate what your customers will do, think, and feel as they interact with your business at some point in the future. They’re best suited for communicating your vision for how new products, services, and experiences will function ([View Highlight](https://read.readwise.io/read/01gs71ppt6n8ncjba9154n7vxj))
 - New highlights added [[2023-02-26]] at 10:42 PM
+  collapsed:: true
 	- JTBD theory, says, simply, that: ‘Customers don't buy a product as much as they ‘hire it’ to do a Job that improves their lives in a particular way.’ ([View Highlight](https://read.readwise.io/read/01gsrz81derhbvb7y0nscjm95e))
 	- ‘‘JTBD’ come in 3 primary varieties: • Functional - see above. And Watch the video by Clayton Christensen on the ‘Job of a McDonald’s Shake’
 	  • Emotional - How do you feel before/ during/after performing a task? • Social - How do you want to be perceived by others? ([View Highlight](https://read.readwise.io/read/01gsrz8sb8e6eb8veqmsbd2pf1))
 	- We think about the job from the customer’s perspective, not the company’s. For example, a company that supplies herbicides to farmers may conclude that growers (the job executors) are trying to “kill weeds”, while the growers might say the job-to-be-done is to “prevent weeds from impacting crop yields” ([View Highlight](https://read.readwise.io/read/01gsrz98tgqmnh5m152vxxdkaf))
 	- When interviewing potential users/customers, these (above) are the key areas to probe for their JTBD. Ask open ended questions, like: ‘Tell me about what happens when you…’, and always ask: ‘why do want to do that, and how does that make you feel?’ ([View Highlight](https://read.readwise.io/read/01gsrza0d7nj12yb089cy4rdqa))
 - New highlights added [[2023-02-28]] at 11:36 PM
-	- When interviewing potential users/customers, these (above) are the key areas to probe for
-	  their Pain Points. Ask questions, like:
-	  • What do you find too costly? (e.g. takes a lot of time, costs too much money, requires
-	  substantial efforts, …)
-	  • What makes you feel bad? (e.g. frustrations, annoyances, things that give them a
-	  headache, …)
-	  • How are current solutions underperforming for you? (e.g. lack of features, performance,
-	  malfunctioning, …)
-	  • What are the main difficulties and challenges you encounter? (e.g. understanding how
-	  things work, difficulties getting things done, resistance, …)
-	  • What negative social consequences do you encounter or fear? (e.g. loss of face, power,
-	  trust, or status, …)
-	  • What risks do you face? (e.g. financial, social, technical risks, or what could go awfully
-	  wrong, …)
-	  • What’s keeping you awake at night? (e.g. big issues, concerns, worries, …) ([View Highlight](https://read.readwise.io/read/01gtdkzzaktcv62mvyrzrqkwyd))
+  collapsed:: true
+	- When interviewing potential users/customers, these (above) are the key areas to probe for their Pain Points. Ask questions, like: • What do you find too costly? (e.g. takes a lot of time, costs too much money, requires substantial efforts, …) • What makes you feel bad? (e.g. frustrations, annoyances, things that give them a headache, …) • How are current solutions underperforming for you? (e.g. lack of features, performance, malfunctioning, …) • What are the main difficulties and challenges you encounter? (e.g. understanding how things work, difficulties getting things done, resistance, …) • What negative social consequences do you encounter or fear? (e.g. loss of face, power, trust, or status, …) • What risks do you face? (e.g. financial, social, technical risks, or what could go awfully wrong, …) • What’s keeping you awake at night? (e.g. big issues, concerns, worries, …) ([View Highlight](https://read.readwise.io/read/01gtdkzzaktcv62mvyrzrqkwyd))
 	- What common mistakes do you make? (e.g. usage mistakes, …)
 	  • What barriers are keeping you from adopting solutions? (e.g. upfront investment costs,
 	  learning curve, resistance to change, …) ([View Highlight](https://read.readwise.io/read/01gtdm02k239qvxgc9eb7j5qdn))
@@ -1199,20 +1176,10 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  • What positive social consequences do you desire? (e.g. makes them look good, increase in
 	  power, status, …)
 	  • What are you looking for? (e.g. good design, guarantees, specific or more features, …) ([View Highlight](https://read.readwise.io/read/01gtdm5v03y15z43p0szkt0cz6))
-	- What do you dream about? (e.g. big achievements, big reliefs, …)
-	  • How do you measure success and failure? (e.g. performance, cost, …)
-	  • What would increase your likelihood of adopting a solution? (e.g. lower cost, less
-	  investments, lower risk, better quality, performance, design, …) ([View Highlight](https://read.readwise.io/read/01gtdm6c9v3x6h6w2jez501wcx))
-	- The Value Prop Box helps you ideate solutions to enable your customers’ jobs in each of
-	  the three primary areas (Functional, Emotional, Social)
-	  Gain Creators can create the benefits your customer expects, desires or would be surprised by
-	  Pain Relivers can eliminate or reduce negative emotions, costs, situations, and risks that your
-	  customer experiences
-	  List all the forms in which your value proposition is delivered that help your customers
-	  accomplish their JTBD
-	  List some additional/whole product capabilities which help your customer perform the roles
-	  of a Buyer/User, Co-creator, or Transferrer. ([View Highlight](https://read.readwise.io/read/01gtdm7arvezmtbdh0etpjcyd2))
+	- What do you dream about? (e.g. big achievements, big reliefs, …) • How do you measure success and failure? (e.g. performance, cost, …) • What would increase your likelihood of adopting a solution? (e.g. lower cost, less investments, lower risk, better quality, performance, design, …) ([View Highlight](https://read.readwise.io/read/01gtdm6c9v3x6h6w2jez501wcx))
+	- The Value Prop Box helps you ideate solutions to enable your customers’ jobs in each of the three primary areas (Functional, Emotional, Social) Gain Creators can create the benefits your customer expects, desires or would be surprised by Pain Relivers can eliminate or reduce negative emotions, costs, situations, and risks that your customer experiences List all the forms in which your value proposition is delivered that help your customers accomplish their JTBD List some additional/whole product capabilities which help your customer perform the roles of a Buyer/User, Co-creator, or Transferrer. ([View Highlight](https://read.readwise.io/read/01gtdm7arvezmtbdh0etpjcyd2))
 - New highlights added [[2023-03-12]] at 8:32 PM
+  collapsed:: true
 	- Module 8: Product-Led Growth ([View Highlight](https://read.readwise.io/read/01gvbwpbkrc8ngcae684vfa7ja))
 	- For decades,
 	  companies have used the idea of the marketing & sales funnel. The funnel mirrors what we
@@ -1280,6 +1247,7 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	  first 7 days of signups, then that user is going to be more engaged and thus going to stick
 	  with Facebook longer. ([View Highlight](https://read.readwise.io/read/01gvbxagg16v92r928605k5thp))
 - New highlights added [[2023-03-15]] at 10:22 PM
+  collapsed:: true
 	- Retention is the primary part of Customer Lifecycle. Our goal is to deliver sufficient continuous value to drive renewals ([View Highlight](https://read.readwise.io/read/01gvhmm452jw2gmf776hh8depj))
 	- For accounting and payroll products, the No. 1 influencer for a buyer was the accountant ([View Highlight](https://read.readwise.io/read/01gvhmmj5qgp0r30ysdadjzadm))
 	- Once you find the folks who are trusted advisers to your customers and prospects, you need to help them do four things. In order, they need to know, use, love and recommend your products or services.

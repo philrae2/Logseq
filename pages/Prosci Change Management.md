@@ -418,6 +418,8 @@
 			- Structured, Repeatable and Adaptable
 				- As a key part of the Prosci Methodology, the Prosci 3-Phase Process enables practitioners to formulate and customize an approach to their change management projects and initiatives. It’s adaptable by design, easily scalable, and flows logically. By progressing through each of the phases and applying the right processes and tools, the Prosci 3-Phase Process establishes the process for activities and actions that will help you succeed at change in your organization.
 		- Phase 1 – Prepare Approach Overview
+		  id:: 64a5d80a-0634-4b3c-bbd8-68147a635b46
+		  collapsed:: true
 			- ![image.png](../assets/image_1688590365603_0.png){:height 489, :width 948}
 			- Purpose
 				- Phase 1 – Prepare Approach is the first phase of the Prosci 3-Phase Process.  The purpose of Phase 1 – Prepare Approach is to position the change for success by developing a customized and scaled change management strategy with the necessary sponsorship and commitment. This phase has three stages:
@@ -565,6 +567,7 @@
 						- You can also influence the expectations of your primary sponsor.
 					- And remember, you are still making a contribution. Some change management is better than no change management.
 				- More Information on Risk Assessment Analysis - Risk Profiles
+				  collapsed:: true
 					- High Risk: Large, disruptive change in a change resistant organization
 					  collapsed:: true
 						- ![image.png](../assets/image_1688591413481_0.png)
@@ -597,6 +600,7 @@
 						- Role Roster Implications: The sponsor would typically be a mid-level manager and a sponsor coalition would be required if the change impacted multiple business groups with different leaders. People managers will need to focus on the Communicator, Advocate and Coach roles to effectively lead the change with their teams.
 						- Change Management Plan Implications: In most situations, an ADKAR Blueprint or ADKAR Blueprint by Group would be sufficient given the low risk profile. Sustainment of the change can be achieved by having people managers reinforce the change with impacted individuals.
 					- Medium Risk: Small, incremental change in a change resistant organization
+					  collapsed:: true
 						- ![image.png](../assets/image_1688593774813_0.png)
 						- The upper left quadrant represents medium risk. While the change may be small and incremental based on a change characteristics score below 42, it is occurring within a change resistant organization as indicated by the organizational attributes score above 42.
 						- By selecting appropriate activities, change practitioners can mitigate a number of the risk factors that comprise the organizational attributes assessment, including the perceived need for the change among impacted people (factor 1), executive / senior manager change competency (factor 10) and people manager change competency (factor 11). Identifying and preventing resistance is a significant opportunity area for changes occurring in change resistant organizations.
@@ -646,4 +650,504 @@
 								- What are we trying to achieve?
 								- Who has to do their jobs differently and how?
 								- What will it take to achieve success?
--
+		- Phase 2 - Manage Change Overview
+		  collapsed:: true
+			- Plan and Act
+			  collapsed:: true
+				- ![image.png](../assets/image_1688671520150_0.png)
+				- Purpose
+				  collapsed:: true
+					- Phase 2 – Manage Change is the second phase of the Prosci 3-Phase Process extending along most of the lifecycle of the project. The purpose of Phase 2 – Manage Change is to achieve adoption and usage of the change by creating, implementing and adapting plan(s) that will move individuals and the organization through ADKAR transitions. This phase has three stages:
+						- Plan and Act: This stage answers the question, “What will we do to prepare, equip and support people?”
+						- Track Performance: This stage answers the question, “How are we doing?”
+						- Adapt Actions: This stage answers the question, “What adjustments do we need to make?”
+				- Deliverable
+				  collapsed:: true
+					- The deliverable for Phase 2 – Manage Change is a Master Change Management Plan. The Master Change Management Plan, with ADKAR Blueprint as a foundation, bundles the activity and role plans to achieve adoption and usage. It acts as a guiding document for the change management team and can be shared with the sponsors and project leaders to:
+						- Communicate accountabilities and timelines
+						- Communicate performance goals
+						- Support integration of plans with the technical side
+				- Roles and Responsibilities
+				  collapsed:: true
+					- ![image.png](../assets/image_1688671594003_0.png)
+			- Phase 2 – Manage Change at a Glance
+			  collapsed:: true
+				- ![image.png](../assets/image_1688671620570_0.png)
+				- ### Plan and Act: What will we do to prepare, equip and support people?
+				  collapsed:: true
+					- ![image.png](../assets/image_1688671643427_0.png)
+					- Why
+						- In Plan and Act specific tactics are identified and plans developed to move individuals impacted by a change and the organization through ADKAR transitions.
+					- What
+					  collapsed:: true
+						- The Plan and Act activities are:
+						- Build ADKAR Blueprint by defining ADKAR milestone target dates, anticipated gaps, activities, roles and timelines for achieving each ADKAR element.
+						- Determine plans required by considering a number of criteria, including change practitioner competency and capacity, the amount of time available to develop and implement plans and the risk profile of the change.
+						- Create CM plan(s) by using the activities defined in the ADKAR Blueprint to inform the development of two core role plans (Sponsor and People Manager) and two core activity plans (Communications and Training) using the common change management plan template.
+						- Prepare and activate roles by completing an ADKAR Assessment for each individual on the Role Roster to identify their barrier point for fulfilling their role and then developing tactics to prepare, equip and support them to effectively carry out their role.
+						- Integrate and take action by creating a Master Change Management Plan that documents the ADKAR Blueprint and specific plan(s) that are required. Effective integration requires an agreed entry or starting point for applying change management and a common understanding of the integration points.
+					- Who
+					  collapsed:: true
+						- Plan and Act includes two specific “who” answers:
+						- ![image.png](../assets/image_1688671718097_0.png)
+					- When
+					  collapsed:: true
+						- Plan and Act begins following completion of Phase 1 – Prepare Approach and approval of the Change Management Strategy by the primary sponsor of the change.
+				- ### More Information on Change Management Plans
+				  collapsed:: true
+					- Change management comes to life through change management plans. The objective of the plans is to support impacted individuals and groups to move through their ADKAR® journeys effectively and enable them to adopt and use a change. Practitioners develop change management plans during Phase 2 of the Prosci 3-Phase Process.
+					- ![image.png](../assets/image_1688671959808_0.png)
+					- Master Change Management Plan
+						- The Master Change Management Plan is the deliverable from Phase 2 – Manage Change. It describes the high-level blueprint and specific plan or plans to be developed for the change project, including the actions, roles and timelines to prepare, equip and support people to achieve their ADKAR transitions.
+						- Before developing any specific change management plans, change practitioners create an ADKAR Blueprint to set the direction for a change initiative. The ADKAR Blueprint is a simple and scalable guide, oriented toward people, which enables the practitioner to identify at a high level the milestone dates, expected gaps and initial ideas for each ADKAR element. Under some circumstances, such as small, low-risk changes, the ADKAR Blueprint may be all that is needed. Or, if you’re a novice practitioner, the ADKAR Blueprint may be all you feel confident developing for your change. For more complex, higher-risk projects, however, the ADKAR Blueprint serves as a starting point to help you identify, scale and develop a set of robust change management plans to meet the needs of your specific project.
+					- Core Plans
+						- The core plans are the specific, high-value plans recommended for most change initiatives. Designed to be scalable and flexible to your situation, they can be role-based or activity based:
+						  Role Plans
+							- Sponsor Plan
+							- People Manager Plan
+						- Activity Plans
+							- Communications Plan
+							- Training Plan
+						- While the ADKAR Blueprint addresses all elements of ADKAR, each core plan includes tactics to address certain ADKAR elements. Again, you may or may not need all four core plans. The number, type and depth of plans required depend on the project as well as the organization’s unique needs.
+					- ---
+					- Sponsor Plan
+						- Effective sponsorship is consistently cited as the top contributor to project success in every Prosci Best Practices in Change Management benchmarking study. Unfortunately, even the best senior leaders sometimes do not demonstrate effective sponsorship. They may misunderstand the importance of their role, struggle with competing priorities, or simply not know what to do. To ensure successful sponsorship, the change practitioner must provide the needed support and structure, and enable sponsors to execute their employee-facing responsibilities.
+						- The Sponsor Plan is a recommended core role plan to target the Awareness, Desire and Reinforcement elements of the ADKAR Model. This plan, implemented by the primary sponsor and other members of the sponsor coalition, enables them to effectively carry out their roles—to be active and visible, build a coalition of support, and communicate directly with employees.
+					- ---
+						- People Manager Plan
+							- As “people managers,” middle managers and supervisors directly impact front-line employees because these employees will typically emulate their manager’s attitudes about the change, whether those attitudes are supportive or not.
+							- A recommended core role plan, the People Manager Plan targets all elements of the ADKAR Model. This plan, carried out by people managers, enables them to effectively perform their CLARC roles:
+								- Communicator – Build Awareness by addressing “Why?” “Why now?” and “What’s in it for me?”
+								- Liaison – Solicit and relay feedback between employees and change teams about implementation progress
+								- Advocate – Promote support for change with words and deeds
+								- Resistance Manager – Identify root causes and address individual resistance to change
+								- Coach – Help teams gain Knowledge and Ability through one-on-one and one-to-many opportunities
+							- The People Manager Plan outlines the steps for involving managers in these change management activities. The plan starts by laying out how the project team and change management resources will build commitment, and train and prepare managers and supervisors for their role in a change. Once on board, managers and supervisors work with front-line employees to understand their needs and help them adopt and use changes.
+					- ---
+					- Communications Plan
+						- People often mistakenly equate change management with communication. While many organizations have communications departments and many project teams create communications plans, they often fail to recognize how communication fits into the broader change process. Communication is a critical component of implementing change but is by no means the only requirement for success.
+						- A recommended core activity plan, the Communications Plan targets the Awareness and Reinforcement elements of the ADKAR Model. The Communications Plan identifies audiences, develops key messages, and determines the frequency of communications, delivery mechanisms, and senders.
+						- Note that effective communication does not mean an attractive newsletter, the use of a standard template, or even a high frequency of messages. Effective communication is targeted for each of the different audiences impacted by the change and focuses on what they care about and what they need to know. A structured communication plan presents the right messages at the right time, in the right format or via the right channel, and from the right sender.
+					- ---
+					- Training Plan
+					  collapsed:: true
+						- Absent a holistic approach to change management, organizations sometimes use training alone to manage changes without critical activities like sponsorship and coaching. This is one of the biggest errors a team can make when introducing a change and a prime example of poor change management.
+						- A recommended core activity plan and one of the most used change management plans, the Training Plan targets the Knowledge and Ability elements of the ADKAR Model. The plan is created by identifying the different audiences that need training, conducting a needs assessment and gap analysis, and documenting requirements for the training organization.
+						- In addition to project-specific training, it is important to include training about change management in this plan. Sponsors and people managers need training to understand their important roles and responsibilities in managing change.
+						- When change management is applied effectively, a partnership forms between the change management team (which documents knowledge needs) and the training group (which develops and delivers the needed training).
+						- How Each Plan Primarily Influences the ADKAR Model
+							- ![image.png](../assets/image_1688672160536_0.png)
+							- The Sponsor Plan has the highest impact on Awareness, Desire and Reinforcement while the People Manager Plan influences all five ADKAR elements. The Communications Plan primarily impacts Awareness and Reinforcement. The Training Plan serves primarily to enable Knowledge and Ability.
+					- ---
+					- Extend Plans
+					  collapsed:: true
+						- “Extend” Plans are the potential additional plans you may decide to include in your Master Change Management Plan to address issues that are unique to your change.
+						- Resistance Management Plan
+							- Resistance to is a natural reaction to change and is consistently cited as a top obstacle to success in Prosci research. Sponsors and people managers can take meaningful steps early in a project to mitigate potential impacts through resistance prevention.
+							- An extend activity plan that may be created during Phase 2 – Manage Change, the Resistance Management Plan targets the Desire element of the ADKAR Model by preventing, addressing and responding to resistance. The plan identifies potential sources and forms of resistance, steps to answer objections before they manifest, who will be involved in managing resistance, and how you will prepare them to effectively address the resistance.
+						- A complete resistance management plan will also include steps for monitoring and responding to resistance, including identifying triggers and taking appropriate actions.
+					- Additional Extend Plans
+					  collapsed:: true
+						- You may decide you need additional plans to meet the specific requirements of your change. Such plans can be completely unique to your change and organization, or they may resemble the typical extend plans below.
+							- Change Agent Network Plan – This plan directs the activities of an engaged group of change advocates who represent the interests of their respective impacted groups. The specific role and contribution of change agents is defined by the organization and may be unique to the initiative.
+							- Sponsor Coalition Plan – This plan is intended to ensure that all members of the coalition support the change and are aligned with respect to the desired outcomes. The change practitioner develops this plan for the primary sponsor, who executes the plan with members of the sponsor coalition.
+							- Sustainment Plan – This plan helps ensure that individuals will continue to use adopted changes over time, sustaining the change so that the organization realizes intended benefits. The Sustainment Plan also identifies activities necessary to ensure the transfer of ownership of the change from the change management team to the appropriate business owners.
+					- ---
+					- Putting Together Your Change Management Plans
+					  collapsed:: true
+						- Every change initiative needs a combination of plans, and the right combination depends on your needs. The Prosci Methodology encourages change practitioners to take a flexible approach to developing change management plans based on numerous factors including the risk level of the change, culture of the organization, and the practitioner’s change management competency level. These factors influence which plans to choose—whether the ADKAR Blueprint alone or some other combination of core and extend plans—to support your work and success with change.
+				- ### More Information on Risk Grid Customization Guidelines - Overview
+				  collapsed:: true
+					- The Risk Assessment is comprised of the Change Characteristics Assessment and the Organizational Attributes Assessment. The change characteristics assess the nature, scope, amount and impact of a change on a spectrum of small, incremental change to large, disruptive change. The organizational attributes assess the organization’s values, culture, capacity for change, leadership style, and history of past changes on a spectrum of change-ready to change-resistant. The results from the two assessments are used to define the risk profile for a change, which is determined by plotting the assessment scores on a risk grid. The risk profile defines the people risk of a change.
+					- The Risk Grid Customization Guidelines are based on the risk profile for a change and are intended to help change practitioners make informed decisions that will mitigate people risk when selecting activities to include in ADKAR Blueprint and core and extend change management plans. The Guidelines are comprised of:
+						- Risk Assessment Analysis – general guidance for customization, including implications for ADKAR, the Role Roster and change management plans based on the risk profile for a change. See the Risk Assessment Analysis - Risk Profiles section under Phase 1 – Prepare Approach, Define Approach for more details.
+						- Risk Factor Analysis and Activities – specific guidance for customization, including potential activities to mitigate risk based on a detailed review of the change characteristics and organizational attributes risk factors that represent the greatest threat to the successful implementation of a change. See the sections Risk Factor Analysis for Change Characteristics and Risk Factor Analysis for Organizational Attributes below for more details.
+					- Prosci has long taught that the risk profile informs the size and scale of the change approach. In reality, practitioner capacity and competency may be the limiting factors in the change approach. The Prosci Methodology encourages change practitioners to also reflect on the risk profile against their individual competency and capacity. This helps change practitioners to acknowledge their real-world conditions early in the change process and take appropriate actions to address any issues.
+						- For example, if you are a novice practitioner working on a high risk change initiative, then consider asking for help, including:
+						- Find a more experienced practitioner in your own organization to mentor or coach you.
+						- Engage an external advisor or coach to work alongside you.
+						- You can also influence the expectations of your primary sponsor.
+					- And remember, you are still making a contribution. Some change management is better than no change management.
+					-
+				- ### Risk Factor Analysis for Change Characteristics
+				  collapsed:: true
+					- Change Characteristics
+					  collapsed:: true
+						- Review the results of the Risk Assessment you completed for your project, focusing first on the change characteristics. Complete the following steps:
+							- Highlight any risk factors in the table below that scored a 5, which indicates high risk.
+							- Reduce the size of your list by choosing the high risk factors that currently pose the greatest risk to the successful implementation of your project.
+							- For each of the remaining high risk factors, assess your ability (rated as high, medium or low) to directly or indirectly influence the specific risk.
+							- Rank order the list, based on your ability to influence each risk. Focus on the top 3 to 5 high risk factors.
+					- For each of your top 3 to 5 high risk factors, review the associated information in the table to understand the implications and potential activities to mitigate the risk. Under the Related Research column, the chapter references refer to the most recent Best Practices in Change Management report which you can access in Research Hub. Finally, choose what you believe will be the most effective activities to include in your change management plans.
+					- ---
+					- Risk Factor 1 - Scope of Change
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Enterprise
+						- ![image.png](../assets/image_1688673340308_0.png){:height 390, :width 929}
+					- Risk Factor 2 - Number of People Impacted
+						- Assessment Score and Result: 5 = Over 1,000
+						- ![image.png](../assets/image_1688673366120_0.png)
+					- Risk Factor 3 - Entry Point for Change Management
+						- Assessment Score and Result: 5 = Late, at implementation
+						- ![image.png](../assets/image_1688673461025_0.png)
+					- ---
+					- Risk Factor 4 - Variation in Groups that are Impacted\
+					  collapsed:: true
+						- Assessment Score and Result: 5 = All groups experience the change differently
+						- ![image.png](../assets/image_1688673484500_0.png)
+					- Risk Factor 5 - Clarity of Future State
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Unknown and emergent
+						- ![image.png](../assets/image_1688673507059_0.png)
+					- Risk Factor 6 - Type of Change
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Many aspects, complex change
+						- ![image.png](../assets/image_1688673529520_0.png)
+					- Risk Factor 7 - Degree of Impact on Individual
+					  collapsed:: true
+						- Assessment Score and Result: 5 = 100% impact
+						- ![image.png](../assets/image_1688673906336_0.png)
+					- Risk Factor 8 - Amount of Change Overall
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Radical
+						- ![image.png](../assets/image_1688673928692_0.png)
+					- Risk Factor 9 - Impact on Compensation
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Large impact to pay and benefits
+						- ![image.png](../assets/image_1688673945405_0.png)
+					- Risk Factor 10 - Degree of Organizational Restructuring
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Complete restructuring
+						- ![image.png](../assets/image_1688673962980_0.png)
+					- Risk Factor 11 - Reduction in Staffing Levels
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Significant reduction
+						- ![image.png](../assets/image_1688673982252_0.png)
+					- Risk Factor 12 - Degree of Confidentiality Required
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Closed and confidential
+						- ![image.png](../assets/image_1688674020746_0.png)
+					- Risk Factor 13 - Timeframe for Change
+					  collapsed:: true
+						- Assessment Score and Result: 5 = Insufficient time to prepare, equip and support people
+							- Implication(s)
+								- Impacted individuals will likely not be at Ability when the change goes live
+								- Need to manage expectations of what can be accomplished in the time available
+								- Barrier points at Knowledge and Ability
+							- Potential Activities to Mitigate Risk
+								- Support preferred senders to create a sense of urgency regarding the limited timeframe for change
+								- Encourage skip level communications from senior leaders. Have them deliver messages directly to multiple organizational levels, to ensure that the communication occurs and also enable them to assess reactions and identify resistance.
+								- Identify the essential elements of the change that need to be implemented within the existing timeframe
+								- Leverage your primary sponsor, members of the sponsor coalition and people mangers to take a high degree of ownership of the change management activities given the limited time frame
+								- If possible, extend the timeline for the change or revise the expectations for what is possible, with respect to adoption and usage of the change, within the existing timeline
+								- Focus on the change management activities that will provide the greatest value in the limited amount of time available
+								- Ensure training is provided to build required knowledge and provide continuing support beyond go live
+								- Confirm commitment to continue to provide change management support until sustained outcomes are achieved
+							- Related Research
+								- Chapter 6: Methodology
+								- Section/Topic: Initiating Change Management
+						- Risk Factor 14 - Degree of External Stakeholder Impact
+						  collapsed:: true
+							- Assessment Score and Result: 5 = Significant external impact
+							- ![image.png](../assets/image_1688674158037_0.png)
+				- ### Risk Factor Analysis for Organizational Attributes
+				  collapsed:: true
+					- Organizational Attributes
+						- Next, focus on the organizational attributes. Complete the following steps:
+							- Highlight any risk factors in the table below that scored a 5, which indicates high risk.
+							- Reduce the size of your list by choosing the high risk factors that currently pose the greatest risk to the successful implementation of your project.
+							- For each of the remaining high risk factors, assess your ability (rated as high, medium or low) to directly or indirectly influence the specific risk.
+							- Rank order the list, based on your ability to influence each risk. Focus on the top 3 to 5 high risk factors.
+						- For each of your top 3 to 5 high risk factors, review the associated information in the table to understand the implications and potential activities to mitigate the risk. Under the Related Research column, the chapter references refer to the most recent Best Practices in Change Management report which you can access in Research Hub. Finally, choose what you believe will be the most effective activities to include in your change management plans
+					- Risk Factor 1 - Perceived Need for Change Among Impacted People
+						- Assessment Score and Result: 5 = People are satisfied with current state
+						- ![image.png](../assets/image_1688674444894_0.png)
+					- Risk Factor 2 - Management of Past Changes
+						- Assessment Score and Result: 5 = Poorly managed, failed changes
+						- ![image.png](../assets/image_1688674465680_0.png)
+					- Risk Factor 3 - Change Saturation
+						- Assessment Score and Result: 5 = Everything is changing, over capacity
+						- ![image.png](../assets/image_1688674486220_0.png)
+					- Risk Factor 4 - Shared Vision and Strategic Direction for the Organization
+						- Assessment Score and Result: 5 = Many different directions and shifting priorities
+						- ![image.png](../assets/image_1688674510008_0.png)
+					- Risk Factor 5 - Resources and Funding Availability to Implement Change
+						- Assessment Score and Result: 5 = Inadequate resources and funds
+						- ![image.png](../assets/image_1688674533935_0.png)
+					- Risk Factor 6 - Organization's Culture and Responsiveness to Change
+						- Assessment Score and Result: 5 = Closed and resistant to change
+						- ![image.png](../assets/image_1688674604560_0.png)
+					- Risk Factor 7 - Organizational Reinforcement of Change
+						- Assessment Score and Result: 5 = People are rewarded for consistency and predictability
+						- ![image.png](../assets/image_1688674626643_0.png)
+					- Risk Factor 8 - Leadership Mindset
+						- Assessment Score and Result: 5 = Success declared at go live
+						- ![image.png](../assets/image_1688674672194_0.png)
+					- Risk Factor 9 - Leadership Style and Power Distribution
+						- Assessment Score and Result: 5 = Distributed
+						- ![image.png](../assets/image_1688674689660_0.png)
+					- Risk Factor 10 - Executive/Senior Manager Change Competency
+						- Assessment Score and Result: 5 = Lack skills and knowledge
+						- ![image.png](../assets/image_1688674710404_0.png)
+					- Risk Factor 11 - People Manager Change Competency
+						- Assessment Score and Result: 5 = Lack skills and knowledge
+						- ![image.png](../assets/image_1688674728628_0.png)
+					- Risk Factor 12 - Impacted Employee Change Competency
+						- Assessment Score and Result: 5 = Lack skills and knowledge
+						- ![image.png](../assets/image_1688674745434_0.png)
+					- Risk Factor 13 - Change Management Maturity
+						- Assessment Score and Result: 5 = Ad hoc or absent
+						- ![image.png](../assets/image_1688674764061_0.png)
+					- Risk Factor 14 - Project Management Maturity
+						- Assessment Score and Result: 5 = Ad hoc or absent
+						- ![image.png](../assets/image_1688674784760_0.png)
+				- ### Tips and Problem Solving
+				  collapsed:: true
+					- If you are in a crisis situation and need to take action quickly, don’t be tempted to skip planning. At a minimum, engage key stakeholders in developing an ADKAR Blueprint to create clarity, alignment, and commitment to the activities required to achieve change success.
+					- If you experience resistance from sponsors or people managers to fulfilling their roles in the change process, use the ADKAR assessment to identify their barrier point for role fulfillment. Use relevant research findings from the Best Practices in Change Management to identify and execute specific tactics to support them in addressing the barrier points.
+					- If you aren’t sure if you need to create an ADKAR Blueprint or change management plans by group, consider the degree to which the change impacts vary across all the impacted groups. If there is a high degree of variation, you will likely need to use different tactics to support individuals through their ADKAR transitions. Developing an ADKAR Blueprint or change management plan(s) by group will help you address the unique impacts of each group.
+					- If your primary sponsor and/or project manager resist the number, depth and type of plan(s) required for your change, don’t get into debates or conflicts. Create plan(s) that satisfy their expectations, while also developing more detailed plan(s) that you believe will be required. As the organization comes to the realization that more detailed plans are needed, you can bring them forward.
+					- If you aren’t sure what activities or tactics you need to include in your change management plan(s), refer to the Best Practice in Change Management report to gain additional insights and ideas. See the Related Research section below for more guidance.
+			- Track Performance
+			  collapsed:: true
+				- How are we doing?
+				  collapsed:: true
+					- ![image.png](../assets/image_1688675315431_0.png){:height 626, :width 979}
+					- > “However beautiful the strategy, you should occasionally look at the results.” Winston Churchill, Prime Minister of the United Kingdom, 1940 to 1945 and 1951 to 1955.
+					- Why
+					  collapsed:: true
+						- By tracking performance, practitioners can closely monitor how people are moving through their ADKAR transitions and identify when it might be necessary to adapt actions. While the building blocks of ADKAR are sequential, people do not always progress through the transition in a linear manner. For example, Desire can be high, and then begin to decrease as impacted groups receive detailed information regarding how the change will affect them.
+						- Tracking performance enables the change management process to be responsive to the needs of people. Research shows that measuring progress also contributes to sustaining outcomes. In Phase 2 – Manage Change, tracking performance to identify the need for adaptive actions makes the process adaptive by design.
+					- What
+					  collapsed:: true
+						- The Track Performance activities are:
+							- Establish tracking calendar by defining appropriate performance measures and mapping the associated tracking dates to the project timeline.
+							- Track initiative progress by conducting PCT Assessments on the date(s) specified in the tracking calendar to evaluate project health and provide a leading indication of the potential for achieving project objectives and organizational benefits.
+							- Track ADKAR outcomes by conducting ADKAR Assessments on the date(s) specified in the tracking calendar to evaluate ADKAR transitions and provide a leading indication of the potential for achieving adoption and usage.
+							- Track CM activities by evaluating progress to plan in completing the activities in the ADKAR Blueprint(s) and Change Management Plan(s).
+							- Identify strengths and opportunities by reviewing and analyzing the tracking results.
+					- Who
+						- The change practitioner is responsible for tracking performance. Typically, this requires collecting data from and reviewing results with key stakeholders.
+						- ![image.png](../assets/image_1688675454106_0.png)
+					- When
+						- The timing and frequency of Track Performance is established by the tracking calendar. Periodic reviews of initiative progress, ADKAR outcomes and CM activities inform the next stage, Adapt Actions.
+				- Tips and Problem Solving
+					- If your organization has survey fatigue, then simplify the assessment by only asking questions focused on the specific element you are testing for. For example, if you are early in the project lifecycle and are testing for Awareness of the need for the change, you could assess only for that element, not the other four. You can also use creative alternatives to an online survey, including:
+					  collapsed:: true
+						- Interviews
+						- Focus groups
+						- Face-to-face engagements
+						- Knowledge tests
+						- Business results
+						- Posters
+						- Online polls
+						- Skill demonstrations
+						- Performance audits
+						- System data extracts
+					- If you don't have capacity to assess all the impacted groups, focus on assessing ADKAR levels for the groups that represent the highest risk to the success of the change. Typically, the characteristics of such groups include negative history with change, multiple job aspects impacted to a high degree, limited personal benefits, etc.
+					- If the change is off track, use performance data to explain why the change is not progressing. Sponsors and project leaders are more likely to make decisions based on data than rely on anecdotal information.
+				-
+			- Adapt
+			  collapsed:: true
+				- Adapt Actions: What adjustments do we need to make?
+				  collapsed:: true
+					- ![image.png](../assets/image_1688675586722_0.png)
+					- Why
+						- Adapt Actions allows for course correction if Track Performance reveals that initiative progress and/or ADKAR outcomes are not being achieved as expected.
+					- What
+						- The Adapt Actions activities are:
+							- Decide if action is required by engaging key stakeholders to review strengths and opportunities identified by tracking performance.
+							- Prepare adaptive actions by determining tactics to maintain strengths and address and significant opportunities.
+							- Take adaptive actions to close the gaps in performance.
+							- Continue to track and adapt as necessary to achieve the desired levels of performance.
+					- Who
+						- The change practitioner takes the lead in determining and ensuring that the appropriate adaptive actions are taken. Sponsors and people managers in employee-facing roles are typically responsible for taking the required adaptive actions.
+					- When
+						- Adapt Actions occurs throughout Phase 2 – Manage Change. For some changes, adaptations may be required continuously, and for other changes, adaptations may be required at specific project milestones.
+				- Tips and Problem Solving
+					- If you don't know what adaptive actions to take, the framework of asking What, So What, Now What can be used to reflect on a situation, build understanding and decide what actions need to be taken. This framework was developed by Liberating Structures.
+					- What?
+						- Asking ‘what?’ helps you to be clear on the facts. Based on tracking performance, what do you observe? What are the facts?
+						- If there is a declining trend in the PCT Assessment scores, which aspect (S, L/S, PM, CM) is affected and what specific factors are decreasing?
+						- If the ADKAR Assessments reveal a lack of progress in ADKAR transitions, what are the barrier points and potential root causes?
+						- What change management activities are behind schedule and what might be causing the delay(s)?
+					- So what?
+						- Asking 'so what?' helps you to understand the need for action, the potential options for action and the associated implications.
+						- So what is the impact on people? What is the impact on change progress?
+						- So what adaptive actions might be required? What options exist?
+						- So what are the implications of those adaptive actions?
+						- Refer to the Best Practices in Change Management to identify potential adaptive actions.
+					- Now what?
+						- Asking 'now what?' helps you decide and act. If the actions do not produce the desired result, repeat the process starting with 'what?' until the desired outcome is achieved.
+		- Phase 3 - Sustain Change
+		  collapsed:: true
+			- Phase 3 – Sustain Outcomes Overview
+				- ![image.png](../assets/image_1688675712722_0.png)
+				- Purpose
+				  collapsed:: true
+					- Phase 3 – Sustain Outcomes is the third phase of the Prosci 3-Phase Process. The purpose of Phase 3 – Sustain Outcomes is to realize the value of the change by ensuring the change is adopted and the organization is committed and prepared to sustain the change. This phase has three stages:
+						- Review Performance: This stage answers the question, “Now, where are we? Are we done yet?”
+						- Activate Sustainment: This stage answers the question, “What is needed to ensure the change sticks?”
+						- Transfer Ownership: This stage answers the question, “Who will assume ownership and sustain outcomes?”
+				- Deliverable
+				  collapsed:: true
+					- The deliverable for Phase 3 – Sustain Outcomes is a Change Management Closeout. The Change Management Closeout prepares the organization to own the change and sustain outcomes. It can be shared with the sponsors and project leaders to:
+					- Document the performance status of the change
+					- Confirm sustainment gaps, goals and priorities and outline what it will take to sustain outcomes
+					- Identify and document knowledge and assets transfer
+				- Roles and Responsibilities
+				  collapsed:: true
+					- ![image.png](../assets/image_1688676052911_0.png)
+				- Phase 3 – Sustain Outcomes at a Glance
+				  collapsed:: true
+					- ![image.png](../assets/image_1688676072356_0.png)
+					-
+			- Review Performance
+			  collapsed:: true
+				- Review Performance: Now, where are we? Are we done yet?
+				  collapsed:: true
+					- ![image.png](../assets/image_1688676144860_0.png)
+					- > “However beautiful the strategy, you should occasionally look at the results. *Winston Churchill , British Prime Minister from 1940-1945 and again between 1951 and 1955*
+					- Why
+						- Review Performance is similar to Track Performance in Phase 2 – Manage Change, and this stage enables practitioners to document and demonstrate change progress and identify remaining performance gaps that need to be addressed to sustain the change.
+						- Conducting lessons learned enables practitioners to document internal best practices in change management which has the potential to improve organizational capability by learning from each application of change management.
+					- What
+						- The Review Performance activities are:
+							- Review initiative progress by conducting a final PCT Assessment to assess project health and evaluate actual against expected achievement for the project objectives and organizational benefits. Identify any remaining performance gaps that need to be addressed.
+							- Review ADKAR outcomes by conducting a final ADKAR Assessment and evaluate the actual against the expected achievement for adoption and usage. Identify any remaining performance gaps that need to be addressed.
+							- Review CM activities by evaluating completion of the activities in the Master Change Management Plan. Identify any remaining performance gaps that need to be addressed.
+							- Document lessons learned by identifying greatest successes and areas for potential improvement.
+					- Who
+						- The change practitioner is responsible for reviewing performance. Typically, this requires collecting data from and reviewing results with key stakeholders.
+						- ![image.png](../assets/image_1688676656590_0.png)
+					- When
+						- We define success from the start of the change initiative and establish a clear and shared definition of what “done” looks like. This definition of success enables early conversations to determine when the sustaining organization is ready to assume responsibility for the change from the project management and change management teams. Reviewing performance is done after go live, when there has been sufficient time for the change to reach steady state and project objectives and organizational benefits begin to be sustained. The time to sustained outcomes will vary depending on the nature and circumstances of your change.
+				- Tips and Problem Solving
+					- If performance metrics were not established at the start of the change initiative, then they will need to defined in order to review performance. While it is better to define success metrics upfront, there may be situations where this can not be done until the future state is more clearly understood and communicated. When the necessary clarity exists, engage key stakeholders including the primary sponsor, project manager and business leaders to define how to measure the performance of the change and determine if the desired results have been achieved.
+					- If success was not defined at the start of the change initiative, then there will not be a clear and shared definition of what ‘done’ looks like or agreement on when to transfer ownership for the change to the sustaining organization. Initiate a conversation with the primary sponsor, project manager and business owner(s) and identify and document the conditions that need to be met for the organization to be ready to assume the change. Agree on a timeframe to review the conditions and set a target date for transfer of ownership.
+					- If time to sustained outcomes is long, then identify incremental targets for project objectives and organizational benefits to be able to assess how the change is progressing over time. Establish an agreement with the primary sponsor and business owner(s) that defines the date to transfer ownership and who will monitor the ongoing achievement of project objectives and organizational benefits.
+				-
+			- Activate Sustainment
+			  collapsed:: true
+				- Activate Sustainment: What is needed to ensure the change sticks?
+				  collapsed:: true
+					- ![image.png](../assets/image_1688755607883_0.png)
+					- > "We are intentional with our choice of words; we don’t start planning sustainment, we activate it. The seeds for success are sown early in the change process. Change practitioners need to begin with the end in mind. When we define success at start of the change management process, we have a clear and shared definition of ‘done’." Tim Creasey, Chief Innovative Officer Prosci
+					- Why
+						- Activate Sustainment prepares the organization to own the change and sustain outcomes based on the specific gaps, goals and priorities identified in Review Performance. Activating sustainment increases the likelihood that organizational benefits will be realized.
+					- What
+						- The Activate Sustainment activities are:
+						- Identify gaps, goals and priorities for closing the performance gaps identified in Review Performance.
+						- Develop sustainment actions, roles and timelines to address the performance gaps by using the common change management plan template to develop a Sustainment Plan.
+						- Prepare and activate roles by developing tactics to prepare, equip and support each individual identified in the Sustainment Plan to effectively carry out their role.
+					- Who
+						- The change practitioner is responsible for engaging the primary sponsor and business owner(s) to define the specific sustainment activities and accountability after project closeout to ensure organizational benefits are realized. The change practitioner guides and develops the sustainment plans and business owner(s) in the sustaining organization implement them. The role of the change practitioner shifts from supporting impacted individuals to supporting the people who will take ownership of sustainment.
+					- When
+						- Activate Sustainment begins after performance is reviewed and gaps are identified. Effective sustainment requires a clear and shared understanding of what has been accomplished and what the sustaining organization still needs to do to ensure organizational benefits are realized.
+				- Tips and Problem Solving
+				  collapsed:: true
+					- If the leaders of the organization define success as implementing a change on time (i.e. declares success as meeting the go live date), then they may have a very limited awareness of the importance of sustaining change so that organizational benefits are realized. Use Prosci’s topical study Reinforcing and Sustaining Change Outcomes to begin to build the case for why sustainment matters.
+					- In complex changes that impact productivity for long periods of time, a change may appear successful shortly after go live but begin to fail months after implementation when fatigue sets in. Be cautious about declaring success too soon after go live. Sustainment needs to support people in the change until a steady state is achieved.
+					- If you aren’t sure when sustainment activities are no longer needed, refer to the topical study referenced above to understand how respondents determined when sustainment activities were no longer needed.
+					- If you need to depart your initiative quickly, don’t leave without communicating critical sustainment actions to ensure organizational benefits are realized. At a minimum, develop a one-page plan that defines the highest value sustainment actions, required roles and timeline to sustain outcomes and share it with your primary sponsor and business owner(s).
+			- Transfer of Ownership
+			  collapsed:: true
+				- Transfer Ownership: Who will assume ownership and sustain outcomes?
+				  collapsed:: true
+					- ![image.png](../assets/image_1688756006104_0.png)
+					- Why
+						- Transfer Ownership defines a clear endpoint to the change management process. The Change Management Closeout deliverable ensures accountabilities are clearly defined and that the sustaining organization is set up for success.
+					- What
+						- The Transfer Ownership activities are:
+							- Celebrate success by acknowledging, rewarding and reinforcing the change management behaviors and mindsets of key stakeholders that contributed to success.
+							- Transfer knowledge and assets to sustaining business owner(s) by identifying the knowledge requirements, assets, activities and associated dates.
+					- Who
+						- The change practitioner develops a final deliverable, the Change Management Closeout, to document the performance status, sustainment plan, and knowledge transfer and assets for the business owner(s) who will assume ownership and sustain outcomes.
+					- When
+						- Transfer Ownership is the final stage to closeout change management activities and occurs when the primary sponsor, change practitioner and business owner(s) agree that the sustaining organization is ready to assume ownership.
+					-
+				- Tips and Problem Solving
+					- If you need to depart your initiative before a business owner is identified, prepare the Change Management Closeout deliverable and provide it to your primary sponsor.
+					- When celebrating success, be sure to explain how change management contributed to benefits realization to promote increased adoption of change management. Use lessons learned to build organizational change capability.
+				-
+		- Glossary
+			- Prosci ADKAR Model
+			  collapsed:: true
+				- ADKAR Model
+					- Describes the five ‘building blocks’ or elements an individual needs to achieve for a change to be successful. The building blocks are: Awareness of the need for change, Desire to support and participate in the change, Knowledge on how to change, Ability to implement required skills and behaviors, and Reinforcement to sustain the change.
+				- ADKAR Assessment
+					- A tool you can use to get a snapshot of ADKAR scores for individuals or groups to guide your change management planning efforts.
+				- ADKAR barrier point
+					- The first ADKAR element that scores a ‘3’ (neutral) or below in an ADKAR Assessment. The barrier point must be addressed before an individual can proceed through to the next ADKAR element.
+				- ADKAR Blueprint
+					- A simple and scalable guide, oriented toward people, that enables the practitioner to identify, at a high level, the milestone dates, expected gaps, and initial ideas for each of the ADKAR elements.
+				- Gauge Gap
+					- An evaluation of the expected effort required to achieve each of the ADKAR element milestones.
+			- Prosci Change Triangle Model (PCT Model)
+			  collapsed:: true
+				- PCT Model
+				  collapsed:: true
+					- A framework that shows the four critical aspects of any successful change effort and how they are interrelated: a shared definition of success with leadership/sponsorship, project management and change management.
+				- PCT Assessment
+					- Used to assess project health across the four aspects of the PCT Model: success, leadership/sponsorship, project management and change management.
+				- success
+					- The aim or purpose of the change initiative, and ultimately meeting or exceeding project objectives and realizing organizational benefits. Success is defined by the organization and is specific to the initiative. A healthy initiative has clarity and alignment on what the change is aiming to deliver so they can more effectively manage to outcomes.
+				- leadership/sponsorship
+					- Provides the direction and guidance for a project or initiative. Leadership/sponsorship is accountable for defining why a change is happening, how it aligns with the direction of the organization, and why it is a priority.
+				- project management
+					- Project management is the discipline that addresses the technical side of a change, by designing, developing and delivering the solution.
+				- change management
+					- Change management is the discipline that addresses the people side of the change, enabling people to engage, adopt and use the solution to achieve a successful change outcome.
+				- leadership decisions
+					- Describes the relationship between leadership/sponsorship and project management in the PCT Model, including the decisions sponsors make related to project, scope, schedule and resources.
+				- leadership actions
+					- Describes the relationship between leadership/sponsorship and change management in the PCT Model, including the three critical roles sponsors need to perform for project success, also referred to as the ABCs: Actively and visibly participate throughout the project, Build a coalition of support, and Communicate directly with employees.
+				- integrated approach
+					- Describes the relationship between project management and change management in the PCT Model, including three key dimensions of integration: people, process and tools.
+			- Change Management Plans
+			  collapsed:: true
+				- Change Management Plan
+					- A sequence of activities, oriented toward task, required to help move individuals through the ADKAR Model to achieve change success. Change Management Plans are created by the practitioner in Phase 2 – Manage Change and may include, but are not limited to, Communications Plan, Training Plan, Sponsor Plan, and People Manager Plan.
+				- Communications Plan
+					- A recommended core activity plan created during Phase 2 – Manage Change, to target the Awareness and Reinforcement elements of the ADKAR Model. The Communications Plan identifies audiences, develops key messages, and determines the frequency of communications, the delivery mechanisms, and the senders.
+				- Sponsor Plan
+					- A recommended core role plan created during Phase 2 – Manage Change, to target the Awareness, Desire and Reinforcement elements of the ADKAR Model. This plan, implemented by the primary sponsor and other members of the sponsor coalition, enables them to effectively carry out their roles and be active and visible, build a coalition of support, and communicate directly with employees.
+				- Training Plan
+					- A recommended core activity plan created during Phase 2 – Manage Change, to target the Knowledge and Ability elements of the ADKAR Model. A Training Plan is created by identifying the different audiences that need training, conducting a needs assessment and gap analysis, and documenting requirements for the training organization.
+				- People Manager Plan
+					- A recommended core role plan created during Phase 2 – Manage Change, to target all elements of the ADKAR Model. This plan, carried out by people managers, enables them to effectively carry out their CLARC roles: Communicator, Liaison, Advocate, Resistance, Manager, and Coach.
+				- Resistance Management Plan
+					- An extend activity plan that may be created during Phase 2 – Manage Change, to target the Desire element of the ADKAR Model by preventing, addressing and responding to resistance.
+			- Change Practitioner Journey Model
+			  collapsed:: true
+				- Change Practitioner Journey Model
+					- A visual model, from the point of view of the practitioner, that illustrates how to practically and actively engage in the change management discipline with Prosci.
+				- models
+					- The foundational knowledge and frameworks that underpin Prosci’s unique approach to the people side of change.
+				- methodology
+					- The Prosci Methodology is a structured, adaptable and repeatable approach to enable the people side of change to deliver results. Based on over two decades of research, the Prosci Methodology organizes what we know about people, change and results in a robust process that practitioners can apply to create change management strategies and plans that increase adoption and usage on their initiatives.
+				- practice
+					- A commitment to regular use or application of the methodology that will grow change management skills and competency over time.
+				- path
+					- A way forward for individual or organizational progression in change management capability.
+			- Governance
+			  collapsed:: true
+				- Governance Model
+					- A model that describes the reporting relationships among the sponsor, project team and change management team. The Governance Model also defines the way the project will be organized and managed to achieve change success.
+				- change management team
+					- The change management team is the group that develops and implements the change management plan. The change management team is often made up of members of the project team (or the entire team itself). Best practices research indicates that teams with dedicated change management resources are more likely to deliver good or excellent change management.
+				- project management team
+					- The project management team is the group that designs, develops and implements the change – whether it is process, technology, organizational, strategy, etc. The members of the change management team are often part of the project team.
+				- Sponsor Coalition Map
+					- A diagram to identify and analyze the degree of commitment and alignment amongst the sponsors that is needed to drive the Awareness, Desire and Reinforcement elements of the ADKAR Model. The diagram can be used to evaluate the level of support for the change, analyze the overall health of the coalition, and identify risks.
+			- Human Factors of ROI
+				- Human Factors of ROI
+					- Describes the three factors that directly contribute to or constrain a project’s return on investment (ROI): speed of adoption, ultimate utilization and proficiency.
+				- speed of adoption
+					- A human factor that impacts return on investment. Speed of adoption defines how quickly employees are up and running on the new systems, processes or job roles.
+				- ultimate utilization
+					- A human factor that impacts return on investment. Ultimate utilization defines how many employees (of the total population) are adopting and using the new solution.
+				- proficiency
+					- A human factor that impacts return on investment. Proficiency defines how well individuals are performing compared to the level expected in the design of the change.
+			- Prosci 3-Phase Process
+				-
