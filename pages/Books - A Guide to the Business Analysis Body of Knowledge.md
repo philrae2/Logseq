@@ -2,7 +2,7 @@
 title: Books - A Guide to the Business Analysis Body of Knowledge
 ---
 
-- **tags:**
+- **tags:** [[Business Analysis]]
 - **author:**
 - **status:**
 - **link:** https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/

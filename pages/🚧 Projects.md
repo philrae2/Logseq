@@ -4,7 +4,6 @@ title: 🚧 Projects
 
 - Roadmap
 	- Options (1 - 3) Months - Not committed
-	  collapsed:: true
 		- ((62dbf0c3-0f50-4bad-9ba9-490003a31681))
 		- ((62dc5c9d-ebf8-4654-92cc-c973b0b2a082))
 	- 4 Bets to consider (1 - 3) Months - More detailed
@@ -12,23 +11,22 @@ title: 🚧 Projects
 		- Review [[The surprising science of meetings]]
 			- Create a template after review
 	- In Progress
-		- LATER Add recurring task logic to Tana
-		  :LOGBOOK:
-		  CLOCK: [2023-07-03 Mon 17:51:37]--[2023-07-03 Mon 17:51:38] =>  00:00:01
-		  :END:
-			- Use task tag in Tanarian brain and extend it
-			- Use {{video https://www.youtube.com/watch?v=Y-ySidcyZyM}}
+		- [[MOOC for Business Value and Opportunities]]
 		- Make actionable templates from productivity books
 		  id:: 62dc5cc7-5924-465e-a1a9-cc8fb2d37718
+		  collapsed:: true
 			- [[Problem Solving Algorithm]]
 			- [[Email template]]
 		- Finish reading [[Books - Grand Strategy]]
-		- Create [[Taxonomy - Development]]
 		- Reading [[Influence is your Superpower]]
-		- Create meeting writeup template for work
-			- ((2a9dde20-68bc-45dc-a136-6176b910a7fa))
 	- Release - Monitor
+	  collapsed:: true
+		- 2023
+			- Create meeting writeup template for work
+			  collapsed:: true
+				- ((2a9dde20-68bc-45dc-a136-6176b910a7fa))
 		- [[Create a resource page for filtering information from consumed media]]
+		- [[Project Management Templates]]
 - [[Mission]]
 - [[📥inbox]]
   collapsed:: true
@@ -36,6 +34,7 @@ title: 🚧 Projects
 		- [Learner Reviews & Feedback for On Strategy : What Managers Can Learn from Philosophy - PART 1 Course | Coursera](https://www.coursera.org/learn/management-philosophy/reviews)
 - [[Things to communicate]]
 - #[[Professional Development]]
+  collapsed:: true
 	- [[Work Ideas]]
 	- [[Work Projects]]
 		- [[Create thinking tools]]

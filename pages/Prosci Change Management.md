@@ -1,43 +1,38 @@
+- Tools
+	- Evaluation Tool
+		- Survey questions
 - Knowledge Hub
 	- Practioner Program
 		- Foundation of Change Management
-		  collapsed:: true
 			- The change landscape is full of initiatives that are on time, on budget, and meet technical requirements but do not deliver expected results and outcomes. The gap between requirements and results? Ensuring that employees effectively adopt and use the change being introduced. This is the reality of change and the reason for change management.
-			- Change management is a structured and intentional approach that prepares, equips and supports individuals through change. With a dedicated focus on achieving adoption and usage, change management supports holistic and successful change.
+			- **Change management is a structured and intentional approach that prepares, equips and supports individuals through change. With a dedicated focus on achieving adoption and usage, change management supports holistic and successful change.**
 			- The Foundation of Change Management section explains the why and what [5 Tenets of Change Management and Unified Value Proposition], and the who [Roles] of change management. The foundation also provides context, models and a common language for change practitioners to begin applying change management.
 		- What and Why of Change Management: The 5 Tenets of Change Management
-		  collapsed:: true
 			- A tenet is a principle or belief that is generally held to be true. The 5 Tenets of Change Management provides a grounding in the reality of how change actually happens and enables a better understanding and more robust application of the tools and processes for managing the people side of change. Each tenet builds on the other, and together they form the basis for the what and why of change management.
 			- ![image.png](../assets/image_1688583363572_0.png){:height 216, :width 459}
 				- A graphic that lists each of the 5 Tenets of Change Management and the associated plain language question from Tenet #1 at the top to Tenet #5 at the bottom. The 5 Tenets of Change Management provides a grounding in the reality of how change actually happens and enables a better understanding and more robust application of the tools and processes for managing the people side of change. Tenet 1: We change for a reason (Why are we changing?). Tenet 2: Organizational change requires individual change (Who has to do their job differently and how?) Tenet 3: Organizational outcomes are the collective result of individual change (How much of our outcomes depend on adoption and usage?). Tenet 4: Change management is the enabling framework for managing the people side of the change (What will we do to support adoption and usage?). Tenet 5: We apply change management to realize the benefits and desired outcomes of change. (How will driving adoption and usage improve results?).
 		- More Information on the 5 Tenets of Change Management
-		  collapsed:: true
 			- 5 Tenets of Change Management
 			  Why Change Management?
-			- The results and outcomes of workplace changes are intrinsically and inextricably tied to individual employees doing their jobs differently. Change management enables employees to adopt a change so that business objectives are realized. It is the bridge between solutions and results and is fundamentally about people and our collective role of transforming change into successful outcomes for our organizations. But what does it mean to manage the people side of change and what exactly is change management? How does change management create successful change? To answer these questions, it is necessary to establish the foundational tenets for change management. This grounding in the reality of how change actually happens will enable a better understanding and more robust application of the tools and processes for managing the people side of change. Each of these tenets will build on the other, and together they form the basis for the what and why of change management.
+			- **The results and outcomes of workplace changes are intrinsically and inextricably tied to individual employees doing their jobs differently. Change management enables employees to adopt a change so that business objectives are realized.** It is the bridge between solutions and results and is fundamentally about people and our collective role of transforming change into successful outcomes for our organizations. But what does it mean to manage the people side of change and what exactly is change management? How does change management create successful change? To answer these questions, it is necessary to establish the foundational tenets for change management. This grounding in the reality of how change actually happens will enable a better understanding and more robust application of the tools and processes for managing the people side of change. Each of these tenets will build on the other, and together they form the basis for the what and why of change management.
 			- Tenet 1: We change for a reason.
-			  collapsed:: true
 				- ![image.png](../assets/image_1688583477620_0.png)
-				- To begin, we need to have an anchor point that you as a reader can agree with and that establishes a starting point for this discussion: We change for a reason. As simple as this sounds, an underlying principle for managing change is that a future state can be envisioned that is different than today, and we are changing to that future state to achieve a specific and desired outcome. When we say we change for a reason, that does not mean that the reason for every change is the same, only that there is a specific reason or objective for a given change. The reasons for change are as varied as change itself: revenue growth, improved customer satisfaction, reduced costs, better product or service quality, reduced risk exposure, improved quality of life, and so on. Projects and initiatives are undertaken not because they are fun and exciting, but because there is an opportunity present or a problem to solve; most importantly, a chance to improve performance in a meaningful way. A fundamental assumption of change is that something different is possible.
+				- To begin, we need to have an anchor point that you as a reader can agree with and that establishes a starting point for this discussion: We change for a reason. As simple as this sounds, **an underlying principle for managing change is that a future state can be envisioned that is different than today, and we are changing to that future state to achieve a specific and desired outcome.** When we say we change for a reason, that does not mean that the reason for every change is the same, only that there is a specific reason or objective for a given change. The reasons for change are as varied as change itself: revenue growth, improved customer satisfaction, reduced costs, better product or service quality, reduced risk exposure, improved quality of life, and so on. Projects and initiatives are undertaken not because they are fun and exciting, but because there is an opportunity present or a problem to solve; most importantly, a chance to improve performance in a meaningful way. A fundamental assumption of change is that something different is possible.
 			- Tenet 2: Organizational change required individual change.
-			  collapsed:: true
 				- ![image.png](../assets/image_1688583507962_0.png)
-				- Change has only truly occurred when individuals in the organization begin working in new ways: displaying new behaviors, using new tools, adhering to new processes, and adopting new values. Individual shifts in behavior are the cornerstone of change. When numerous individual shifts are taken together as a whole, the desired future state of the organization is achieved. Change ultimately results from people adopting new skills and demonstrating new capabilities; and, while this may seem like common sense, we often assume that change at an individual level will just happen.
+				- **Change has only truly occurred when individuals in the organization begin working in new ways: displaying new behaviors, using new tools, adhering to new processes, and adopting new values.** Individual shifts in behavior are the cornerstone of change. When numerous individual shifts are taken together as a whole, the desired future state of the organization is achieved. Change ultimately results from people adopting new skills and demonstrating new capabilities; and, while this may seem like common sense, we often assume that change at an individual level will just happen.
 				- The realization of change, even large-scale organizational projects and initiatives, is, at its core, an individual phenomenon. In other words, the degree to which a change produces results is directly correlated with individual change.
 			- Tenet 3: Organizational outcomes are the collective result of individual change.
-			  collapsed:: true
 				- ![image.png](../assets/image_1688583533070_0.png)
 				- When you consider that the realization of a change and the achievement of specific outcomes are tied to people, we can ask the right questions: How many total employees will engage in the change versus how many will opt out or find work-arounds (referred to as the ultimate utilization of the change)? How quickly will our employees get on board with the change (the speed of adoption)? How effectively will the change be implemented at an individual level (proficiency)? Since change is ultimately an individual phenomenon, it is these individual factors that drive or constrain the value a change creates. When project managers and business leaders assume that the human factors of change (ultimate utilization, speed of adoption, and proficiency) will automatically reach 100% the moment a change is introduced (or at the “go-live” date), they fall into the trap that designing and implementing a business solution is sufficient to achieve results. Without the engagement of each employee who must do his or her job differently as
 			- Tenet 4: Change management is an enabling framework for managing the people side of change.
-			  collapsed:: true
 				- ![image.png](../assets/image_1688583559406_0.png)
-				- So if you are asked, “Why change management?” the answer is simple: to ensure that each change in our organization produces the results we are expecting. If you are then asked, “What is change management?” or “What is organizational change management?” the answer and the fourth tenet is: Change management is an enabling framework for managing the people side of change. Change management should not be viewed as simply a mechanism to reduce employee resistance, or a plan to mitigate the risk of negative things happening to the organization during change. Change management provides an organizational framework that enables individuals to adopt new values, skills and behaviors so that business results are achieved. Change management, as a practical matter, leverages the normal mechanisms within an organization to influence and develop employees through broad activities, such as communications, training and visible sponsorship. At the same time, change management enables action at an individual employee level through coaching and resistance management. “Change managers” refers not just to project team members or change management practitioners. Change managers include organization leaders, executives, managers, front-line supervisors and employees; all of whom enable individuals within an organization to transition from their current state to a new future state. All of these change management activities and roles comprise a discipline and field of study that enable individual and organizational transitions.
+				- So if you are asked, “Why change management?” the answer is simple: to ensure that each change in our organization produces the results we are expecting. If you are then asked, “What is change management?” or “What is organizational change management?” the answer and the fourth tenet is: **Change management is an enabling framework for managing the people side of change. Change management should not be viewed as simply a mechanism to reduce employee resistance, or a plan to mitigate the risk of negative things happening to the organization during change. Change management provides an organizational framework that enables individuals to adopt new values, skills and behaviors so that business results are achieved.** Change management, as a practical matter, leverages the normal mechanisms within an organization to influence and develop employees through broad activities, such as communications, training and visible sponsorship. At the same time, change management enables action at an individual employee level through coaching and resistance management. “Change managers” refers not just to project team members or change management practitioners. **Change managers include organization leaders, executives, managers, front-line supervisors and employees; all of whom enable individuals within an organization to transition from their current state to a new future state.** All of these change management activities and roles comprise a discipline and field of study that enable individual and organizational transitions.
 			- Tenet 5: We apply change management to realize the benefits and desired outcomes of change.
 			  collapsed:: true
 				- ![image.png](../assets/image_1688583590995_0.png)
 				- This concluding principle is an essential and distinguishing quality of change management. Unlike project management, which is focused on the realization of a technical solution, change management is focused on the achievement of the desired results or outcomes of the change by managing people through their transitions. This tenet is supported by research. Prosci’s benchmarking studies show that projects effectively applying change management were six times more likely to meet their project objectives. So while training, communications, sponsorship, resistance management and employee coaching are critical elements of change management, they do not define change management. In other words, we do not apply change management to enhance communications and training, or to implement employee recognition programs. Nor do we apply change management only to reduce the risks to the organization during change, such as lower employee morale, productivity loss, undesired turnover or negative impacts on customers. While a strong case for change management can be made on mitigating risks, it is a classic case of “necessary but not sufficient.” Change management has a more important and primary objective: to increase the probability that the future state is realized and that the associated outcomes (objectives of the change) are achieved.
 		- Unified Value Proposition (UVP)
-		  collapsed:: true
 			- How Prosci Defines Change Management: Unified Value Proposition
 			- On a project level, change management is the application of a structured process and set of tools for leading the people side of change to achieve a desired outcome. On an organizational level, change management is both a leadership competency for enabling change within an organization and a strategic capability designed to increase change capacity and responsiveness.
 			- ![image.png](../assets/image_1688584580436_0.png)
@@ -50,38 +45,35 @@
 			- Successful change requires success on both sides. The Unified Value Proposition model is effective for positioning change management and defining its critical contribution to project and organizational outcomes.
 			- Reason for Change
 				- ![image.png](../assets/image_1688584668346_0.png)
-				- The Unified Value Proposition begins with a reason for change. The reason can come from inside the organization or outside the organization. The reason can be grounded in how things are today (current conditions) or the desire to attain something yet to come (future goals). For most projects and initiatives, there are multiple reasons for change.
-				- There is always a reason for change—an opportunity to capitalize on, a problem to solve, a chance to improve in a meaningful way. The reason gives the change team needed context to define success for the project or initiative, which is the critical first step in the process for managing change. Success is defined by both the project objectives (what the project achieves and delivers) and the organizational benefits (value realized upon addressing the issue or seizing the opportunity).
+				- The Unified Value Proposition begins with a reason for change. The reason can come from inside the organization or outside the organization. The reason can be grounded in how things are today (current conditions) or the desire to attain something yet to come (future goals). **For most projects and initiatives, there are multiple reasons for change.**
+				- There is always a reason for change—an opportunity to capitalize on, a problem to solve, a chance to improve in a meaningful way. **The reason gives the change team needed context to define success for the project or initiative, which is the critical first step in the process for managing change. Success is defined by both the project objectives (what the project achieves and delivers) and the organizational benefits (value realized upon addressing the issue or seizing the opportunity).**
 			- States of Change
 				- ![image.png](../assets/image_1688584701202_0.png)
 				- Organizational change progresses through three states in the Unified Value Proposition model: the current state, transition state and future state.
 				- The current state is the status quo or how things exist today. It is known. It may not be great, but it is familiar and understood by people.
 				- The future state is the destination. It is unknown, which can create fear and trepidation. The future state is also aspirational, a state where conditions have improved in some marked way as a result of the change initiative.
-				- The transition state is messy and ambiguous. It is usually not linear and involves some moving forward and backward. Successful change requires stepping out of the current state and effectively navigating the transition state to ultimately reach the envisioned future state.
+				- **The transition state is messy and ambiguous. It is usually not linear and involves some moving forward and backward. Successful change requires stepping out of the current state and effectively navigating the transition state to ultimately reach the envisioned future state.**
 				- The way a change progresses through the three states can be sequential, iterative or hybrid in nature. In sequential change, the organization experiences a singular push culminating from a series of progressive steps. We depict sequential change visually with single transition state and future state.
 				- For an iterative change, cycles of development move toward a final, intended outcome with more engagement from the organization during the cycles. Iterative change is shown with multiple transition states and interim future states during each change cycle. Common iterative change approaches include Agile and Continuous Improvement (such as Plan-Do-Check-Act).
 			- Technical Side
-			  collapsed:: true
-				- The arrow at the top of the Unified Value Proposition is the technical side of the change. This includes all the work and effort to design, develop and deliver a solution that meets the opportunity or issue being addressed. Consider an electronic health records installation. The software and hardware, processes and policies, roles and requirements constitute the technical-side solution. For a merger, the new organization chart, reporting structure, and operational integration plans comprise the technical-side solution. Although many contemporary solutions are embodied or enabled by technology, the technical side of change does not necessarily have to be “technological” in nature or technology based. In a merger, there will be both technological aspects (e.g., an integrated finance system) and non-technological aspects (e.g., cultural alignment and integration) on the technical side of the change.
+				- **The arrow at the top of the Unified Value Proposition is the technical side of the change. This includes all the work and effort to design, develop and deliver a solution that meets the opportunity or issue being addressed.** Consider an electronic health records installation. The software and hardware, processes and policies, roles and requirements constitute the technical-side solution. For a merger, the new organization chart, reporting structure, and operational integration plans comprise the technical-side solution. Although many contemporary solutions are embodied or enabled by technology, the technical side of change does not necessarily have to be “technological” in nature or technology based. In a merger, there will be both technological aspects (e.g., an integrated finance system) and non-technological aspects (e.g., cultural alignment and integration) on the technical side of the change.
 				- Some of the more common technical-side changes for which change management is applied today include enterprise resource planning (ERP) applications, new internal communication and collaboration platforms, new product or service launches, adopting hybrid workplaces, and culture initiatives and transformations.
 				- The technical-side solution can cause confusion because people may not think beyond it without help. Although the technical-side solution is easier to understand and often more tangible, it only represents half of the change equation. Regardless of the approach taken on the technical side of the change, a solution that is designed, developed and delivered to meet specifications without a complementing people-side solution throws the Unified Value Proposition off balance, putting change success in peril. A technical-side solution that people do not engage, adopt and use offers little to no value to an organization. Even the best technical-side solution needs a people-side approach to achieve the adoption and usage required to realize intended benefits and achieve success.
 			- People side
-			  collapsed:: true
 				- ![image.png](../assets/image_1688584800059_0.png)
 				- The bottom arrow of the Unified Value Proposition represents the people side of the change. This includes the effort to ensure that the people who must do their work differently because of the technical-side solution will in fact engage, adopt and use it.
-				- People do not simply adopt and proficiently use a solution because it is installed for them. Effectively adopting a new process, using a new tool, or demonstrating a new mindset is an individual journey. Every individual must move through the change process to reach their own personal future state in support of the organization’s future state.
+				- **People do not simply adopt and proficiently use a solution because it is installed for them. Effectively adopting a new process, using a new tool, or demonstrating a new mindset is an individual journey. Every individual must move through the change process to reach their own personal future state in support of the organization’s future state.**
 				- The Prosci ADKAR Model comprises five elements of successful individual change: Awareness, Desire, Knowledge, Ability and Reinforcement. Effective change management helps ensure that people can move through each element successfully.
-				- A graphic to depict each element of the ADKAR Model starting with : Awareness of the need for change, Desire to support and participate in the change, Knowledge on how to change, Ability to implement required skills and behaviors, and Reinforcement to sustain the change. The ADKAR Model Describes the five ‘building blocks’ or elements an individual needs to achieve for a change to be successful.
 				- Change management is the application of a structured process and set of tools for leading the people side of change to achieve a desired outcome. From an organizational perspective, change management addresses the people side of the Unified Value Proposition by providing a structured approach for enabling successful individual change at scale.
 				- The change practitioner’s role is to apply a methodology, structured process, and robust toolset to improve adoption and usage of the technical-side solution. The change practitioner also works to activate a system of people, including sponsors and people managers, to carry out the employee-facing activities involved. And when the organization achieves a predetermined level of success with the change, the people side includes a plan to support sustained outcomes and conclude the change management work, formally moving from the transition state into the new future state.
-				- Applying a structured and intentional approach to change management reduces the costs, risks and negative consequences of poorly managed change. And Prosci’s Best Practices in Change Management research consistently shows that change management significantly improves the likelihood of change success.
+				- **Applying a structured and intentional approach to change management reduces the costs, risks and negative consequences of poorly managed change.** And Prosci’s Best Practices in Change Management research consistently shows that change management significantly improves the likelihood of change success.
 				- ![image.png](../assets/image_1688584822904_0.png)
 			- Success
 				- When the technical side and people side work together effectively, the Unified Value Proposition model ends with Success. The change achieves success by meeting or exceeding project objectives and delivering the expected organizational benefits.
 				- Success will depend on the specific change and the intended performance improvement desired in the future state. Success for a merger differs from success for an electronic health records program. A clear definition of success is a critical first step in organizational change. It is so important, the Prosci Change Triangle (PCT) Model places it at the center of the model.
 			- ### Separate in Theory, Integrated in Practice
 				- ![image.png](../assets/image_1688584856041_0.png)
-				- In the Unified Value Proposition, the technical side and people side of change are represented separately as arrows on either side of the states of change. In practice, the technical side and people side of change are most effective when fully integrated. Prosci’s Best Practices in Change Management research revealed that participants who integrated project management and change management reported meeting or exceeding project objectives more often than those who did not.
+				- In the Unified Value Proposition, the technical side and people side of change are represented separately as arrows on either side of the states of change. **In practice, the technical side and people side of change are most effective when fully integrated. Prosci’s Best Practices in Change Management research revealed that participants who integrated project management and change management reported meeting or exceeding project objectives more often than those who did not.**
 				- Project management and change management are complementary disciplines with a common objective. Project management prepares the solution for the organization while change management prepares the organization for the solution. The Unified Value Proposition describes the common objective—success—which both project management and change management aim to deliver, setting the foundation for collaboration and integration.
 				- Integrated Approach
 					- Integrating project management and change management in the real world is a practical matter requiring structure and intent. In the Prosci Methodology and Prosci Change Triangle (PCT) Model, achieving an integrated approach for organizational change occurs along three dimensions: people, process and tools.
@@ -93,14 +85,15 @@
 					- The Unified Value Proposition can be used by change practitioners in numerous ways to improve change outcomes. It helps describe change and the various aspects of successful change clearly to build a shared view among team members, sponsors and change practitioners.
 					- The Unified Value Proposition is also helpful for troubleshooting. Examining each of the aspects enables practitioners to identify gaps and risks to develop and take corrective actions. And finally, Unified Value Proposition offers a holistic view of change, enabling alignment across an organizational project or initiative.
 		- Roles in Change Management
-		  collapsed:: true
 			- Who Does Change Management: Roles in Change Management
-			  collapsed:: true
 				- ![image.png](../assets/image_1688585036802_0.png)
+					- TODO **How does the Project Manager design, develop, and deliver the technical solution with employee adoption and usage in mind? What are the activities here? **
+					  date:: [[2023-07-19]] 
+					  tags:: #[[change management]] 
+					  type:: [[fleeting]]
 				- Change practitioners need to work with and through others to be successful. The ultimate goal of change management is to achieve organizational results and outcomes by engaging impacted individuals and inspiring their adoption of a new way of working.
 				- A whole system of people in the organization supports impacted individuals to make successful transitions in change. Change practitioners identify required individuals and support people to effectively fulfill their unique roles.
 				- A Coordinated System of Support
-				  collapsed:: true
 					- ![image.png](../assets/image_1688585150866_0.png)
 					- The ultimate goal of change management is to drive organizational results and outcomes by engaging employees and inspiring their adoption of a new way of working. Whether the change is to a process, system, job role, organizational structure, or all of these, a project or initiative can only be successful if individual employees change their behaviors. This is the essence of change management. And to manage change successfully, all core roles must participate.
 					- Much like putting on a play—where actors, directors, costume designers, lighting and sound crews coordinate their unique talents to deliver a single successful outcome—change management requires individuals in key roles to engage with the change and coordinate their efforts in defined ways. From the highest levels of leadership to front-line employees, an entire system of people within the organization must support employees through the transition. This section examines the core roles in change management:
@@ -110,11 +103,9 @@
 						- Project managers
 						- People (impacted employees)
 				- Descriptions and Misconceptions
-				  collapsed:: true
 					- The table below describes each core role from the perspective of the person or group executing it. These “I-by” statements illustrate what each individual or group might say when they understand their role and are actively engaged in managing change. The table also includes what they might say when they do not clearly understand their role.
 					- ![image.png](../assets/image_1688585185276_0.png)
 			- ### Employee-Facing vs. Enabling
-			  collapsed:: true
 				- Of the core roles presented above, two have direct contact with front-line employees impacted by the change—they’re actors on the stage and in the spotlight. Two other roles do more of their work behind the scenes. They’re the directors and stage crew who quietly guide others to successful outcomes.
 				- Employee-Facing Roles
 					- Sponsors and people managers are the two roles that interact directly with individuals who need to change. To the impacted employee groups, they are the visible actors on the change stage. Sponsors and people managers deliver communications, and support and coach teams through their transitions. They also present the organization’s “desired future state” to impacted groups via one-to-one interactions and one-to-many interactions.
@@ -141,9 +132,7 @@
 				- “I, ____ , contribute to successful change outcomes (through adoption and usage) by ____.”
 				- For example, “I, change agent network, contribute to adoption and usage by providing a voice for end users and sharing key messages in a timely manner.”
 				- ### Importance of Each Role
-				  collapsed:: true
 					- Change Practitioners
-					  collapsed:: true
 						- Why the dedicated change management resources are important:
 							- A growing body of data shows a strong correlation between the success of a change initiative and how well the people side is managed. According to Prosci’s Best Practices in Change Management studies, change management projects with excellent change management are six times more likely to meet objectives and outcomes.
 							- Having dedicated resources for change management is consistently one of the greatest contributors to success in Prosci’s Best Practices in Change Management research.
@@ -984,28 +973,22 @@
 			- Phase 3 – Sustain Outcomes Overview
 				- ![image.png](../assets/image_1688675712722_0.png)
 				- Purpose
-				  collapsed:: true
 					- Phase 3 – Sustain Outcomes is the third phase of the Prosci 3-Phase Process. The purpose of Phase 3 – Sustain Outcomes is to realize the value of the change by ensuring the change is adopted and the organization is committed and prepared to sustain the change. This phase has three stages:
 						- Review Performance: This stage answers the question, “Now, where are we? Are we done yet?”
 						- Activate Sustainment: This stage answers the question, “What is needed to ensure the change sticks?”
 						- Transfer Ownership: This stage answers the question, “Who will assume ownership and sustain outcomes?”
 				- Deliverable
-				  collapsed:: true
 					- The deliverable for Phase 3 – Sustain Outcomes is a Change Management Closeout. The Change Management Closeout prepares the organization to own the change and sustain outcomes. It can be shared with the sponsors and project leaders to:
 					- Document the performance status of the change
 					- Confirm sustainment gaps, goals and priorities and outline what it will take to sustain outcomes
 					- Identify and document knowledge and assets transfer
 				- Roles and Responsibilities
-				  collapsed:: true
 					- ![image.png](../assets/image_1688676052911_0.png)
 				- Phase 3 – Sustain Outcomes at a Glance
-				  collapsed:: true
 					- ![image.png](../assets/image_1688676072356_0.png)
 					-
 			- Review Performance
-			  collapsed:: true
 				- Review Performance: Now, where are we? Are we done yet?
-				  collapsed:: true
 					- ![image.png](../assets/image_1688676144860_0.png)
 					- > “However beautiful the strategy, you should occasionally look at the results. *Winston Churchill , British Prime Minister from 1940-1945 and again between 1951 and 1955*
 					- Why
@@ -1141,6 +1124,7 @@
 				- Sponsor Coalition Map
 					- A diagram to identify and analyze the degree of commitment and alignment amongst the sponsors that is needed to drive the Awareness, Desire and Reinforcement elements of the ADKAR Model. The diagram can be used to evaluate the level of support for the change, analyze the overall health of the coalition, and identify risks.
 			- Human Factors of ROI
+			  collapsed:: true
 				- Human Factors of ROI
 					- Describes the three factors that directly contribute to or constrain a project’s return on investment (ROI): speed of adoption, ultimate utilization and proficiency.
 				- speed of adoption
@@ -1150,4 +1134,3 @@
 				- proficiency
 					- A human factor that impacts return on investment. Proficiency defines how well individuals are performing compared to the level expected in the design of the change.
 			- Prosci 3-Phase Process
-				-

@@ -1,0 +1,7 @@
+- Purpose: The purpose of this MOOC is to create a resource to quickly think about and present projects' business value and opportunities
+- Core competencies
+	- When talking about business value and opportunities can we relate these information with our core competencies and gaps?
+- Opportunities
+	- ((648b7a13-f0be-4fb2-b82d-e9a1682548d4))
+	- ((648b7a13-1ba4-4a5b-a99a-98ef1ff244a4))
+- Resource

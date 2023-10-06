@@ -1,5 +1,6 @@
+id:: 648b7a28-44ba-4be8-a4eb-0a9ae9c7800b
 public:: true
-tags:: books, reading, [[Problem Solving]], [[q - how can we make better decisions]]
+tags:: books, reading, [[Problem Solving]], [[q - how can we make better decisions]], [[Decision Making]]
 
 - Reference Notes
 	- Introduction
@@ -7,13 +8,10 @@ tags:: books, reading, [[Problem Solving]], [[q - how can we make better decisio
 		- ^^Ruthless focus on execution assumes you have strategic direction right and can adapt to new competition, frequently from outside your industry.^^
 			- (Make sure you have a good strategy in place or you will execute perfectly a bad idea. Prioritize strategy and upfront thinking before optimizing your processes)
 		- Managerial Skills Evolution
-		  collapsed:: true
 			- ![flast02uf002.jpg](../assets/flast02uf002_1655263400371_0.jpg)
 		- Seven Steps of Problem Solving
-		  collapsed:: true
 			- ![flast02uf004.jpg](../assets/flast02uf004_1655263764396_0.jpg)
 		- Common Mistakes in Problem Solving
-		  collapsed:: true
 			- Weak problem statements.
 				- Too many problem statements lack specificity, clarity around decision‐maker criteria and constraints, an indication of action that will occur if the problem is solved, or a time frame or required level of accuracy for solving the problem. Rushing into analysis with a vague problem statement is a clear formula for long hours and frustrated clients.
 			- Asserting the answer.
@@ -30,7 +28,6 @@ tags:: books, reading, [[Problem Solving]], [[q - how can we make better decisio
 				- Rarely is a problem solved once and for all. Problems we will discuss often have a messiness about them that takes you back and forth between hypotheses, analysis, and conclusions, each time deepening your understanding. We provide examples to show it is okay and worthwhile to have second and third iterations of issue trees as your understanding of a problem changes.
 - Chapter 1 - Learn the Bulletproof Problem Solving Approach
 	- Problem Solving Steps
-	  collapsed:: true
 		- ![c01ex001b.jpg](../assets/c01ex001b_1655266636294_0.jpg)
 		  collapsed:: true
 			- When a problem's context and boundaries aren't fully described, there is a lot of room for error. The first step in our process is to arrive at a problem definition that is agreed upon by those involved in making a decision.

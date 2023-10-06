@@ -9,6 +9,7 @@ tags:: #[[note-taking]]
 - Highlights first synced by [[Readwise]] [[2023\-07\-07]]
   collapsed:: true
 	- Cornell Notes are broken up into three sections as depicted in the following image:
+	  id:: a13c5c51-b7b8-484f-be3e-bbdecb7a7ae2
 	  
 	  ![](https://miro.medium.com/v2/resize:fit:700/0*3_2W0MtmDuiXcCqy.png)
 	  

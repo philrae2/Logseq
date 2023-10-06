@@ -17,6 +17,7 @@ title: Books - Complete Systems Analysis
 		- After the data model, you'll need to begin the data dictionary, and then expand your context diagram by building lower-level physical models.
 		- After building the models we can then start looking at the essential requirements.
 	- Chapter 2:
+	  collapsed:: true
 		- 2.1 Analysis Models
 		  collapsed:: true
 			- Also called a working model of a system.

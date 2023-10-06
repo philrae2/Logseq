@@ -1,13 +1,17 @@
----
-title: Requirements Gathering
----
+alias:: [[requirementsGathering]]
 
+- Resource
+	- https://roamresearch.com/#/app/Religion/page/LVaOA03P3
 - Customer Engagement
+  collapsed:: true
 	- Resources
+	  collapsed:: true
 		- [[Books - Succeeding as a Management Consultant: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al.]]
 		- [[Books: MITRE System Engineering Guide]]
+		- [[requirementsGathering]]
 	- ((a28385b1-95df-4867-9075-a08e3e978d88))
 	- Preparing for the engagement
+	  collapsed:: true
 		- Prepare before meeting with the clients
 			- Fully understand as much about the client and the problem
 			- Develop possible options and use the engagement to test the options

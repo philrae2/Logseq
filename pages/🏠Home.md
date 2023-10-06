@@ -4,36 +4,69 @@ title: 🏠Home
 
 - [[🚧 Projects]]
 - [[Areas]]
+	- Career Development and Learned Skills
+		- Business Strategy
+		  collapsed:: true
+			- [[Think Like Amazon: 50 1/2 Ideas to Become a Digital Leader (highlights)]]
+		- Consulting Strategy
+		  collapsed:: true
+			- [[Books - Succeeding as a Management Consultant: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al.]]
+			- [[Books - The Leadership Journal]]
+		- Product Management
+			- [[Project to Product: How to Survive and Thrive in the Age of Digital Disruption With the Flow Framework (highlights)]]
+			- [[Books - User Story Mapping]]
+			- [[Books: Complete Systems Analysis]]
+		- Teamwork
+		  collapsed:: true
+			- [[Smarter Leaders Smarter Teams]]
 	- [[🍀 Digital Garden]]
+	  collapsed:: true
 		- [[Professional Development]]
 		- [[Thinking Better]]
-		  collapsed:: true
 			- Problem Solving
 				- Second Order Thinking
 					- [[Second-Order Thinking: What Smart People Use to Outperform - Farnam Street]]
 			- [[🤔 Index-Questions]]
 		- [[Learning]]
-		  collapsed:: true
 			- [[Learning/Continuous Learning]]
 			- [[Lessons Learned]]
 		- [[Career]]
-		  collapsed:: true
 			- Mission
 				- [[Q: What do I want to be the best?]]
 id:: 1b9486a5-4f42-4f29-8d01-afecb3f20a02
 - [[Resources]]
+  collapsed:: true
 	- Courses
-		- [[App Academy]]
-		- [[Code Academy - Learn JavaScript]]
-		- [[DigitalProductManagement-StudyGuide (highlights)]]
-		- [[Digital Product Management - Post Test]]
-		- [[Launch School]]
+		- Change Management
+		  collapsed:: true
+			- [[Prosci Change Management]]
+		- Decision Making
+		  collapsed:: true
+			- [Decision By Design](https://fscourses.com/courses/enrolled/1003796)
+		- Leadership
+		  collapsed:: true
+			- [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit)
+			  collapsed:: true
+				- [[Mochary Method Content]]
+			-
+		- Programming
+		  collapsed:: true
+			- [[App Academy]]
+			- [[Code Academy - Learn JavaScript]]
+			- [[Launch School]]
+		- Digital Product Management
+		  collapsed:: true
+			- [[DigitalProductManagement-StudyGuide (highlights)]]
+			- [[Digital Product Management - Post Test]]
+		- PKM
+		  collapsed:: true
+			- [[https://courses.rjnestor.com/]]
+			- [[Tanarian Brain]]
+			- [[Logseq Mastery]]
+			- [[Roam Project Management]]
 		- [[Linked Learning]]
-		- [[Roam Project Management]]
-		- [Decision By Design](https://fscourses.com/courses/enrolled/1003796)
-		- [[https://courses.rjnestor.com/]]
-		- [[Prosci Change Management]]
 	- Reading Material
+	  id:: 648b79fa-05ac-4c67-b9a3-5138ed9674b9
 	  collapsed:: true
 		- [[books]]
 		- Reading
@@ -150,19 +183,23 @@ id:: 1b9486a5-4f42-4f29-8d01-afecb3f20a02
 				- World-Class Risk Management
 			- [[Strategy]]
 				- [[Books: Good Strategy Bad Strategy]]
+	- Flashcards
+		- {{cards (and [[Digital Product Management - Post Test]])}}
+		- {{cards (and [[DigitalProductManagement-StudyGuide (highlights)]] )}}
 	- Notetaking
 	  collapsed:: true
 		- [Standard Flowchart Symbols and Their Usage | Basic Flowchart Symbols and Meaning | Workflow Diagram Symbols and Meaning (conceptdraw.com)](https://www.conceptdraw.com/How-To-Guide/flowchart-symbols)
 	- [[articles]]
 	- [[books]]
 	- [[☑️ Guides - Templates and Checklists]]
-	- Courses
-		- Leadership
-			- [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit)
-				- [[Mochary Method Content]]
-			-
 	- [[Strategy]]
 	- [[process improvements]]
+	- [[Templates]]
+	- Help
+	  collapsed:: true
+		- LogSeq
+			- How to categorize flashcards [Reddit post](https://www.reddit.com/r/logseq/comments/13r8jmq/practice_a_selection_of_flashcards/)
+		-
 - [[Archive]]
 - [[📥inbox]]
 -

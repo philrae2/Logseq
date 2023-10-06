@@ -8,7 +8,6 @@ title: Books - The Leadership Journal
 - **link:** [Amazon](https://www.amazon.com/Leadership-Journal-management-consulting-McKinsey-ebook/dp/B09MR6MD7D/ref=sr_1_1?crid=3JTQOJES0WTCS&keywords=the+leadership+kris+safarova&qid=1646795152&sprefix=the+leadership+kris+safarova%2Caps%2C152&sr=8-1)
 - #[[Literature Notes]]
 - #[[Reference Notes]]
-  collapsed:: true
 	- Client Case Study
 		- Not living a full and true life is a draining process.
 			- Comment: Living a life that is fulfilling someone else's desire like your parents wanting their child to be a lawyer or doctor.

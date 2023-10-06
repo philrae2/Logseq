@@ -5,53 +5,172 @@ media:: #courses
 url:: https://readwise.io/reader/document_raw_content/29126473
 id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 
+- Test
+	- ![image.png](../assets/image_1691634639953_0.png)
+	- ![image.png](../assets/image_1691550954914_0.png)
+	- ![image.png](../assets/image_1691550931907_0.png)
+	- ![image.png](../assets/image_1691550912068_0.png)
+	-
+	- ![image.png](../assets/image_1691549946557_0.png)
+	- ![image.png](../assets/image_1690497893501_0.png)
+	- ![image.png](../assets/image_1690497882384_0.png)
+	- ![image.png](../assets/image_1690497866466_0.png)
+	- ![image.png](../assets/image_1690497853670_0.png)
+	- ![image.png](../assets/image_1690497829530_0.png)
+	- ![image.png](../assets/image_1690497786307_0.png)
+	-
+	- ![image.png](../assets/image_1690497698065_0.png)
+	- ![image.png](../assets/image_1690497676485_0.png)
+	- ![image.png](../assets/image_1690497654306_0.png)
+	- ![image.png](../assets/image_1690497641791_0.png)
+	- ![image.png](../assets/image_1690497572408_0.png)
+	-
+	- ![image.png](../assets/image_1690496092309_0.png)
+	- ![image.png](../assets/image_1690495546808_0.png)
+	- ![image.png](../assets/image_1690495561166_0.png)
+	- ![image.png](../assets/image_1690494449380_0.png)
+	- ![image.png](../assets/image_1690343127522_0.png)
+	- Define "ARM"
+	- ![image.png](../assets/image_1690342828876_0.png)
+	- ![image.png](../assets/image_1690342808103_0.png)
+	- ![image.png](../assets/image_1690342731042_0.png)
+	- ![image.png](../assets/image_1690342701171_0.png)
+	- ![image.png](../assets/image_1690342602041_0.png)
+	- ![image.png](../assets/image_1690342534069_0.png)
+	-
+	- ![image.png](../assets/image_1690342420663_0.png)
+	- ![image.png](../assets/image_1690342375369_0.png)
+	- ![image.png](../assets/image_1690342358453_0.png)
+	- ![image.png](../assets/image_1690342295666_0.png)
+	- ![image.png](../assets/image_1690342212646_0.png)
+	- ![image.png](../assets/image_1690342154089_0.png)
+	- ![image.png](../assets/image_1690342106163_0.png)
+	- ![image.png](../assets/image_1690341329154_0.png)
+	- ![image.png](../assets/image_1690341286358_0.png)
+	- ![image.png](../assets/image_1690341269722_0.png)
+	- ![image.png](../assets/image_1690341255282_0.png)
+	- ![image.png](../assets/image_1690341241650_0.png)
+	- ![image.png](../assets/image_1690341220337_0.png)
+	- ![image.png](../assets/image_1690341205689_0.png)
+	- ![image.png](../assets/image_1690341188228_0.png)
+	- ![image.png](../assets/image_1690341171730_0.png)
+	- ![image.png](../assets/image_1690341154144_0.png)
+	- ![image.png](../assets/image_1690341140259_0.png)
+	- ![image.png](../assets/image_1690341121923_0.png)
+	- ![image.png](../assets/image_1690341103365_0.png)
+	- ![image.png](../assets/image_1690341081512_0.png)
+	- ![image.png](../assets/image_1690341041592_0.png)
+	- ![image.png](../assets/image_1690341028474_0.png)
+	- ![image.png](../assets/image_1690341014855_0.png)
+	- ![image.png](../assets/image_1690340996114_0.png)
+	- ![image.png](../assets/image_1690340980708_0.png)
+	- ![image.png](../assets/image_1690340942368_0.png)
+	- ![image.png](../assets/image_1690340917474_0.png)
+	- ![image.png](../assets/image_1690340881056_0.png)
+	- ![image.png](../assets/image_1690340860104_0.png)
+	  id:: 64c08de7-bfc3-4dab-a67b-b1edd417a489
+	- ![image.png](../assets/image_1690340787925_0.png)
+	- ![image.png](../assets/image_1690340699381_0.png)
+	-
+	- ![image.png](../assets/image_1690340666631_0.png)
+	- ![image.png](../assets/image_1690340651606_0.png)
+	- ![image.png](../assets/image_1690340634220_0.png)
+	- ![image.png](../assets/image_1690340610864_0.png)
+	- ![image.png](../assets/image_1690340536215_0.png)
+	- ![image.png](../assets/image_1690340491276_0.png)
+	- ![image.png](../assets/image_1690340476070_0.png)
+	- ![image.png](../assets/image_1690340461271_0.png)
+	- ![image.png](../assets/image_1690340399438_0.png)
+	- ![image.png](../assets/image_1690340356695_0.png)
+	- ![image.png](../assets/image_1690340341268_0.png)
+	- ![image.png](../assets/image_1690340323097_0.png)
+	- ![image.png](../assets/image_1690340744071_0.png)
+	- ![image.png](../assets/image_1690340250505_0.png)
+	-
+	- ![image.png](../assets/image_1690340198755_0.png)
+	- ![image.png](../assets/image_1690340180048_0.png)
+	- ![image.png](../assets/image_1690340059857_0.png)
+	- ![image.png](../assets/image_1690340027271_0.png){:height 182, :width 979}
+	-
+	- ![image.png](../assets/image_1690339921419_0.png)
+	-
+	- ![image.png](../assets/image_1690339805337_0.png)
+	- ![image.png](../assets/image_1690339660881_0.png)
+	- ![image.png](../assets/image_1690339564327_0.png)
+	- ![image.png](../assets/image_1690339446045_0.png)
+	- ![image.png](../assets/image_1690339475406_0.png)
+	-
+	- ![image.png](../assets/image_1690339375473_0.png)
+	- ![image.png](../assets/image_1690339409587_0.png)
+	- Definition of Optimize
+	- ![image.png](../assets/image_1690339280709_0.png)
+	- ![image.png](../assets/image_1690339221322_0.png)
+	- ![image.png](../assets/image_1690339260378_0.png)
+	- ![image.png](../assets/image_1690339119940_0.png)
+	- ![image.png](../assets/image_1690339079794_0.png)
+	-
+	- ![image.png](../assets/image_1690339021531_0.png)
+	- ![image.png](../assets/image_1690338942666_0.png)
+	  id:: 64c08672-3bd5-48eb-8386-6227c3ded1d9
+	- ![image.png](../assets/image_1690338910032_0.png)
+	-
+	- ![image.png](../assets/image_1690338781591_0.png)
+	-
+	- ![image.png](../assets/image_1690338427758_0.png)
+	- ![image.png](../assets/image_1690338535123_0.png)
+	- ![image.png](../assets/image_1690338563390_0.png)
+	- ![image.png](../assets/image_1690338603137_0.png)
+	- ![image.png](../assets/image_1690338621994_0.png)
+	-
+	- ![image.png](../assets/image_1690338698058_0.png)
+	-
 - Questions
   id:: 63d69a58-d2bf-4273-9bb9-42c13f18dae2
+  collapsed:: true
 	- Module 1 - Intro to Digital Product Management
 		- What is a digital product? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 3
-		  card-next-schedule:: 2023-07-11T02:35:16.637Z
-		  card-last-reviewed:: 2023-07-07T02:35:16.637Z
+		  card-last-interval:: 12.4
+		  card-repeats:: 3
+		  card-ease-factor:: 3.1
+		  card-next-schedule:: 2023-07-28T11:59:06.492Z
+		  card-last-reviewed:: 2023-07-16T02:59:06.493Z
 		  card-last-score:: 5
 			- ((63d0b6c0-900d-4612-adce-85afce3e2bbf))
 			- ((cff16e28-61d2-4642-838d-9cac3d84f756))
 		- What are the two foundational concepts of Digital Product Management? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 1.94
-		  card-next-schedule:: 2023-07-13T20:28:45.113Z
-		  card-last-reviewed:: 2023-07-09T20:28:45.113Z
+		  card-last-interval:: 11.02
+		  card-repeats:: 4
+		  card-ease-factor:: 1.66
+		  card-next-schedule:: 2023-08-04T03:57:28.471Z
+		  card-last-reviewed:: 2023-07-24T03:57:28.471Z
 		  card-last-score:: 3
-		  collapsed:: true
 			- Digital Product Management is formed by two fundamental concept of the **iterative validation process** and the activities of the **Product-Market Fit**
 				- ((63d34335-5a5f-4d2f-b6fc-eb35417c75c5))
 				- **What is the Validation cycle** #card
-				  card-last-interval:: 10.08
-				  card-repeats:: 3
-				  card-ease-factor:: 2.52
-				  card-next-schedule:: 2023-07-16T03:33:47.345Z
-				  card-last-reviewed:: 2023-07-06T02:33:47.345Z
+				  card-last-interval:: 27.46
+				  card-repeats:: 4
+				  card-ease-factor:: 2.62
+				  card-next-schedule:: 2023-08-12T14:38:39.351Z
+				  card-last-reviewed:: 2023-07-16T03:38:39.352Z
 				  card-last-score:: 5
 					- When creating a hypothesis, you are already thinking about what and how you are measuring, including the targets that indicate whether your hypothesis is correct.
 					- The Build Measure Learn cycle forms the validation cycle. Where the hypothesis informs what we test by building an increment of a product then we measure the data to validate the hypothesis or importantly learn from the data to form another hypothesis.
 				- **Product-Market Fit** is composed of these 3 criteria: #card
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.18
-				  card-next-schedule:: 2023-07-11T02:33:55.891Z
-				  card-last-reviewed:: 2023-07-07T02:33:55.892Z
-				  card-last-score:: 3
+				  card-last-interval:: 22.66
+				  card-repeats:: 4
+				  card-ease-factor:: 2.38
+				  card-next-schedule:: 2023-08-17T17:12:19.043Z
+				  card-last-reviewed:: 2023-07-26T02:12:19.043Z
+				  card-last-score:: 5
 					- Validation step - where we find out if our product solves a real problem for real customers?
 					- Viable - does the product provide net value to our business that we should offer it?
 					- Feasible - Can we build the product given the organization's constraints
 		- What is your primary job as a digital product manager? #card
-		  card-last-interval:: 7.2
-		  card-repeats:: 3
-		  card-ease-factor:: 1.8
-		  card-next-schedule:: 2023-07-13T06:32:45.987Z
-		  card-last-reviewed:: 2023-07-06T02:32:45.987Z
+		  card-last-interval:: 11.02
+		  card-repeats:: 4
+		  card-ease-factor:: 1.66
+		  card-next-schedule:: 2023-07-27T03:07:51.030Z
+		  card-last-reviewed:: 2023-07-16T03:07:51.030Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- ((63d34335-bb90-45dd-978d-649114be6212))
@@ -62,39 +181,40 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 		- What are six key skills dpm should have? #card
 		  card-last-interval:: -1
 		  card-repeats:: 1
-		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-07-10T04:00:00.000Z
-		  card-last-reviewed:: 2023-07-09T20:27:25.560Z
+		  card-ease-factor:: 2.08
+		  card-next-schedule:: 2023-07-26T04:00:00.000Z
+		  card-last-reviewed:: 2023-07-25T04:33:57.795Z
 		  card-last-score:: 1
+		  collapsed:: true
 			- ((63d34335-4611-4f71-bc07-7435ae5ca6f0))
 		- What is the innovation that drives Software as a Service companies (SaaS)? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 3
-		  card-next-schedule:: 2023-07-11T02:39:23.812Z
-		  card-last-reviewed:: 2023-07-07T02:39:23.812Z
-		  card-last-score:: 5
+		  card-last-interval:: 11.44
+		  card-repeats:: 3
+		  card-ease-factor:: 2.86
+		  card-next-schedule:: 2023-07-27T13:02:31.108Z
+		  card-last-reviewed:: 2023-07-16T03:02:31.109Z
+		  card-last-score:: 3
 		  collapsed:: true
 			- {{embed ((44e232b8-abbe-460c-b67d-60cc3d367a7f))}}
 		- What is product-led growth? #card
 		  card-last-interval:: 4
 		  card-repeats:: 2
-		  card-ease-factor:: 1.8
-		  card-next-schedule:: 2023-07-13T20:26:49.820Z
-		  card-last-reviewed:: 2023-07-09T20:26:49.820Z
-		  card-last-score:: 3
+		  card-ease-factor:: 2
+		  card-next-schedule:: 2023-07-29T04:33:36.806Z
+		  card-last-reviewed:: 2023-07-25T04:33:36.807Z
+		  card-last-score:: 5
 		  collapsed:: true
 			- Product-led growth is a model that uses the quality of your product and how you treat your users as the primary drivers of growth. You acquire new customers while retaining and monetizing your current users.
 	- Module 2 - Your Digital Team
 	  collapsed:: true
 		- ![image.png](../assets/image_1674622429387_0.png)
 		- What are the differences between product managers and product owners. #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.52
-		  card-next-schedule:: 2023-07-10T23:37:02.119Z
-		  card-last-reviewed:: 2023-07-06T23:37:02.120Z
-		  card-last-score:: 3
+		  card-last-interval:: 10.48
+		  card-repeats:: 3
+		  card-ease-factor:: 2.62
+		  card-next-schedule:: 2023-07-26T13:54:43.209Z
+		  card-last-reviewed:: 2023-07-16T02:54:43.210Z
+		  card-last-score:: 5
 		  collapsed:: true
 			- It is recommended that these two roles should be split among two people, but in some organizations one person can fulfill both roles.
 			- The product manager is responsible for the "busines" aspect of the product—customer segmentation, forecasting, or competitive analysis.
@@ -102,32 +222,32 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- These two roles can overlap in vision or product roadmap, release planning, or needs and feature definition.
 			- ((63d34335-2715-46b1-b33e-2d46edf19016))
 		- What is a key difference between product managers and project managers? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.04
-		  card-next-schedule:: 2023-07-10T23:39:10.586Z
-		  card-last-reviewed:: 2023-07-06T23:39:10.586Z
+		  card-last-interval:: 20.07
+		  card-repeats:: 4
+		  card-ease-factor:: 2.24
+		  card-next-schedule:: 2023-08-14T05:37:27.665Z
+		  card-last-reviewed:: 2023-07-25T04:37:27.665Z
 		  card-last-score:: 5
 			- Project managers only care about the successful delivery of the project and not whether the project actually benefits or enables the success of the business.
 			- Product managers need to do a lot of future planning, opportunity assessment, and prioritizing.
 		- What are 2 areas of ROI from the user experience designers? #card
-		  card-last-score:: 3
-		  card-repeats:: 4
-		  card-next-schedule:: 2023-07-25T02:52:11.046Z
-		  card-last-interval:: 19.01
+		  card-last-score:: 1
+		  card-repeats:: 1
+		  card-next-schedule:: 2023-07-26T04:00:00.000Z
+		  card-last-interval:: -1
 		  card-ease-factor:: 2.18
-		  card-last-reviewed:: 2023-07-06T02:52:11.047Z
+		  card-last-reviewed:: 2023-07-25T04:38:15.531Z
 			- Increase overall revenue or value creation for users because greater ease of use leads to better emotional attachment
 			- Increased customer satisfaction because customers love well-designed products that fulfills their needs and eases their pain
 	- Module 3 - Becoming Outcome Driven
 	  collapsed:: true
 		- What are eight essential steps for leading meaningful change management? #card
-		  card-last-interval:: -1
-		  card-repeats:: 1
-		  card-ease-factor:: 2.22
-		  card-next-schedule:: 2023-07-10T04:00:00.000Z
-		  card-last-reviewed:: 2023-07-09T20:26:05.252Z
-		  card-last-score:: 1
+		  card-last-interval:: 8.68
+		  card-repeats:: 3
+		  card-ease-factor:: 2.18
+		  card-next-schedule:: 2023-07-27T08:36:47.333Z
+		  card-last-reviewed:: 2023-07-18T16:36:47.335Z
+		  card-last-score:: 5
 			- ((63d60832-6512-4112-97c9-74baaae7d861))
 			- ((63d60837-9278-49a7-99c4-75f15ee45813))
 			- ((63d6083c-1b52-4eb0-b238-dcaddb6a8a4c))
@@ -138,39 +258,39 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- ((63d60b3f-e794-4ed6-b69f-1c45d10171cc))
 			-
 		- What are two types of outcomes to focus as product managers? #card
-		  card-last-interval:: 19.01
-		  card-repeats:: 4
-		  card-ease-factor:: 2.18
-		  card-next-schedule:: 2023-07-25T02:52:25.433Z
-		  card-last-reviewed:: 2023-07-06T02:52:25.433Z
-		  card-last-score:: 3
+		  card-last-interval:: 47.41
+		  card-repeats:: 5
+		  card-ease-factor:: 2.28
+		  card-next-schedule:: 2023-09-10T13:38:29.254Z
+		  card-last-reviewed:: 2023-07-25T04:38:29.254Z
+		  card-last-score:: 5
 		  collapsed:: true
 			- Business outcomes to measure company goals
 			- Product outcomes to measure the actual changes in client behaviors that result from the changes made to our product
 		- What is the difference between output and an outcome. #card
-		  card-last-interval:: -1
-		  card-repeats:: 1
-		  card-ease-factor:: 2.56
-		  card-next-schedule:: 2023-07-10T04:00:00.000Z
-		  card-last-reviewed:: 2023-07-09T20:26:34.177Z
-		  card-last-score:: 1
+		  card-last-interval:: 10.44
+		  card-repeats:: 3
+		  card-ease-factor:: 2.52
+		  card-next-schedule:: 2023-08-03T13:42:03.176Z
+		  card-last-reviewed:: 2023-07-24T03:42:03.176Z
+		  card-last-score:: 5
 			- Outputs are events that lead to outcomes. Outputs are not goals in themselves that would be the outcome.
 			- Outcomes are the behavior changes from our clients based on the outputs of our product.
 		- What are OKRs? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.28
-		  card-next-schedule:: 2023-07-11T02:35:06.344Z
-		  card-last-reviewed:: 2023-07-07T02:35:06.345Z
-		  card-last-score:: 3
+		  card-last-interval:: 8.96
+		  card-repeats:: 3
+		  card-ease-factor:: 2.24
+		  card-next-schedule:: 2023-08-02T02:44:45.312Z
+		  card-last-reviewed:: 2023-07-24T03:44:45.313Z
+		  card-last-score:: 5
 		  collapsed:: true
 			- ![image.png](../assets/image_1674962946803_0.png)
 			- They are SMART Goals that are divided into objectives or strategic goals and key results or measurements of progress towards the goal. #card
-			  card-last-interval:: 4
-			  card-repeats:: 2
-			  card-ease-factor:: 2.66
-			  card-next-schedule:: 2023-07-13T20:27:48.096Z
-			  card-last-reviewed:: 2023-07-09T20:27:48.097Z
+			  card-last-interval:: 10.48
+			  card-repeats:: 3
+			  card-ease-factor:: 2.62
+			  card-next-schedule:: 2023-08-03T14:45:11.098Z
+			  card-last-reviewed:: 2023-07-24T03:45:11.098Z
 			  card-last-score:: 5
 			  collapsed:: true
 				- ![image.png](../assets/image_1674962872605_0.png)
@@ -178,30 +298,30 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			  id:: 63d69a58-fc2a-400a-982a-726e56a81f1b
 			- ((f548306d-dc50-45bb-9564-694c1fe0e69e))
 		- What is the purpose of OKRs? #card
-		  card-last-interval:: 3.86
-		  card-repeats:: 2
-		  card-ease-factor:: 2.42
-		  card-next-schedule:: 2023-07-10T22:41:44.941Z
-		  card-last-reviewed:: 2023-07-07T02:41:44.942Z
-		  card-last-score:: 5
+		  card-last-interval:: 8.56
+		  card-repeats:: 3
+		  card-ease-factor:: 2.14
+		  card-next-schedule:: 2023-08-01T16:43:52.739Z
+		  card-last-reviewed:: 2023-07-24T03:43:52.740Z
+		  card-last-score:: 3
 		  collapsed:: true
 			- OKRs are meant to align the organization and helps you know where you are going.
 			- ((cf0f8cf4-bdc9-4f4b-9218-71e6bb901297))
 		- What is the purpose of KPIs? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.76
-		  card-next-schedule:: 2023-07-11T02:41:34.452Z
-		  card-last-reviewed:: 2023-07-07T02:41:34.453Z
+		  card-last-interval:: 11.44
+		  card-repeats:: 3
+		  card-ease-factor:: 2.86
+		  card-next-schedule:: 2023-07-27T13:03:03.689Z
+		  card-last-reviewed:: 2023-07-16T03:03:03.689Z
 		  card-last-score:: 5
 			- ![image.png](../assets/image_1674964208614_0.png)
 			- Key performance indicators measures how fast you are traveling and if you are on course to reach your OKRs?
 		- What are the categories of KPIs? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.18
-		  card-next-schedule:: 2023-07-10T23:33:03.122Z
-		  card-last-reviewed:: 2023-07-06T23:33:03.122Z
+		  card-last-interval:: 14.44
+		  card-repeats:: 4
+		  card-ease-factor:: 1.9
+		  card-next-schedule:: 2023-08-08T14:36:45.682Z
+		  card-last-reviewed:: 2023-07-25T04:36:45.683Z
 		  card-last-score:: 3
 			- Product - measure whether customers are using and getting value from our product. They are leading indications of success that determine whether the business will succeed in the next month, quarter, or year. Product KPIs are quicker to course correct because they are more present than the late business KPIs.
 			- Business KPIs are know as "lagging" indicators because they reflect a business result that has been a long time in the making.
@@ -235,11 +355,11 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 		  collapsed:: true
 			- What are types of opportunities #card ![image.png](../assets/image_1675041411439_0.png)
 			  id:: 63d71a81-e14a-4a78-9778-d00b655cf5bf
-			  card-last-interval:: 4
-			  card-repeats:: 2
-			  card-ease-factor:: 2.18
-			  card-next-schedule:: 2023-07-11T02:41:12.779Z
-			  card-last-reviewed:: 2023-07-07T02:41:12.780Z
+			  card-last-interval:: 22.66
+			  card-repeats:: 4
+			  card-ease-factor:: 2.38
+			  card-next-schedule:: 2023-08-17T17:12:27.617Z
+			  card-last-reviewed:: 2023-07-26T02:12:27.617Z
 			  card-last-score:: 5
 			  collapsed:: true
 				- ((15f3fd70-3f31-4b4f-af88-6f8af6f9e32e))
@@ -248,31 +368,31 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 				- ((8f6ed344-58e3-4353-8944-fbdd20b79101))
 				- ((13b058fd-b47d-4bec-9308-a18abb96c722))
 		- Explain the Product-Market Fit Cycle. #card
-		  card-last-interval:: 3.86
-		  card-repeats:: 2
-		  card-ease-factor:: 2.66
-		  card-next-schedule:: 2023-07-10T22:35:58.288Z
-		  card-last-reviewed:: 2023-07-07T02:35:58.288Z
+		  card-last-interval:: 11.04
+		  card-repeats:: 3
+		  card-ease-factor:: 2.76
+		  card-next-schedule:: 2023-07-27T02:49:35.666Z
+		  card-last-reviewed:: 2023-07-16T02:49:35.666Z
 		  card-last-score:: 5
 		  collapsed:: true
 			- {{embed ((5c168860-a26f-41d7-a2c2-f3a2e550f84f))}}
 		- What is design thinking? #card
-		  card-last-interval:: 2.76
-		  card-repeats:: 2
-		  card-ease-factor:: 2.08
-		  card-next-schedule:: 2023-07-12T14:28:34.446Z
-		  card-last-reviewed:: 2023-07-09T20:28:34.447Z
+		  card-last-interval:: 11.2
+		  card-repeats:: 4
+		  card-ease-factor:: 1.8
+		  card-next-schedule:: 2023-08-04T07:57:51.034Z
+		  card-last-reviewed:: 2023-07-24T03:57:51.034Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- {{embed ((729a671d-5597-4dec-91e9-deb87fa1e604))}}
 			  id:: 63d8870c-8ceb-4b45-8b2d-5f0d27ebe6ec
 		- What are the five phases of design thinking? #card
-		  card-last-score:: 1
-		  card-repeats:: 1
-		  card-next-schedule:: 2023-07-10T04:00:00.000Z
-		  card-last-interval:: -1
-		  card-ease-factor:: 2.08
-		  card-last-reviewed:: 2023-07-09T20:27:07.260Z
+		  card-last-score:: 3
+		  card-repeats:: 3
+		  card-next-schedule:: 2023-07-30T19:42:56.708Z
+		  card-last-interval:: 6.67
+		  card-ease-factor:: 1.8
+		  card-last-reviewed:: 2023-07-24T03:42:56.708Z
 		  collapsed:: true
 			- The 5 Phases of Design Thinking
 			  	1. Empathize with your users.
@@ -284,12 +404,12 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	- Module 5 - Seeking Solutions
 	  collapsed:: true
 		- What is the Value Prop Box? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.32
-		  card-next-schedule:: 2023-07-13T20:27:36.522Z
-		  card-last-reviewed:: 2023-07-09T20:27:36.523Z
-		  card-last-score:: 5
+		  card-last-interval:: 16.63
+		  card-repeats:: 4
+		  card-ease-factor:: 2.04
+		  card-next-schedule:: 2023-08-10T19:37:59.951Z
+		  card-last-reviewed:: 2023-07-25T04:37:59.951Z
+		  card-last-score:: 3
 		  collapsed:: true
 			- ![image.png](../assets/image_1675054789364_0.png)
 			- ![image.png](../assets/image_1675221321805_0.png){:height 403, :width 686}
@@ -297,11 +417,11 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 				- For the Gain Creators think how we might improve or increase the benefits of our customers' expectations. Or what solutions and options will they be surprised by?
 				- Similarly how can we reduce our customers' pains by eliminating negative emotions, costs, and risks.
 		- What is pretotyping? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 1.94
-		  card-next-schedule:: 2023-07-10T23:35:40.466Z
-		  card-last-reviewed:: 2023-07-06T23:35:40.467Z
+		  card-last-interval:: 14.44
+		  card-repeats:: 4
+		  card-ease-factor:: 1.9
+		  card-next-schedule:: 2023-08-08T14:37:08.481Z
+		  card-last-reviewed:: 2023-07-25T04:37:08.481Z
 		  card-last-score:: 3
 		  collapsed:: true
 			- ![image.png](../assets/image_1675221379530_0.png)
@@ -313,12 +433,12 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			- ![image.png](../assets/image_1675222023831_0.png)
 			- It is a visual technique to help predict and explore a user's experience with a product. It can help stakeholders understand the benefits of a solution and how it could work in practice.
 		- What is viability? #card
-		  card-last-interval:: 4
-		  card-repeats:: 2
-		  card-ease-factor:: 2.18
-		  card-next-schedule:: 2023-07-10T23:39:23.626Z
-		  card-last-reviewed:: 2023-07-06T23:39:23.626Z
-		  card-last-score:: 3
+		  card-last-interval:: 18.92
+		  card-repeats:: 4
+		  card-ease-factor:: 2.14
+		  card-next-schedule:: 2023-08-13T02:37:16.361Z
+		  card-last-reviewed:: 2023-07-25T04:37:16.362Z
+		  card-last-score:: 5
 			- Viability asks the product management team if the opportunity is economically attractive to pursue.
 			- Typical Viability questions include:
 			  • How large is the market and how much of it can we capture?
@@ -328,21 +448,21 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 			  • Who do we need relationships with?
 			  • What supporting activities are required?
 		- What is market segmentation? #card
-		  card-last-interval:: 4.28
-		  card-repeats:: 2
-		  card-ease-factor:: 2.9
-		  card-next-schedule:: 2023-07-11T08:39:44.061Z
-		  card-last-reviewed:: 2023-07-07T02:39:44.061Z
+		  card-last-interval:: 12
+		  card-repeats:: 3
+		  card-ease-factor:: 3
+		  card-next-schedule:: 2023-07-28T03:03:18.186Z
+		  card-last-reviewed:: 2023-07-16T03:03:18.187Z
 		  card-last-score:: 5
 			- Is a process of breaking down your customers to unique and smaller groups so we can build targeted solutions for them.
 			- We need to prioritize which customers we want to serve and therefore we can better prioritize the functionalities we build.
 			- Market segmentation can help us build the right product for our target customer.
 		- What is a value proposition? #card
-		  card-last-interval:: 3.86
-		  card-repeats:: 2
-		  card-ease-factor:: 2.08
-		  card-next-schedule:: 2023-07-10T19:34:58.207Z
-		  card-last-reviewed:: 2023-07-06T23:34:58.208Z
+		  card-last-interval:: 16.63
+		  card-repeats:: 4
+		  card-ease-factor:: 2.04
+		  card-next-schedule:: 2023-08-10T19:37:46.760Z
+		  card-last-reviewed:: 2023-07-25T04:37:46.760Z
 		  card-last-score:: 3
 			- ![image.png](../assets/image_1675222562644_0.png)
 			- **A concise statement of how you uniquely solved a problem for a specific customer segment.** It markets your solution as unique, a solution for them, and their need is known and cared about.
@@ -1274,3 +1394,23 @@ id:: 63d69a58-e8ad-42b3-921d-f3f38449ea5d
 	- Ideas about what would add value, and what you should build, are just hypotheses that you will need to test and validate – or disprove. Digital product managers are like product scientists in that we collect qualitative and quantitative data about our assumptions. Historically, this wasn’t really done, or if it was, it was likened to an art.
 	  Today – we have a great combination of ways to make this work:
 	  An ability to collect data - We’ve always had qualitative data, but now we also have the ability to more closely observe users and collect much more detailed data Ability to run experiments - We can test hypotheses with real users by updating our products quickly and iteratively, do trial runs and A/B testing. ([View Highlight](https://read.readwise.io/read/01gvhnb3enppby04dpkgyzenfs))
+- New highlights added [[2023-07-27]] at 8:47 PM
+	- A digital product is any product delivered online that doesn’t have physical form or
+	  substance. You can’t hold a website theme in your hand, smell an e-book, or taste an
+	  application. ([View Highlight](https://read.readwise.io/read/01h6cyw0z0h9n63c0bp2pqnepr))
+	- Digital Products have these characteristics and advantages over their physical counterparts:
+	  • Easy to Fulfill / Acquire – Products can be ordered and delivered online to your device
+	  of choice, often at the same time
+	  • Nothing to Inventory - Inventory is never an issue (either too much or too little).
+	  Nothing sits ‘on the shelf’, aging or spoiling.
+	  • Can be updated quickly - even if they are already in customer hands!
+	  • Little to no COGS - When a product is purely digital, there’s typically no cost related to
+	  materials or assembly. Note: there may still be licensing costs to other technology
+	  suppliers ([View Highlight](https://read.readwise.io/read/01h6cyrzcgf4cdxe843gfje7er))
+	- Tight coupling with User - In general, you and your users both get to understand their
+	  use of the product far better than with non-digital products. ([View Highlight](https://read.readwise.io/read/01h6cyzjjrzy6jzx53rphtbvp7))
+- New highlights added [[2023-07-27]] at 9:47 PM
+	- “a tentative assumption made in
+	  order to draw out and test its logical or empirical consequences ([View Highlight](https://read.readwise.io/read/01h6cze027qhqmmt21b0xcn3w5))
+	- SaaS: A method of software delivery and licensing in which software is accessed online via a
+	  subscription, rather than bought and installed on individual computers. ([View Highlight](https://read.readwise.io/read/01h6d00resmrk56nd1vfv55x4n))

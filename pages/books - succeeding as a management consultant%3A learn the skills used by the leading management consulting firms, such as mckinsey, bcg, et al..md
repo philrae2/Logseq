@@ -1,6 +1,6 @@
 title:: Books - Succeeding as a Management Consultant: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al.
 tags:: [[Problem Solving Algorithm]], [[Project Management]], [[customer engagement]], Books
-author:: Kris Safarova
+author:: [[Kris Safarova]]
 
 - Takeaways
 	- Identify quick wins in problem solving to build early credibility and good will.
@@ -48,13 +48,11 @@ author:: Kris Safarova
 			- Warren Buffet was able to grow his investment business through transparency and credibility. He first only worked with people who trusted him and when he was successful enough, expanded to work with strangers. Warren developed his reputation by being consistently transparent and honest with his partners—which became his competitive advantage.
 			- At a certain point in your career you will have to step into a leadership and management position. And when it comes to managing and leadership, the trust element becomes crucial. This is where your reputation as an ethical person is a formidable and sustainable competitive advantage. Your ethics is created through a prolonged period of consistency and therefore cannot be faked. Far too many people do not understand the value and importance of ethics.
 			- Ethics usually applies to three categories:
-			  collapsed:: true
 				- Actions not covered by law
 					- i.e., Recording someone without their permission because it is legally permitted in where they live
 				- Actions for which the law is not enforced
 				- Actions for the law is clearly wrong
 			- We often judge people for ethical breaches and assume context homogeneity. However, you cannot measure people this was because their actions are shaped by social networks and their environment. Someone who grew up in a developed country with loving parents is mostly likely will have different morals to someone who grew up in poverty and in an abusive family. We must compensate for this context.
-			  collapsed:: true
 				- Many times, when people do things that are ethical, they are not doing it because it is ethical, rather they are trying to avoid being labeled evil or unethical. Conversely, a lot of actions that we see are unethical, we see without context. And of course, a lot of seemingly kind decisions are not intended to be kind. They are done to manage one's image in the present even if the future consequences are dire.
 			- Just because something looks unethical does not mean it is. We can only make that judgement call when we know the trade-off. People often struggle to compare and contrast the short and long-term consequences of a decision. They often only look at the short-term consequences.
 			- Being ethical does not mean you have to be nice to people. Personality and you value system are completely different concepts.
@@ -63,7 +61,6 @@ author:: Kris Safarova
 			- Ethics is not about the law but based on our personal judgment
 				- Sometimes the law of the world is not perfect and is wrong. Our ethics therefore is separate and apart from the constraints of laws-
 		- Judgment
-		  collapsed:: true
 			- Judgement influences how we interpret data. Two people can be viewing the same data but arrive at different conclusions and therefore craft two very different set of actions.
 			- All experiences matters when it comes to judgment. The mistake we often make is to ignore everything we have ever done in the past, and only think about things we read about in the WSJ, HBR, etc. To have good judgment, one must be willing to marshal everything they know to apply it.
 			- To improve our judgment we need to think about the source of our knowledge:
@@ -79,25 +76,20 @@ author:: Kris Safarova
 			  collapsed:: true
 				- People who own the problem work harder, face tougher hurdles and are sometimes seen as arrogant, but they get the job done and ultimately are more successful.
 	- Week 0 - Week Before the Engagement
-	  collapsed:: true
 		- The objective of this week is to ensure the team fully understands as much about the client and the problem as they possibly can and before they arrive on-site.
 		- Reading and Research
 			- The team will read competitor information and talk to other consultants to seek advice if they had a similar engagement. they are trying to gain a broad understanding of the issues without going into too much detail.
 		- Issues
-		  collapsed:: true
 			- As the team conducts their research each member will write down any issues they think affect the client and not worried on the accuracy of the issues list at this point.
 				- The aim is to generate a list of issues based on educated guesses and a careful reading of the material available.
 				- The team will think divergently and broadly to identify as many issues across as many areas of the business as possible.
 		- Themes
-		  collapsed:: true
 			- From the identified list of issues we start then start categorizing the issues and looking for patterns and themes. Generally there are rarely more than eight themes for any one client and any one problem to be solved.
 		- Key Questions
-		  collapsed:: true
 			- **The team will use the themes and issues to guide debate to gain a better understanding of the engagement.  The discussion should be robust and probing with tough questions. The discussions serves to filter and weed out poorly formed ideas or weak thinking.**
 			- The group then takes the key questions presented by the client and tests if this is indeed key question they need to answer in the engagement. Sometimes clients raise the wrong question, which the client thinks must be answered. The engagement team should test if this is the right question.
 				- Don't tunnel vision and assume the question or problem posed by the client is the correct one to engage. You run the risk of providing a correct solution for the wrong question. Ask yourself if you solve the question by the client, would the problems at the client be resolved?
 		- [[Question Decomposition]]
-		  collapsed:: true
 			- When handling questions try to simplify and break them down if necessary. For example the question "How can Goldy improve its production value?" be broken down and simplified into two questions of "Can Goldy increase its revenue?" and "Can Goldy reduce its cost?"
 			- These level 2 questions can be further broken down into level 3s and level 4s by asking
 				- Are these the complete list questions in this layer that can impact the previous questions?
@@ -112,10 +104,8 @@ author:: Kris Safarova
 					- ![image.png](../assets/image_1659068115962_0.png)
 						- We can see where priority areas can arise from the number of issues and themes gathered. The [[Decision Tree]] helps break down the hypotheses into manageable components for analysis.
 		- The Business Case Team
-		  collapsed:: true
 			- Will need to assess the opportunities for improvement developed by the rest of the team. Their job will be to determine the combined benefit to the client of implementing all recommendations.  They need to make sure that the opportunities recommended will actually deliver the benefits stated.
 			- They need to ensure:
-			  collapsed:: true
 				- The opportunities are mutually exclusive and we aren't double counting our benefits
 				- Does this opportunity make sense
 				- Will it actually work as described
@@ -130,9 +120,7 @@ author:: Kris Safarova
 				- Decision Tree Tests and Data Requirements - the decision tree are a set of questions. To answer each question, an analysis must be constructed. To run the analysis data must be collected.
 				- Storyboard - the storyboard consists of the headlines of the presentation that summarize the expected results from the business case stream
 	- Week 1 - First week at the client
-	  collapsed:: true
 		- Day 1 and 2
-		  collapsed:: true
 			- Building the overall work plan early in the engagement requires the business case team to understand the overall problem, outline how they they will design the solution, list their data requirements, and understand all the questions that need to be answered.
 			- **When there is overlap of activities, the teams need to agree on roles and responsibilities.**
 			- **When meeting with the client the first time, it must be extremely managed, staged, and with clear defined outcomes. We don't want to risk looking unprepared.**
@@ -146,9 +134,7 @@ author:: Kris Safarova
 				- Never go into a situation where the client has not been carefully prepared, and the outcome cannot be managed.
 			- Make sure to respond to feedback and questions from key stakeholders.
 		- Day 2
-		  collapsed:: true
 			- [[Top-Down Analyses]]
-			  collapsed:: true
 				- **The aim of a top-down analysis is to find areas where a problem could exit, determine the likely benefit of fixing the problem, and a very rough validation with employees.**
 					- Top down analysis help you determine if everything is worth it. It is hard to dispute because it is not an interpretation rather a display and examination of the numbers and data gathered from research.
 					- The results from the analyses helps you understand the high level problem space and determine if the direction you're going is correct or if you need to pivot to a discovered problem area during analysis.
@@ -166,14 +152,12 @@ author:: Kris Safarova
 					- Working in isolation can severely limit the quality of your hypothesis.
 				- Solving the limitations of hypotheses
 					- Focus Interviews
-					  collapsed:: true
 						- Focus interviews should be deployed on every engagement.
 						- Focus interview feedback can used to rudimentarily test your hypotheses. Make sure you design the focus interview questions to explicitly force a broader exploration past your original hypotheses to determine if other issues exist. Ensure you are not overlooking any other issues. Prevent yourself from perfecting your initial hypothesis to early in the engagement.
 						- Without focus interviews you may be tempted to recommend best practices, gleaned, from desktop analyses, without thinking through the impact.
 						- Focus interviews rarely identify the wrong theme to be analyzed. Although employees may not clearly articulate the implications of the problem they have seen, when issues are clustered, the theme at the heart of a cluster is fairly accurate.
 							- Frontline employees are rarely blindsided by market events. They have an unfiltered and uncluttered view of what is happening. Frontline employees will give you a quick list of areas to explore. They can identify data sources, discuss past efforts to address the problem, and offer assistance.
 			- [[Case Studies]] help the consultants understand how a problem evolved at another company. They help the clients visualize what did and could happen to them. They are both a vision and planning tool.
-			  collapsed:: true
 				- They are not a template of best practices to be copied since not two companies are the same and there is a high probability the case study may have been incorrectly interpreted.
 				- Case studies are rife with abuse. Any case study can be designed to show anything the consultant wants to show.
 				- Consultants cherry-pick both the case study to present but also the facts within the case study.
@@ -215,17 +199,14 @@ author:: Kris Safarova
 			- Work Plan
 				- ![image.png](../assets/image_1659214361433_0.png)
 		- Day 3 - Value Tree
-		  collapsed:: true
 			- Value must be defined and agreed with the customers.
 			- Operations and Strategy
-			  collapsed:: true
 				- Productivity is a well-used term but poorly defined.
 				- Productivity is measured as the output value / input. There is no other definition of productivity. It is erroneous to to assume productivity is how fast one completes a task, or the number of tasks completed in a year. Completing a task quickly is of little value or completing many tasks that add little value will actually lower productivity.
 					- Completing just one task over an entire year that is very valuable means one is actually productive. Understanding productivity is important.
 				- Why productivity matters?
 					- A more productive enterprise versus its competitors generates incrementally more value which can be reinvested in the business to keep growing. An unproductive enterprise, relative to its peers, cannot make the necessary investments to grow, fight in the market, introduce new products, block competitors, attract talented employees, etc.
 				- Productivity is always a relative measure. There is no such thing as productive or unproductive business or person. A business can only be less or more productive relative to some comparison business.
-				  collapsed:: true
 					- ^^So when someone says "I am very productive," the response should always be, "Relative to whom?" This is because competition is always between two or more companies or people and if productivity is essential to competing, it can only be measure relative to competitors. The next question should be, "Why are you comparing yourself to this person or company?"^^
 				- It does not matter where you start. Even if you start at the lowest possible career path, as long you as you keep earning some excess value and continue wisely reinvesting this excess in your development, you will benefit significantly in the long term. It adds up like compounding interest. This is compounding productivity. It's a term invented for this book.
 				- ^^A person, company, and country must be productive. The point of being competitive is to drive up productivity. Without greater productivity, you cannot hope to win. And one cannot be competitive unless one is productive. They reinforce each other.^^
@@ -239,9 +220,7 @@ author:: Kris Safarova
 					- ![image.png](../assets/image_1665286375421_0.png)![image.png](../assets/image_1665286426513_0.png)
 					- As an example, if you are COO in a resources company, we know that both the total output value lever and total input cost lever must be managed by further breaking down those levers and identify tools like strategic sourcing, service operations management, just-in-time delivery, etc., that can be used to lower the costs. These tasks are assigned to various operating teams to execute. This is in effect how priorities should be pushed down to teams.
 		- Day 3 - Developing the Value Tree
-		  collapsed:: true
 			- Value Tree #[[value tree]]
-			  collapsed:: true
 				- A central part of building business cases and economic models is the value tree. A value tree takes the value creation metric and breaks it down into its constituent parts.
 				  collapsed:: true
 					- For example a profit value tree would be broken down into revenue and costs. Costs can be further broken down into fixed and variable. This process continues until the team can understand the different parts of the operation that drives profit.
@@ -260,7 +239,6 @@ author:: Kris Safarova
 					- 7. The output of the models is just as important as the input. What metrics and measures do they want the model to generate?
 					- 8. The economic model must be simple and specially answer the questions to be answered.
 			- ROCE
-			  collapsed:: true
 				- Return on capital employed
 				- Breaking down ROCE for an organization is difficult without true understanding and detailed knowledge of the business and its workflow
 				-
@@ -350,15 +328,12 @@ author:: Kris Safarova
 				- ![image.png](../assets/image_1665443472798_0.png)
 				-
 			- Model architecture
-			  collapsed:: true
 				- The conceptual overview of the overall economic model
 				- If it is not in the architecture, there must be a compelling reason to include it
 				- The architecture must be decided before the details can be developed
 				- Draft Financial Model Architecture
-				  collapsed:: true
 					- ((63449e5d-6634-4330-b016-1d24e1597590))
 			- Model description
-			  collapsed:: true
 				- The description summarizes the model architecture in words using no more than half a page
 			- Function Teams
 				- Engagement Manager - The engagement manager must guide the team and bring together findings from the operations improvement, services, and business case teams. The engagement manager must also ensure that approach is robust enough to deal with any changes the business processes. They are responsible for the overall study.
@@ -372,13 +347,10 @@ author:: Kris Safarova
 				- Elevate the person's profile you are working with (if possible) within the environment.
 				- Give your business partner a defined and agreed upon role, tasks, and expectations to meet
 	- Week 2 - Site Visit (Understanding the Problem Space—its people and processes)
-	  collapsed:: true
 		- Day 1
-		  collapsed:: true
 			- The best management consultants understand that it is impossible to properly advise a client without understanding the environment, culture, history, and challenges within the location where the implementation will be implemented.
 			- Conduct an experiment first on a section of the business before rolling out solutions to the entirety of the customer organization.
 		- Day 2 - Understanding the context
-		  collapsed:: true
 			- Research the surrounding space and environment of the problem space. For example, look at how other companies are innovating and what kind of solutions and features they are creating similar to yours. How are related industries solving their problems?
 			- **A hallmark of a great management consultant is one who can see an argument from both points of view and do what is best for the team and the client.**
 			- When given a list of concerns ensure that you are addressing the real root causes of their pains and not merely symptoms or miscommunicated inconveniences. Ensure that your client has clearly understood the problem space and communicated their pain. #[[customer service]] #[[q: how to present]]
@@ -387,30 +359,27 @@ author:: Kris Safarova
 				- Try to anticipate the concerns and questions of your client. Clients almost always question the approach used. Ensure more time that clients understand what is happening.
 			- If choosing a certain option, ensure that everyone understands the option and what it means. Make sure you explained why you are choosing that option and why it's better than any of the other options passed over.
 		- Day 4 - All the planning is done
-		  collapsed:: true
 			- For an engagement to be successful the business analyst or associate responsible for the work takes full ownership and understands the problem in its entirety, it will never be a successful engagement for that consultant.
-			  collapsed:: true
 				- Ownership of the problem and solution is a prerequisite to success.
 			- Address the root concerns directly and swiftly.
 			- Draft Value Chain
 				- ![image.png](../assets/image_1666324890313_0.png)
 		- Day 4 & 5 - Designing and conducting focus interviews
-		  collapsed:: true
 			- Find ways to verify your initial hypotheses.
 				- The focus interview is a critical tool to collect data and test your hypotheses.
 				- The client can outline what has been tried, what has failed, and what has worked.
 			- Build key relationships with employees who can supply data and those who can test the team's assumptions and outputs
 			- Understand the supported business office's context in the problem space
 			- Isolate and describe potential opportunities
-			  collapsed:: true
 				- Apply the 80/20 rule when evaluating opportunities
 				- Opportunity chart template
+				  id:: 648b7a13-f0be-4fb2-b82d-e9a1682548d4
 					- ![image.png](../assets/image_1666324952075_0.png)
 				- Opportunity Chart calculator
+				  id:: 648b7a13-1ba4-4a5b-a99a-98ef1ff244a4
 					- ![image.png](../assets/image_1666324973326_0.png)
 			- Focus interviews must always begin with the interviewer providing background and details. It is best to have two people conducting the interviews: one person to manage the discussion and the other to take detailed notes.
 	- Week 3 - Preparing the draft storyboard
-	  collapsed:: true
 		- Day 1 - Preparing the draft storyboard
 			- Make your planning documents and roadmap visible to the rest of your team. This gives everyone a clear view of what needs to be done and progress made to date.
 				- Allow for comments to be made in these documents.
@@ -426,7 +395,6 @@ author:: Kris Safarova
 				- The storyboard must be created before the data is ready.
 					- The hypotheses and value trees outline the data needed to prove them. Accordingly, the storyboard should be constructed before the data is ready, by the results of testing the data and not conveniently developed based on the data the consultant can find.
 				- A motivation for change can be induced using the deficit model. It is one where we should the client that the situation is very bad and likely to get worse before things improve.
-				  collapsed:: true
 					- The client must see how bad things are before they will change. Change must start immediately or the business situation could get much worse or even lead to a closure of the business.
 					- ![image.png](../assets/image_1666411216919_0.png)
 				- The alternative to the burning platform for change motivation is the aspirational model where the clients are shown how good things could be.
@@ -451,7 +419,6 @@ author:: Kris Safarova
 				- Bringing the bottom-up and top-down analyses together is difficult. Top-down analyses are based on bench-marked data, financial analyses and case studies developed at a higher level with little detailed analyses. These indicate "what is possible" but do not explain how it can be achieved.
 					- Many of the bottom-up analyses will need to be verified during the implementation.
 			- Business Case Storyboard
-			  collapsed:: true
 				- ![image.png](../assets/image_1666541179501_0.png)
 				- Using the story-board, engagement timetable, and their own experience, the team can generate a general understanding of the challenges they will face analyzing the numbers.
 					- There can be no surprises. The client must know well in advance that some parts of the engagement will be more difficult that others, this is normal and must be expected. Surprising the client is never ever an option.
@@ -477,7 +444,6 @@ author:: Kris Safarova
 					- No amount of data crunching and spreadsheet analysis can replace the quality and usefulness of information found when testing findings with employees at the frontline who face the problems on a daily basis.
 		-
 	- Week 4
-	  collapsed:: true
 		- Day 1 - Presenting feedback from focus interviews
 		  collapsed:: true
 			- Findings and feedback from focus interviews are a significant part of the business case. They can rarely be used as the sole proof of a problem, but they should be used to convey urgency and indicate areas that require further examination. Anecdotal evidence presented with hard data can build a compelling argument.
@@ -515,28 +481,23 @@ author:: Kris Safarova
 			- We need to recognized  the blockers that may prevent effective feedback from our partners including pressures of delivery and strained timelines. On the other end, we may not spend sufficient time thinking through constructive feedback.
 			- Most people try to avoid conflict midway through an engagement and avoid outlining clear problems that need to be addressed. There is a tendency to "sugarcoat" problems and a tendency to hold negative feedback in the hope that a consultant's performance would improve over time.
 	- Week 5
-	  collapsed:: true
 		- Day 1 - Mid-engagement reviews
 			- Don't hoard information
 		- Day 4 - Services function Workshop
 			- Attendees have to arrive at the same desired outcome and not told the accept the desired outcome. They can do this through a  walkthrough of the evidence and information.
 			- Identify your core competencies.
-			  collapsed:: true
 				- ![image.png](../assets/image_1668398602880_0.png)
 				- ![image.png](../assets/image_1668398704997_0.png)
 				- ![image.png](../assets/image_1668398623253_0.png)
 				-
 	- Week 6
-	  collapsed:: true
 		- What is big-picture thinking?
-		  collapsed:: true
 			- The organization needs to define the overall big picture and we should regularly remind ourselves how our work fits into the bigger picture.
 			- Ensure the client understands the level of effort the work entails. The objective should always be to provide a complete review at a high level, but with sufficient information for the reader to understand. If required the reader can then ask for more information.
 			- When presenting information that is complex start at the big picture level and ensure your audience understands the fundamental high level view so they are able to assess the impacts the smaller details have on the big picture.
 			- When problem solving offer options and clearly communicate your risks and assumptions.
 		- Day 5 - Operations Improvement and Services Feedback
 			- Write a story for the problem
-			  collapsed:: true
 				- 1. Over 20 years, Mino 1 has accumulated 67 different service functions.
 				- 2. Services employs 10,000 employees, uses 18 percent of operating expenses, and 15 percent of capital expenditure. 
 				  3.  On 27 occasions in 2009, services capital needs have siphoned $57 million from essential operations projects. 
@@ -554,11 +515,9 @@ author:: Kris Safarova
 			- ![image.png](../assets/image_1668475958874_0.png)
 				- The shade indicates the amount of investment required to bring the function to benchmarked parity. This indicates the enormous investment needed just to make the function competitive. It raises a question: Why should Goldy make this investment in an area that is not their core business? Nadia has done a significant amount of work in a very short period of time. The engagement team is intrigued by the methods used to arrive at some conclusions in a very short space of time. The questions reflect this interest.
 	- Week 7
-	  collapsed:: true
 		- A successful management consulting engagement ultimately comes down to the ability of the team to develop a set of recommendations that add value to the client. We must be able to understand the business, break it down into the components that generate value, and map this into fully testable considered hypotheses.
 		- The signoff process of the busines case must start right at the beginning.
 		- Avoid the following problems when solutioning:
-		  collapsed:: true
 			- Team works in isolation
 				- The team is more concerned about looking good rather than having an honest debate on what about the project objectives.
 			- Solutions ignore the broader picture
@@ -574,7 +533,6 @@ author:: Kris Safarova
 			- Poor formatting
 				- Use consistent templates and presentations for consistent brand building.
 	- Week 8 #[[q: How to be a leader without authority]] #[[leadership principles]]
-	  collapsed:: true
 		- Consulting Values
 			- Never forget that it is a great honor to partner with a client and assist with their issues. It is not our right to have this access. It is a privileged access that we nurture and respect. It is access that can be lost with a stray word.
 			- As a professional expect to hold yourself to the highest possible standards. You can receive guidance from others. The greatest guidance should come from within you.

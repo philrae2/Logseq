@@ -8,6 +8,7 @@ title: Books - User Story Mapping
 - **link:** [User Story Mapping: Discover the Whole Story, Build the Right Product 1, Patton, Jeff, Economy, Peter, Economy, Peter, eBook - Amazon.com](https://www.amazon.com/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS/ref=sr_1_1?crid=33IMFE007DJD5&dchild=1&keywords=user+story+mapping&qid=1632446148&sprefix=user+stor%2Caps%2C162&sr=8-1)
 - #[[Literature Notes]]
 - #[[Reference Notes]]
+  collapsed:: true
 	- Intro
 	  collapsed:: true
 		- Stories aren't requirements; they're discussions about solving problems for our organization, our customers, and our users that lead to agreements on what to build.
@@ -470,22 +471,18 @@ title: Books - User Story Mapping
 				- It's usually the 60% of work that we do that has little or no impact. Try to minimize this and ensure we are building the top 20%
 		- Empathize, Focus, Ideate, Prototype, Test
 			- Use Design Thinking
+			  id:: 648b7a15-a364-420d-b038-4b2f7bce70d7
 				- ![image.png](../assets/image_1651529673913_0.png)
 				- **The first step of design thinking is to empathize.**
-				  collapsed:: true
 					- Try to be as close to the work with the users—be where the users are, watch them work, and meet them. Try to do your best to understand what it's like to walk in their shoes.
 				- **Define**
-				  collapsed:: true
-					- Use story maps to outline the way people do things. Focus on the pain points users have and the rewards they seek. Really focus on one or a few problems. State them specifically.
+					- Use story maps to outline the way people do things. Focus on the pain points users have and the rewards they seek. Really focus on one or a few problems. State them specifically. Test assumptions.
 				- **Prototype**
-				  collapsed:: true
 					- Prototypes help us experience what we're trying to build early on to get a feel if we're heading in the right direction. It helps us filter ideas that just won't work. Simulation of the actual act of using a product helps you continue to ideate—to come up with ideas to make the solution even better.
 					- Build simple prototypes to explore your best solutions. Advance prototypes to a level of fidelity that allows users and customers to evaluate whether the solution really solves their problem.
 				- **Test**
-				  collapsed:: true
 					- Test the solution, not to look for bugs, but to validate the your solution solve someone's problem. Get your solution in front of the people who will buy or use your product. Don't expect them to be a success the first time. Iterate and improve.
 				- How to mess up design thinking
-				  collapsed:: true
 					- ![image.png](../assets/image_1651532347490_0.png)
 					- Start without framing the business needs and target customer well. This’ll make it hard to prioritize who to focus on, and hard to tell if you’re finding a good solution.
 					- Spend a lot of time doing thorough research and making sense of what you’ve learned. You’ll never run out of things to learn—so why stop? **Time-boxing might have been a good idea.**
