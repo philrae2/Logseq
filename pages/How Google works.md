@@ -120,7 +120,7 @@ tags:: book, #📥inbox, strategy, product management
 			- After the decision is made we need the participants to either disagree but commit to the decision or escalate publicly.
 		- Everything meeting needs an owner #[[Q - How to run a meeting]]
 			- A well-run meeting is a great thing, it's the most efficient way to present data and opinions, to debate issues, and make actual decisions.
-			- Meetings should have a single decision-maker/owner. There must be a clear decision-maker at every point in the process, someone who will be held accountable.
+			- **Meetings should have a single decision-maker/owner.** There must be a clear decision-maker at every point in the process, someone who will be held accountable.
 				- A meeting between two groups of equals often doesn't result in a good outcome, because you end up compromising rather than making the best tough decisions. Include someone more senior as the decision-maker.
 				- The decision-maker should be hands on. He or she should call the meeting, ensure the content is good, set the objectives, determine the participants, and share the agenda (if possible) at least twenty-four hours in advance. After the meeting, the decision-maker (an no one else) should summarize decisions taken and action items by email to at least every participant—as well as any others who need to know—within forty-eight hours.
 			- Even if a meeting is not a decision-making meeting—for example it’s designed to share information or brainstorm solutions—it should have a clear owner.

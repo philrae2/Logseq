@@ -6,10 +6,8 @@ title: 🏠Home
 - [[Areas]]
 	- Career Development and Learned Skills
 		- Business Strategy
-		  collapsed:: true
 			- [[Think Like Amazon: 50 1/2 Ideas to Become a Digital Leader (highlights)]]
 		- Consulting Strategy
-		  collapsed:: true
 			- [[Books - Succeeding as a Management Consultant: Learn the skills used by the leading management consulting firms, such as McKinsey, BCG, et al.]]
 			- [[Books - The Leadership Journal]]
 		- Product Management
@@ -20,7 +18,6 @@ title: 🏠Home
 		  collapsed:: true
 			- [[Smarter Leaders Smarter Teams]]
 	- [[🍀 Digital Garden]]
-	  collapsed:: true
 		- [[Professional Development]]
 		- [[Thinking Better]]
 			- Problem Solving

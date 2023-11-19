@@ -1,8 +1,9 @@
+public:: true
 ---
 title: Books - The Leadership Journal
 ---
 
-- **tags:** #Leadership #[[Q - How to run a meeting]] #[[Q - How do I run a workshop?]]
+- **tags:** #Leadership #[[Q - How to run a meeting]] #[[Q - How do I run a workshop?]] #[[Meeting Management]]
 - **author:** [[Kris Safarova]]
 - **status:** #reading
 - **link:** [Amazon](https://www.amazon.com/Leadership-Journal-management-consulting-McKinsey-ebook/dp/B09MR6MD7D/ref=sr_1_1?crid=3JTQOJES0WTCS&keywords=the+leadership+kris+safarova&qid=1646795152&sprefix=the+leadership+kris+safarova%2Caps%2C152&sr=8-1)
@@ -96,7 +97,7 @@ title: Books - The Leadership Journal
 				- Supportive team work - support during bad times
 				- Shout when support is needed
 				- Commitment to next steps - finished by given date
-				- Punactuality
+				- Punctuality
 				- Keep to deadlines
 				- Be creative - use imagination and resources
 				- Support creativity - don't shoot ideas down without reason
